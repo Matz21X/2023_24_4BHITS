@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "f99be3a9dd9deca6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b6ec308eb07df73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6b89910f585e3b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SEW-Theorie/Socketing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1385d8d411942bc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INSY/PSQL.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd3f2a8c4cac14ef",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c4563996286d190a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "962351c0c0e2004d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f747434bda0c2607",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "fba03d1b6f20007e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0658dcd72bff6887",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "adab0dcf4c15f9e0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "SEW-Theorie/Socketing.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1798af80702d76ae",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "SEW-Theorie/Socketing.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7ba6bc2a9da79750",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "SEW-Theorie/Socketing.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "c4563996286d190a",
+  "lastOpenFiles": [
+    "NWT/Kryptographie.md",
+    "INSY/PSQL-Aufgabe-1.md",
+    "WIR/Einstieg Wirtschaft.md",
+    "WIR/Unternehmensarten.md",
+    "SEW-Theorie/Socketing.md",
+    "REL/September.md",
+    "Backlog.md",
+    "Excalidraw/Drawing 2023-09-10 15.08.15.excalidraw.md",
+    "Excalidraw",
+    "NWT/AES.md",
+    "ITP/Mobile Computing Android-maz-PC.md",
+    "1Attachments/Kryptographie.drawio.svg",
+    "INSY/INSY-Jahresstoff.md",
+    "ITP/ITP-Projekte.md",
+    "1Attachments",
+    "Obsidian-Help/Dog.png"
+  ]
+}

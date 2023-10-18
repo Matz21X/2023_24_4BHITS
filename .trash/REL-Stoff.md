@@ -1,0 +1,5 @@
+- September
+	- Mensch als Mittel oder Zweck der Wirtschaft
+	- Konsum-verhalten
+	- Wirtschaftsmodelle
+- 

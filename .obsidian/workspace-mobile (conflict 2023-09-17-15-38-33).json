@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "aa8c1c3d0f5d5047",
+    "type": "split",
+    "children": [
+      {
+        "id": "34d3cb86592bee10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a735442698b002d1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46347849b014554c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b09cf6e3b3409943",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3f2b1097424cc26a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6b58d2ec4a6e21db",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a21c346a14cc5b7b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f4c1e92aed360e83",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4717739c9da5b695",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a58b02c472518cb8",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "52d48c1d32b20c69",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "a735442698b002d1",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-07 10.15.58.excalidraw.md",
+    "ITP/Unity HOF.md",
+    "ITP/Smart Devices WIH.md",
+    "ITP/IT Security STO.md",
+    "ITP/Image Processing ZOG.md",
+    "WIR/2023-09-07 Do.md",
+    "ITP/Mobile Computing Android.md",
+    "SEW-Theorie/Sockets.drawio",
+    "1Attachments/Sockets.drawio.svg",
+    "1Attachments/Pasted image 20230907121107.png",
+    "1Attachments/Pasted image 20230907120601.png",
+    "Excalidraw",
+    "Excalidraw/Drawing 2023-08-31 20.51.23.excalidraw (conflict 2023-08-31-20-55-25).md",
+    "Excalidraw/Testdrawing.md",
+    "Excalidraw/Default.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-31 20.51.23.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-31 20.51.23.excalidraw (conflict 2023-08-31-20-54-52).md",
+    "Deutsch/Help-Page.md",
+    "Notes",
+    "Untitled.canvas",
+    "Obsidian-Help/Syntax.md",
+    "Obsidian-Help/Programmiersprache.md",
+    "Obsidian-Help/Java.md",
+    "Obsidian-Help/Help-Page.md",
+    "Obsidian-Help/Dog.png",
+    "Obsidian-Help",
+    "Java.md",
+    "Deutsch/Dog.png"
+  ]
+}

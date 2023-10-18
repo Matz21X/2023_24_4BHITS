@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "attachmentFolderPath": "Attachments",
+  "showInlineTitle": false,
+  "trashOption": "local",
+  "showUnsupportedFiles": true
+}

@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "flashing"
+		},
+		{
+			"name": "input",
+			"path": "input"
+		},
+		{
+			"name": "dimming",
+			"path": "dimming"
+		}
+	],
+	"settings": {}
+}

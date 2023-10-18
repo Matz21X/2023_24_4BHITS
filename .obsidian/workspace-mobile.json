@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "3b685251f1c9ec2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8c47c3030f02278",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d15d9e7d1d89d15",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a41eabaf6a56e43f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e183d64120a20030",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIR/Wirtschaftssubjekte.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90a09c123d767b67",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bd9404fe059d6775",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "51bfb438ddedd60f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "821260e23afc8477",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f36d8e2bc53db5c4",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "f5afaa30c07812b7",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a74056537f181529",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "447c31b8d4f7492b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "WIR/Wirtschaftssubjekte.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0190b435b94931d0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "WIR/Wirtschaftssubjekte.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ac00c04a2f2ab3f6",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "WIR/Wirtschaftssubjekte.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "bd9404fe059d6775",
+  "lastOpenFiles": [
+    "WIR/Wirtschaftsordnung.md",
+    "WIR/Unternehmensarten.md",
+    "WIR/Gewinnermittlung_Kap2.md",
+    "WIR/Recht Test-Vorbereitung.md",
+    "Z_Obsidian-Help/Syntax.md",
+    "WIR/Wirtschaftssubjekte.md",
+    "WIR/Einstieg Wirtschaft.md",
+    "ITP/Projekte/RAH/Vorbereitung.md",
+    "SEW-Prog/NWT-DH/target/test-classes",
+    "SEW-Prog/NWT-DH/target/classes/org/example/DH1.class",
+    "Relativitätstheorie.md",
+    "REL/Grenzenloser Konsum/Snapchat-2079295210.jpg",
+    "REL/Grenzenloser Konsum/Sign.png",
+    "REL/Grenzenloser Konsum/Robin.png",
+    "REL/Grenzenloser Konsum/MicrosoftTeams-image.png",
+    "REL/Grenzenloser Konsum/MicrosoftTeams-image (4).png",
+    "REL/Grenzenloser Konsum/MicrosoftTeams-image (3).png",
+    "REL/Grenzenloser Konsum/MicrosoftTeams-image (2).png",
+    "REL/Grenzenloser Konsum/MicrosoftTeams-image (1).png",
+    "REL/Grenzenloser Konsum/IMG20230928102442.jpg",
+    "REL/Grenzenloser Konsum/Gruca.png",
+    "REL/Grenzenloser Konsum",
+    "REL/7_Standbilder_Anleitungen.pdf",
+    "Diffie-Hellmann.md",
+    "Backlog_0923.md",
+    "Ava - Getting Started.md",
+    "Excalidraw/Drawing 2023-09-28 12.08.09.excalidraw.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2023-09-27 18.54.12.excalidraw.md",
+    "SEW-Prog/HttpClientDemo/src/main/resources",
+    "SEW-Prog/HttpClientDemo/src/test/java",
+    "SEW-Prog/HttpClientDemo/src/test",
+    "SEW-Prog/HttpClientDemo/target/generated-sources/annotations",
+    "SEW-Prog/HttpClientDemo/target/generated-sources",
+    "SEW-Prog/MulServerClient/src/main/resources",
+    "Z_Hacking/Wifi de-auth attack.md",
+    "SYT/Mikrocontroller.md",
+    "Bruh.md",
+    "Backlog.md",
+    "Attachments/Screenshot 2023-09-27 190947.md",
+    "Attachments/Attachments.md",
+    "AM/Math.md",
+    "AM/AM.md",
+    "Untitled.canvas"
+  ]
+}
