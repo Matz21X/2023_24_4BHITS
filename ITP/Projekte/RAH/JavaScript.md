@@ -134,18 +134,18 @@ JavaScript-Klassen werden verwendet, um Objekte mit Methoden und Eigenschaften z
 ```js
 class Person {
   constructor(name, age) {
-    this._name = name;
-    this._age = age;
+    this.name = name;
+    this.age = age;
   }
 
   // Getter für das Alter
   get age() {
-    return this._age;
+    return this.age;
   }
 
   // Eine schreibgeschützte Eigenschaft
   get isAdult() {
-    return this._age >= 18;
+    return this.age >= 18;
   }
 }
 
