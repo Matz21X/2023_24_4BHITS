@@ -214,14 +214,6 @@
               "type": "copilot-chat-view",
               "state": {}
             }
-          },
-          {
-            "id": "2db109d931092597",
-            "type": "leaf",
-            "state": {
-              "type": "ava.write.sidebar",
-              "state": {}
-            }
           }
         ],
         "currentTab": 4
@@ -241,13 +233,10 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "ava:Ava": false,
-      "ava:Ava - Show Links": false,
-      "ava:Ava - Open Rewrite Playground": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1fa87a3aa5489343",
+  "active": "e1cb03b33a7d44c5",
   "lastOpenFiles": [
     "INSY/Grundlagen PSQL.md",
     "NWT/AES.md",
