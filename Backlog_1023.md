@@ -66,7 +66,4 @@
 | -     | #WIR    | Test Besprochen                                                                                                      |                                 |
 | -     | #MEDT   | Klassen / Rest API JS Höfermeiser Sus                                                                                |                                 |
 | -     | #SEW    | [[Dependency Injection (Pattern)]]                                                                                   |                                 |
-| -     | #SEW    | WeatherServer H2 Database                                                                                            |                                 | 
-
-
-
+| -     | #SEW    | WeatherServer H2 Database                                                                                            |                                 |

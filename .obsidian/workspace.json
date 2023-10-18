@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "f7a782406471b979",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIR/Unternehmensarten.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "102deb9d2fa630b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIR/Gewinnermittlung_Kap2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIR/Unternehmensarten.md",
+                "file": "Backlog_1023.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WIR/Unternehmensarten.md",
+                "file": "Backlog_1023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIR/Unternehmensarten.md"
+                "file": "Backlog_1023.md"
               }
             }
           },
@@ -183,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "WIR/Unternehmensarten.md"
+                "file": "Backlog_1023.md"
               }
             }
           },
@@ -223,15 +196,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7a782406471b979",
+  "active": "b062d40b930f9dfb",
   "lastOpenFiles": [
+    "WIR/Unternehmensarten.md",
     "WIR/Wirtschaft.pdf",
     "WIR/Wirtschaft-Test Vorbereitung.md",
     "WIR/Wirtschaftsordnung.md",
     "WIR/Wirtschaftssubjekte.md",
     "WIR/Gewinnermittlung_Kap2.md",
     "SEW-Theorie/Dependency Injection (Pattern).md",
-    "WIR/Unternehmensarten.md",
     "WIR/Recht Test-Vorbereitung.md",
     "Backlog_1023.md",
     "README.md",
