@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "2e10b32d2f801e41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1023.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1023.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1023.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -156,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1023.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -196,8 +210,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b062d40b930f9dfb",
+  "active": "2e10b32d2f801e41",
   "lastOpenFiles": [
+    "Backlog_1023.md",
+    "conflict-files-obsidian-git.md",
     "WIR/Unternehmensarten.md",
     "WIR/Wirtschaft.pdf",
     "WIR/Wirtschaft-Test Vorbereitung.md",
@@ -206,7 +222,6 @@
     "WIR/Gewinnermittlung_Kap2.md",
     "SEW-Theorie/Dependency Injection (Pattern).md",
     "WIR/Recht Test-Vorbereitung.md",
-    "Backlog_1023.md",
     "README.md",
     "Attachments/dependency.svg",
     "Untitled.md",
