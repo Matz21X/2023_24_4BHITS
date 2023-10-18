@@ -181,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,6 +198,8 @@
   },
   "active": "b062d40b930f9dfb",
   "lastOpenFiles": [
+    "MEDT/Basics/07-klassen/01-klasse.js",
+    "MEDT/Basics/07-klassen",
     "ITP/Projekte/RAH/JavaScript.md",
     "Backlog_1023.md",
     "INSY/Grundlagen PSQL.md",
@@ -233,7 +234,6 @@
     "SEW-Theorie/SEW-Jahresstoff.md",
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/HttpClient_in_Java.md",
-    "REL/September.md",
     "WIR/Recht.pdf",
     "WIR/Recht.zip",
     "WIR/Recht/Pasted image 20231015174010.png",
@@ -244,7 +244,6 @@
     "WIR/Recht",
     "WIR/Neuer Ordner",
     "ITP/Kickstart-Projektmanagement_Fragen.pdf",
-    "ITP/Projekte/RAH/Präsentationen",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"

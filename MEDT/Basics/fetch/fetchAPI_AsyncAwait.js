@@ -1,6 +1,6 @@
 const url = 'http://localhost:3000/exoplanets';
 
-async function fetchDataWithAsyncAwait() {
+async function fetchData() {
     try {
         const res = await fetch(url);
         if (!res.ok) {
@@ -9,8 +9,8 @@ async function fetchDataWithAsyncAwait() {
         const data = await res.json();
         console.log('Data successfully received:', data);
     } catch (error) {
-        console.error('Error whilst recalling data:', error);
+        console.('Error whilst recalling data:', error);
     }
 }
 
-fetchDataWithAsyncAwait();
+fetchData();
