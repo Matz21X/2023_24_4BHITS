@@ -23,6 +23,13 @@ Oder man injiziert eine Instanz der Klasse B in A (Dependency Injection)
 ```java
 public class A {
 	private B b;
-	
+	public A (B bDependency) {
+		this.b = bDependency;
+	}
 }
 ```
+
+Es gibt 3 Arten der Injektion mittels:
+- Konstruktor (Siehe Bsp oben)
+- setter
+- Eigenschaft (z.B. mit Annotierung)
