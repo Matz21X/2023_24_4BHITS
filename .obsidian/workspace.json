@@ -178,6 +178,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "9dda15e13ebb299d",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 8
@@ -199,7 +207,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2e10b32d2f801e41",
+  "active": "38083c4526031a57",
   "lastOpenFiles": [
     "Backlog_1023.md",
     "conflict-files-obsidian-git.md",
