@@ -19,7 +19,6 @@ if (Test-Path $sourcePath -PathType Container) {
         "-------------------------------------------------" | Out-File -Append -FilePath $logFilePath
         "Kopieren abgeschlossen: $(Get-Date)" | Out-File -Append -FilePath $logFilePath
         "Hostname: $hostname" | Out-File -Append -FilePath $logFilePath
-        "-------------------------------------------------" | Out-File -Append -FilePath $logFilePath
     } catch {
         Write-Host "Fehler beim Kopieren: $_"
         
