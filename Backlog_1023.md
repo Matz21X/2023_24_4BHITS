@@ -64,7 +64,7 @@
 | -     | #INSY   | Datenbankenmodelle  [[ErModel.drawio.svg]]                                                                           |                                 |
 | 18.10 | #SYT    | Arduino  Dimming                                                                                                     |                                 |
 | -     | #WIR    | Test Besprochen                                                                                                      |                                 |
-| -     | #MEDT   | Klassen / Rest API JS                                                                                                |                                 |
+| -     | #MEDT   | Klassen / Rest API JS Höfermeiser Sus                                                                                                |                                 |
 
 
 

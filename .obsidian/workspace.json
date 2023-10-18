@@ -21,8 +21,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "f7a782406471b979",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1023.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Backlog_1023.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Backlog_1023.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,10 +199,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b062d40b930f9dfb",
+  "active": "f7a782406471b979",
   "lastOpenFiles": [
-    "MEDT/Node.js.pdf",
     "Backlog_1023.md",
+    "MEDT/Node.js.pdf",
     "MEDT/Basics/07-klassen/01-klasse.js",
     "MEDT/Basics/07-klassen",
     "ITP/Projekte/RAH/JavaScript.md",
@@ -243,7 +246,6 @@
     "WIR/Recht - Kopie/Pasted image 20231015171658.png",
     "WIR/Recht - Kopie",
     "WIR/Recht",
-    "WIR/Neuer Ordner",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
