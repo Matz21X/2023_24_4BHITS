@@ -30,7 +30,7 @@ public class A {
 ```
 
 **Es gibt 3 Arten der Injektion mittels:**
-- Konstruktor (Siehe Bsp oben)
+- Konstruktor (Siehe Bsp. oben)
 - setter
 - Eigenschaft (z.B. mit Annotierung `@Autowired` in Spring)
 
