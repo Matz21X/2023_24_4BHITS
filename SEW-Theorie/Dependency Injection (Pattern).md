@@ -17,3 +17,12 @@ public class A {
 	}
 }
 ```
+
+Oder man injiziert eine Instanz der Klasse B in A (Dependency Injection)
+
+```java
+public class A {
+	private B b;
+	
+}
+```
