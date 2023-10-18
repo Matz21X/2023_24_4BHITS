@@ -110,7 +110,7 @@ const person = { name: 'Alice', age: 30 };
 const { name:firstName, age } = person;
 
 console.log(firstName); // Gibt 'Alice' aus
-console.log(age);  // Gibt 30 aus
+	console.log(age);  // Gibt 30 aus
 ```
 
 **Destructuring von Arrays:**
