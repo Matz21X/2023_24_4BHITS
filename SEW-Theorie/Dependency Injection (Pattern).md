@@ -29,7 +29,12 @@ public class A {
 }
 ```
 
-Es gibt 3 Arten der Injektion mittels:
+**Es gibt 3 Arten der Injektion mittels:**
 - Konstruktor (Siehe Bsp oben)
 - setter
-- Eigenschaft (z.B. mit Annotierung)
+- Eigenschaft (z.B. mit Annotierung `@Autowired` in Spring)
+
+**Vorteile von Dependency Injection:**
+- Trennung von Zuständigkeiten
+- Losegekoppeltes System
+- Sehr hilfreich beim testen (Test-Mockups werden injiziert)
