@@ -1,6 +1,6 @@
 $sourcePath = "C:\Users\matth\Documents\2023_24_4BHITS"
 $destinationPath = "C:\Users\matth\OneDrive - HTL Hollabrunn\2023_24_4BHITS"
-$logFilePath = "C:\Users\matth\Documents\2023_24_4BHITS\copyLog.txt" # Pfad zum Logfile
+$logFilePath = "C:\Users\matth\Documents\2023_24_4BHITS\.scripts\copyLog.txt" # Pfad zum Logfile
 
 # Überprüfen, ob der Quellordner existiert
 if (Test-Path $sourcePath -PathType Container) {
