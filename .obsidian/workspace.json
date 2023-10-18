@@ -68,8 +68,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4eef985887364898",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITP/Projekte/RAH/JavaScript.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -135,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1023.md",
+                "file": "ITP/Projekte/RAH/JavaScript.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1023.md",
+                "file": "ITP/Projekte/RAH/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1023.md"
+                "file": "ITP/Projekte/RAH/JavaScript.md"
               }
             }
           },
@@ -203,7 +217,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1023.md"
+                "file": "ITP/Projekte/RAH/JavaScript.md"
               }
             }
           },
@@ -243,12 +257,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1cb03b33a7d44c5",
+  "active": "4eef985887364898",
   "lastOpenFiles": [
+    "Backlog_1023.md",
     "INSY/Grundlagen PSQL.md",
     "NWT/AES.md",
     "pic/dbs01.png.md",
-    "Backlog_1023.md",
     "MEDT/Basics/fetch/fetchAPI_Callback.js~",
     "WIR/Wirtschaft-Test Vorbereitung.md",
     "ITP/Projekte/RAH/JavaScript.md",
