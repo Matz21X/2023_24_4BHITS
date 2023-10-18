@@ -64,7 +64,9 @@
 | -     | #INSY   | Datenbankenmodelle  [[ErModel.drawio.svg]]                                                                           |                                 |
 | 18.10 | #SYT    | Arduino  Dimming                                                                                                     |                                 |
 | -     | #WIR    | Test Besprochen                                                                                                      |                                 |
-| -     | #MEDT   | Klassen / Rest API JS Höfermeiser Sus                                                                                                |                                 |
+| -     | #MEDT   | Klassen / Rest API JS Höfermeiser Sus                                                                                |                                 |
+| -     | #SEW    | [[Dependency Injection (Pattern)]]                                                                                   |                                 |
+| -     | #SEW    | WeatherServer H2 Database                                                                                            |                                 | 
 
 
 

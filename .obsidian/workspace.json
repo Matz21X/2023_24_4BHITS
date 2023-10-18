@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/Dependency Injection (Pattern).md",
+                "file": "Backlog_1023.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/Dependency Injection (Pattern).md",
+                "file": "Backlog_1023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/Dependency Injection (Pattern).md"
+                "file": "Backlog_1023.md"
               }
             }
           },
@@ -178,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/Dependency Injection (Pattern).md"
+                "file": "Backlog_1023.md"
               }
             }
           },
@@ -218,12 +217,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "102deb9d2fa630b4",
+  "active": "b062d40b930f9dfb",
   "lastOpenFiles": [
+    "SEW-Theorie/Dependency Injection (Pattern).md",
     "README.md",
     "Attachments/dependency.svg",
     "Untitled.md",
-    "SEW-Theorie/Dependency Injection (Pattern).md",
     "TESTTESTTESTTESTTESTTESTTEST.txt",
     "DE/~$Bruh.docx",
     "DE/~WRL0001.tmp",
