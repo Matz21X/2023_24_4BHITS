@@ -69,8 +69,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/Grundlagen PSQL.md",
+                "file": "Backlog_1023.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/Grundlagen PSQL.md",
+                "file": "Backlog_1023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/Grundlagen PSQL.md"
+                "file": "Backlog_1023.md"
               }
             }
           },
@@ -204,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/Grundlagen PSQL.md"
+                "file": "Backlog_1023.md"
               }
             }
           },
@@ -229,7 +229,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,8 +248,9 @@
       "ava:Ava - Open Rewrite Playground": false
     }
   },
-  "active": "5eb42b7444abefb1",
+  "active": "1fa87a3aa5489343",
   "lastOpenFiles": [
+    "INSY/Grundlagen PSQL.md",
     "NWT/AES.md",
     "pic/dbs01.png.md",
     "Backlog_1023.md",
@@ -283,7 +285,6 @@
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/HttpClient_in_Java.md",
     "REL/September.md",
-    "NWT/IPv6.md",
     "WIR/Recht.pdf",
     "WIR/Recht.zip",
     "WIR/Recht/Pasted image 20231015174010.png",
