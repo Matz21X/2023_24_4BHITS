@@ -214,14 +214,21 @@
               "type": "copilot-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "38083c4526031a57",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
