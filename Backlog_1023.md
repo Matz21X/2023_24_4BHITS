@@ -58,7 +58,7 @@
 | -     | #GGP    | [[1.GrundlagenDerWirtschaft]]                                                                                        |                                 |
 | -     |         | Diplomarbeit Besprechung                                                                                             | Suppliert (EN)                  |
 | -     | #RK     | [[Oktober#Beispiele für die Prinzipien der katholischen Lehre\|Beispiele für die Prinzipien der katholischen Lehre]] |                                 |
-| 17.10 | #WIR    | Recht Test       😣                                                                                                  |                                 |
+| 17.10 | #WIR    | Recht Test 😣                                                                                                  |                                 |
 | -     | #DE     | [[DasBrot#Aufgabe 5]] / [[Textanalyse-Das Brot]]                                                                     |                                 |
 | -     | #BSP    | GASIG GASIG GASIG [[Gasig.jpg]]                                                                                      |                                 |
 | -     | #INSY   | Datenbankenmodelle  [[ErModel.drawio.svg]]                                                                           |                                 |
@@ -67,3 +67,5 @@
 | -     | #MEDT   | Klassen / Rest API JS Höfermeiser Sus                                                                                |                                 |
 | -     | #SEW    | [[Dependency Injection (Pattern)]]                                                                                   |                                 |
 | -     | #SEW    | WeatherServer H2 Database                                                                                            |                                 |
+| 19.10 | #EN     | Reading Task                                                                                                         |                                 |
+| -     | #WIR    | Wirtschaft Test 😣                                                                                                                     |                                 |

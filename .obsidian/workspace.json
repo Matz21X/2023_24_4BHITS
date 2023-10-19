@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md",
+                "file": "Backlog_1023.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md",
+                "file": "Backlog_1023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md"
+                "file": "Backlog_1023.md"
               }
             }
           },
@@ -170,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md"
+                "file": "Backlog_1023.md"
               }
             }
           },
@@ -218,8 +217,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2e10b32d2f801e41",
+  "active": "b062d40b930f9dfb",
   "lastOpenFiles": [
+    "ITP/Projekte/RAH/JavaScript.md",
     "Backlog_1023.md",
     "conflict-files-obsidian-git.md",
     "WIR/Unternehmensarten.md",
@@ -241,7 +241,6 @@
     "MEDT/Node.js.pdf",
     "MEDT/Basics/07-klassen/01-klasse.js",
     "MEDT/Basics/07-klassen",
-    "ITP/Projekte/RAH/JavaScript.md",
     "INSY/Grundlagen PSQL.md",
     "NWT/AES.md",
     "pic/dbs01.png.md",
