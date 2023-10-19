@@ -107,3 +107,4 @@ Sie nimmt Stellung zu Fragen menschlichen Zusammenlebens, beruht sie auf Erkennt
 
 Buch S.19
 
+![[6_AB_Weltgemeinwohl.pdf]]
