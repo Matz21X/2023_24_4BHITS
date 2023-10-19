@@ -39,6 +39,5 @@ if ($LASTEXITCODE -eq 0) {
 } else {
     Write-Host "ERROR: Der Git Pull-Vorgang war nicht erfolgreich."
     Write-Host "Git Pull-Ausgabe: $gitPullOutput"
+    Pause
 }
-
-Pause
