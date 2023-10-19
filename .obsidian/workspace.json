@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ac4df25b1a0e256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITP/Projekte/RAH/JavaScript.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NW/Relativitätstheorie.md",
+                "file": "ITP/Projekte/RAH/JavaScript.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NW/Relativitätstheorie.md",
+                "file": "ITP/Projekte/RAH/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NW/Relativitätstheorie.md"
+                "file": "ITP/Projekte/RAH/JavaScript.md"
               }
             }
           },
@@ -170,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NW/Relativitätstheorie.md"
+                "file": "ITP/Projekte/RAH/JavaScript.md"
               }
             }
           },
@@ -218,8 +231,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a56bb4e0b2218571",
+  "active": "7ac4df25b1a0e256",
   "lastOpenFiles": [
+    "NW/Relativitätstheorie.md",
     "NW/~$ysikHA4_1.docx",
     "NW/PhysikHA4_3.docx",
     "NW/PhysikHA4_2.docx",
@@ -249,7 +263,6 @@
     "DE/~$Bruh.docx",
     "DE/~WRL0001.tmp",
     "DE/~WRD0000.tmp",
-    "DE/Bruh.docx",
     "INSY/Grundlagen PSQL.md",
     "NWT/AES.md",
     "pic/dbs01.png.md",
