@@ -1,19 +1,3 @@
-$sourcePath = "C:\Users\matth\Documents\2023_24_4BHITS"
-$destinationPath = "C:\Users\matth\OneDrive - HTL Hollabrunn\2023_24_4BHITS"
-$logFilePath = "C:\Users\matth\Documents\2023_24_4BHITS\.scripts\copyLog.txt"
-$hostname = $env:COMPUTERNAME
-
-Set-Location C:\Users\matth\Documents\2023_24_4BHITS
-$gitPullOutput = git pull
-
-if ($LASTEXITCODE -eq 0) {
-    Write-Host "Git Pull-Ausgabe: $gitPullOutput"
-    UpdateOneDrive
-} else {
-    Write-Host "ERROR: Der Git Pull-Vorgang war nicht erfolgreich."
-    Write-Host "Git Pull-Ausgabe: $gitPullOutput"
-}
-
 function UpdateOneDrive {
     Write-Host "----------ONEDRIVE UPDATE----------"
     if (Test-Path $sourcePath -PathType Container) {
@@ -40,4 +24,21 @@ function UpdateOneDrive {
         "Der Quellordner existiert nicht: $(Get-Date)" | Out-File -Append -FilePath $logFilePath
     }
 }
+
+$sourcePath = "C:\Users\matth\Documents\2023_24_4BHITS"
+$destinationPath = "C:\Users\matth\OneDrive - HTL Hollabrunn\2023_24_4BHITS"
+$logFilePath = "C:\Users\matth\Documents\2023_24_4BHITS\.scripts\copyLog.txt"
+$hostname = $env:COMPUTERNAME
+
+Set-Location C:\Users\matth\Documents\2023_24_4BHITS
+$gitPullOutput = git pull
+
+if ($LASTEXITCODE -eq 0) {
+    Write-Host "Git Pull-Ausgabe: $gitPullOutput"
+    UpdateOneDrive
+} else {
+    Write-Host "ERROR: Der Git Pull-Vorgang war nicht erfolgreich."
+    Write-Host "Git Pull-Ausgabe: $gitPullOutput"
+}
+
 Pause

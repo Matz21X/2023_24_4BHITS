@@ -98,7 +98,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Backlog_1023.md"
+              }
             }
           },
           {
@@ -114,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Backlog_1023.md"
+              }
             }
           },
           {
@@ -153,8 +157,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38083c4526031a57",
+  "active": "e1cb03b33a7d44c5",
   "lastOpenFiles": [
+    "copyLog.txt",
     "ITP/Projekte/RAH/JavaScript.md",
     "Backlog_1023.md",
     "NW/Relativitätstheorie.md",
