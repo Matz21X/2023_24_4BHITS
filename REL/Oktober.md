@@ -102,3 +102,8 @@ Sie nimmt Stellung zu Fragen menschlichen Zusammenlebens, beruht sie auf Erkennt
 - <span style="color:#00b050">Option für die Armen</span>
 	- Suppenküchen, Gruft
 	- Caritas
+
+>19.10.23
+
+Buch S.19
+
