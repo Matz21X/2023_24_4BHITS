@@ -42,13 +42,14 @@
               "type": "markdown",
               "state": {
                 "file": "ITP/Projekte/RAH/JavaScript.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -114,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1023.md",
+                "file": "ITP/Projekte/RAH/JavaScript.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1023.md",
+                "file": "ITP/Projekte/RAH/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1023.md"
+                "file": "ITP/Projekte/RAH/JavaScript.md"
               }
             }
           },
@@ -182,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1023.md"
+                "file": "ITP/Projekte/RAH/JavaScript.md"
               }
             }
           },
@@ -215,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,8 +233,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b062d40b930f9dfb",
+  "active": "7ac4df25b1a0e256",
   "lastOpenFiles": [
+    "Backlog_1023.md",
     "ITP/Projekte/RAH/wh1/index.js",
     "ITP/Projekte/RAH/wh1/package.json",
     "ITP/Projekte/RAH/wh1",
@@ -241,7 +245,6 @@
     "NW/PhysikHA4_3.docx",
     "NW/PhysikHA4_2.docx",
     "NW/PhysikHA4_1.docx",
-    "Backlog_1023.md",
     "npm-image.md",
     "MEDT/aufgabe1/node_modules/safer-buffer/Readme.md",
     "Backlog_0923.md",
@@ -262,7 +265,6 @@
     "Attachments/dependency.svg",
     "Untitled.md",
     "TESTTESTTESTTESTTESTTESTTEST.txt",
-    "DE/~$Bruh.docx",
     "INSY/Grundlagen PSQL.md",
     "NWT/AES.md",
     "pic/dbs01.png.md",
