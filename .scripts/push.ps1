@@ -13,5 +13,5 @@ git push
 
 
 Start-Sleep -Seconds 10
-Write-Host "END" | Out-File -Append -FilePath $logFilePath
+"Write-Host END" | Out-File -Append -FilePath $logFilePath
 Write-Host "END"
