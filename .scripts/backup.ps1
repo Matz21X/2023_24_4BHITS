@@ -30,7 +30,7 @@ $destinationPath = "C:\Users\matth\OneDrive - HTL Hollabrunn\2023_24_4BHITS"
 $logFilePath = "C:\Users\matth\Documents\2023_24_4BHITS\.scripts\copyLog.txt"
 $hostname = $env:COMPUTERNAME
 
-Set-Location C:\Users\matth\Documents\2023_24_4BHITS
+Set-Location "C:\Users\matth\Documents\2023_24_4BHITS"
 $gitPullOutput = git pull
 
 if ($LASTEXITCODE -eq 0) {
