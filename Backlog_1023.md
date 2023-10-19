@@ -68,4 +68,4 @@
 | -     | #SEW    | [[Dependency Injection (Pattern)]]                                                                                   |                                 |
 | -     | #SEW    | WeatherServer H2 Database                                                                                            |                                 |
 | 19.10 | #EN     | Reading Task                                                                                                         |                                 |
-| -     | #WIR    | Wirtschaft Test 😣                                                                                                                     |                                 |
+| -     | #WIR    | Wirtschaft Test 😣 ABER SÜSSES!!!!!! 😁                                                                                                                    |                                 |
