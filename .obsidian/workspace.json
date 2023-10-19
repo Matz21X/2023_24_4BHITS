@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md",
+                "file": "Backlog_1023.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md",
+                "file": "Backlog_1023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md"
+                "file": "Backlog_1023.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md"
+                "file": "Backlog_1023.md"
               }
             }
           },
@@ -231,8 +230,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7ac4df25b1a0e256",
+  "active": "b062d40b930f9dfb",
   "lastOpenFiles": [
+    "ITP/Projekte/RAH/JavaScript.md",
     "NW/Relativitätstheorie.md",
     "NW/~$ysikHA4_1.docx",
     "NW/PhysikHA4_3.docx",
@@ -241,7 +241,6 @@
     "Backlog_1023.md",
     "npm-image.md",
     "MEDT/aufgabe1/node_modules/safer-buffer/Readme.md",
-    "ITP/Projekte/RAH/JavaScript.md",
     "Backlog_0923.md",
     "REL/September.md",
     "MEDT/aufgabe1/node_modules/safer-buffer/Porting-Buffer.md",
