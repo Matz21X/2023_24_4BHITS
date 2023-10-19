@@ -23,15 +23,13 @@
             }
           },
           {
-            "id": "f0545095ae7a0c2d",
+            "id": "01ff005f5f17ae49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "ITP/Projekte/RAH/JavaScript.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "staged": false
               }
             }
           }
@@ -112,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,11 +146,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,11 +165,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f0545095ae7a0c2d",
+  "active": "01ff005f5f17ae49",
   "lastOpenFiles": [
+    "ITP/Projekte/RAH/JavaScript.md",
     "Backlog_1023.md",
     "NW/Relativitätstheorie.md",
-    "ITP/Projekte/RAH/JavaScript.md",
     "conflict-files-obsidian-git.md",
     "ITP/Projekte/RAH/wh1/03-Async-Await-ArrayMethods.js",
     "ITP/Projekte/RAH/wh1/03-Async-Await-ArrayMethods",
