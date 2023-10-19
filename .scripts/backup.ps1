@@ -7,23 +7,14 @@ Set-Location C:\Users\matth\Documents\2023_24_4BHITS
 $gitPullOutput = git pull
 
 if ($LASTEXITCODE -eq 0) {
-    Write-Host "SUCCESS"
-
-    updateOneDrive
-
-
-
+    Write-Host "Git Pull-Ausgabe: $gitPullOutput"
+    UpdateOneDrive
 } else {
     Write-Host "ERROR: Der Git Pull-Vorgang war nicht erfolgreich."
+    Write-Host "Git Pull-Ausgabe: $gitPullOutput"
 }
 
-Write-Host "Git Pull-Ausgabe: $gitPullOutput"
-
-
-
-
-
-function updateOneDrive {
+function UpdateOneDrive {
     Write-Host "----------ONEDRIVE UPDATE----------"
     if (Test-Path $sourcePath -PathType Container) {
         if (-not (Test-Path $destinationPath -PathType Container)) {
@@ -48,5 +39,5 @@ function updateOneDrive {
         
         "Der Quellordner existiert nicht: $(Get-Date)" | Out-File -Append -FilePath $logFilePath
     }
-
 }
+Pause
