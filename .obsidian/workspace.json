@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1023.md",
+                "file": "ITP/Projekte/RAH/JavaScript.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1023.md",
+                "file": "ITP/Projekte/RAH/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1023.md"
+                "file": "ITP/Projekte/RAH/JavaScript.md"
               }
             }
           },
@@ -182,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1023.md"
+                "file": "ITP/Projekte/RAH/JavaScript.md"
               }
             }
           },
@@ -230,12 +231,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b062d40b930f9dfb",
+  "active": "2e10b32d2f801e41",
   "lastOpenFiles": [
+    "Backlog_1023.md",
     "ITP/Projekte/RAH/JavaScript.md",
     "REL/Oktober.md",
     "REL/PDFs/6_AB_Weltgemeinwohl.pdf",
-    "Backlog_1023.md",
     "conflict-files-obsidian-git.md",
     "WIR/Unternehmensarten.md",
     "WIR/Wirtschaft.pdf",
