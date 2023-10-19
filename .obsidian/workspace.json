@@ -21,20 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "01ff005f5f17ae49",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md",
-                "staged": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +153,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01ff005f5f17ae49",
+  "active": "38083c4526031a57",
   "lastOpenFiles": [
     "ITP/Projekte/RAH/JavaScript.md",
     "Backlog_1023.md",
