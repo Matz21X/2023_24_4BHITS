@@ -306,7 +306,7 @@ Default-Parameter werden verwendet, um Parametern in Funktionen Standartwerte zu
 
 ```javascript
 function sayHello(name = 'User') {
-	console.log(´Hello, ${name}.`)
+	console.log(`Hello, ${name}.`)
 }
 
 sayHello();
