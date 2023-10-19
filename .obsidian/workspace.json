@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md",
+                "file": "Backlog_1023.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md",
+                "file": "Backlog_1023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md"
+                "file": "Backlog_1023.md"
               }
             }
           },
@@ -184,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md"
+                "file": "Backlog_1023.md"
               }
             }
           },
@@ -217,8 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,15 +231,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7ac4df25b1a0e256",
+  "active": "b062d40b930f9dfb",
   "lastOpenFiles": [
+    "ITP/Projekte/RAH/JavaScript.md",
     "ITP/Projekte/RAH/wh1/03-Async-Await-ArrayMethods.js",
     "ITP/Projekte/RAH/wh1/03-Async-Await-ArrayMethods",
     "Backlog_1023.md",
     "ITP/Projekte/RAH/wh1/index.js",
     "ITP/Projekte/RAH/wh1/package.json",
     "ITP/Projekte/RAH/wh1",
-    "ITP/Projekte/RAH/JavaScript.md",
     "NW/Relativitätstheorie.md",
     "NW/~$ysikHA4_1.docx",
     "NW/PhysikHA4_3.docx",
@@ -256,7 +254,6 @@
     "REL/PDFs/6_AB_Weltgemeinwohl.pdf",
     "conflict-files-obsidian-git.md",
     "WIR/Unternehmensarten.md",
-    "WIR/Wirtschaft.pdf",
     "WIR/Wirtschaft-Test Vorbereitung.md",
     "WIR/Wirtschaftsordnung.md",
     "WIR/Wirtschaftssubjekte.md",

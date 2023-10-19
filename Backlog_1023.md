@@ -72,4 +72,4 @@
 | -     | #RK     | [[Oktober]]                                                                                                          |                                 |
 | -     | #AM     | Differenzialgleichung                                                                                                |                                 |
 | -     | #NW     | [[PhysikHA4_1.docx]]                                                                                                 |                                 |
-| -     | #ITP    |                                                                                                                      |                                 |
+| -     | #ITP    | Komische Array Methoden                                                                                                            |                                 |
