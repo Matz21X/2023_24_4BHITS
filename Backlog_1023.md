@@ -6,7 +6,7 @@
 | 2.10  | #NWT    | [[MitM.canvas\|MitM]]                                                                                                |                                 |
 | -     | #GGP    | Wiederholung Europa                                                                                                  |                                 |
 | -     | #EN     | Sevilla Trip / PowerPoint Business                                                                                   |                                 |
-| -     | #REL    | [[Oktober]] / Ethik                                                                                                  |                                 |
+| -     | #RK    | [[Oktober]] / Ethik                                                                                                  |                                 |
 | 3.10  | #WIR    | Recht / S22-30                                                                                                       |                                 |
 | -     | #DE     | Nix                                                                                                                  |                                 |
 | -     | #BSP    | GYM                                                                                                                  |                                 |
@@ -18,7 +18,7 @@
 | -     | #SEW    | HttpClientDemo                                                                                                       |                                 |
 | 5.10  | #EN     | Coworking Spaces                                                                                                     |                                 |
 | -     | #WIR    | [[Gewinnermittlung_Kap2]] Registriedungskassenp.                                                                     |                                 |
-| -     | #REL    | [[Oktober]]                                                                                                          |                                 |
+| -     | #RK    | [[Oktober]]                                                                                                          |                                 |
 | -     | #NW     | Gans/Ente Beispiel                                                                                                   |                                 |
 | -     | #ITP    | Projekt Finalisierung [[Image Processing ZOG]]                                                                       |                                 |
 | 6.10  | #INSY   | -                                                                                                                    | Abwesend                        |
@@ -31,7 +31,7 @@
 | 9.10  | #NWT    | Wiederholung Letto DH                                                                                                |                                 |
 | -     | #GGP    | Wiederholung Asien / Markt A/N                                                                                       |                                 |
 | -     | #EN     | [[Speaking_Task_S20_6]]                                                                                              |                                 |
-| -     | #REL    | [[Oktober]]  dollarstreet.com                                                                                        |                                 |
+| -     | #RK    | [[Oktober]]  dollarstreet.com                                                                                        |                                 |
 | 10.10 | #WIR    | Uhhhhhhh tod i guess                                                                                                 | Teststoff <= S.30               |
 | -     | #DE     | [[DasBrot]]                                                                                                          | HÜ Nr.3 b+c                     |
 | -     | #BSP    | GASELIG GASELIG GASELIG GASELIG GASELIG GASELIG                                                                      |                                 |
@@ -58,7 +58,7 @@
 | -     | #GGP    | [[1.GrundlagenDerWirtschaft]]                                                                                        |                                 |
 | -     |         | Diplomarbeit Besprechung                                                                                             | Suppliert (EN)                  |
 | -     | #RK     | [[Oktober#Beispiele für die Prinzipien der katholischen Lehre\|Beispiele für die Prinzipien der katholischen Lehre]] |                                 |
-| 17.10 | #WIR    | Recht Test 😣                                                                                                  |                                 |
+| 17.10 | #WIR    | Recht Test 😣                                                                                                        |                                 |
 | -     | #DE     | [[DasBrot#Aufgabe 5]] / [[Textanalyse-Das Brot]]                                                                     |                                 |
 | -     | #BSP    | GASIG GASIG GASIG [[Gasig.jpg]]                                                                                      |                                 |
 | -     | #INSY   | Datenbankenmodelle  [[ErModel.drawio.svg]]                                                                           |                                 |
@@ -68,4 +68,7 @@
 | -     | #SEW    | [[Dependency Injection (Pattern)]]                                                                                   |                                 |
 | -     | #SEW    | WeatherServer H2 Database                                                                                            |                                 |
 | 19.10 | #EN     | Reading Task                                                                                                         |                                 |
-| -     | #WIR    | Wirtschaft Test 😣 ABER SÜSSES!!!!!! 😁                                                                                                                    |                                 |
+| -     | #WIR    | Wirtschaft Test 😣 ABER SÜSSES!!!!!! 😁                                                                              |                                 |
+| -     | #RK     | [[Oktober]]                                                                                                          |                                 |
+| -     | #AM     | Differenzialgleichung                                                                                                |                                 |
+| -     | #NW     |                                                                                                                      |                                 |

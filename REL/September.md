@@ -1,5 +1,5 @@
 # September
-#REL
+#RK
 ### Konsumgüter
 
 Beispiele:

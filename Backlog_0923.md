@@ -6,7 +6,7 @@
 | 7.9.23  | #SEW    | [[Socketing]]                                  |                   |
 | 8.9.23  | #NWT    | [[Kryptographie]]                              |                   |
 | 11.9.23 | #NWT    | Diffie Hellmann/Cryptohack                     |                   |
-| -       | #REL    | Konsum-Mindmap                                 |                   |
+| -       | #RK     | Konsum-Mindmap                                 |                   |
 | 13.9.23 | #SYT    | Arduino driver install                         |                   |
 | -       | #WIR    | [[Wirtschaftsordnung]]                         |                   |
 | -       | #MEDT   | Node.js / NPM                                  |                   |
@@ -15,9 +15,9 @@
 | 14.9.23 | #AM     | WH Integralrechnung                            |                   |
 | -       | #AM     | Partialbruchzerlegung                          |                   |
 | -       | #WIR    | [[Wirtschaftssubjekte]]                        |                   |
-| -       | #REL    | Konsumismus [[3_Text_Kaufsucht.pdf]]           |                   |
+| -       | #RK     | [[3_Text_Kaufsucht.pdf]]                       |                   |
 | -       | #NW     | Einstein Biografie                             |                   |
-| -       | #ITP    | Einstieg [[Python]]                |                   |
+| -       | #ITP    | Einstieg [[Python]]                            |                   |
 | 15.9.23 | #AM     |                                                | krank             |
 | -       | #ITP    | [[Projektmanagement]]                          | -                 |
 | -       | #SEW    | [[RESTful Webservices]]                        | -                 |
@@ -28,7 +28,7 @@
 | -       | #GGP    | Klassensprecherwahl                            |                   |
 | -       | #GGP    | [[1.GrundlagenDerWirtschaft 1]] / [[Europa 1]] |                   |
 | -       | #EN     | Buch S.157                                     |                   |
-| -       | #REL    | Haben oder Sein / [[4_AB_Haben_oder_Sein.pdf]] |                   |
+| -       | #RK     | Haben oder Sein / [[4_AB_Haben_oder_Sein.pdf]] |                   |
 | 19.9.23 | #WIR    | Recht                                          |                   |
 | -       | #DE     | Zitieren                                       |                   |
 | -       | #BSP    | GYM                                            |                   |
@@ -40,7 +40,7 @@
 | -       | #SEW    | Wiederholung / [[RESTful Webservices]]         |                   |
 | 21.6.23 | #EN     | Seite 14-16                                    |                   |
 | -       | #WIR    | Wertschöpfungsprozess [[Unternehmensarten]]    |                   |
-| -       | #REL    | Wirtschaftsethik                               |                   |
+| -       | #RK     | Wirtschaftsethik                               |                   |
 | -       | #AM     | Neues Buch besprochen                          |                   |
 | -       | #SEW    | -                                              | Suppliert (NW)    |
 | -       | #INSY   | Python-Projekt [[Führerscheinerkennung]]       |                   |
@@ -49,7 +49,7 @@
 | 25.9.23 | #NWT    | [[Primitivwurzel]]                             |                   |
 | -       | #GGP    | Zettel weitermachen                            |                   |
 | -       | #EN     | S. 18                                          |                   |
-| -       | #REL    | Globalisierung                                 |                   |
+| -       | #RK     | Globalisierung                                 |                   |
 | 26.9.23 | #WIR    | Aufgaben und Grundlagen des Verfassungsrechts  |                   |
 | -       | #NWT    | cryptohack.com Aufgaben (DH)                   |                   |
 | -       | #BSP    |                                                | Fahrsicherheitst. |
@@ -61,7 +61,7 @@
 | -       | #SEW    | Projekt HttpClientDemo                         |                   |
 | 28.9.23 | #DE     | Textanalyse (Wurscht) S.34 Kennwort Deutsch    | Suppliert (EN)    |
 | -       | #WIR    | [[Gewinnermittlung_Kap2]]                      |                   |
-| -       | #REL    | Alternative Wirtschaftsfolgen / Standbilder    |                   |
+| -       | #RK     | Alternative Wirtschaftsfolgen / Standbilder    |                   |
 | -       | #AM     | Sudoku                                         |                   |
 | -       | #NW     | [[Relativitätstheorie]]                        |                   |
 | -       | #ITP    | Projekt weitergemacht                          |                   |

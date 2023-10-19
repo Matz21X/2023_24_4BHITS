@@ -1,5 +1,5 @@
 # Oktober - Ethik
-#REL 
+#RK 
 ## Sozialethik / Individualethik
 
 <span style="color:#00b050">Individualethik</span> beschreibt Ethik im Hinblick auf die eigene Lebensführung wie gelingt mir ein gutes Leben? Was verstehe ich unter Glück?
