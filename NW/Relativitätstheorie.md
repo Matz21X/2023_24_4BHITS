@@ -61,3 +61,5 @@ Alle physikalischen Gesetze gelten in jedem Inertialsystem
 
 $$Vges = \frac{v1 +v2}{1+\frac{c*c}{c^2}} = \frac{2c}{2} = c$$
 $$Vges = \frac{\frac{c}{2}+\frac{c}{2}}{1+\frac{c*c}{4c^2}} = \frac{c}{\frac{5}{4}} = 0.8c = 80 \% c$$
+
+$$m=\frac{m_{}}{}$$
