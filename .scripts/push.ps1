@@ -5,4 +5,4 @@ git add -A
 git commit -m $commitMessage
 git push
 
-shutdown.exe /s
+shutdown.exe /p
