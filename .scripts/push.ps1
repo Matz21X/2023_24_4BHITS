@@ -4,5 +4,5 @@ $commitMessage = "Vault backup: $(Get-Date -Format 'dd/MM/yy HH:mm:ss') $env:COM
 git add -A
 git commit -m $commitMessage
 git push
-
-shutdown.exe /p
+Pause
+#shutdown.exe /p
