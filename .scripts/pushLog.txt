@@ -1,5 +1,0 @@
-ÿþSTART 
-git add -A 
-git commit -m "Vault backup: 20/10/23  0:38:26 MAZ-PC SHUTDOWN" 
-git push 
-Write-Host END 
