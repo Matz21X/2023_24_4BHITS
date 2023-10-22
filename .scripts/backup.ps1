@@ -3,7 +3,6 @@ $destinationPath = "C:\Users\matth\OneDrive - HTL Hollabrunn\2023_24_4BHITS"
 Set-Location "C:\Users\matth\Documents\2023_24_4BHITS"
 
 function UpdateOneDrive {
-    Write-Host "----------ONEDRIVE UPDATE----------"
     if (Test-Path $sourcePath -PathType Container) {
         if (-not (Test-Path $destinationPath -PathType Container)) {
             New-Item -Path $destinationPath -ItemType Directory -Force
