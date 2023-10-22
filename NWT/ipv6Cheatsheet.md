@@ -62,7 +62,7 @@ A host can have **multiple** addresses in different scopes, even on the same int
 
 ## Subnetting
 
-<img src=address_format.png width=600>
+![[address_format.png]]
 
 As in IPv4, IPv6 includes support for network segmentation via Subnetting. In the image below, the first 64 bits are designated as the `Network` portion, while the last 64 bits are for `Host` identification. Within the network portion, the first 48 bits are the `Routing Prefix` - aka the Network Address. The next and final 16 bits of the network notion is the `Subnet ID` or subnet address.
 
@@ -136,8 +136,7 @@ The DHCPv6 protocol is explained in more detail in this [Wikipedia Article](http
 
 Depending on how the router and the client are set up, the client can (and will) use both mechanisms (i.e. SLAAC and DHCP) to acquire IPv6 address allocations. The following table highlights the possible configuration combinations:
 
-<img src=dhcp_slaac.jpg>
-
+![[dhcp_slaac.jpg]]
 ## Using WireShark
 
 To gain a greater understanding of IPv6's functionality, you can use the packet sniffing tool WireShark to trace the message flow. Here are some WS filters for IPv6 ICMP, DHCPv6 and Router Solicitation and Advertisements:

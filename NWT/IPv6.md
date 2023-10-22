@@ -18,6 +18,14 @@ Promiscuous-mode: Kein IP-Filtering
 
 ### Scopes
 
+| Range     | Purpose                          |
+| --------- | -------------------------------- |
+| ::1/128   | Loopback Address (localhost)     |
+| ::/128    | Unspecified Address              |
+| 2000::/3  | GLOBAL Unicast (Internet)        |
+| fc00::/7  | Unique-Local (LAN)               |
+| fe80::/10 | Link-Local Unicast (Same switch) |
+
 - Global unicast scope: 
 ```
 2/0/0/0::/3
