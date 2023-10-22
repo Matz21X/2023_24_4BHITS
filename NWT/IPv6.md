@@ -3,9 +3,9 @@
 
 >29.9.23
 
-IPv6, die sechste Version des Internetprotokolls, wurde entwickelt, um die zunehmende Knappheit von IPv4-Adressen zu bewältigen und die Anforderungen der wachsenden vernetzten Welt zu erfüllen. Im Gegensatz zu IPv4 bietet IPv6 einen erheblich größeren Adressraum, der praktisch unerschöpflich ist. Mit <span style="color:#00b050">128-Bit-Adressen</span> ermöglicht IPv6 die Identifizierung und Verbindung von Milliarden von Geräten und bietet verbesserte Sicherheit und Netzwerkleistung. Es gibt <span style="color:#00b050">keinen Broadcast</span>
+IPv6, die sechste Version des Internetprotokolls, wurde entwickelt, um die zunehmende Knappheit von IPv4-Adressen zu bewältigen und die Anforderungen der wachsenden vernetzten Welt zu erfüllen. Im Gegensatz zu IPv4 bietet IPv6 einen erheblich größeren Adressraum, der praktisch unerschöpflich ist. Mit <span style="color:#00b050">128-Bit-Adressen (8 x 16-Bit Blöcken)</span> ermöglicht IPv6 die Identifizierung und Verbindung von Milliarden von Geräten und bietet verbesserte Sicherheit und Netzwerkleistung. Es gibt <span style="color:#00b050">keinen Broadcast</span>
 
-Multicast: An ausgewählte Netzteilnehmer
+Multicast: An ausgewählte Netzteilnehmer 
 Broadcast: An alle Netzteilnehmer
 Unicast: An einen Netzteilnehmer
 
