@@ -11,29 +11,29 @@ function UpdateOneDrive {
     
         try {
             Copy-Item -Path "$sourcePath\*" -Destination $destinationPath -Force -Recurse -Exclude ".git"
-            Write-Host "Kopieren abgeschlossen."
+            Write-Host "Copy successful"
             
         } catch {
-            Write-Host "Fehler beim Kopieren: $_"
+            Write-Host "Error at copying: $_"
         }
     } else {
-        Write-Host "Der Quellordner existiert nicht."
+        Write-Host "The sourcefolder does not exist"
     }
 }
 
-function Test-InternetConnection {
+function Test-GithubConnection {
     $ErrorActionPreference = "Stop"
     try {
-        $pingResult = Test-Connection -ComputerName "www.google.com" -Count 1 -ErrorAction SilentlyContinue
+        $pingResult = Test-Connection -ComputerName "github.com" -Count 1 -ErrorAction SilentlyContinue
         if ($null -ne $pingResult) {
-            Write-Host "Internet is reachable."
+            Write-Host "Github is reachable"
             return $true
         } else {
-            Write-Host "Internet is not reachable."
+            Write-Host "Github is not reachable"
             return $false
         }
     } catch {
-        Write-Host "Internet is not reachable."
+        Write-Host "Github is not reachable"
         return $false
     }
 }
@@ -41,19 +41,17 @@ function Test-InternetConnection {
 function GitPull {
     $gitPullOutput = git pull
     if ($LASTEXITCODE -eq 0) {
-    Write-Host "Git Pull-Ausgabe: $gitPullOutput"
-    UpdateOneDrive
+    Write-Host "Git Pull-Output: $gitPullOutput"
+    #UpdateOneDrive
 } else {
-    Write-Host "ERROR: Der Git Pull-Vorgang war nicht erfolgreich."
-    Write-Host "Git Pull-Ausgabe: $gitPullOutput"
+    Write-Host "ERROR: Git-Pull"
+    Write-Host "Git Pull-Output: $gitPullOutput"
     Pause
 }
 
 }
-if (Test-InternetConnection) {
-    Write-Host "Bruh"
+if (Test-GithubConnection) {
     GitPull
 } else {
-    Write-Host "Cannot perform tasks that require an internet connection."
-    Pause
+    Write-Host "Cannot perform tasks that require an Github connection"
 }
