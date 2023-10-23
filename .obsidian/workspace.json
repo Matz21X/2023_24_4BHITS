@@ -44,9 +44,19 @@
                 "file": "GGP/1.Grundlagen der Wirtschaft_Schüler.pdf"
               }
             }
+          },
+          {
+            "id": "c6ee955fc9eb899a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/ErModel.drawio.svg"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GGP/1.Grundlagen der Wirtschaft_Schüler.pdf"
+                "file": "Attachments/ErModel.drawio.svg"
               }
             }
           },
@@ -141,7 +152,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "GGP/1.Grundlagen der Wirtschaft_Schüler.pdf"
+                "file": "Attachments/ErModel.drawio.svg"
               }
             }
           },
@@ -167,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GGP/1.Grundlagen der Wirtschaft_Schüler.pdf",
+                "file": "Attachments/ErModel.drawio.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GGP/1.Grundlagen der Wirtschaft_Schüler.pdf",
+                "file": "Attachments/ErModel.drawio.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +216,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,11 +232,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1877716cfb2e0980",
+  "active": "c6ee955fc9eb899a",
   "lastOpenFiles": [
-    "NWT/ipv6Cheatsheet.md",
     "Backlog_1023.md",
     "GGP/1.Grundlagen der Wirtschaft_Schüler.pdf",
+    "NWT/ipv6Cheatsheet.md",
     "NWT/IPv6.md",
     "Attachments/address_format.png",
     "Attachments/dhcp_slaac.jpg",
