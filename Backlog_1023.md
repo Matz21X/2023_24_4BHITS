@@ -74,4 +74,5 @@
 | -     | #NW     | [[PhysikHA4_1.docx]]                                                                                                 |                                 |
 | -     | #ITP    | Komische Array Methoden                                                                                              |                                 |
 | 20.10 |         | CODING CONTEST                                                                                                       |                                 |
-| 23.20 | #NWT    | IPv6                                                                                                                      |                                 |
+| 23.20 | #NWT    | IPv6                                                                                                                 |                                 |
+| -     | #GGP    |                                                                                                                      |                                 |
