@@ -21,8 +21,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "4c50d1556e29a8e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REL/Oktober.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfc50a7415b234be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REL/Karte.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1023.md"
+                "file": "REL/Karte.md"
               }
             }
           },
@@ -117,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1023.md"
+                "file": "REL/Karte.md"
               }
             }
           },
@@ -143,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1023.md",
+                "file": "REL/Karte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1023.md",
+                "file": "REL/Karte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,9 +223,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b062d40b930f9dfb",
+  "active": "cfc50a7415b234be",
   "lastOpenFiles": [
     "Backlog_1023.md",
+    "REL/Oktober.md",
+    "REL/Karte.md",
     "GGP/2.Sektoraler Wandel_Schüler.pdf",
     "NWT/ipv6Cheatsheet.md",
     "GGP/1.Grundlagen der Wirtschaft_Schüler.pdf",
@@ -222,7 +251,6 @@
     "Backlog_0923.md",
     "REL/September.md",
     "MEDT/aufgabe1/node_modules/safer-buffer/Porting-Buffer.md",
-    "REL/Oktober.md",
     "WIR/Unternehmensarten.md",
     "WIR/Wirtschaft-Test Vorbereitung.md",
     "WIR/Wirtschaftsordnung.md",
@@ -232,7 +260,6 @@
     "WIR/Recht Test-Vorbereitung.md",
     "README.md",
     "Attachments/dependency.svg",
-    "Untitled.md",
     "INSY/Grundlagen PSQL.md",
     "NWT/AES.md",
     "pic/dbs01.png.md",
