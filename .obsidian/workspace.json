@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REL/Lebenshinenversetzung.md",
+                "file": "NWT/IPv6.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REL/Lebenshinenversetzung.md"
+                "file": "NWT/IPv6.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "REL/Lebenshinenversetzung.md"
+                "file": "NWT/IPv6.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REL/Lebenshinenversetzung.md",
+                "file": "NWT/IPv6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REL/Lebenshinenversetzung.md",
+                "file": "NWT/IPv6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,8 +225,8 @@
   },
   "active": "cfc50a7415b234be",
   "lastOpenFiles": [
-    "Backlog_1023.md",
     "REL/Lebenshinenversetzung.md",
+    "Backlog_1023.md",
     "REL/Oktober.md",
     "GGP/2.Sektoraler Wandel_Schüler.pdf",
     "NWT/ipv6Cheatsheet.md",
