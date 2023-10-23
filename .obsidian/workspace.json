@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NWT/ipv6Cheatsheet.md"
+                "file": "GGP/1.Grundlagen der Wirtschaft_Schüler.pdf"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NWT/ipv6Cheatsheet.md"
+                "file": "GGP/1.Grundlagen der Wirtschaft_Schüler.pdf"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NWT/ipv6Cheatsheet.md",
+                "file": "GGP/1.Grundlagen der Wirtschaft_Schüler.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NWT/ipv6Cheatsheet.md",
+                "file": "GGP/1.Grundlagen der Wirtschaft_Schüler.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,10 +220,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "389dca158a5117c5",
+  "active": "1877716cfb2e0980",
   "lastOpenFiles": [
-    "Backlog_1023.md",
     "NWT/ipv6Cheatsheet.md",
+    "Backlog_1023.md",
     "GGP/1.Grundlagen der Wirtschaft_Schüler.pdf",
     "NWT/IPv6.md",
     "Attachments/address_format.png",
