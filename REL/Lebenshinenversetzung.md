@@ -1,4 +1,4 @@
-# Karten Dingsi da
+# Karten Dings' da
 #RK 
 
 Du bist elf Jahre alt. Du wohnst mit deinen Eltern und zwei jüngeren Geschwistern, einem Bruder und einer Schwester, in einem Dorf auf dem Land. Deine Eltern betreiben eine Bäckerei. Manchmal wirst du gehänselt, weil du ziemlich dick bist.
