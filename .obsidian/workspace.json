@@ -34,6 +34,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1877716cfb2e0980",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "GGP/1.Grundlagen der Wirtschaft_Schüler.pdf"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -212,13 +222,13 @@
   },
   "active": "389dca158a5117c5",
   "lastOpenFiles": [
-    "GGP/1.Grundlagen der Wirtschaft_Schüler.pdf",
+    "Backlog_1023.md",
     "NWT/ipv6Cheatsheet.md",
+    "GGP/1.Grundlagen der Wirtschaft_Schüler.pdf",
     "NWT/IPv6.md",
     "Attachments/address_format.png",
     "Attachments/dhcp_slaac.jpg",
     "Attachments/address_format.png.crdownload",
-    "Backlog_1023.md",
     "SEW-Prog/CodingContest/src/main/java/org/example/Level1.java",
     "copyLog.txt",
     "ITP/Projekte/RAH/JavaScript.md",

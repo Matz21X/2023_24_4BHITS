@@ -139,7 +139,7 @@ Depending on how the router and the client are set up, the client can (and will)
 ![[dhcp_slaac.jpg]]
 ## Using WireShark
 
-To gain a greater understanding of IPv6's functionality, you can use the packet sniffing tool WireShark to trace the message flow. Here are some WS filters for IPv6 ICMP, DHCPv6 and Router Solicitation and Advertisements:
+	To gain a greater understanding of IPv6's functionality, you can use the packet sniffing tool WireShark to trace the message flow. Here are some WS filters for IPv6 ICMP, DHCPv6 and Router Solicitation and Advertisements:
 
 Show ping and ping reply: `icmpv6 and (icmpv6.type==128) or (icmpv6.type==129)` <br>
 Router solicit and advertise: `icmpv6 and (icmpv6.type==133) or (icmpv6.type==134)` <br>
