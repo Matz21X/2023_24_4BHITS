@@ -28,19 +28,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NWT/IPv6.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f77c02b44391e367",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "NWT/ipv6Cheatsheet.md",
                 "mode": "source",
                 "backlinks": false,
@@ -126,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NWT/IPv6.md"
+                "file": "NWT/ipv6Cheatsheet.md"
               }
             }
           },
@@ -144,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NWT/IPv6.md"
+                "file": "NWT/ipv6Cheatsheet.md"
               }
             }
           },
@@ -170,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NWT/IPv6.md",
+                "file": "NWT/ipv6Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NWT/IPv6.md",
+                "file": "NWT/ipv6Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,6 +212,7 @@
   },
   "active": "389dca158a5117c5",
   "lastOpenFiles": [
+    "GGP/1.Grundlagen der Wirtschaft_Schüler.pdf",
     "NWT/ipv6Cheatsheet.md",
     "NWT/IPv6.md",
     "Attachments/address_format.png",
@@ -242,7 +230,6 @@
     "ITP/Projekte/RAH/wh1/package.json",
     "ITP/Projekte/RAH/wh1",
     "NW/~$ysikHA4_1.docx",
-    "NW/PhysikHA4_3.docx",
     "npm-image.md",
     "MEDT/aufgabe1/node_modules/safer-buffer/Readme.md",
     "Backlog_0923.md",
