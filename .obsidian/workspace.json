@@ -60,9 +60,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f86367cc7f7c88c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sevilla.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NWT/Kryptographie.md"
+                "file": "Backlog_1023.md"
               }
             }
           },
@@ -157,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NWT/Kryptographie.md"
+                "file": "Backlog_1023.md"
               }
             }
           },
@@ -183,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NWT/Kryptographie.md",
+                "file": "Backlog_1023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NWT/Kryptographie.md",
+                "file": "Backlog_1023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,12 +248,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4509405b9b2de68",
+  "active": "b062d40b930f9dfb",
   "lastOpenFiles": [
+    "Sevilla.md",
+    "Kinokarten.md",
+    "NWT/Kryptographie.md",
     "NWT/ipv6Cheatsheet.md",
     "NWT/LösungMITM.md",
     "NWT/IPv6.md",
-    "Kinokarten.md",
     "Backlog_1023.md",
     "REL/Oktober.md",
     "REL/Lebenshinenversetzung.md",
@@ -276,8 +290,6 @@
     "README.md",
     "Attachments/dependency.svg",
     "INSY/Grundlagen PSQL.md",
-    "NWT/AES.md",
-    "pic/dbs01.png.md",
     "Attachments/Pasted image 20231017172752.png",
     "Attachments/ERModel.png",
     "Attachments/ErModel.drawio.png",

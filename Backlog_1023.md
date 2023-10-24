@@ -78,3 +78,6 @@
 | -     | #GGP    | [[2.Sektoraler Wandel_Schüler.pdf]]                                                                                  |                                 |
 | -     | #EN     | Describing graphs                                                                                                    |                                 |
 | -     | #RK     | [[Lebenshinenversetzung]]                                                                                            |                                 |
+| 23.10 | #WIR    | Test zurückbekommen                                                                                                  |                                 |
+| -     | #NWT    | Wiederholung [[IPv6]]                                                                                                |                                 |
+| -     | #BSP    | GASIG GAS                                                                                                                     |                                 |
