@@ -26,10 +26,12 @@
             "id": "c4509405b9b2de68",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "NWT/ipv6Cheatsheet.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -60,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kinokarten.md"
+                "file": "NWT/ipv6Cheatsheet.md"
               }
             }
           },
@@ -155,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kinokarten.md"
+                "file": "NWT/ipv6Cheatsheet.md"
               }
             }
           },
@@ -181,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kinokarten.md",
+                "file": "NWT/ipv6Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kinokarten.md",
+                "file": "NWT/ipv6Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,12 +236,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6946704d643f7fdb",
+  "active": "c4509405b9b2de68",
   "lastOpenFiles": [
-    "NWT/IPv6.md",
     "NWT/LösungMITM.md",
-    "NWT/ipv6Cheatsheet.md",
+    "NWT/IPv6.md",
     "Kinokarten.md",
+    "NWT/ipv6Cheatsheet.md",
     "Backlog_1023.md",
     "REL/Oktober.md",
     "REL/Lebenshinenversetzung.md",
