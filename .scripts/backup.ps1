@@ -42,6 +42,7 @@ function GitPull {
     if ($LASTEXITCODE -eq 0) {
     Write-Host "Git Pull-Output: $gitPullOutput"
     UpdateOneDrive
+    Pause
 } else {
     Write-Host "ERROR: Git-Pull"
     Write-Host "Git Pull-Output: $gitPullOutput"
