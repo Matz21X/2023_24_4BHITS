@@ -60,21 +60,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f86367cc7f7c88c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sevilla.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1023.md"
+                "file": "NWT/IPv6.md"
               }
             }
           },
@@ -169,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1023.md"
+                "file": "NWT/IPv6.md"
               }
             }
           },
@@ -195,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1023.md",
+                "file": "NWT/IPv6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1023.md",
+                "file": "NWT/IPv6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,15 +236,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b062d40b930f9dfb",
+  "active": "d5b84e8bbfed07a1",
   "lastOpenFiles": [
-    "Sevilla.md",
-    "Kinokarten.md",
+    "Backlog_1023.md",
     "NWT/Kryptographie.md",
+    "NWT/IPv6.md",
+    "Kinokarten.md",
+    "Allgemein/Abwesenheiten.pdf",
+    "Allgemein/Stundenplan.pdf",
+    "Allgemein/Sevilla.md",
+    "Allgemein",
     "NWT/ipv6Cheatsheet.md",
     "NWT/LösungMITM.md",
-    "NWT/IPv6.md",
-    "Backlog_1023.md",
     "REL/Oktober.md",
     "REL/Lebenshinenversetzung.md",
     "GGP/2.Sektoraler Wandel_Schüler.pdf",
@@ -272,9 +263,6 @@
     "conflict-files-obsidian-git.md",
     "ITP/Projekte/RAH/wh1/03-Async-Await-ArrayMethods.js",
     "ITP/Projekte/RAH/wh1/03-Async-Await-ArrayMethods",
-    "ITP/Projekte/RAH/wh1/index.js",
-    "ITP/Projekte/RAH/wh1/package.json",
-    "ITP/Projekte/RAH/wh1",
     "npm-image.md",
     "MEDT/aufgabe1/node_modules/safer-buffer/Readme.md",
     "Backlog_0923.md",
@@ -289,7 +277,6 @@
     "WIR/Recht Test-Vorbereitung.md",
     "README.md",
     "Attachments/dependency.svg",
-    "INSY/Grundlagen PSQL.md",
     "Attachments/Pasted image 20231017172752.png",
     "Attachments/ERModel.png",
     "Attachments/ErModel.drawio.png",

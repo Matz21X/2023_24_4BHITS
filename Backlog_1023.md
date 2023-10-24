@@ -80,4 +80,5 @@
 | -     | #RK     | [[Lebenshinenversetzung]]                                                                                            |                                 |
 | 23.10 | #WIR    | Test zurückbekommen                                                                                                  |                                 |
 | -     | #NWT    | Wiederholung [[IPv6]]                                                                                                |                                 |
-| -     | #BSP    | GASIG GAS                                                                                                                     |                                 |
+| -     | #BSP    | GASIG GASIG GAS [[Gasig.jpg]]                                                                                        |                                 |
+| -     | #INSY   | Python Basics / [[Sevilla]]                                                                                                       |                                 | 
