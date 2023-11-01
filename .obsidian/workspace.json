@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/Socketing.md"
+                "file": "SEW-Theorie/HttpClient_in_Java.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/Socketing.md"
+                "file": "SEW-Theorie/HttpClient_in_Java.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/Socketing.md",
+                "file": "SEW-Theorie/HttpClient_in_Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/Socketing.md",
+                "file": "SEW-Theorie/HttpClient_in_Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,8 +236,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a85b14287fa97994",
+  "active": "035e53b0b76991b4",
   "lastOpenFiles": [
+    "SEW-Theorie/Socketing.md",
     "SEW-Prog/MulServerClient/target/classes/at/htlhl/mulserverclient/MulServer.class",
     "SEW-Prog/MulServerClient/target/classes/at/htlhl/mulserverclient/MulClient.class",
     "SEW-Prog/MulServerClient/target/classes/at/htlhl/mulserverclient/Main.class",
@@ -252,14 +253,12 @@
     "SEW-Theorie/HttpClient_in_Java.md",
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/SpringBoot.md",
-    "SEW-Theorie/Socketing.md",
     "Backlog_1023.md",
     "Allgemein/Sevilla.md",
     "README.md",
     "NWT/Kryptographie.md",
     "NWT/IPv6.md",
     "Kinokarten.md",
-    "Allgemein/Abwesenheiten.pdf",
     "NWT/ipv6Cheatsheet.md",
     "NWT/LösungMITM.md",
     "REL/Oktober.md",
