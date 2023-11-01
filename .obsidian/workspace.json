@@ -23,19 +23,6 @@
             }
           },
           {
-            "id": "c4509405b9b2de68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NWT/Kryptographie.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d5b84e8bbfed07a1",
             "type": "leaf",
             "state": {
@@ -49,19 +36,20 @@
             }
           },
           {
-            "id": "6946704d643f7fdb",
+            "id": "035e53b0b76991b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kinokarten.md",
+                "file": "SEW-Theorie/RESTful Webservices.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,8 +95,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1023.md"
+                "file": "SEW-Theorie/RESTful Webservices.md"
               }
             }
           },
@@ -157,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1023.md"
+                "file": "SEW-Theorie/RESTful Webservices.md"
               }
             }
           },
@@ -183,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1023.md",
+                "file": "SEW-Theorie/RESTful Webservices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1023.md",
+                "file": "SEW-Theorie/RESTful Webservices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,15 +223,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b062d40b930f9dfb",
+  "active": "035e53b0b76991b4",
   "lastOpenFiles": [
-    "NWT/Kryptographie.md",
+    "SEW-Theorie/HttpClient_in_Java.md",
+    "SEW-Theorie/Dependency Injection (Pattern).md",
     "Backlog_1023.md",
-    "Kinokarten.md",
+    "Allgemein/Sevilla.md",
+    "README.md",
+    "NWT/Kryptographie.md",
     "NWT/IPv6.md",
+    "Kinokarten.md",
+    "SEW-Theorie/SpringBoot.md",
+    "SEW-Theorie/Socketing.md",
+    "SEW-Theorie/RESTful Webservices.md",
     "Allgemein/Abwesenheiten.pdf",
     "Allgemein/Stundenplan.pdf",
-    "Allgemein/Sevilla.md",
     "Allgemein",
     "NWT/ipv6Cheatsheet.md",
     "NWT/LösungMITM.md",
@@ -271,11 +264,6 @@
     "WIR/Unternehmensarten.md",
     "WIR/Wirtschaft-Test Vorbereitung.md",
     "WIR/Wirtschaftsordnung.md",
-    "WIR/Wirtschaftssubjekte.md",
-    "WIR/Gewinnermittlung_Kap2.md",
-    "SEW-Theorie/Dependency Injection (Pattern).md",
-    "WIR/Recht Test-Vorbereitung.md",
-    "README.md",
     "Attachments/dependency.svg",
     "Attachments/Pasted image 20231017172752.png",
     "Attachments/ERModel.png",

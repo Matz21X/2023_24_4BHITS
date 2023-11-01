@@ -31,7 +31,7 @@ public class A {
 
 **Es gibt 3 Arten der Injektion mittels:**
 - Konstruktor (Siehe Bsp. oben)
-- setter
+- Setter
 - Eigenschaft (z.B. mit Annotierung `@Autowired` in Spring)
 
 **Vorteile von Dependency Injection:**
