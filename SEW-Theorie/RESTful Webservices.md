@@ -1,6 +1,7 @@
 # RESTful Webservices
 #SEW
 
+<span style="color:#00b050">REPRESENTATIONAL STATE TRANSFER</span>
 Webservices bieten die Möglichkeit Dienste, die ein Server zur Verfügung stellt, anzusprechen. RESTful Webservices folgen den REST-Grundprinzipien.
 
 ==Eindeutige Definition von Ressourcen==
@@ -19,6 +20,14 @@ Bei RESTful Webservices gibt es keinen Sitzungsstatus, der serverseitig gespeich
 
 
    ![[RESTful_Webservices.drawio.svg]]
+### Vorteile
+
+- Simple / Standardised
+- Scaleable / Stateless
+- High Performance / Caching
+
+
+
 **Operationen**
 
 | **Operation** | **Request**                               |
