@@ -19,3 +19,11 @@ Bei RESTful Webservices gibt es keinen Sitzungsstatus, der serverseitig gespeich
 
 
    ![[RESTful_Webservices.drawio.svg]]
+**Operationen**
+
+| **Operation** | **Request**                               |
+| ------------- | ----------------------------------------- |
+| CREATE        | <span style="color:#00b050">POST</span>   |
+| READ          | <span style="color:#00b050">GET</span>    |
+| UPDATE        | <span style="color:#00b050">PUT</span>    |
+| DELETE        | <span style="color:#00b050">DELETE</span> |
