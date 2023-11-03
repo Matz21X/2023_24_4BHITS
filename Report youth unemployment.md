@@ -5,13 +5,19 @@ To: EYP
 From: Matthias Hrbek
 Date: 3.11.23
 
-**Subject:** Analysis on EU youth unemployment rates
+**Subject:** Analysis on EU youth unemployment rates 
 
 **Introduction**
-The chart below provides an overview of the youth-unemployment-rates across six European countries and indicates the EU average as well. This report is centred mainly around job opportunities for young adults.
+This report delves into the analysis of youth unemployment rates in six European countries, alongside the EU average. The focus here is primarily on exploring the job opportunities available to young adults, a critical aspect of their economic well-being and prospects.
 
 **Findings**
-According to the chart, young Germans have the best job opportunities across Europe, with an youth unemployment rate of just ~7%. Austrians follow closely behind with a rate of 10%. The foundation of this low unemployment rate is the education of the youth. It's much easier to find an vacant position if you're more educated. Next up on the graph is the United Kingdom with a rate of 15%. The EU average lays at 21%. Shockingly 42% of all young adults in Italy are unemployed. An even higher rate can be observed in Greece and Spain. They both hover around 50%
+The chart paints a diverse picture of youth unemployment rates in Europe. Germany stands out with the lowest rate at approximately 7%, reflecting robust employment prospects for its young population. The secret behind this success lies in Germany's strong emphasis on education and vocational training, providing youth with the skills and qualifications sought after by employers.
+
+Austria closely follows with a 10% youth unemployment rate, benefiting from a similar commitment to education and skill development. The United Kingdom maintains a relatively favorable position with a 15% youth unemployment rate, below the EU average of 21%.
+
+In stark contrast, Italy faces a daunting challenge, recording a staggering 42% youth unemployment rate, while Greece and Spain confront even more distressing figures, both hovering around 50%.
 
 **Recommendation**
-To achieve lower youth unemployment rates it is recommended for young adults to do summer internships. Through an internship they can gain work experience in a specific 
+To address the issue of youth unemployment, promoting summer internships is a recommended strategy. Internships offer young adults an opportunity to acquire valuable work experience, enhance their skills, and enrich their resumes. Additionally, internships signal to potential employers a candidate's commitment and readiness for the workforce. Encouraging internships can be a pivotal step towards reducing youth unemployment rates across Europe.
+
+Moreover, it's crucial for policymakers and educational institutions to collaborate on creating apprenticeship and training programs that bridge the gap between education and employment. These measures will contribute to a brighter future for the continent's youth and foster economic growth in the region.
