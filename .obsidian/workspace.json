@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Report youth unemployment.md"
+                "file": "EN/report_youth unemployment rates.pdf"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Report youth unemployment.md"
+                "file": "EN/report_youth unemployment rates.pdf"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Report youth unemployment.md",
+                "file": "EN/report_youth unemployment rates.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Report youth unemployment.md",
+                "file": "EN/report_youth unemployment rates.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,10 +239,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "035e53b0b76991b4",
+  "active": "618990bae1100dc5",
   "lastOpenFiles": [
-    "SEW-Theorie/HttpClient_in_Java.md",
     "Report youth unemployment.md",
+    "SEW-Theorie/HttpClient_in_Java.md",
     "EN/report_youth unemployment rates.pdf",
     "SEW-Theorie/Socketing.md",
     "EN/report_youth_unemployment_rates.docx",
