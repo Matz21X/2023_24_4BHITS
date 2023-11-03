@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EN/report_youth unemployment rates.pdf"
+                "file": "Report youth unemployment.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "EN/report_youth unemployment rates.pdf"
+                "file": "Report youth unemployment.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EN/report_youth unemployment rates.pdf",
+                "file": "Report youth unemployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EN/report_youth unemployment rates.pdf",
+                "file": "Report youth unemployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,11 +239,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "618990bae1100dc5",
+  "active": "035e53b0b76991b4",
   "lastOpenFiles": [
+    "EN/report_youth unemployment rates.pdf",
     "Report youth unemployment.md",
     "SEW-Theorie/HttpClient_in_Java.md",
-    "EN/report_youth unemployment rates.pdf",
     "SEW-Theorie/Socketing.md",
     "EN/report_youth_unemployment_rates.docx",
     "SEW-Prog/HttpClientDemo/target/classes/at/htlhl/httpclientdemo/model/Products.class",
