@@ -4,6 +4,22 @@
     "type": "split",
     "children": [
       {
+        "id": "0e48add9024a45ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "618990bae1100dc5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "EN/report_youth unemployment rates.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "b1319725b19f36c6",
         "type": "tabs",
         "children": [
@@ -54,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEW-Theorie/Socketing.md",
+                "file": "Report youth unemployment.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/HttpClient_in_Java.md"
+                "file": "EN/report_youth unemployment rates.pdf"
               }
             }
           },
@@ -157,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/HttpClient_in_Java.md"
+                "file": "EN/report_youth unemployment rates.pdf"
               }
             }
           },
@@ -183,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/HttpClient_in_Java.md",
+                "file": "EN/report_youth unemployment rates.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/HttpClient_in_Java.md",
+                "file": "EN/report_youth unemployment rates.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,8 +252,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "035e53b0b76991b4",
+  "active": "618990bae1100dc5",
   "lastOpenFiles": [
+    "Report youth unemployment.md",
+    "SEW-Theorie/Socketing.md",
+    "EN/report_youth unemployment rates.pdf",
+    "SEW-Theorie/HttpClient_in_Java.md",
     "EN/report_youth_unemployment_rates.docx",
     "SEW-Prog/HttpClientDemo/target/classes/at/htlhl/httpclientdemo/model/Products.class",
     "SEW-Prog/HttpClientDemo/target/classes/at/htlhl/httpclientdemo/model/Product.class",
@@ -247,11 +267,7 @@
     "SEW-Prog/HttpClientDemo/target/classes/at/htlhl/httpclientdemo",
     "SEW-Prog/HttpClientDemo/target/classes/at/htlhl",
     "SEW-Prog/HttpClientDemo/target/classes/at",
-    "SEW-Prog/HttpClientDemo/target/generated-sources/annotations",
-    "SEW-Prog/HttpClientDemo/target/classes",
-    "SEW-Theorie/Socketing.md",
     "SEW-Theorie/Dependency Injection (Pattern).md",
-    "SEW-Theorie/HttpClient_in_Java.md",
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/SpringBoot.md",
     "Backlog_1023.md",
@@ -276,7 +292,6 @@
     "REL/September.md",
     "MEDT/aufgabe1/node_modules/safer-buffer/Porting-Buffer.md",
     "WIR/Unternehmensarten.md",
-    "WIR/Wirtschaft-Test Vorbereitung.md",
     "Attachments/dependency.svg",
     "Attachments/Pasted image 20231017172752.png",
     "Attachments/ERModel.png",
