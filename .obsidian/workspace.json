@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Report youth unemployment.md",
+                "file": "EN/Report youth unemployment.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Report youth unemployment.md"
+                "file": "EN/Report youth unemployment.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Report youth unemployment.md"
+                "file": "EN/Report youth unemployment.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Report youth unemployment.md",
+                "file": "EN/Report youth unemployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Report youth unemployment.md",
+                "file": "EN/Report youth unemployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,19 +241,20 @@
   },
   "active": "035e53b0b76991b4",
   "lastOpenFiles": [
+    "EN/~WRL0004.tmp",
+    "EN/~WRD0003.tmp",
+    "EN/~WRD0002.tmp",
+    "EN/~$port youth unemployment.docx",
+    "EN/~WRL0001.tmp",
+    "EN/~WRD0000.tmp",
+    "EN/Report youth unemployment.docx",
     "EN/report_youth unemployment rates.pdf",
-    "Report youth unemployment.md",
+    "EN/Report youth unemployment.md",
     "SEW-Theorie/HttpClient_in_Java.md",
     "SEW-Theorie/Socketing.md",
     "EN/report_youth_unemployment_rates.docx",
     "SEW-Prog/HttpClientDemo/target/classes/at/htlhl/httpclientdemo/model/Products.class",
     "SEW-Prog/HttpClientDemo/target/classes/at/htlhl/httpclientdemo/model/Product.class",
-    "SEW-Prog/HttpClientDemo/target/classes/at/htlhl/httpclientdemo/model",
-    "SEW-Prog/HttpClientDemo/target/classes/at/htlhl/httpclientdemo/HttpPostDemo.class",
-    "SEW-Prog/HttpClientDemo/target/classes/at/htlhl/httpclientdemo/HttpGetDemo.class",
-    "SEW-Prog/HttpClientDemo/target/classes/at/htlhl/httpclientdemo",
-    "SEW-Prog/HttpClientDemo/target/classes/at/htlhl",
-    "SEW-Prog/HttpClientDemo/target/classes/at",
     "SEW-Theorie/Dependency Injection (Pattern).md",
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/SpringBoot.md",
