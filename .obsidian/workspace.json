@@ -47,9 +47,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9703113e612f6358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REL/Oktober.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1023.md"
+                "file": "REL/Oktober.md"
               }
             }
           },
@@ -144,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1023.md"
+                "file": "REL/Oktober.md"
               }
             }
           },
@@ -170,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1023.md",
+                "file": "REL/Oktober.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1023.md",
+                "file": "REL/Oktober.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,10 +236,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "711d93295684c2d8",
+  "active": "9703113e612f6358",
   "lastOpenFiles": [
-    "Attachments/Gasig.jpg",
+    "REL/Lebenshinenversetzung.md",
+    "NWT/Spanning Tree.md",
     "Backlog_1023.md",
+    "Attachments/SpanningTree.svg",
+    "Attachments/Gasig.jpg",
     "Backlog_1123.md",
     "SEW-Theorie/SpringBoot.md",
     "SEW-Theorie/Socketing.md",
@@ -253,7 +269,6 @@
     "NWT/ipv6Cheatsheet.md",
     "NWT/LösungMITM.md",
     "REL/Oktober.md",
-    "REL/Lebenshinenversetzung.md",
     "Attachments/ErModel.drawio.svg",
     "Attachments/address_format.png",
     "Attachments/dhcp_slaac.jpg",
@@ -269,7 +284,6 @@
     "Attachments/ERModel.png",
     "Attachments/ErModel.drawio.png",
     "Attachments/katholischeSozial.svg",
-    "WIR/Recht/Pasted image 20231015174010.png",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
