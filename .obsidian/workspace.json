@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEW-Theorie/HttpClient_in_Java.md",
+                "file": "SEW-Theorie/SpringBoot.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/HttpClient_in_Java.md"
+                "file": "SEW-Theorie/SpringBoot.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/HttpClient_in_Java.md"
+                "file": "SEW-Theorie/SpringBoot.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/HttpClient_in_Java.md",
+                "file": "SEW-Theorie/SpringBoot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/HttpClient_in_Java.md",
+                "file": "SEW-Theorie/SpringBoot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,11 +238,22 @@
   },
   "active": "b344ea034e6a8c5b",
   "lastOpenFiles": [
-    "SEW-Theorie/Dependency Injection (Pattern).md",
-    "SEW-Theorie/SpringBoot.md",
+    "SEW-Prog/WeatherServer/target/classes/at/htlhl/weatherserver/WeatherServerApplication.class",
+    "SEW-Prog/WeatherServer/target/classes/at/htlhl/weatherserver/models/Temperature.class",
+    "SEW-Prog/WeatherServer/target/classes/at/htlhl/weatherserver/models",
+    "SEW-Prog/WeatherServer/target/classes/at/htlhl/weatherserver/controllers/GreetingController.class",
+    "SEW-Prog/WeatherServer/target/classes/at/htlhl/weatherserver/controllers",
+    "SEW-Prog/WeatherServer/target/classes/at/htlhl/weatherserver",
+    "SEW-Prog/WeatherServer/target/classes/at/htlhl",
+    "SEW-Prog/WeatherServer/target/classes/at",
+    "SEW-Prog/WeatherServer/target/generated-sources/annotations",
+    "SEW-Prog/WeatherServer/target/generated-sources",
+    "SEW-Prog/WeatherServer/target/classes/schema.sql",
     "SEW-Theorie/Socketing.md",
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/HttpClient_in_Java.md",
+    "SEW-Theorie/Dependency Injection (Pattern).md",
+    "SEW-Theorie/SpringBoot.md",
     "Backlog_1123.md",
     "NWT/Spanning Tree.md",
     "Attachments/Pasted image 20231106084558.png",
@@ -253,16 +264,6 @@
     "Attachments/Gasig.jpg",
     "Backlog_0923.md",
     "EN/Report youth unemployment.md",
-    "EN/~WRL0004.tmp",
-    "EN/~WRD0003.tmp",
-    "EN/~WRD0002.tmp",
-    "EN/~$port youth unemployment.docx",
-    "EN/~WRL0001.tmp",
-    "EN/~WRD0000.tmp",
-    "EN/Report youth unemployment.docx",
-    "EN/report_youth unemployment rates.pdf",
-    "EN/report_youth_unemployment_rates.docx",
-    "SEW-Prog/HttpClientDemo/target/classes/at/htlhl/httpclientdemo/model/Products.class",
     "Allgemein/Sevilla.md",
     "README.md",
     "NWT/Kryptographie.md",
