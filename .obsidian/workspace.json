@@ -23,38 +23,12 @@
             }
           },
           {
-            "id": "f771e229dba707d6",
+            "id": "590d8115b22e1466",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEW-Theorie/SpringBoot.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "711d93295684c2d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backlog_1023.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9703113e612f6358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REL/Oktober.md",
+                "file": "NWT/Spanning Tree.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REL/Oktober.md"
+                "file": "NWT/Spanning Tree.md"
               }
             }
           },
@@ -157,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "REL/Oktober.md"
+                "file": "NWT/Spanning Tree.md"
               }
             }
           },
@@ -183,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REL/Oktober.md",
+                "file": "NWT/Spanning Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REL/Oktober.md",
+                "file": "NWT/Spanning Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,15 +210,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9703113e612f6358",
+  "active": "590d8115b22e1466",
   "lastOpenFiles": [
-    "REL/Lebenshinenversetzung.md",
-    "NWT/Spanning Tree.md",
-    "Backlog_1023.md",
-    "Attachments/SpanningTree.svg",
-    "Attachments/Gasig.jpg",
+    "Attachments/Pasted image 20231106084558.png",
     "Backlog_1123.md",
     "SEW-Theorie/SpringBoot.md",
+    "Backlog_1023.md",
+    "REL/Oktober.md",
+    "REL/Lebenshinenversetzung.md",
+    "NWT/Spanning Tree.md",
+    "Attachments/SpanningTree.svg",
+    "Attachments/Gasig.jpg",
     "SEW-Theorie/Socketing.md",
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/HttpClient_in_Java.md",
@@ -268,7 +244,6 @@
     "Kinokarten.md",
     "NWT/ipv6Cheatsheet.md",
     "NWT/LösungMITM.md",
-    "REL/Oktober.md",
     "Attachments/ErModel.drawio.svg",
     "Attachments/address_format.png",
     "Attachments/dhcp_slaac.jpg",
@@ -278,7 +253,6 @@
     "npm-image.md",
     "MEDT/aufgabe1/node_modules/safer-buffer/Readme.md",
     "REL/September.md",
-    "MEDT/aufgabe1/node_modules/safer-buffer/Porting-Buffer.md",
     "Attachments/dependency.svg",
     "Attachments/Pasted image 20231017172752.png",
     "Attachments/ERModel.png",
