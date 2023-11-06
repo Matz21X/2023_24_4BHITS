@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "570a6430f7391c54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SEW-Theorie/Dependency Injection (Pattern).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NWT/Spanning Tree.md"
+                "file": "SEW-Theorie/Dependency Injection (Pattern).md"
               }
             }
           },
@@ -131,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NWT/Spanning Tree.md"
+                "file": "SEW-Theorie/Dependency Injection (Pattern).md"
               }
             }
           },
@@ -157,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NWT/Spanning Tree.md",
+                "file": "SEW-Theorie/Dependency Injection (Pattern).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NWT/Spanning Tree.md",
+                "file": "SEW-Theorie/Dependency Injection (Pattern).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,21 +223,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "590d8115b22e1466",
+  "active": "570a6430f7391c54",
   "lastOpenFiles": [
+    "SEW-Theorie/HttpClient_in_Java.md",
+    "SEW-Theorie/RESTful Webservices.md",
+    "SEW-Theorie/Socketing.md",
+    "SEW-Theorie/SpringBoot.md",
+    "SEW-Theorie/Dependency Injection (Pattern).md",
+    "NWT/Spanning Tree.md",
     "Attachments/Pasted image 20231106084558.png",
     "Backlog_1123.md",
-    "SEW-Theorie/SpringBoot.md",
     "Backlog_1023.md",
     "REL/Oktober.md",
     "REL/Lebenshinenversetzung.md",
-    "NWT/Spanning Tree.md",
     "Attachments/SpanningTree.svg",
     "Attachments/Gasig.jpg",
-    "SEW-Theorie/Socketing.md",
-    "SEW-Theorie/RESTful Webservices.md",
-    "SEW-Theorie/HttpClient_in_Java.md",
-    "SEW-Theorie/Dependency Injection (Pattern).md",
     "Backlog_0923.md",
     "EN/Report youth unemployment.md",
     "EN/~WRL0004.tmp",
@@ -257,7 +270,6 @@
     "Attachments/Pasted image 20231017172752.png",
     "Attachments/ERModel.png",
     "Attachments/ErModel.drawio.png",
-    "Attachments/katholischeSozial.svg",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
