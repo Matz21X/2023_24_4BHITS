@@ -47,9 +47,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b344ea034e6a8c5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SEW-Theorie/Socketing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/Dependency Injection (Pattern).md"
+                "file": "SEW-Theorie/Socketing.md"
               }
             }
           },
@@ -144,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/Dependency Injection (Pattern).md"
+                "file": "SEW-Theorie/Socketing.md"
               }
             }
           },
@@ -170,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/Dependency Injection (Pattern).md",
+                "file": "SEW-Theorie/Socketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/Dependency Injection (Pattern).md",
+                "file": "SEW-Theorie/Socketing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,16 +236,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "570a6430f7391c54",
+  "active": "b344ea034e6a8c5b",
   "lastOpenFiles": [
-    "SEW-Theorie/HttpClient_in_Java.md",
     "SEW-Theorie/RESTful Webservices.md",
+    "SEW-Theorie/HttpClient_in_Java.md",
+    "SEW-Theorie/Dependency Injection (Pattern).md",
+    "Backlog_1123.md",
     "SEW-Theorie/Socketing.md",
     "SEW-Theorie/SpringBoot.md",
-    "SEW-Theorie/Dependency Injection (Pattern).md",
     "NWT/Spanning Tree.md",
     "Attachments/Pasted image 20231106084558.png",
-    "Backlog_1123.md",
     "Backlog_1023.md",
     "REL/Oktober.md",
     "REL/Lebenshinenversetzung.md",
