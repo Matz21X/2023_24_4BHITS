@@ -65,9 +65,12 @@
             "id": "7f0c710a0c9f6c3f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "DE/Das Brot_Text (4).pdf"
+                "file": "DE/Textanalyse-Das Brot.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -149,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DE/Das Brot_Text (4).pdf"
+                "file": "DE/Textanalyse-Das Brot.md"
               }
             }
           },
@@ -167,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DE/Das Brot_Text (4).pdf"
+                "file": "DE/Textanalyse-Das Brot.md"
               }
             }
           },
@@ -193,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DE/Das Brot_Text (4).pdf",
+                "file": "DE/Textanalyse-Das Brot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DE/Das Brot_Text (4).pdf",
+                "file": "DE/Textanalyse-Das Brot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,8 +251,9 @@
   },
   "active": "7f0c710a0c9f6c3f",
   "lastOpenFiles": [
-    "DE/Textanalyse-Das Brot.md",
     "DE/DasBrot.md",
+    "DE/Das Brot_Text (4).pdf",
+    "DE/Textanalyse-Das Brot.md",
     "Backlog_1123.md",
     "SEW-Theorie/SpringBoot.md",
     "SEW-Prog/WeatherServer/target/classes/at/htlhl/weatherserver/WeatherServerApplication.class",
@@ -261,7 +265,6 @@
     "SEW-Prog/WeatherServer/target/classes/at/htlhl",
     "SEW-Prog/WeatherServer/target/classes/at",
     "SEW-Prog/WeatherServer/target/generated-sources/annotations",
-    "SEW-Prog/WeatherServer/target/generated-sources",
     "SEW-Theorie/Socketing.md",
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/HttpClient_in_Java.md",
@@ -289,7 +292,6 @@
     "NW/Relativitätstheorie.md",
     "conflict-files-obsidian-git.md",
     "npm-image.md",
-    "MEDT/aufgabe1/node_modules/safer-buffer/Readme.md",
     "Attachments/dependency.svg",
     "Attachments/Pasted image 20231017172752.png",
     "Attachments/ERModel.png",
