@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEW-Theorie/Socketing.md",
+                "file": "SEW-Theorie/HttpClient_in_Java.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/Socketing.md"
+                "file": "SEW-Theorie/HttpClient_in_Java.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/Socketing.md"
+                "file": "SEW-Theorie/HttpClient_in_Java.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/Socketing.md",
+                "file": "SEW-Theorie/HttpClient_in_Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/Socketing.md",
+                "file": "SEW-Theorie/HttpClient_in_Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,23 +238,22 @@
   },
   "active": "570a6430f7391c54",
   "lastOpenFiles": [
+    "SEW-Theorie/SpringBoot.md",
+    "SEW-Theorie/Socketing.md",
     "SEW-Theorie/~$Spicka.docx",
     "SEW-Theorie/~WRL0005.tmp",
     "SEW-Theorie/~WRD0004.tmp",
     "SEW-Theorie/Spicka.docx",
     "DE/Textanalyse-Das Brot.md",
     "SEW-Theorie/RESTful Webservices.md",
-    "SEW-Theorie/Socketing.md",
     "SEW-Theorie/Dependency Injection (Pattern).md",
     "SEW-Theorie/HttpClient_in_Java.md",
-    "SEW-Theorie/SpringBoot.md",
     "SEW-Prog/DependencyInj/src/Burger.java",
     "SEW-Prog/DependencyInj/src/Chef.java",
     "SEW-Prog/DependencyInj/src/Food.java",
     "SEW-Prog/DependencyInj/DependencyInj.iml",
     "SEW-Prog/DependencyInj/src/Main.java",
     "SEW-Prog/DependencyInj/src",
-    "SEW-Prog/DependencyInj",
     "NWT/Spanning Tree.md",
     "Backlog_1023.md",
     "Backlog_1123.md",
