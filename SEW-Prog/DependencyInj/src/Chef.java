@@ -6,5 +6,5 @@ public class Chef {
         this.food = food;
     }
 
-    
+
 }
