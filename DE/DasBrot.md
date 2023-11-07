@@ -65,10 +65,11 @@ Kurzgeschichten Vorbereitung auf die Berufsreife
 	a) Notieren Sie für jeden Absatz die Zeilenangaben. 
 		1. 13. 23. 36.
 	b) Formulieren Sie zu jedem Absatz eine passende Teilüberschrift.
-		
 	c) Fassen Sie den Inhalt jedes Absatzes in ein bis zwei Sätzen zusammen.
+
 1. Nennen Sie drei Merkmale einer Kurzgeschichte und zeigen Sie, dass diese Merkmale
 auch für Wolfgang Borcherts Kurzgeschichte „Das Brot“ zutreffen.
+
 5. Schreiben Sie eine Inhaltsangabe zu Wolfgang Borcherts Kurzgeschichte „Das Brot“.
 	a) Machen Sie in der Einleitung Angaben zum Titel, zum Autor und zur Textsorte und
 formulieren Sie das Thema des Textes.
