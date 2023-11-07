@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/RESTful Webservices.md"
+                "file": "SEW-Theorie/Dependency Injection (Pattern).md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/RESTful Webservices.md"
+                "file": "SEW-Theorie/Dependency Injection (Pattern).md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/RESTful Webservices.md",
+                "file": "SEW-Theorie/Dependency Injection (Pattern).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/RESTful Webservices.md",
+                "file": "SEW-Theorie/Dependency Injection (Pattern).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,11 +217,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,8 +236,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "590d8115b22e1466",
+  "active": "38083c4526031a57",
   "lastOpenFiles": [
+    "SEW-Prog/DependencyInj/src/Burger.java",
+    "SEW-Prog/DependencyInj/src/Chef.java",
+    "SEW-Prog/DependencyInj/src/Food.java",
+    "SEW-Theorie/RESTful Webservices.md",
+    "SEW-Prog/DependencyInj/DependencyInj.iml",
+    "SEW-Prog/DependencyInj/src/Main.java",
+    "SEW-Prog/DependencyInj/src",
+    "SEW-Prog/DependencyInj",
     "SEW-Theorie/SpringBoot.md",
     "NWT/Spanning Tree.md",
     "SEW-Theorie/Dependency Injection (Pattern).md",
@@ -249,14 +257,7 @@
     "SEW-Prog/WeatherServer/target/classes/at/htlhl/weatherserver/WeatherServerApplication.class",
     "SEW-Prog/WeatherServer/target/classes/at/htlhl/weatherserver/models/Temperature.class",
     "SEW-Prog/WeatherServer/target/classes/at/htlhl/weatherserver/models",
-    "SEW-Prog/WeatherServer/target/classes/at/htlhl/weatherserver/controllers/GreetingController.class",
-    "SEW-Prog/WeatherServer/target/classes/at/htlhl/weatherserver/controllers",
-    "SEW-Prog/WeatherServer/target/classes/at/htlhl/weatherserver",
-    "SEW-Prog/WeatherServer/target/classes/at/htlhl",
-    "SEW-Prog/WeatherServer/target/classes/at",
-    "SEW-Prog/WeatherServer/target/generated-sources/annotations",
     "SEW-Theorie/Socketing.md",
-    "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/HttpClient_in_Java.md",
     "Attachments/Pasted image 20231106084558.png",
     "REL/Oktober.md",
