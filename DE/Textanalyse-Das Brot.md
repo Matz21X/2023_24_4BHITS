@@ -10,3 +10,5 @@ In dem Werk geht es um ein älteres Ehepaar. Die Frau erwischt ihren Mann dabei,
 Der Aufbau spiegelt die typischen Merkmale einer Kurzgeschichte wider. Die Geschichte startet rasch ins Geschehen und endet mit einem offenen Ende, das den Leser über das zukünftige Leben der Charaktere vermuten lässt. Der Textaufbau ist fragmentiert und vermittelt die Gedanken und die Umgebung der Charaktere, was zur Intimität und Spannung des Textes beiträgt. Die auktoriale Erzählperspektive trägt zudem zum Gefühl einer gewissen Nähe zu den Personen bei.
 
 Satzbau und Sprachliche Merkmale (10-14)
+
+Der Satzbau und die Wortwahl im Text sind eher kurz und einfach. 
