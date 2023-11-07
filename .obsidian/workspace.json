@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NWT/Spanning Tree.md",
+                "file": "SEW-Theorie/SpringBoot.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/Dependency Injection (Pattern).md"
+                "file": "SEW-Theorie/SpringBoot.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/Dependency Injection (Pattern).md"
+                "file": "SEW-Theorie/SpringBoot.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/Dependency Injection (Pattern).md",
+                "file": "SEW-Theorie/SpringBoot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/Dependency Injection (Pattern).md",
+                "file": "SEW-Theorie/SpringBoot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,8 +236,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "570a6430f7391c54",
+  "active": "590d8115b22e1466",
   "lastOpenFiles": [
+    "NWT/Spanning Tree.md",
+    "SEW-Theorie/Dependency Injection (Pattern).md",
     "DE/Textanalyse-Das Brot.md",
     "Backlog_1023.md",
     "SEW-Theorie/SpringBoot.md",
@@ -256,8 +258,6 @@
     "SEW-Theorie/Socketing.md",
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/HttpClient_in_Java.md",
-    "SEW-Theorie/Dependency Injection (Pattern).md",
-    "NWT/Spanning Tree.md",
     "Attachments/Pasted image 20231106084558.png",
     "REL/Oktober.md",
     "REL/Lebenshinenversetzung.md",
