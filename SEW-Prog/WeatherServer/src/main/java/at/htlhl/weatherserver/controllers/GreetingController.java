@@ -29,7 +29,7 @@ public class GreetingController {
     @GetMapping(value = "/hello/{name}", produces = "application/json")
     @Operation(summary = "Say hello to the given name")
     @ResponseStatus(HttpStatus.OK)
-    public String sayHelloAlternative(@PathVariable String name){
+    public String sayHelloAlternative(@PathVariable String name) {
         return JSON_STRING.replace("${name}", name);
     }
 
