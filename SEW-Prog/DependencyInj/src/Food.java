@@ -1,5 +1,5 @@
 public interface Food {
 
-    public void getNutrients();
+    public void prepareFood();
 
 }

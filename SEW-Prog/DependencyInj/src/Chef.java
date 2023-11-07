@@ -1,8 +1,10 @@
-public class Burger {
+public class Chef {
 
     public Food food;
 
-    public Burger(Food food) {
+    public Chef(Food food) {
         this.food = food;
     }
+
+    
 }
