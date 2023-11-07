@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/SpringBoot.md"
+                "file": "Backlog_1123.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/SpringBoot.md"
+                "file": "Backlog_1123.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/SpringBoot.md",
+                "file": "Backlog_1123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/SpringBoot.md",
+                "file": "Backlog_1123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,8 +235,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b344ea034e6a8c5b",
+  "active": "d38f66751bba2e52",
   "lastOpenFiles": [
+    "SEW-Theorie/SpringBoot.md",
     "SEW-Prog/WeatherServer/target/classes/at/htlhl/weatherserver/WeatherServerApplication.class",
     "SEW-Prog/WeatherServer/target/classes/at/htlhl/weatherserver/models/Temperature.class",
     "SEW-Prog/WeatherServer/target/classes/at/htlhl/weatherserver/models",
@@ -248,12 +248,10 @@
     "SEW-Prog/WeatherServer/target/classes/at",
     "SEW-Prog/WeatherServer/target/generated-sources/annotations",
     "SEW-Prog/WeatherServer/target/generated-sources",
-    "SEW-Prog/WeatherServer/target/classes/schema.sql",
     "SEW-Theorie/Socketing.md",
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/HttpClient_in_Java.md",
     "SEW-Theorie/Dependency Injection (Pattern).md",
-    "SEW-Theorie/SpringBoot.md",
     "Backlog_1123.md",
     "NWT/Spanning Tree.md",
     "Attachments/Pasted image 20231106084558.png",
