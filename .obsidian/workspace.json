@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEW-Theorie/RESTful Webservices.md",
+                "file": "SEW-Theorie/Socketing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/RESTful Webservices.md"
+                "file": "SEW-Theorie/Socketing.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/RESTful Webservices.md"
+                "file": "SEW-Theorie/Socketing.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/RESTful Webservices.md",
+                "file": "SEW-Theorie/Socketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/RESTful Webservices.md",
+                "file": "SEW-Theorie/Socketing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,11 +238,16 @@
   },
   "active": "570a6430f7391c54",
   "lastOpenFiles": [
-    "SEW-Theorie/HttpClient_in_Java.md",
-    "SEW-Theorie/Dependency Injection (Pattern).md",
-    "SEW-Theorie/SpringBoot.md",
+    "SEW-Theorie/~$Spicka.docx",
+    "SEW-Theorie/~WRL0005.tmp",
+    "SEW-Theorie/~WRD0004.tmp",
+    "SEW-Theorie/Spicka.docx",
+    "DE/Textanalyse-Das Brot.md",
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/Socketing.md",
+    "SEW-Theorie/Dependency Injection (Pattern).md",
+    "SEW-Theorie/HttpClient_in_Java.md",
+    "SEW-Theorie/SpringBoot.md",
     "SEW-Prog/DependencyInj/src/Burger.java",
     "SEW-Prog/DependencyInj/src/Chef.java",
     "SEW-Prog/DependencyInj/src/Food.java",
@@ -251,13 +256,9 @@
     "SEW-Prog/DependencyInj/src",
     "SEW-Prog/DependencyInj",
     "NWT/Spanning Tree.md",
-    "DE/Textanalyse-Das Brot.md",
     "Backlog_1023.md",
     "Backlog_1123.md",
     "DE/DasBrot.md",
-    "DE/Das Brot_Text (4).pdf",
-    "SEW-Prog/WeatherServer/target/classes/at/htlhl/weatherserver/WeatherServerApplication.class",
-    "SEW-Prog/WeatherServer/target/classes/at/htlhl/weatherserver/models/Temperature.class",
     "Attachments/Pasted image 20231106084558.png",
     "REL/Oktober.md",
     "REL/Lebenshinenversetzung.md",
