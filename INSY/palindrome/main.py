@@ -1,30 +1,20 @@
-def is_palindrome(s):
-    return s == s[::-1]
+# defining a function which will check 
+# if the string is palindrome or not
+def is_palindrome(mystring):
+    mystring = mystring.lower()
+    reverse = mystring[::-1]
+    return mystring == reverse
 
-def find_longest_palindromes(filename):
-    longest_palindromes = []
-    max_length = 0
 
-    with open(filename, 'r') as file:
-        for line in file:
-            line = line.strip()
-            for i in range(len(line)):
-                for j in range(i + max_length, len(line)):
-                    substring = line[i:j+1]
-                    if is_palindrome(substring):
-                        if len(substring) > max_length:
-                            max_length = len(substring)
-                            longest_palindromes = [substring]
-                        elif len(substring) == max_length:
-                            longest_palindromes.append(substring)
+def find_all_palindrome(filename):
+    # opening the file
+    with open(filename) as fp:
+        # store the every word of the file in a list
+        mylist = fp.read().split()
+        print(mylist)  # this line is for our understanding
+        # extracting all palindrome string
+        mylist = list(filter(is_palindrome, mylist))
+    return mylist
 
-    return longest_palindromes
 
-filename = "palindrom_input.txt"
-result = find_longest_palindromes(filename)
-
-if result:
-    for palindrome in result:
-        print(palindrome)
-else:
-    print("No Palindrome")
+print(find_all_palindrome("palindrom_input.txt"))
