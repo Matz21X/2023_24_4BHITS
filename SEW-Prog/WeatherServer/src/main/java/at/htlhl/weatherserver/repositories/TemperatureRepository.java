@@ -1,10 +1,16 @@
 package at.htlhl.weatherserver.repositories;
 
+import at.htlhl.weatherserver.models.Temperature;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
+
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import java.sql.Timestamp;
+import java.time.LocalDateTime;
 
 @Repository
 public class TemperatureRepository {
@@ -20,6 +26,21 @@ public class TemperatureRepository {
     @Autowired
     private void setJdbcTemplate(JdbcTemplate jdbcTemplate) {
         this.jdbcTemplate = jdbcTemplate;
+    }
+
+    // Database CRUD (CRUD = Create, Reade, Update, Delete)
+    public Temperature insert(Temperature temperature) throws SQLException {
+        if (temperature.getMeasuretime() == null) {
+            LocalDateTime measureTime = LocalDateTime.now();
+            temperature.setMeasuretime(measureTime);
+            LOGGER.info("measure time added (" + measureTime + ")");
+        }
+        PreparedStatement ps = jdbcTemplate.getDataSource().getConnection().prepareStatement(INSERT_TEMPERATURE_SQL);
+
+        ps.setTimestamp(1, Timestamp.valueOf(temperature.getMeasuretime()));
+        ps.setFloat(2, temperature.getTemperature());
+        ps.executeUpdate();
+        return temperature;
     }
 
 }
