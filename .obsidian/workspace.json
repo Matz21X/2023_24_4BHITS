@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/HttpClient_in_Java.md"
+                "file": "SEW-Theorie/RESTful Webservices.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/HttpClient_in_Java.md"
+                "file": "SEW-Theorie/RESTful Webservices.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/HttpClient_in_Java.md",
+                "file": "SEW-Theorie/RESTful Webservices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/HttpClient_in_Java.md",
+                "file": "SEW-Theorie/RESTful Webservices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,8 +236,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "570a6430f7391c54",
+  "active": "590d8115b22e1466",
   "lastOpenFiles": [
+    "SEW-Theorie/HttpClient_in_Java.md",
     "SEW-Theorie/SpringBoot.md",
     "SEW-Theorie/Socketing.md",
     "SEW-Theorie/~$Spicka.docx",
@@ -247,7 +248,6 @@
     "DE/Textanalyse-Das Brot.md",
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/Dependency Injection (Pattern).md",
-    "SEW-Theorie/HttpClient_in_Java.md",
     "SEW-Prog/DependencyInj/src/Burger.java",
     "SEW-Prog/DependencyInj/src/Chef.java",
     "SEW-Prog/DependencyInj/src/Food.java",
