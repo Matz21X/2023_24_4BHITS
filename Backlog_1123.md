@@ -10,4 +10,6 @@
 | 7.11 | #WIR    | Recht-Minderjährige-Vertretung      | WH ab Personenrecht |
 | -    | #DE     | [[Textanalyse-Das Brot]]            |                     |
 | -    | #BSP    | GYM GASIG [[Gasig.jpg]]             |                     |
-| -    | #INSY   | Python basics (unnötig)             |                     | 
+| -    | #INSY   | Python basics (unnötig)             |                     |
+| 8.11 | #SYT    | C++ Pointer                         |                     |
+| -    | #WIR    |                                     |                     |
