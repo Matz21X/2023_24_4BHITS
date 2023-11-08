@@ -25,6 +25,9 @@ void loop() {
     } else if (digitalRead(II) == HIGH ){
       ledcWrite(0,128);
       Serial.println("50%");
+      int sensorValue = analogRead(II);
+      float voltage = sensorValue * (5.0 / 1023.0);
+      Serial.println(voltage);
     } else if (digitalRead(III) == HIGH) {
       ledcWrite(0,192);
       Serial.println("75%");
