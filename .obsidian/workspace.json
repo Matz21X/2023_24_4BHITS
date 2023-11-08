@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "20fe53cb7dc42a9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SEW-Theorie/RESTful Webservices.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "SEW-Theorie/RESTful Webservices.md"
               }
             }
           },
@@ -117,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "SEW-Theorie/RESTful Webservices.md"
               }
             }
           },
@@ -143,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "SEW-Theorie/RESTful Webservices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "SEW-Theorie/RESTful Webservices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,10 +210,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d38f66751bba2e52",
+  "active": "20fe53cb7dc42a9a",
   "lastOpenFiles": [
-    "WIR/Aufzeichnung der E+A Rechnung.md",
     "Backlog_1123.md",
+    "WIR/Aufzeichnung der E+A Rechnung.md",
     "SEW-Theorie/Dependency Injection (Pattern).md",
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/HttpClient_in_Java.md",
