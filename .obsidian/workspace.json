@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e227027872668a69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIR/Aufzeichnung der E+A Rechnung.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "WIR/Aufzeichnung der E+A Rechnung.md"
               }
             }
           },
@@ -117,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "WIR/Aufzeichnung der E+A Rechnung.md"
               }
             }
           },
@@ -143,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "WIR/Aufzeichnung der E+A Rechnung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "WIR/Aufzeichnung der E+A Rechnung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,11 +210,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d38f66751bba2e52",
+  "active": "e227027872668a69",
   "lastOpenFiles": [
+    "Backlog_1123.md",
+    "WIR/Aufzeichnung der E+A Rechnung.md",
     "SEW-Theorie/Dependency Injection (Pattern).md",
     "SEW-Theorie/RESTful Webservices.md",
-    "Backlog_1123.md",
     "SEW-Theorie/HttpClient_in_Java.md",
     "SEW-Theorie/SpringBoot.md",
     "SEW-Theorie/Socketing.md",
