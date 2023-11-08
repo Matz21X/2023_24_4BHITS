@@ -28,14 +28,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEW-Theorie/RESTful Webservices.md",
+                "file": "SEW-Theorie/HttpClient_in_Java.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "SEW-Theorie/HttpClient_in_Java.md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "SEW-Theorie/HttpClient_in_Java.md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "SEW-Theorie/HttpClient_in_Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "SEW-Theorie/HttpClient_in_Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,8 +210,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d38f66751bba2e52",
+  "active": "20fe53cb7dc42a9a",
   "lastOpenFiles": [
+    "SEW-Theorie/RESTful Webservices.md",
+    "Backlog_1123.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/js-yaml/lib/js-yaml/type/js/undefined.js",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/js-yaml/lib/js-yaml/type/js/function.js",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/js-yaml/lib/js-yaml/type/js/regexp.js",
@@ -221,7 +224,6 @@
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ajv/lib/refs/json-schema-2020-12/meta/core.json",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ajv/lib/refs/json-schema-2020-12/meta/content.json",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ajv/lib/refs/json-schema-2020-12/meta/applicator.json",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ajv/lib/refs/json-schema-2019-09/meta/validation.json",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/strip-ansi/readme.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/ansi-styles/readme.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/string-width/readme.md",
@@ -248,7 +250,6 @@
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/uri-js/README.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/type-is/README.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/type-is/HISTORY.md",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/unpipe/README.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-16x16.png",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-32x32.png",
     "Attachments/Pasted image 20231106084558.png",
