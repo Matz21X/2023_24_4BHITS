@@ -13,4 +13,6 @@
 | -    | #INSY   | Python basics (unnötig)             |                     |
 | 8.11 | #SYT    | C++ Pointer                         |                     |
 | -    | #WIR    | [[Aufzeichnung der E+A Rechnung]]   | S.43                |
-| -    | #MED    | OpenAPI                             |                     | 
+| -    | #MED    | OpenAPI                             |                     |
+| -    | #INSY   | Python Palindrome                   |                     |
+| -    |         |                                     |                     |

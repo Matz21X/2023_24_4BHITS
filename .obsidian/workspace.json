@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/RESTful Webservices.md"
+                "file": "Backlog_1123.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/RESTful Webservices.md"
+                "file": "Backlog_1123.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/RESTful Webservices.md",
+                "file": "Backlog_1123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/RESTful Webservices.md",
+                "file": "Backlog_1123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,10 +235,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "265718c8fb202d4e",
+  "active": "d38f66751bba2e52",
   "lastOpenFiles": [
-    "SEW-Theorie/SpringBoot.md",
+    "SEW-Prog/WeatherServer/src/main/java/at/htlhl/weatherserver/repositories/TemperatureController.java",
+    "SEW-Prog/WeatherServer/src/main/java/at/htlhl/weatherserver/repositories",
+    "SEW-Prog/WeatherServer/target/classes/at/htlhl/weatherserver/controllers/GreetingController.class",
+    "SEW-Prog/WeatherServer/target/classes/at/htlhl/weatherserver/controllers",
     "SEW-Theorie/RESTful Webservices.md",
+    "SEW-Theorie/SpringBoot.md",
     "SEW-Theorie/HttpClient_in_Java.md",
     "INSY/palindrome/main.py~",
     "INSY/palindrome/palindrom_input.txt",
@@ -248,9 +251,6 @@
     "INSY/palindrome/venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/testing.cpython-311.pyc",
     "INSY/palindrome/venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/helpers.cpython-311.pyc",
     "INSY/palindrome/venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/__init__.cpython-311.pyc",
-    "INSY/palindrome/venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/util.cpython-311.pyc",
-    "INSY/palindrome/venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/unicode.cpython-311.pyc",
-    "INSY/palindrome/venv/Lib/site-packages/pkg_resources/_vendor/pyparsing/__pycache__/results.cpython-311.pyc",
     "Backlog_1123.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/strip-ansi/readme.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/ansi-styles/readme.md",
@@ -275,7 +275,6 @@
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi/readme.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/vary/README.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/vary/HISTORY.md",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/uri-js/README.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-16x16.png",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-32x32.png",
     "Attachments/Pasted image 20231106084558.png",
