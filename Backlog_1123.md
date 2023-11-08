@@ -12,4 +12,4 @@
 | -    | #BSP    | GYM GASIG [[Gasig.jpg]]             |                     |
 | -    | #INSY   | Python basics (unnötig)             |                     |
 | 8.11 | #SYT    | C++ Pointer                         |                     |
-| -    | #WIR    |                                     |                     |
+| -    | #WIR    | [[Aufzeichnung der E+A Rechnung]]   | S.43                | 

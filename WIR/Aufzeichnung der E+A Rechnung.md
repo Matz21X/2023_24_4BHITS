@@ -2,27 +2,27 @@
 #WIR 
 
 **Einnahmen / Ausgabenjournal**
-, Bank Kassa
+- Bank Kassa
 
 **Wareneingangsbuch**
-, Was? = Nr, 
-, Wen?
-, Preis?
-, Wann?
-, Wieviel?
+- Was? = Nr,
+- Wen?
+- Preis?
+- Wann?
+- Wieviel?
 
 **Lohnkonto**
-, Mitarbeiter
-, Gehalt
-, Sozialversicherung
-, Adresse
+- Mitarbeiter
+- Gehalt
+- Sozialversicherung
+- Adresse
 
 **Fahrtenbuch**
-, km Stand
-, Versicherung
+- km Stand
+- Versicherung
 
 **Anlagenverzeichnis**
-, Anschaffungsdatum
-, Anschaffungwert
-, Nutzungsdauer
-, Inbetriebnahme
+- Anschaffungsdatum
+- Anschaffungwe
+- Nutzungsdauer
+- Inbetriebnahme
