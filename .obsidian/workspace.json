@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/RESTful Webservices.md"
+                "file": "Backlog_1123.md"
               }
             }
           },
@@ -131,7 +130,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/RESTful Webservices.md"
+                "file": "Backlog_1123.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/RESTful Webservices.md",
+                "file": "Backlog_1123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/RESTful Webservices.md",
+                "file": "Backlog_1123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,54 +209,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "20fe53cb7dc42a9a",
+  "active": "d38f66751bba2e52",
   "lastOpenFiles": [
-    "Backlog_1123.md",
-    "WIR/Aufzeichnung der E+A Rechnung.md",
-    "SEW-Theorie/Dependency Injection (Pattern).md",
-    "SEW-Theorie/RESTful Webservices.md",
-    "SEW-Theorie/HttpClient_in_Java.md",
-    "SEW-Theorie/SpringBoot.md",
-    "SEW-Theorie/Socketing.md",
-    "SEW-Theorie/~$Spicka.docx",
-    "SEW-Theorie/~WRL0005.tmp",
-    "SEW-Theorie/~WRD0004.tmp",
-    "SEW-Theorie/Spicka.docx",
-    "DE/Textanalyse-Das Brot.md",
-    "SEW-Prog/DependencyInj/src/Burger.java",
-    "SEW-Prog/DependencyInj/src/Chef.java",
-    "SEW-Prog/DependencyInj/src/Food.java",
-    "SEW-Prog/DependencyInj/DependencyInj.iml",
-    "SEW-Prog/DependencyInj/src/Main.java",
-    "SEW-Prog/DependencyInj/src",
-    "NWT/Spanning Tree.md",
-    "Backlog_1023.md",
-    "DE/DasBrot.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/js-yaml/lib/js-yaml/type/js/undefined.js",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/js-yaml/lib/js-yaml/type/js/function.js",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/js-yaml/lib/js-yaml/type/js/regexp.js",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ajv/lib/refs/json-schema-2020-12/meta/validation.json",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ajv/lib/refs/json-schema-2020-12/meta/unevaluated.json",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ajv/lib/refs/json-schema-2020-12/meta/meta-data.json",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ajv/lib/refs/json-schema-2020-12/meta/format-annotation.json",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ajv/lib/refs/json-schema-2020-12/meta/core.json",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ajv/lib/refs/json-schema-2020-12/meta/content.json",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ajv/lib/refs/json-schema-2020-12/meta/applicator.json",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ajv/lib/refs/json-schema-2019-09/meta/validation.json",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/strip-ansi/readme.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/ansi-styles/readme.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/string-width/readme.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/README.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/ansi-regex/readme.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/strip-ansi-cjs/node_modules/ansi-regex/readme.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/string-width-cjs/node_modules/strip-ansi/readme.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/string-width-cjs/node_modules/emoji-regex/README.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/string-width-cjs/node_modules/ansi-regex/readme.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/send/node_modules/ms/readme.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/send/node_modules/ms/license.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/difunc/coverage/lcov-report/sort-arrow-sprite.png",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ts-log/example/screenshot.jpg",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/@isaacs/cliui/README.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/@pkgjs/parseargs/README.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/@pkgjs/parseargs/CHANGELOG.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/readme.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/utils-merge/README.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/which/README.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/which/CHANGELOG.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi/readme.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/vary/README.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/vary/HISTORY.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/uri-js/README.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/type-is/README.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/type-is/HISTORY.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/unpipe/README.md",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-16x16.png",
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-32x32.png",
     "Attachments/Pasted image 20231106084558.png",
-    "REL/Oktober.md",
-    "REL/Lebenshinenversetzung.md",
     "Attachments/SpanningTree.svg",
     "Attachments/Gasig.jpg",
-    "Backlog_0923.md",
-    "EN/Report youth unemployment.md",
-    "Allgemein/Sevilla.md",
-    "README.md",
-    "NWT/Kryptographie.md",
-    "NWT/IPv6.md",
-    "Kinokarten.md",
-    "NWT/ipv6Cheatsheet.md",
-    "NWT/LösungMITM.md",
     "Attachments/ErModel.drawio.svg",
     "Attachments/address_format.png",
     "Attachments/dhcp_slaac.jpg",
-    "ITP/Projekte/RAH/JavaScript.md",
-    "NW/Relativitätstheorie.md",
-    "conflict-files-obsidian-git.md",
-    "npm-image.md",
-    "Attachments/dependency.svg",
-    "Attachments/Pasted image 20231017172752.png",
-    "Attachments/ERModel.png",
-    "Attachments/ErModel.drawio.png",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
