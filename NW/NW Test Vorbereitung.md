@@ -8,6 +8,6 @@
 1. Die Vakuum-Lichtgeschwindigkeit ist unabhängig von der relativen Bewegung der Lichtquelle und des Beobachters
 	- Die Lichtgeschwindigkeit ist konstant
 
-
+![[Pasted image 20231108183657.png]]
 
 
