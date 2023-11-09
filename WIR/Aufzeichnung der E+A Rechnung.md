@@ -29,4 +29,9 @@
 
 ### Einnahme - Ausgabe Rechnung 
 
-Betriebseinnahmen - Betriebsausgaben = Gewinn
+Betriebseinnahmen - Betriebsausgaben (-Afa) = Gewinn
+
+Steuer:
+-15% Gewinnfreibetrag (max. 30.000€) Wird vom Gewinn abgezogen uns muss nicht versteuert werden. Übrig gebliebenes = Steuermessungsgrundlage
+
+

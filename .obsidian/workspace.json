@@ -47,8 +47,13 @@
             "id": "36aa5b6428ade034",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WIR/Gewinnermittlung_Kap2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -241,9 +246,10 @@
   },
   "active": "9d44041c91127c55",
   "lastOpenFiles": [
+    "WIR/Gewinnermittlung_Kap2.md",
+    "WIR/Aufzeichnung der E+A Rechnung.md",
     "Backlog_1123.md",
     "ITP/Projekte/RAH/JavaScript.md",
-    "WIR/Aufzeichnung der E+A Rechnung.md",
     "EN/USA v Austria.md",
     "NW/NW Test Vorbereitung.md",
     "NW/~$ysikHA4_3.docx",
@@ -279,7 +285,6 @@
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/@pkgjs/parseargs/CHANGELOG.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/readme.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/utils-merge/README.md",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/which/README.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-16x16.png",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-32x32.png",
     "Attachments/Pasted image 20231106084558.png",
