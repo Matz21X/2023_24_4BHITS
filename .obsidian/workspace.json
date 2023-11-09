@@ -69,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "WIR/Aufzeichnung der E+A Rechnung.md"
               }
             }
           },
@@ -164,7 +165,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "WIR/Aufzeichnung der E+A Rechnung.md"
               }
             }
           },
@@ -190,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "WIR/Aufzeichnung der E+A Rechnung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "WIR/Aufzeichnung der E+A Rechnung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,10 +244,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d38f66751bba2e52",
+  "active": "9d44041c91127c55",
   "lastOpenFiles": [
-    "WIR/Aufzeichnung der E+A Rechnung.md",
+    "Attachments/Pasted image 20231109092519.png",
     "Backlog_1123.md",
+    "WIR/Aufzeichnung der E+A Rechnung.md",
     "WIR/Gewinnermittlung_Kap2.md",
     "ITP/Projekte/RAH/JavaScript.md",
     "EN/USA v Austria.md",
@@ -283,7 +285,6 @@
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/@pkgjs/parseargs/README.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/@pkgjs/parseargs/CHANGELOG.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/readme.md",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/utils-merge/README.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-16x16.png",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-32x32.png",
     "Attachments/Pasted image 20231106084558.png",

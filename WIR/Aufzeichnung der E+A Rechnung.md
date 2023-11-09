@@ -36,3 +36,5 @@ Betriebseinnahmen - Betriebsausgaben (-Afa) = Gewinn
 
 Passenden Einkommensteuersatz wählen und von der <span style="color:#00b0f0">Steuermessungsgrundlage</span> abziehen
 Rest er überbleibt ist der <span style="color:#00b050">Gewinn</span>
+
+![[Pasted image 20231109092519.png]]
