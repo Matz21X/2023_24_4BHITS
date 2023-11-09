@@ -17,4 +17,4 @@
 | -    | #INSY   | Python Palindrome                                             |                     |
 | -    | #SEW    | Test / H2 Database                                            |                     |
 | 9.11 | #EN     | Native speaker Stunde                                         |                     |
-| -    | #WIR    | [[Aufzeichnung der E+A Rechnung#Einnahme - Ausgabe Rechnung]] |                     | 
+| -    | #WIR    | [[Aufzeichnung der E+A Rechnung#Einnahme - Ausgabe Rechnung Versteuerung]] |                     | 

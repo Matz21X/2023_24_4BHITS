@@ -69,8 +69,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIR/Aufzeichnung der E+A Rechnung.md"
+                "file": "Backlog_1123.md"
               }
             }
           },
@@ -165,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "WIR/Aufzeichnung der E+A Rechnung.md"
+                "file": "Backlog_1123.md"
               }
             }
           },
@@ -191,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIR/Aufzeichnung der E+A Rechnung.md",
+                "file": "Backlog_1123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WIR/Aufzeichnung der E+A Rechnung.md",
+                "file": "Backlog_1123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,11 +243,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d44041c91127c55",
+  "active": "d38f66751bba2e52",
   "lastOpenFiles": [
-    "WIR/Gewinnermittlung_Kap2.md",
     "WIR/Aufzeichnung der E+A Rechnung.md",
     "Backlog_1123.md",
+    "WIR/Gewinnermittlung_Kap2.md",
     "ITP/Projekte/RAH/JavaScript.md",
     "EN/USA v Austria.md",
     "NW/NW Test Vorbereitung.md",
