@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md",
+                "file": "DE/Textanalyse-Das Brot.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md"
+                "file": "DE/Textanalyse-Das Brot.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md"
+                "file": "DE/Textanalyse-Das Brot.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md",
+                "file": "DE/Textanalyse-Das Brot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md",
+                "file": "DE/Textanalyse-Das Brot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,10 +225,13 @@
   },
   "active": "93ae9176e357e1ba",
   "lastOpenFiles": [
+    "DE/DasBrot.md",
+    "DE/Das Brot_Text (4).pdf",
+    "Backlog_1123.md",
+    "DE/Textanalyse-Das Brot.md",
+    "ITP/Projekte/RAH/JavaScript.md",
     "Attachments/React.svg",
     "Allgemein/Sevilla.md",
-    "Backlog_1123.md",
-    "ITP/Projekte/RAH/JavaScript.md",
     "NW/NW Test Vorbereitung.md",
     "NW/Relativitätstheorie.md",
     "REL/RK-Aufgabenpaket Antworten.md",
@@ -246,7 +249,6 @@
     "SEW-Prog/WeatherServer/src/main/java/at/htlhl/weatherserver/repositories/TemperatureRepository.java~",
     "SEW-Prog/WeatherServer/src/main/resources/application.properties~",
     "SEW-Prog/WeatherServer/src/main/java/at/htlhl/weatherserver/repositories/TemperatureRepository.java",
-    "SEW-Prog/WeatherServer/src/main/java/at/htlhl/weatherserver/repositories/TemperatureController.java",
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/SpringBoot.md",
     "SEW-Theorie/HttpClient_in_Java.md",
@@ -264,13 +266,11 @@
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/difunc/coverage/lcov-report/sort-arrow-sprite.png",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ts-log/example/screenshot.jpg",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/@isaacs/cliui/README.md",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/@pkgjs/parseargs/README.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-16x16.png",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-32x32.png",
     "Attachments/Pasted image 20231106084558.png",
     "Attachments/SpanningTree.svg",
     "Attachments/Gasig.jpg",
-    "Attachments/ErModel.drawio.svg",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
