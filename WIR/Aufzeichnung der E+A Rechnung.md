@@ -26,3 +26,7 @@
 - Anschaffungwe
 - Nutzungsdauer
 - Inbetriebnahme
+
+### Einnahme - Ausgabe Rechnung 
+
+Betriebseinnahmen - Betriebsausgaben = Gewinn
