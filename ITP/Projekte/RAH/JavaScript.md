@@ -372,3 +372,7 @@ console.log(sum);
 ```
 
 Sie sind sehr nützlich um javascript übersichtlicher und einfacher zu schreiben zu machen.
+
+## React
+
+![[React.svg]]
