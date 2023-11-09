@@ -9,9 +9,11 @@
 	- Einen sicheren Schlafplatz, eine warme Mahlzeit und eine medizinische Versorgung anbieten
 	- Selbsthilfegruppen gründen um Erfahrungen und Tipps mit anderen Betroffenen austauschen und das Selbstvertrauen stärkt.
 
-3.
+3. Laut Statistik Austria wurden im Jahr 2021 19.450 Wohnungslose registriert
+
+4. 
 	Mangel an leistbarem Wohnraum, vor allem in den Ballungszentren.
 	Verlust der Arbeit, der Einkommen oder der sozialen Absicherung.
 	Trennung von der Familie, der Partnerin oder dem Partner.
-	psychische oder körperliche Erkrankung oder Sucht.
+	Psychische oder körperliche Erkrankung oder Sucht.
 	Flucht aus dem Herkunftsland oder die Diskriminierung als Migrantin oder Migrant.
