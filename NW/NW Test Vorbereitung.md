@@ -11,3 +11,4 @@
 ![[Pasted image 20231108183657.png]]
 
 
+Die Vakuum Lichtgeschwindigkeit ist unabhängig von der relativen bewegung der Lichtquelle und des Beobachters
