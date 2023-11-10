@@ -46,8 +46,17 @@ public class TemperatureRepository {
         return temperature;
     }
 
-    public Temperature findLatestTemperature(){
-        ResultSet rs = jdbcTemplate.getDataSource().getConnection().createStatement()
+    public Temperature findLatestTemperature() throws SQLException {
+        ResultSet rs = jdbcTemplate.getDataSource().getConnection().createStatement().executeQuery(SELECT_LASTEST_TEMP_SQL);
+        if (rs.next()){
+            Temperature temperature = new Temperature();
+            temperature.getMeasuretime(rs.getTimestamp("measuretime").toLocalDateTime());
+            temperature.setTemperature(rs.getFloat("temp"));
+            return temperature;
+
+        } else {
+            throw new SQLException("Could not fetch data from database");
+        }
     }
 
 }

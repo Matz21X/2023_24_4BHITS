@@ -6,7 +6,7 @@ public class Temperature {
     private LocalDateTime measuretime;
     private float temperature;
 
-    public Temperature(LocalDateTime measureTime, float temperature) {
+    public Temperature() {
         this.measuretime = measureTime;
         this.temperature = temperature;
     }

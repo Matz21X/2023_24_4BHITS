@@ -23,14 +23,14 @@ public class TemperatureController {
     }
 
 
-    /*@GetMapping(value = "", produces = "application/json")
+    @GetMapping(value = "")
     @ResponseStatus(HttpStatus.OK)
     @Operation(summary = "get latest temperature")
     public Temperature findLatest() throws SQLException {
         return temperatureRepository.findLatestTemperature();
     }
 
-     */
+
 
 }
 
