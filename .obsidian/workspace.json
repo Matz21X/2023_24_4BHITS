@@ -225,6 +225,7 @@
   },
   "active": "c0de88807d8997b1",
   "lastOpenFiles": [
+    "SEW-Prog/WeatherServer/src/main/java/at/htlhl/weatherserver/repositories/TemperatureRepository.java~",
     "Backlog_1123.md",
     "DE/Textanalyse-Das Brot.md",
     "NW/NW Test Vorbereitung.md",
@@ -247,7 +248,6 @@
     "NW/~WRD0000.tmp",
     "Attachments/Pasted image 20231108183657.png",
     "NW/~$ysikHA4_1.docx",
-    "SEW-Prog/WeatherServer/src/main/java/at/htlhl/weatherserver/repositories/TemperatureRepository.java~",
     "SEW-Prog/WeatherServer/src/main/resources/application.properties~",
     "SEW-Prog/WeatherServer/src/main/java/at/htlhl/weatherserver/repositories/TemperatureRepository.java",
     "SEW-Theorie/RESTful Webservices.md",
@@ -263,7 +263,6 @@
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/string-width-cjs/node_modules/emoji-regex/README.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/string-width-cjs/node_modules/ansi-regex/readme.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/send/node_modules/ms/readme.md",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/send/node_modules/ms/license.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/difunc/coverage/lcov-report/sort-arrow-sprite.png",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ts-log/example/screenshot.jpg",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-16x16.png",
