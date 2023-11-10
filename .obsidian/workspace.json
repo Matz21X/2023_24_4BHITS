@@ -54,15 +54,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITP/Projektplan erstellen.md",
+                "file": "DE/Textanalyse-Das Brot.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP/Projektplan erstellen.md"
+                "file": "Backlog_1123.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP/Projektplan erstellen.md"
+                "file": "Backlog_1123.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/Projektplan erstellen.md",
+                "file": "Backlog_1123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP/Projektplan erstellen.md",
+                "file": "Backlog_1123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,13 +235,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b69c57a2a6c9ccc6",
+  "active": "d38f66751bba2e52",
   "lastOpenFiles": [
-    "NW/NW Test Vorbereitung.md",
+    "DE/Textanalyse-Das Brot.md",
     "ITP/Projektplan erstellen.md",
+    "NW/NW Test Vorbereitung.md",
     "SEW-Prog/WeatherServer/src/main/java/at/htlhl/weatherserver/repositories/TemperatureRepository.java~",
     "Backlog_1123.md",
-    "DE/Textanalyse-Das Brot.md",
     "DE/Das Brot help.md",
     "Allgemein/Sevilla.md",
     "DE/DasBrot.md",

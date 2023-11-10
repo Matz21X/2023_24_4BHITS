@@ -24,4 +24,6 @@
 | -     | #ITP    | React Tutorial                                                             |                     |
 | 10.11 | #AM     | turedolevidevide                                                           |                     |
 | -     | #ITP    | Über Reli Lehrerin beschwert                                               |                     |
-| -     | #SEW    |                                                                            |                     |
+| -     | #SEW    | Temperature Repo                                                           |                     |
+| -     | #NW     | TEST (oasch)                                                               |                     |
+| -     | #ITP    | Projekt Teile vorstellung                                                                           |                     |
