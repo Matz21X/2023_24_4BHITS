@@ -22,4 +22,6 @@
 | -     | #AM     | Sachen besprochen                                                          |                     |
 | -     | #NW     | Elektron Sonne Beispiel gerechnet                                          |                     |
 | -     | #ITP    | React Tutorial                                                             |                     |
-| 10.11 | #AM     |                                                                            |                     |
+| 10.11 | #AM     | turedolevidevide                                                           |                     |
+| -     | #ITP    | Über Reli Lehrerin beschwert                                               |                     |
+| -     | #SEW    |                                                                            |                     |
