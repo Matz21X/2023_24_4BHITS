@@ -20,7 +20,7 @@ I am writing to express my hight interest in your current opening for a part-tim
 
 Myself is a 17 year-old student of the technical college in Hollabrunn and I see myself very suitable for this job. You advertisement specifies that you are looking for someone sporty with German and English language skills and being a bit of a handyman. I am more than happy to inform you that I check every single point of these requirements. 
 
-
+German is my native language but I also speak English fluently. I visit the gym three times a week, so I believe I could call myself a bit of a sportsman. Arts and crafts are no problem either, my dad and I 
 It also is no problem for me to look after someone, I have plenty of experience working with youngsters. I have a little sister and have often looked after her. 
 
 
