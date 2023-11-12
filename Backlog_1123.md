@@ -26,4 +26,6 @@
 | -     | #ITP    | Über Reli Lehrerin beschwert                                               |                     |
 | -     | #SEW    | Temperature Repo                                                           |                     |
 | -     | #NW     | TEST (oasch)                                                               |                     |
-| -     | #ITP    | Projekt Teile vorstellung                                                                           |                     |
+| -     | #ITP    | Projekt Teile vorstellung                                                  |                     |
+| -     | #DE     | [[Textanalyse-Das Brot]]                                                   |                     |
+| -     | #N      | Minecraft Session / Dajxtra dingsi                                         |                     | 
