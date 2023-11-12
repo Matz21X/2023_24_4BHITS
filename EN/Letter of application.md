@@ -16,4 +16,6 @@ Bruhhausen 21, 1220 Wien
 
 Dear Mrs. Smith,
 
-I am writing to express my hight interest in your current opening for a part-time job in your summer camp. 
+I am writing to express my hight interest in your current opening for a part-time job in your summer camp. After researching the details of this position I am very excited to possibly work for you.
+
+I am a 17 year-old student of the technical college in Hollabrunn and I see myself very suitable for this job. You advertisement specifies that you are looking for someone with 
