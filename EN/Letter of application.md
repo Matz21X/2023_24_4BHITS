@@ -18,4 +18,9 @@ Dear Mrs. Smith,
 
 I am writing to express my hight interest in your current opening for a part-time job in your summer camp. After researching the details of this position I am very excited to possibly work for you.
 
-I am a 17 year-old student of the technical college in Hollabrunn and I see myself very suitable for this job. You advertisement specifies that you are looking for someone with 
+Myself is a 17 year-old student of the technical college in Hollabrunn and I see myself very suitable for this job. You advertisement specifies that you are looking for someone sporty with German and English language skills and being a bit of a handyman. I am more than happy to inform you that I check every single point of these requirements. 
+
+
+It also is no problem for me to look after someone, I have plenty of experience working with youngsters. I have a little sister and have often looked after her. 
+
+
