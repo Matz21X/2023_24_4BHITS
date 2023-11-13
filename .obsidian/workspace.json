@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EN/Vocabulary.md",
+                "file": "EN/Letter of application.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -43,8 +43,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EN/Vocabulary.md"
+                "file": "Backlog_1123.md"
               }
             }
           },
@@ -139,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "EN/Vocabulary.md"
+                "file": "Backlog_1123.md"
               }
             }
           },
@@ -165,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EN/Vocabulary.md",
+                "file": "Backlog_1123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EN/Vocabulary.md",
+                "file": "Backlog_1123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,9 +218,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "eef45732f3707b4b",
+  "active": "d38f66751bba2e52",
   "lastOpenFiles": [
     "EN/Letter of application.md",
+    "EN/Vocabulary.md",
     "NW/~$ysikHA4_3.docx",
     "NW/~$ysikHA4_2.docx",
     "Backlog_1123.md",
