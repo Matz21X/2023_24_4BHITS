@@ -28,4 +28,5 @@
 | -     | #NW     | TEST (oasch)                                                               |                     |
 | -     | #ITP    | Projekt Teile vorstellung                                                  |                     |
 | -     | #DE     | [[Textanalyse-Das Brot]]                                                   |                     |
-| -     | #N      | Minecraft Session / Dajxtra dingsi                                         |                     | 
+| -     | #N      | Minecraft Session / Dajxtra dingsi                                         |                     |
+| 13.11 | #NWT    | Dajkstra                                                                           |                     |
