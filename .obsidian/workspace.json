@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "7a5bac3de7ffcc3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schularbeit Stoff.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eef45732f3707b4b",
             "type": "leaf",
             "state": {
@@ -39,10 +52,8 @@
             "id": "765d762b79971124",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "REL/2_Aufgabenpaket.pdf"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -96,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REL/RK-Aufgabenpaket Antworten.md"
+                "file": "Schularbeit Stoff.md"
               }
             }
           },
@@ -141,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "REL/RK-Aufgabenpaket Antworten.md"
+                "file": "Schularbeit Stoff.md"
               }
             }
           },
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REL/RK-Aufgabenpaket Antworten.md",
+                "file": "Schularbeit Stoff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REL/RK-Aufgabenpaket Antworten.md",
+                "file": "Schularbeit Stoff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,12 +234,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "eef45732f3707b4b",
+  "active": "7a5bac3de7ffcc3c",
   "lastOpenFiles": [
-    "REL/3_AB_Caritas.pdf",
+    "Backlog_1123.md",
+    "Schularbeit Stoff.md",
     "REL/2_Aufgabenpaket.pdf",
     "REL/RK-Aufgabenpaket Antworten.md",
-    "Backlog_1123.md",
+    "REL/3_AB_Caritas.pdf",
     "EN/Letter of application.md",
     "GGP/3.Wirtschaftsräume_Schüler.pdf",
     "GGP/4.Wirtschaftssysteme_Schüler.pdf",
@@ -251,7 +265,6 @@
     "NW/~WRL0001.tmp",
     "NW/~WRD0000.tmp",
     "Attachments/Pasted image 20231108183657.png",
-    "NW/~$ysikHA4_1.docx",
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/SpringBoot.md",
     "SEW-Theorie/HttpClient_in_Java.md",
