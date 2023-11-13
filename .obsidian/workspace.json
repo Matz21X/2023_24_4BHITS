@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EN/Letter of application.md",
+                "file": "REL/RK-Aufgabenpaket Antworten.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,11 +39,14 @@
             "id": "765d762b79971124",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "REL/2_Aufgabenpaket.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "REL/RK-Aufgabenpaket Antworten.md"
               }
             }
           },
@@ -138,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "REL/RK-Aufgabenpaket Antworten.md"
               }
             }
           },
@@ -164,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "REL/RK-Aufgabenpaket Antworten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "REL/RK-Aufgabenpaket Antworten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,15 +221,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d38f66751bba2e52",
+  "active": "eef45732f3707b4b",
   "lastOpenFiles": [
+    "REL/2_Aufgabenpaket.pdf",
+    "REL/RK-Aufgabenpaket Antworten.md",
+    "Backlog_1123.md",
+    "EN/Letter of application.md",
     "GGP/3.Wirtschaftsräume_Schüler.pdf",
     "GGP/4.Wirtschaftssysteme_Schüler.pdf",
-    "EN/Letter of application.md",
     "EN/Vocabulary.md",
     "NW/~$ysikHA4_3.docx",
     "NW/~$ysikHA4_2.docx",
-    "Backlog_1123.md",
     "DE/Textanalyse-Das Brot.md",
     "NW/NW Test Vorbereitung.md",
     "ITP/Projektplan erstellen.md",
@@ -238,17 +243,14 @@
     "ITP/Projekte/RAH/JavaScript.md",
     "Attachments/React.svg",
     "NW/Relativitätstheorie.md",
-    "REL/RK-Aufgabenpaket Antworten.md",
     "WIR/Gewinnermittlung_Kap2.md",
     "WIR/Aufzeichnung der E+A Rechnung.md",
-    "REL/2_Aufgabenpaket.pdf",
     "Attachments/Pasted image 20231109092519.png",
     "EN/USA v Austria.md",
     "NW/~WRL0001.tmp",
     "NW/~WRD0000.tmp",
     "Attachments/Pasted image 20231108183657.png",
     "NW/~$ysikHA4_1.docx",
-    "SEW-Prog/WeatherServer/src/main/resources/application.properties~",
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/SpringBoot.md",
     "SEW-Theorie/HttpClient_in_Java.md",

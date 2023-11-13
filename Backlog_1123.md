@@ -29,4 +29,7 @@
 | -     | #ITP    | Projekt Teile vorstellung                                                  |                     |
 | -     | #DE     | [[Textanalyse-Das Brot]]                                                   |                     |
 | -     | #N      | Minecraft Session / Dajxtra dingsi                                         |                     |
-| 13.11 | #NWT    | Dajkstra                                                                           |                     |
+| 13.11 | #NWT    | Dajkstra                                                                   |                     |
+| -     | #GGP    | [[3.Wirtschaftsräume_Schüler.pdf]]                                         |                     |
+| -     | #EN     | Graded writing job application                                             |                     |
+| -     | #RK     |                                                                            |                     |
