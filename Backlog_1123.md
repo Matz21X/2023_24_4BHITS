@@ -32,4 +32,6 @@
 | 13.11 | #NWT    | Dajkstra                                                                   |                     |
 | -     | #GGP    | [[3.Wirtschaftsräume_Schüler.pdf]]                                         |                     |
 | -     | #EN     | Graded writing job application                                             |                     |
-| -     | #RK     |                                                                            |                     |
+| -     | #RK     | Caritas Logo                                                               |                     |
+| 14.11 | #WIR    | KschG und so                                                               |                     |
+| -     | #DE     |                                                                            |                     | 

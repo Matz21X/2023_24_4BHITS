@@ -55,9 +55,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "9712419aefc53277",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backlog_1023.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DE/Textanalyse-Das Brot.md"
+                "file": "Backlog_1123.md"
               }
             }
           },
@@ -153,7 +165,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DE/Textanalyse-Das Brot.md"
+                "file": "Backlog_1123.md"
               }
             }
           },
@@ -179,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DE/Textanalyse-Das Brot.md",
+                "file": "Backlog_1123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DE/Textanalyse-Das Brot.md",
+                "file": "Backlog_1123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,10 +246,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7a5bac3de7ffcc3c",
+  "active": "d38f66751bba2e52",
   "lastOpenFiles": [
-    "Schularbeit Stoff.md",
+    "Backlog_1023.md",
     "Backlog_1123.md",
+    "DE/Textanalyse-Das Brot.md",
+    "Schularbeit Stoff.md",
     "REL/2_Aufgabenpaket.pdf",
     "REL/RK-Aufgabenpaket Antworten.md",
     "REL/3_AB_Caritas.pdf",
@@ -247,7 +261,6 @@
     "EN/Vocabulary.md",
     "NW/~$ysikHA4_3.docx",
     "NW/~$ysikHA4_2.docx",
-    "DE/Textanalyse-Das Brot.md",
     "NW/NW Test Vorbereitung.md",
     "ITP/Projektplan erstellen.md",
     "SEW-Prog/WeatherServer/src/main/java/at/htlhl/weatherserver/repositories/TemperatureRepository.java~",
@@ -274,7 +287,6 @@
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/README.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/ansi-regex/readme.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/strip-ansi-cjs/node_modules/ansi-regex/readme.md",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/string-width-cjs/node_modules/strip-ansi/readme.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/difunc/coverage/lcov-report/sort-arrow-sprite.png",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ts-log/example/screenshot.jpg",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-16x16.png",
