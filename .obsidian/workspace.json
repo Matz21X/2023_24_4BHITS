@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schularbeit Stoff.md",
+                "file": "DE/Textanalyse-Das Brot.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schularbeit Stoff.md"
+                "file": "DE/Textanalyse-Das Brot.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Schularbeit Stoff.md"
+                "file": "DE/Textanalyse-Das Brot.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schularbeit Stoff.md",
+                "file": "DE/Textanalyse-Das Brot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schularbeit Stoff.md",
+                "file": "DE/Textanalyse-Das Brot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,8 +236,8 @@
   },
   "active": "7a5bac3de7ffcc3c",
   "lastOpenFiles": [
-    "Backlog_1123.md",
     "Schularbeit Stoff.md",
+    "Backlog_1123.md",
     "REL/2_Aufgabenpaket.pdf",
     "REL/RK-Aufgabenpaket Antworten.md",
     "REL/3_AB_Caritas.pdf",
