@@ -68,8 +68,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4972730ad588cc01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SEW-Theorie/HttpClient_in_Java.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -119,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "SEW-Theorie/HttpClient_in_Java.md"
               }
             }
           },
@@ -165,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "SEW-Theorie/HttpClient_in_Java.md"
               }
             }
           },
@@ -191,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "SEW-Theorie/HttpClient_in_Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "SEW-Theorie/HttpClient_in_Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,10 +259,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d38f66751bba2e52",
+  "active": "4972730ad588cc01",
   "lastOpenFiles": [
-    "Backlog_1023.md",
+    "SEW-Theorie/Dependency Injection (Pattern).md",
+    "SEW-Theorie/SpringBoot.md",
+    "SEW-Theorie/Socketing.md",
+    "SEW-Theorie/RESTful Webservices.md",
+    "SEW-Theorie/HttpClient_in_Java.md",
     "Backlog_1123.md",
+    "Backlog_1023.md",
     "DE/Textanalyse-Das Brot.md",
     "Schularbeit Stoff.md",
     "REL/2_Aufgabenpaket.pdf",
@@ -278,15 +296,10 @@
     "NW/~WRL0001.tmp",
     "NW/~WRD0000.tmp",
     "Attachments/Pasted image 20231108183657.png",
-    "SEW-Theorie/RESTful Webservices.md",
-    "SEW-Theorie/SpringBoot.md",
-    "SEW-Theorie/HttpClient_in_Java.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/strip-ansi/readme.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/ansi-styles/readme.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/string-width/readme.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/README.md",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/ansi-regex/readme.md",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/strip-ansi-cjs/node_modules/ansi-regex/readme.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/difunc/coverage/lcov-report/sort-arrow-sprite.png",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ts-log/example/screenshot.jpg",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-16x16.png",
