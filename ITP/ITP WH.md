@@ -21,3 +21,4 @@
 ## Gegenüberstellung klassisches und agiles PM aus dem Projekt Kickstart
 
 
+![[Pasted image 20231116211349.png]]
