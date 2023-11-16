@@ -34,4 +34,9 @@
 | -     | #EN     | Graded writing job application                                             |                     |
 | -     | #RK     | Caritas Logo                                                               |                     |
 | 14.11 | #WIR    | KschG und so                                                               |                     |
-| -     | #DE     |                                                                            |                     | 
+| -     | #DE     | Nix                                                                        |                     |
+| -     | #BSP    | GASIG GASIG [[Gasig.jpg]]                                                  |                     |
+| -     | #INSY   | Python / Minecraft                                                         |                     |
+| 16.11 | #EN     | -                                                                          | Zug verpasst        |
+| -     | #WIR    | Pauschalierung                                                             |                     |
+| -     | #RK     |                                                                            |                     |
