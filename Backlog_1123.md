@@ -39,4 +39,4 @@
 | -     | #INSY   | Python / Minecraft                                                         |                     |
 | 16.11 | #EN     | -                                                                          | Zug verpasst        |
 | -     | #WIR    | Pauschalierung                                                             |                     |
-| -     | #RK     |                                                                            |                     |
+| -     | #RK     | []()                                                                           |                     |

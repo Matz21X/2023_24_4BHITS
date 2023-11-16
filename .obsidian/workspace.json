@@ -21,8 +21,32 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "18d822ba429adf9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REL/RK-Aufgabenpaket Antworten.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "140631fece8cb000",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "REL/4_Themenheft_Armut.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "REL/4_Themenheft_Armut.pdf"
               }
             }
           },
@@ -117,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "REL/4_Themenheft_Armut.pdf"
               }
             }
           },
@@ -143,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "REL/4_Themenheft_Armut.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "REL/4_Themenheft_Armut.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,20 +221,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d38f66751bba2e52",
+  "active": "140631fece8cb000",
   "lastOpenFiles": [
+    "REL/November.md",
+    "REL/4_Themenheft_Armut.pdf",
+    "REL/RK-Aufgabenpaket Antworten.md",
+    "REL/Oktober.md",
+    "REL/Lebenshinenversetzung.md",
+    "REL/September.md",
+    "REL/3_AB_Caritas.pdf",
+    "Backlog_1123.md",
     "SEW-Theorie/HttpClient_in_Java.md",
     "SEW-Theorie/Dependency Injection (Pattern).md",
     "SEW-Theorie/SpringBoot.md",
     "SEW-Theorie/Socketing.md",
     "SEW-Theorie/RESTful Webservices.md",
-    "Backlog_1123.md",
     "Backlog_1023.md",
     "DE/Textanalyse-Das Brot.md",
     "Schularbeit Stoff.md",
     "REL/2_Aufgabenpaket.pdf",
-    "REL/RK-Aufgabenpaket Antworten.md",
-    "REL/3_AB_Caritas.pdf",
     "EN/Letter of application.md",
     "GGP/3.Wirtschaftsräume_Schüler.pdf",
     "GGP/4.Wirtschaftssysteme_Schüler.pdf",
@@ -231,14 +259,8 @@
     "WIR/Gewinnermittlung_Kap2.md",
     "WIR/Aufzeichnung der E+A Rechnung.md",
     "Attachments/Pasted image 20231109092519.png",
-    "EN/USA v Austria.md",
     "NW/~WRL0001.tmp",
-    "NW/~WRD0000.tmp",
     "Attachments/Pasted image 20231108183657.png",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/strip-ansi/readme.md",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/ansi-styles/readme.md",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/string-width/readme.md",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/README.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/difunc/coverage/lcov-report/sort-arrow-sprite.png",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ts-log/example/screenshot.jpg",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-16x16.png",
