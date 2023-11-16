@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REL/November.md"
+                "file": "REL/4_Themenheft_Armut.pdf"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "REL/November.md"
+                "file": "REL/4_Themenheft_Armut.pdf"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REL/November.md",
+                "file": "REL/4_Themenheft_Armut.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REL/November.md",
+                "file": "REL/4_Themenheft_Armut.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,10 +221,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "18d822ba429adf9a",
+  "active": "140631fece8cb000",
   "lastOpenFiles": [
-    "REL/4_Themenheft_Armut.pdf",
     "REL/November.md",
+    "REL/4_Themenheft_Armut.pdf",
     "REL/RK-Aufgabenpaket Antworten.md",
     "REL/Oktober.md",
     "REL/Lebenshinenversetzung.md",
