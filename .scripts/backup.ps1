@@ -1,7 +1,3 @@
-[console]::WindowWidth=80; 
-[console]::WindowHeight=50; 
-[console]::BufferWidth=[console]::WindowWidth
-
 $sourcePath = "C:\Users\matth\Documents\2023_24_4BHITS"
 $destinationPath = "C:\Users\matth\OneDrive - HTL Hollabrunn\2023_24_4BHITS"
 Set-Location "C:\Users\matth\Documents\2023_24_4BHITS"

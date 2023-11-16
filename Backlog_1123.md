@@ -39,4 +39,6 @@
 | -     | #INSY   | Python / Minecraft                                                         |                     |
 | 16.11 | #EN     | -                                                                          | Zug verpasst        |
 | -     | #WIR    | Pauschalierung                                                             |                     |
-| -     | #RK     | []()                                                                           |                     |
+| -     | #RK     | [[November]]                                                               |                     |
+| -     | #AM     | SCHULARBEIT LANGER WOWOWO                                                  |                     |
+| -     | #ITP    | Zähl dings Projekt                                                         |                     |
