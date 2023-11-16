@@ -44,8 +44,22 @@
                 "file": "REL/4_Themenheft_Armut.pdf"
               }
             }
+          },
+          {
+            "id": "415f89bb99dd4b3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITP/Projektplan erstellen.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "ITP/Projektplan erstellen.md"
               }
             }
           },
@@ -140,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "ITP/Projektplan erstellen.md"
               }
             }
           },
@@ -166,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "ITP/Projektplan erstellen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "ITP/Projektplan erstellen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,8 +234,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d38f66751bba2e52",
+  "active": "415f89bb99dd4b3e",
   "lastOpenFiles": [
+    "ITP/Projektmanagement.md",
+    "Backlog_1123.md",
     "REL/November.md",
     "REL/4_Themenheft_Armut.pdf",
     "REL/RK-Aufgabenpaket Antworten.md",
@@ -229,7 +245,6 @@
     "REL/Lebenshinenversetzung.md",
     "REL/September.md",
     "REL/3_AB_Caritas.pdf",
-    "Backlog_1123.md",
     "SEW-Theorie/HttpClient_in_Java.md",
     "SEW-Theorie/Dependency Injection (Pattern).md",
     "SEW-Theorie/SpringBoot.md",
