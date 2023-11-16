@@ -38,3 +38,11 @@ Passenden Einkommensteuersatz wählen und von der <span style="color:#00b0f0">St
 Rest er überbleibt ist der <span style="color:#00b050">Gewinn</span>
 
 ![[Pasted image 20231109092519.png]]
+
+### Pauschalierung
+
+![[Pasted image 20231116204045.png]]
+
+
+![[Pasted image 20231116204115.png]] 
+**S. 45**

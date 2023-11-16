@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "d97b87b5ac29e758",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIR/Aufzeichnung der E+A Rechnung.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "18d822ba429adf9a",
             "type": "leaf",
             "state": {
@@ -49,9 +62,19 @@
             "id": "415f89bb99dd4b3e",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ITP/Kickstart-Projektmanagement_Fragen.pdf"
+              }
+            }
+          },
+          {
+            "id": "ad43dddcef5436db",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "ITP/Projektplan erstellen.md",
+                "file": "ITP/ITP WH.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -59,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -136,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP/Projektplan erstellen.md"
+                "file": "ITP/Kickstart-Projektmanagement_Fragen.pdf"
               }
             }
           },
@@ -154,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP/Projektplan erstellen.md"
+                "file": "ITP/Kickstart-Projektmanagement_Fragen.pdf"
               }
             }
           },
@@ -180,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/Projektplan erstellen.md",
+                "file": "ITP/Kickstart-Projektmanagement_Fragen.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP/Projektplan erstellen.md",
+                "file": "ITP/Kickstart-Projektmanagement_Fragen.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,10 +259,16 @@
   },
   "active": "415f89bb99dd4b3e",
   "lastOpenFiles": [
-    "ITP/Projektmanagement.md",
-    "Backlog_1123.md",
+    "ITP/ITP WH.md",
     "REL/November.md",
     "REL/4_Themenheft_Armut.pdf",
+    "WIR/Aufzeichnung der E+A Rechnung.md",
+    "Attachments/Pasted image 20231116204115.png",
+    "Attachments/Pasted image 20231116204045.png",
+    "Backlog_1123.md",
+    "ITP/Kickstart-Projektmanagement_Fragen.pdf",
+    "Attachments/Pasted image 20231116203723.png",
+    "ITP/Projektmanagement.md",
     "REL/RK-Aufgabenpaket Antworten.md",
     "REL/Oktober.md",
     "REL/Lebenshinenversetzung.md",
@@ -261,7 +290,6 @@
     "NW/~$ysikHA4_3.docx",
     "NW/~$ysikHA4_2.docx",
     "NW/NW Test Vorbereitung.md",
-    "ITP/Projektplan erstellen.md",
     "SEW-Prog/WeatherServer/src/main/java/at/htlhl/weatherserver/repositories/TemperatureRepository.java~",
     "DE/Das Brot help.md",
     "Allgemein/Sevilla.md",
@@ -270,18 +298,12 @@
     "ITP/Projekte/RAH/JavaScript.md",
     "Attachments/React.svg",
     "NW/Relativitätstheorie.md",
-    "WIR/Gewinnermittlung_Kap2.md",
-    "WIR/Aufzeichnung der E+A Rechnung.md",
     "Attachments/Pasted image 20231109092519.png",
-    "NW/~WRL0001.tmp",
     "Attachments/Pasted image 20231108183657.png",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/difunc/coverage/lcov-report/sort-arrow-sprite.png",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ts-log/example/screenshot.jpg",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-16x16.png",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-32x32.png",
-    "Attachments/Pasted image 20231106084558.png",
-    "Attachments/SpanningTree.svg",
-    "Attachments/Gasig.jpg",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
