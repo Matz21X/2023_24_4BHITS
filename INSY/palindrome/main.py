@@ -3,6 +3,7 @@
 def is_palindrome(mystring):
     mystring = mystring.lower()
     reverse = mystring[::-1]
+    print(reverse[1:len(reverse)-1])
     return mystring == reverse
 
 
