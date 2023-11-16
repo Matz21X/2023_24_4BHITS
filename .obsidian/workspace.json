@@ -72,6 +72,19 @@
             }
           },
           {
+            "id": "b170aa60ef39d91d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SEW-Theorie/Dependency Injection (Pattern).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ad43dddcef5436db",
             "type": "leaf",
             "state": {
@@ -85,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP/Kickstart-Projektmanagement_Fragen.pdf"
+                "file": "ITP/ITP WH.md"
               }
             }
           },
@@ -180,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP/Kickstart-Projektmanagement_Fragen.pdf"
+                "file": "ITP/ITP WH.md"
               }
             }
           },
@@ -206,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/Kickstart-Projektmanagement_Fragen.pdf",
+                "file": "ITP/ITP WH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP/Kickstart-Projektmanagement_Fragen.pdf",
+                "file": "ITP/ITP WH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,12 +273,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "415f89bb99dd4b3e",
+  "active": "ad43dddcef5436db",
   "lastOpenFiles": [
-    "ITP/ITP WH.md",
     "Z_Obsidian-Help/Help-Page.md",
-    "REL/4_Themenheft_Armut.pdf",
+    "SEW-Theorie/Dependency Injection (Pattern).md",
     "ITP/Kickstart-Projektmanagement_Fragen.pdf",
+    "ITP/ITP WH.md",
+    "REL/4_Themenheft_Armut.pdf",
     "REL/November.md",
     "WIR/Aufzeichnung der E+A Rechnung.md",
     "Attachments/Pasted image 20231116204115.png",
@@ -279,7 +293,6 @@
     "REL/September.md",
     "REL/3_AB_Caritas.pdf",
     "SEW-Theorie/HttpClient_in_Java.md",
-    "SEW-Theorie/Dependency Injection (Pattern).md",
     "SEW-Theorie/SpringBoot.md",
     "SEW-Theorie/Socketing.md",
     "SEW-Theorie/RESTful Webservices.md",
