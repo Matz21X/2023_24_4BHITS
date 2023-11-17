@@ -43,4 +43,7 @@
 | -     | #AM     | SCHULARBEIT LANGER WOWOWO                                                  |                     |
 | -     | #ITP    | Zähl dings Projekt                                                         |                     |
 | 17.11 | #AM     | Schularbeit teilweise durchgegangen                                        |                     |
-| -     | #ITP    |                                                                            |                     |
+| -     | #ITP    | ITP WH                                                                     |                     |
+| -     | #SEW    | SEW Test Thienel                                                           |                     |
+| -     | #NW     | Test zurück bekommen                                                       |                     |
+| -     | #ITP    | Mini-Themen Vorstellung                                                    |                     | 

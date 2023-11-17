@@ -71,8 +71,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP/ITP WH.md"
+                "file": "Backlog_1123.md"
               }
             }
           },
@@ -167,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP/ITP WH.md"
+                "file": "Backlog_1123.md"
               }
             }
           },
@@ -193,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/ITP WH.md",
+                "file": "Backlog_1123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP/ITP WH.md",
+                "file": "Backlog_1123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,13 +246,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b170aa60ef39d91d",
+  "active": "d38f66751bba2e52",
   "lastOpenFiles": [
+    "ITP/ITP WH.md",
     "ITP/Kickstart-Projektmanagement_Fragen.pdf",
     "REL/November.md",
     "WIR/Aufzeichnung der E+A Rechnung.md",
     "Backlog_1123.md",
-    "ITP/ITP WH.md",
     "Attachments/Pasted image 20231116211349.png",
     "SEW-Theorie/Dependency Injection (Pattern).md",
     "SEW-Theorie/RESTful Webservices.md",
