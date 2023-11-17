@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REL/November.md",
+                "file": "DE/Textanalyse-Das Brot.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,7 +71,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "DE/Textanalyse-Das Brot.md"
               }
             }
           },
@@ -166,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "DE/Textanalyse-Das Brot.md"
               }
             }
           },
@@ -192,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "DE/Textanalyse-Das Brot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "DE/Textanalyse-Das Brot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,13 +247,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d38f66751bba2e52",
+  "active": "18d822ba429adf9a",
   "lastOpenFiles": [
-    "ITP/ITP WH.md",
-    "ITP/Kickstart-Projektmanagement_Fragen.pdf",
+    "DE/DasBrot.md",
+    "DE/Das Brot_Text (4).pdf",
     "REL/November.md",
-    "WIR/Aufzeichnung der E+A Rechnung.md",
+    "ITP/Kickstart-Projektmanagement_Fragen.pdf",
     "Backlog_1123.md",
+    "ITP/ITP WH.md",
+    "WIR/Aufzeichnung der E+A Rechnung.md",
     "Attachments/Pasted image 20231116211349.png",
     "SEW-Theorie/Dependency Injection (Pattern).md",
     "SEW-Theorie/RESTful Webservices.md",
@@ -284,8 +287,6 @@
     "SEW-Prog/WeatherServer/src/main/java/at/htlhl/weatherserver/repositories/TemperatureRepository.java~",
     "DE/Das Brot help.md",
     "Allgemein/Sevilla.md",
-    "DE/DasBrot.md",
-    "DE/Das Brot_Text (4).pdf",
     "ITP/Projekte/RAH/JavaScript.md",
     "Attachments/React.svg",
     "Attachments/Pasted image 20231109092519.png",
