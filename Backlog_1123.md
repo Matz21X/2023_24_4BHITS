@@ -42,3 +42,5 @@
 | -     | #RK     | [[November]]                                                               |                     |
 | -     | #AM     | SCHULARBEIT LANGER WOWOWO                                                  |                     |
 | -     | #ITP    | Zähl dings Projekt                                                         |                     |
+| 17.11 | #AM     | Schularbeit teilweise durchgegangen                                        |                     |
+| -     | #ITP    |                                                                            |                     |
