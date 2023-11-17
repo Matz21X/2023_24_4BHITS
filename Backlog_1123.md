@@ -46,4 +46,6 @@
 | -     | #ITP    | ITP WH                                                                     |                     |
 | -     | #SEW    | SEW Test Thienel                                                           |                     |
 | -     | #NW     | Test zurück bekommen                                                       |                     |
-| -     | #ITP    | Mini-Themen Vorstellung                                                    |                     | 
+| -     | #ITP    | Mini-Themen Vorstellung                                                    |                     |
+| -     | #DE     | Yapping                                                                    |                     |
+|       |         |                                                                            |                     |

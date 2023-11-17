@@ -71,8 +71,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DE/Textanalyse-Das Brot.md"
+                "file": "Backlog_1123.md"
               }
             }
           },
@@ -167,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DE/Textanalyse-Das Brot.md"
+                "file": "Backlog_1123.md"
               }
             }
           },
@@ -193,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DE/Textanalyse-Das Brot.md",
+                "file": "Backlog_1123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DE/Textanalyse-Das Brot.md",
+                "file": "Backlog_1123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,8 +246,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "18d822ba429adf9a",
+  "active": "d38f66751bba2e52",
   "lastOpenFiles": [
+    "DE/Textanalyse-Das Brot.md",
     "DE/DasBrot.md",
     "DE/Das Brot_Text (4).pdf",
     "REL/November.md",
@@ -274,7 +274,6 @@
     "SEW-Theorie/HttpClient_in_Java.md",
     "SEW-Theorie/SpringBoot.md",
     "Backlog_1023.md",
-    "DE/Textanalyse-Das Brot.md",
     "Schularbeit Stoff.md",
     "REL/2_Aufgabenpaket.pdf",
     "EN/Letter of application.md",
