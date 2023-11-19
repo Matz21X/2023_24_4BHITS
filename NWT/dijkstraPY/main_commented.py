@@ -5,18 +5,26 @@ class Solution:
     # Function to find the shortest distance of all the vertices
     # from the source vertex S.
     def dijkstra(self, V, adj, S):
+        # Priority queue to store vertices and their distances
         pq = [(0, S)]
+        # Distance array to store the shortest distances
         dist = [float('inf')] * V
+        # Set the distance of the source vertex to 0
         dist[S] = 0
 
         while pq:
+            # Extract the vertex with the minimum distance
             d, u = hq.heappop(pq)
 
+            # Iterate through all adjacent vertices of the extracted vertex
             for v, w in adj[u]:
+                # If a shorter path is found, update the distance
                 if dist[u] + w < dist[v]:
                     dist[v] = dist[u] + w
                     hq.heappush(pq, (dist[v], v))
 
+        # Filter out the distances from the source vertex
+        # and print the result in the required format
         result = [dist[i] if dist[i] != float('inf') else -1 for i in range(V)]
         return result
 
