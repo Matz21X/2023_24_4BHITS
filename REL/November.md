@@ -13,3 +13,6 @@
 
 **Relative Armut:**
 - Beschreibt Armut im Verhältnis zum jeweiligen gesellschaftlichen Umfeld eines Menschen.
+
+**Ziele der UN (bis 2030)**
+![[Pasted image 20231120114517.png]] 
