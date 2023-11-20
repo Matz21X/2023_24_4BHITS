@@ -16,3 +16,16 @@
 
 **Ziele der UN (bis 2030)**
 ![[Pasted image 20231120114517.png]] 
+
+### Armutsgefärdungsschwelle in Österreich
+
+Bei einem Einkommen von 1328€ (Ein Personen Haushalt)
+
+**Manifeste Armut (akute Armut)**
+Zusätzlich noch Unleistbarkeit von gewissen Standards:
+
+**4 Dimensionen von Armut**
+- Materiell
+- Sozial
+- Kulturell
+- Psychisch / Körperlich

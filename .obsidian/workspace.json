@@ -23,16 +23,6 @@
             }
           },
           {
-            "id": "742b91e176266b8a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "REL/4_Themenheft_Armut.pdf"
-              }
-            }
-          },
-          {
             "id": "6ea8ec13e22dfa31",
             "type": "leaf",
             "state": {
@@ -47,6 +37,22 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "734d5411bf3251de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "742b91e176266b8a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "REL/4_Themenheft_Armut.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REL/4_Themenheft_Armut.pdf"
+                "file": "REL/November.md"
               }
             }
           },
@@ -141,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "REL/4_Themenheft_Armut.pdf"
+                "file": "REL/November.md"
               }
             }
           },
@@ -167,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REL/4_Themenheft_Armut.pdf",
+                "file": "REL/November.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REL/4_Themenheft_Armut.pdf",
+                "file": "REL/November.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,12 +227,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "742b91e176266b8a",
+  "active": "6ea8ec13e22dfa31",
   "lastOpenFiles": [
+    "REL/4_Themenheft_Armut.pdf",
     "REL/November.md",
     "Attachments/Pasted image 20231120114517.png",
     "Backlog_1123.md",
-    "REL/4_Themenheft_Armut.pdf",
     "WIR/Aufzeichnung der E+A Rechnung.md",
     "DE/Textanalyse-Das Brot.md",
     "ITP/Kickstart-Projektmanagement_Fragen.pdf",
