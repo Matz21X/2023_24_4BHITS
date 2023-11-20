@@ -29,3 +29,6 @@ Zusätzlich noch Unleistbarkeit von gewissen Standards:
 - Sozial
 - Kulturell
 - Psychisch / Körperlich
+
+**Besonders armutsgefährdet in Ö**
+- Frauen, Personen mit Migrationshintergrund, Ein-Personen-Haushalte

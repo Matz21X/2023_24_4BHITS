@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REL/November.md"
+                "file": "REL/4_Themenheft_Armut.pdf"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "REL/November.md"
+                "file": "REL/4_Themenheft_Armut.pdf"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REL/November.md",
+                "file": "REL/4_Themenheft_Armut.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REL/November.md",
+                "file": "REL/4_Themenheft_Armut.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,10 +227,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6ea8ec13e22dfa31",
+  "active": "742b91e176266b8a",
   "lastOpenFiles": [
-    "REL/4_Themenheft_Armut.pdf",
     "REL/November.md",
+    "REL/4_Themenheft_Armut.pdf",
     "Attachments/Pasted image 20231120114517.png",
     "Backlog_1123.md",
     "WIR/Aufzeichnung der E+A Rechnung.md",
