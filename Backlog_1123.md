@@ -52,4 +52,4 @@
 | 20.11 | #AM     | Schularbeit besprochen                                                     |                     |
 | -     | #GGP    | [[3.Wirtschaftsräume_Schüler.pdf]]                                         |                     |
 | -     | #EN     | Text besprochen / Vokabel WH                                               |                     |
-| -     | #RK     |                                                                            |                     |
+| -     | #RK     | [[November#Armutsgefärdungsschwelle in Österreich]]                        |                     |
