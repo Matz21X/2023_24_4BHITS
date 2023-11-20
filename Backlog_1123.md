@@ -48,4 +48,8 @@
 | -     | #NW     | Test zurück bekommen                                                       |                     |
 | -     | #ITP    | Mini-Themen Vorstellung                                                    |                     |
 | -     | #DE     | Yapping                                                                    |                     |
-|       |         |                                                                            |                     |
+| -     | #NWT    | Dijkstra                                                                   |                     |
+| 20.11 | #AM     | Schularbeit besprochen                                                     |                     |
+| -     | #GGP    | [[3.Wirtschaftsräume_Schüler.pdf]]                                         |                     |
+| -     | #EN     | Text besprochen / Vokabel WH                                               |                     |
+| -     | #RK     |                                                                            |                     |
