@@ -47,9 +47,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e49672655f194f3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INSY/Stolli github/GrundlagenPSQL.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/PSQL/PSQL-Aufgabe-1.md"
+                "file": "INSY/Stolli github/Datenbankdesign.md"
               }
             }
           },
@@ -144,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/PSQL/PSQL-Aufgabe-1.md"
+                "file": "INSY/Stolli github/Datenbankdesign.md"
               }
             }
           },
@@ -170,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/PSQL/PSQL-Aufgabe-1.md",
+                "file": "INSY/Stolli github/Datenbankdesign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/PSQL/PSQL-Aufgabe-1.md",
+                "file": "INSY/Stolli github/Datenbankdesign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,12 +237,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7d0eb844b1bb828c",
+  "active": "45ff5147661213d4",
   "lastOpenFiles": [
-    "INSY/PSQL/PSQL-Aufgabe1.md",
-    "INSY/PSQL/PSQL-Aufgabe-1.md",
     "INSY/Stolli github/GrundlagenPSQL.md",
     "INSY/Stolli github/Datenbankdesign.md",
+    "INSY/PSQL/PSQL-Aufgabe-1.md",
+    "INSY/PSQL/PSQL-Aufgabe1.md",
     "INSY/Stolli github/P01_Grundlagen.md",
     "Backlog_1123.md",
     "INSY/Grundlagen PSQL.md",

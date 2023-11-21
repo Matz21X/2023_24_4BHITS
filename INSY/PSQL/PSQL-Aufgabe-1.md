@@ -57,5 +57,5 @@ net restart postgresql-x64-16
 ```
 
 ```SQL
-INSERT INTO table_name (name, age, height)
+INSERT INTO table_name (name, age, height) VALUES ('Flo', 17, 185)
 ```
