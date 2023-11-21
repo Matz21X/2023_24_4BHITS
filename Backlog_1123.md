@@ -53,3 +53,7 @@
 | -     | #GGP    | [[3.Wirtschaftsräume_Schüler.pdf]]                                         |                     |
 | -     | #EN     | Text besprochen / Vokabel WH                                               |                     |
 | -     | #RK     | [[November#Armutsgefärdungsschwelle in Österreich]]                        |                     |
+| 21.11 | #WIR    | Recht                                                                      |                     |
+| -     | #DE     | Lyrik ausarbeiten                                                          |                     |
+| -     | #BSP    | GYM GASIG GASIG GAS [[Gasig.jpg]]                                          |                     |
+| -     | #INSY   | Threading 🤡🤡                                                             |                     | 
