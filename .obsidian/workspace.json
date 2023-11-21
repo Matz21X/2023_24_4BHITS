@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "INSY/Stolli github/Datenbankdesign.md"
               }
             }
           },
@@ -143,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "INSY/Stolli github/Datenbankdesign.md"
               }
             }
           },
@@ -169,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "INSY/Stolli github/Datenbankdesign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "INSY/Stolli github/Datenbankdesign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,10 +224,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d38f66751bba2e52",
+  "active": "45ff5147661213d4",
   "lastOpenFiles": [
-    "INSY/Stolli github/Datenbankdesign.md",
     "Backlog_1123.md",
+    "INSY/Stolli github/Datenbankdesign.md",
     "INSY/Stolli github/GrundlagenPSQL.md",
     "INSY/Stolli github/P01_Grundlagen.md",
     "INSY/Grundlagen PSQL.md",
