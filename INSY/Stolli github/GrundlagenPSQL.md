@@ -61,7 +61,7 @@ Informationen unter [https://www.postgresqltutorial.com/postgresql-administratio
 #### neue Rolle anlegen
 ```sql
 CREATE ROLE role_name;
-# CREATE ROLE hugo;
+CREATE ROLE hugo;
 ```
 
 #### Rollen ansehen
