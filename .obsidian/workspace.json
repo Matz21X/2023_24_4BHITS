@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INSY/Stolli github/Datenbankdesign.md",
+                "file": "INSY/Stolli github/P01_Grundlagen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/Stolli github/Datenbankdesign.md"
+                "file": "INSY/Stolli github/P01_Grundlagen.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/Stolli github/Datenbankdesign.md"
+                "file": "INSY/Stolli github/P01_Grundlagen.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/Stolli github/Datenbankdesign.md",
+                "file": "INSY/Stolli github/P01_Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/Stolli github/Datenbankdesign.md",
+                "file": "INSY/Stolli github/P01_Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,10 +224,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "45ff5147661213d4",
+  "active": "7d0eb844b1bb828c",
   "lastOpenFiles": [
-    "Backlog_1123.md",
     "INSY/Stolli github/Datenbankdesign.md",
+    "Backlog_1123.md",
     "INSY/Stolli github/GrundlagenPSQL.md",
     "INSY/Stolli github/P01_Grundlagen.md",
     "INSY/Grundlagen PSQL.md",
