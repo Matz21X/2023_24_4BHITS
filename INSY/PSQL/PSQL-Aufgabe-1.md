@@ -55,3 +55,7 @@ net stop postgresql-x64-16
 net start postgresql-x64-16
 net restart postgresql-x64-16
 ```
+
+```SQL
+INSERT INTO table_name (name, age, height)
+```

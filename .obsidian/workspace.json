@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INSY/Stolli github/GrundlagenPSQL.md",
+                "file": "INSY/PSQL/PSQL-Aufgabe-1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/Stolli github/GrundlagenPSQL.md"
+                "file": "INSY/PSQL/PSQL-Aufgabe-1.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/Stolli github/GrundlagenPSQL.md"
+                "file": "INSY/PSQL/PSQL-Aufgabe-1.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/Stolli github/GrundlagenPSQL.md",
+                "file": "INSY/PSQL/PSQL-Aufgabe-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/Stolli github/GrundlagenPSQL.md",
+                "file": "INSY/PSQL/PSQL-Aufgabe-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,10 +226,12 @@
   },
   "active": "7d0eb844b1bb828c",
   "lastOpenFiles": [
+    "INSY/PSQL/PSQL-Aufgabe1.md",
+    "INSY/PSQL/PSQL-Aufgabe-1.md",
+    "INSY/Stolli github/GrundlagenPSQL.md",
     "INSY/Stolli github/Datenbankdesign.md",
     "INSY/Stolli github/P01_Grundlagen.md",
     "Backlog_1123.md",
-    "INSY/Stolli github/GrundlagenPSQL.md",
     "INSY/Grundlagen PSQL.md",
     "INSY/PSQL.md",
     "INSY/INSY-Jahresstoff.md",
@@ -265,8 +267,6 @@
     "SEW-Theorie/HttpClient_in_Java.md",
     "SEW-Theorie/SpringBoot.md",
     "Backlog_1023.md",
-    "Schularbeit Stoff.md",
-    "EN/Letter of application.md",
     "Attachments/React.svg",
     "Attachments/Pasted image 20231109092519.png",
     "Attachments/Pasted image 20231108183657.png",
