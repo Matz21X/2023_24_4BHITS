@@ -26,5 +26,16 @@ list1.append("Bruh")
 list1.insert("")
 list1.pop(4)
 list1.remove("d")
-
+list1.insert(2, 'Chemistry')
 ```
+
+**File I/O**
+```python
+with open('dein_dateiname.txt', 'r') as file: 
+	inhalt = file.read()
+```
+
+## Datenbankdesign 
+
+**Realtions**
+- m = 

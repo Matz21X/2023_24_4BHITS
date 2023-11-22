@@ -33,6 +33,19 @@
             }
           },
           {
+            "id": "e0045be10e794ede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INSY/Stolli github/Datenbankdesign.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "738f5ba62f0e2313",
             "type": "leaf",
             "state": {
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/test dingsi.md"
+                "file": "INSY/Stolli github/Datenbankdesign.md"
               }
             }
           },
@@ -141,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/test dingsi.md"
+                "file": "INSY/Stolli github/Datenbankdesign.md"
               }
             }
           },
@@ -167,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/test dingsi.md",
+                "file": "INSY/Stolli github/Datenbankdesign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/test dingsi.md",
+                "file": "INSY/Stolli github/Datenbankdesign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,11 +234,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "738f5ba62f0e2313",
+  "active": "e0045be10e794ede",
   "lastOpenFiles": [
-    "NWT/dijkstraPY/bruh.py",
     "MEDT/pptx/06-Docker.pdf",
     "INSY/test dingsi.md",
+    "NWT/dijkstraPY/bruh.py",
     "MEDT/pptx/03-Nodejs.pdf",
     "Backlog_1123.md",
     "INSY/Stolli github/GrundlagenPSQL.md",
@@ -240,7 +253,6 @@
     "INSY/PSQL.md",
     "SYT/Arduino-Code/Analog_Input/src/main.cpp",
     "SYT/Arduino-Code/Analog_Input/test/README",
-    "SYT/Arduino-Code/Analog_Input/test",
     "INSY/PSQL, DatabaseDesign, Python.md",
     "INSY/Stolli github/Datenbankdesign.md",
     "INSY/PSQL/PSQL-Aufgabe-1.md",
