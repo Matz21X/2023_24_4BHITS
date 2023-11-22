@@ -21,4 +21,10 @@ print ("Items from index 1 to last in list1: ", list1[1:])  # ['b', 'c', 'd']
 print ("Items from index 0 to 1 in list2: ", list2[:2])  # [25.5, True]
 print ("Items from index 2 to last in list3", list3[2:-1])  # [3, 4]
 print ("Items from index 0 to index last in list4", list4[:]) #['Rohan', 'Physics', 21, 69.75]
+
+list1.append("Bruh")
+list1.insert("")
+list1.pop(4)
+list1.remove("d")
+
 ```
