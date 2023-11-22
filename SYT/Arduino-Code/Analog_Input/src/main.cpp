@@ -1,8 +1,5 @@
 #include <Arduino.h>
 
-
-
-
 void setup() {
   Serial.begin(9600);
   pinMode(36, ANALOG );
@@ -17,6 +14,5 @@ int getValue(int analogValue) {
 void loop() {
   Serial.println( analogRead(36));
 
-    ledcWrite(0, getValue( analogRead(36))); 
-  
+  ledcWrite(0, getValue( analogRead(36))); 
 }
