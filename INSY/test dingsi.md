@@ -45,4 +45,5 @@ with open('dein_dateiname.txt', 'r') as file:
 
 ## PSQL
 
-lsit s9fdojisdaF SÜVOIJGFSDJROIDI SÖFDOIÖ
+-  \c ... Connect to database
+- \l ... List all databases
