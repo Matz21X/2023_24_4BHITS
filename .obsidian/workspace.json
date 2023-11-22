@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1443ff6087f2c3d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INSY/Stolli github/GrundlagenPSQL.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "INSY/Stolli github/GrundlagenPSQL.md"
               }
             }
           },
@@ -117,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "INSY/Stolli github/GrundlagenPSQL.md"
               }
             }
           },
@@ -143,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "INSY/Stolli github/GrundlagenPSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "INSY/Stolli github/GrundlagenPSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,8 +211,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d38f66751bba2e52",
+  "active": "1443ff6087f2c3d2",
   "lastOpenFiles": [
+    "INSY/Stolli github/P01_Grundlagen.md",
+    "INSY/PSQL.md",
+    "Backlog_1123.md",
     "SYT/Arduino-Code/Analog_Input/src/main.cpp",
     "SYT/Arduino-Code/Analog_Input/test/README",
     "SYT/Arduino-Code/Analog_Input/test",
@@ -210,17 +227,13 @@
     "SYT/Arduino-Code/Analog_Input/platformio.ini",
     "SYT/Arduino-Code/Analog_Input",
     "INSY/PSQL, DatabaseDesign, Python.md",
-    "Backlog_1123.md",
     "INSY/Stolli github/Datenbankdesign.md",
     "INSY/PSQL/PSQL-Aufgabe-1.md",
     "INSY/Stolli github/GrundlagenPSQL.md",
     "INSY/PSQL/PSQL-Aufgabe1.md",
-    "INSY/Stolli github/P01_Grundlagen.md",
     "INSY/Grundlagen PSQL.md",
-    "INSY/PSQL.md",
     "INSY/INSY-Jahresstoff.md",
     "REL/November.md",
-    "REL/4_Themenheft_Armut.pdf",
     "Attachments/Pasted image 20231120114517.png",
     "WIR/Aufzeichnung der E+A Rechnung.md",
     "DE/Textanalyse-Das Brot.md",
