@@ -14,6 +14,10 @@
 		{
 			"name": "PWM",
 			"path": "PWM"
+		},
+		{
+			"name": "Analog_Input",
+			"path": "Analog_Input"
 		}
 	],
 	"settings": {}
