@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff81726c200e1c5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MEDT/MEDT-Jahresstoff.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/Stolli github/GrundlagenPSQL.md"
+                "file": "MEDT/MEDT-Jahresstoff.md"
               }
             }
           },
@@ -131,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/Stolli github/GrundlagenPSQL.md"
+                "file": "MEDT/MEDT-Jahresstoff.md"
               }
             }
           },
@@ -157,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/Stolli github/GrundlagenPSQL.md",
+                "file": "MEDT/MEDT-Jahresstoff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/Stolli github/GrundlagenPSQL.md",
+                "file": "MEDT/MEDT-Jahresstoff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,25 +224,28 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1443ff6087f2c3d2",
+  "active": "e1cb03b33a7d44c5",
   "lastOpenFiles": [
+    "MEDT/Node.js.pdf",
+    "MEDT/MEDT-Jahresstoff.md",
+    "MEDT/Node.js.md",
+    "MEDT/pptx/04-REST.pdf",
+    "INSY/Stolli github/GrundlagenPSQL.md",
+    "Backlog_1123.md",
+    "MEDT/pptx/05-OpenAPI.pdf",
+    "MEDT/pptx/03-Nodejs (1).pdf",
+    "MEDT/pptx",
     "INSY/Stolli github/P01_Grundlagen.md",
     "INSY/PSQL.md",
-    "Backlog_1123.md",
     "SYT/Arduino-Code/Analog_Input/src/main.cpp",
     "SYT/Arduino-Code/Analog_Input/test/README",
     "SYT/Arduino-Code/Analog_Input/test",
     "SYT/Arduino-Code/Analog_Input/lib/README",
     "SYT/Arduino-Code/Analog_Input/lib",
     "SYT/Arduino-Code/Analog_Input/include/README",
-    "SYT/Arduino-Code/Analog_Input/include",
-    "SYT/Arduino-Code/Analog_Input/src",
-    "SYT/Arduino-Code/Analog_Input/platformio.ini",
-    "SYT/Arduino-Code/Analog_Input",
     "INSY/PSQL, DatabaseDesign, Python.md",
     "INSY/Stolli github/Datenbankdesign.md",
     "INSY/PSQL/PSQL-Aufgabe-1.md",
-    "INSY/Stolli github/GrundlagenPSQL.md",
     "INSY/PSQL/PSQL-Aufgabe1.md",
     "INSY/Grundlagen PSQL.md",
     "INSY/INSY-Jahresstoff.md",
@@ -251,8 +267,6 @@
     "REL/RK-Aufgabenpaket Antworten.md",
     "REL/Oktober.md",
     "REL/Lebenshinenversetzung.md",
-    "REL/September.md",
-    "SEW-Theorie/HttpClient_in_Java.md",
     "Attachments/React.svg",
     "Attachments/Pasted image 20231109092519.png",
     "Attachments/Pasted image 20231108183657.png",

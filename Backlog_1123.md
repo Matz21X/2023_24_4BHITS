@@ -56,4 +56,7 @@
 | 21.11 | #WIR    | Recht                                                                      |                       |
 | -     | #DE     | Lyrik ausarbeiten                                                          |                       |
 | -     | #BSP    | GYM GASIG GASIG GAS [[Gasig.jpg]]                                          |                       |
-| -     | #INSY   | Threading 🤡🤡                                                             | RealPython.com oda so | 
+| -     | #INSY   | Threading 🤡🤡                                                             | RealPython.com oda so |
+| -     | #SYT    | Dimming mit Potentiometer                                                  |                       |
+| -     | #WIR    | Zeitung lesen                                                              |                       |
+| -     | #MEDT   | Warum API?                                                                           |                       |
