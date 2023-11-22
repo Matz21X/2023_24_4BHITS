@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/test dingsi.md"
+                "file": "Backlog_1123.md"
               }
             }
           },
@@ -154,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/test dingsi.md"
+                "file": "Backlog_1123.md"
               }
             }
           },
@@ -180,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/test dingsi.md",
+                "file": "Backlog_1123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/test dingsi.md",
+                "file": "Backlog_1123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,11 +233,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "738f5ba62f0e2313",
+  "active": "d38f66751bba2e52",
   "lastOpenFiles": [
+    "INSY/test dingsi.md",
     "NWT/dijkstraPY/bruh.py~",
     "INSY/PSQL.md",
-    "INSY/test dingsi.md",
     "INSY/Stolli github/P01_Grundlagen.md",
     "INSY/Stolli github/GrundlagenPSQL.md",
     "INSY/Stolli github/Datenbankdesign.md",
@@ -256,7 +255,6 @@
     "MEDT/pptx/03-Nodejs (1).pdf",
     "MEDT/pptx",
     "SYT/Arduino-Code/Analog_Input/src/main.cpp",
-    "SYT/Arduino-Code/Analog_Input/test/README",
     "INSY/PSQL, DatabaseDesign, Python.md",
     "INSY/Grundlagen PSQL.md",
     "INSY/INSY-Jahresstoff.md",

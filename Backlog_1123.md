@@ -59,4 +59,6 @@
 | -     | #INSY   | Threading 🤡🤡                                                             | RealPython.com oda so |
 | -     | #SYT    | Dimming mit Potentiometer                                                  |                       |
 | -     | #WIR    | Zeitung lesen                                                              |                       |
-| -     | #MEDT   | Warum API?                                                                           |                       |
+| -     | #MEDT   | Warum API?                                                                 |                       |
+| -     | #INSY   | TEST                                                                       |                       |
+| -     | #SEW    | Projektzuweisungen                                                         | (Tindl & Ich)         | 
