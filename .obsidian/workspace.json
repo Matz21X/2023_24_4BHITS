@@ -23,25 +23,22 @@
             }
           },
           {
-            "id": "1443ff6087f2c3d2",
+            "id": "7432b0e30b8a7e93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "INSY/Stolli github/GrundlagenPSQL.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "MEDT/pptx/06-Docker.pdf"
               }
             }
           },
           {
-            "id": "ff81726c200e1c5c",
+            "id": "738f5ba62f0e2313",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MEDT/MEDT-Jahresstoff.md",
+                "file": "INSY/test dingsi.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDT/MEDT-Jahresstoff.md"
+                "file": "MEDT/pptx/06-Docker.pdf"
               }
             }
           },
@@ -144,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "MEDT/MEDT-Jahresstoff.md"
+                "file": "MEDT/pptx/06-Docker.pdf"
               }
             }
           },
@@ -170,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDT/MEDT-Jahresstoff.md",
+                "file": "MEDT/pptx/06-Docker.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDT/MEDT-Jahresstoff.md",
+                "file": "MEDT/pptx/06-Docker.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,14 +221,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e1cb03b33a7d44c5",
+  "active": "7432b0e30b8a7e93",
   "lastOpenFiles": [
-    "MEDT/Node.js.pdf",
+    "INSY/test dingsi.md",
+    "MEDT/pptx/03-Nodejs.pdf",
+    "MEDT/pptx/06-Docker.pdf",
+    "Backlog_1123.md",
+    "INSY/Stolli github/GrundlagenPSQL.md",
     "MEDT/MEDT-Jahresstoff.md",
+    "MEDT/Node.js.pdf",
     "MEDT/Node.js.md",
     "MEDT/pptx/04-REST.pdf",
-    "INSY/Stolli github/GrundlagenPSQL.md",
-    "Backlog_1123.md",
     "MEDT/pptx/05-OpenAPI.pdf",
     "MEDT/pptx/03-Nodejs (1).pdf",
     "MEDT/pptx",
@@ -240,9 +240,6 @@
     "SYT/Arduino-Code/Analog_Input/src/main.cpp",
     "SYT/Arduino-Code/Analog_Input/test/README",
     "SYT/Arduino-Code/Analog_Input/test",
-    "SYT/Arduino-Code/Analog_Input/lib/README",
-    "SYT/Arduino-Code/Analog_Input/lib",
-    "SYT/Arduino-Code/Analog_Input/include/README",
     "INSY/PSQL, DatabaseDesign, Python.md",
     "INSY/Stolli github/Datenbankdesign.md",
     "INSY/PSQL/PSQL-Aufgabe-1.md",
@@ -266,7 +263,6 @@
     "ITP/Projektmanagement.md",
     "REL/RK-Aufgabenpaket Antworten.md",
     "REL/Oktober.md",
-    "REL/Lebenshinenversetzung.md",
     "Attachments/React.svg",
     "Attachments/Pasted image 20231109092519.png",
     "Attachments/Pasted image 20231108183657.png",
