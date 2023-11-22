@@ -37,5 +37,11 @@ with open('dein_dateiname.txt', 'r') as file:
 
 ## Datenbankdesign 
 
-**Realtions**
-- m = 
+**Relations**
+- m = at least 1
+- c = 1 or 0
+- 1 = 1 
+- n = Zahl
+
+## PSQL
+
