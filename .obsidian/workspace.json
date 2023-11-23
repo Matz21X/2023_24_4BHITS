@@ -67,8 +67,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aeddfb63bf45e5ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z_Hacking/Wifi de-auth attack.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a6fb409a4cd7d19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z_Hacking/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -145,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "Z_Hacking/Wifi de-auth attack.md"
               }
             }
           },
@@ -163,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "Z_Hacking/Wifi de-auth attack.md"
               }
             }
           },
@@ -189,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "Z_Hacking/Wifi de-auth attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "Z_Hacking/Wifi de-auth attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,20 +270,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d38f66751bba2e52",
+  "active": "aeddfb63bf45e5ab",
   "lastOpenFiles": [
+    "Z_Hacking/Untitled.md",
+    "Z_Hacking/Wifi de-auth attack.md",
+    "INSY/PSQL/PSQL-Aufgabe1.md",
+    "Backlog_1123.md",
     "REL/November.md",
+    "Z_Hacking/StormBreak + NGROK.md",
     "NW/~$ysikHA4_2.docx",
     "Attachments/Pasted image 20231123100821.png",
     "REL/4_Themenheft_Armut.pdf",
     "INSY/test dingsi.md",
-    "Backlog_1123.md",
     "NWT/dijkstraPY/bruh.py~",
     "INSY/PSQL.md",
     "INSY/Stolli github/P01_Grundlagen.md",
     "INSY/Stolli github/GrundlagenPSQL.md",
     "INSY/Stolli github/Datenbankdesign.md",
-    "INSY/PSQL/PSQL-Aufgabe1.md",
     "INSY/PSQL/PSQL-Aufgabe-1.md",
     "MEDT/pptx/06-Docker.pdf",
     "NWT/dijkstraPY/bruh.py",
@@ -284,8 +314,6 @@
     "Attachments/Pasted image 20231116204045.png",
     "Attachments/Pasted image 20231116203723.png",
     "ITP/Projektmanagement.md",
-    "REL/RK-Aufgabenpaket Antworten.md",
-    "REL/Oktober.md",
     "Attachments/React.svg",
     "Attachments/Pasted image 20231109092519.png",
     "Attachments/Pasted image 20231108183657.png",
