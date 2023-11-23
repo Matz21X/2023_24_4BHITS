@@ -49,16 +49,27 @@
             "id": "738f5ba62f0e2313",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "REL/4_Themenheft_Armut.pdf"
+              }
+            }
+          },
+          {
+            "id": "694135775aa18c4f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "INSY/test dingsi.md",
+                "file": "REL/November.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "REL/November.md"
               }
             }
           },
@@ -153,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "REL/November.md"
               }
             }
           },
@@ -179,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "REL/November.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "REL/November.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,9 +244,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d38f66751bba2e52",
+  "active": "694135775aa18c4f",
   "lastOpenFiles": [
+    "REL/4_Themenheft_Armut.pdf",
+    "REL/November.md",
     "INSY/test dingsi.md",
+    "Backlog_1123.md",
     "NWT/dijkstraPY/bruh.py~",
     "INSY/PSQL.md",
     "INSY/Stolli github/P01_Grundlagen.md",
@@ -246,7 +260,6 @@
     "MEDT/pptx/06-Docker.pdf",
     "NWT/dijkstraPY/bruh.py",
     "MEDT/pptx/03-Nodejs.pdf",
-    "Backlog_1123.md",
     "MEDT/MEDT-Jahresstoff.md",
     "MEDT/Node.js.pdf",
     "MEDT/Node.js.md",
@@ -254,11 +267,9 @@
     "MEDT/pptx/05-OpenAPI.pdf",
     "MEDT/pptx/03-Nodejs (1).pdf",
     "MEDT/pptx",
-    "SYT/Arduino-Code/Analog_Input/src/main.cpp",
     "INSY/PSQL, DatabaseDesign, Python.md",
     "INSY/Grundlagen PSQL.md",
     "INSY/INSY-Jahresstoff.md",
-    "REL/November.md",
     "Attachments/Pasted image 20231120114517.png",
     "WIR/Aufzeichnung der E+A Rechnung.md",
     "DE/Textanalyse-Das Brot.md",
