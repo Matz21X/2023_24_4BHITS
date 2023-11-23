@@ -39,4 +39,4 @@ Zusätzlich noch Unleistbarkeit von gewissen Standards:
 > Ein Sozialstaat ist ein Staat, der in seinem Handeln als Staatsziele soziale Sicherheit und soziale Gerechtigkeit anstrebt, um die Teilhabe aller an den gesellschaftlichen und politischen Entwicklungen zu gewährleisten.
 
 **Leistungen des Sozailstaates:**
-
+![[Pasted image 20231123100821.png]]
