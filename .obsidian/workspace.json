@@ -80,19 +80,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8a6fb409a4cd7d19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z_Hacking/Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 5
@@ -272,12 +259,12 @@
   },
   "active": "aeddfb63bf45e5ab",
   "lastOpenFiles": [
+    "Z_Hacking/StormBreak + NGROK.md",
     "Z_Hacking/Untitled.md",
     "Z_Hacking/Wifi de-auth attack.md",
     "INSY/PSQL/PSQL-Aufgabe1.md",
     "Backlog_1123.md",
     "REL/November.md",
-    "Z_Hacking/StormBreak + NGROK.md",
     "NW/~$ysikHA4_2.docx",
     "Attachments/Pasted image 20231123100821.png",
     "REL/4_Themenheft_Armut.pdf",
