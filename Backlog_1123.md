@@ -57,8 +57,9 @@
 | -     | #DE     | Lyrik ausarbeiten                                                          |                       |
 | -     | #BSP    | GYM GASIG GASIG GAS [[Gasig.jpg]]                                          |                       |
 | -     | #INSY   | Threading 🤡🤡                                                             | RealPython.com oda so |
-| -     | #SYT    | Dimming mit Potentiometer                                                  |                       |
+| 22.11 | #SYT    | Dimming mit Potentiometer                                                  |                       |
 | -     | #WIR    | Zeitung lesen                                                              |                       |
 | -     | #MEDT   | Warum API?                                                                 |                       |
 | -     | #INSY   | TEST                                                                       |                       |
-| -     | #SEW    | Projektzuweisungen                                                         | (Tindl & Ich)         | 
+| -     | #SEW    | Projektzuweisungen                                                         | (Tindl & Ich)         |
+| 23.11 | #DE     |                                                                            |                       |

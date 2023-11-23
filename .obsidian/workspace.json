@@ -68,8 +68,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REL/November.md"
+                "file": "Backlog_1123.md"
               }
             }
           },
@@ -164,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "REL/November.md"
+                "file": "Backlog_1123.md"
               }
             }
           },
@@ -190,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REL/November.md",
+                "file": "Backlog_1123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REL/November.md",
+                "file": "Backlog_1123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,12 +243,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "694135775aa18c4f",
+  "active": "d38f66751bba2e52",
   "lastOpenFiles": [
+    "REL/November.md",
     "NW/~$ysikHA4_2.docx",
     "Attachments/Pasted image 20231123100821.png",
     "REL/4_Themenheft_Armut.pdf",
-    "REL/November.md",
     "INSY/test dingsi.md",
     "Backlog_1123.md",
     "NWT/dijkstraPY/bruh.py~",
@@ -268,7 +267,6 @@
     "MEDT/pptx/04-REST.pdf",
     "MEDT/pptx/05-OpenAPI.pdf",
     "MEDT/pptx/03-Nodejs (1).pdf",
-    "MEDT/pptx",
     "INSY/PSQL, DatabaseDesign, Python.md",
     "INSY/Grundlagen PSQL.md",
     "INSY/INSY-Jahresstoff.md",
