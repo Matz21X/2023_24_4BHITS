@@ -68,4 +68,5 @@
 | -     | #WIR (#AM) | Suppliert                                                                  |                       |
 | -     | #NW        | Allgemeine X Spezielle Relativitätstheorie                                 |                       |
 | -     | #ITP       | Stolli Einfühlung [[Wifi de-auth attack]]                                  |                       |
-| 24.11 | #AM        | Letto Hausübung                                                                           |                       |
+| 24.11 | #AM        | Letto Hausübung                                                            |                       |
+| -     | #ITP       | Risikobewertung                                                                           |                       |
