@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "12fa9c659d8eea19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITP Projektziele.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7432b0e30b8a7e93",
             "type": "leaf",
             "state": {
@@ -81,7 +94,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "ITP Projektziele.md"
               }
             }
           },
@@ -177,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "ITP Projektziele.md"
               }
             }
           },
@@ -203,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "ITP Projektziele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "ITP Projektziele.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,13 +272,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d38f66751bba2e52",
+  "active": "12fa9c659d8eea19",
   "lastOpenFiles": [
+    "Backlog_1123.md",
+    "ITP Projektziele.md",
     "Z_Hacking/Wifi de-auth attack.md",
     "Z_Hacking/StormBreak + NGROK.md",
     "Z_Hacking/Untitled.md",
     "INSY/PSQL/PSQL-Aufgabe1.md",
-    "Backlog_1123.md",
     "REL/November.md",
     "NW/~$ysikHA4_2.docx",
     "Attachments/Pasted image 20231123100821.png",
@@ -301,7 +316,6 @@
     "Attachments/Pasted image 20231116204115.png",
     "Attachments/Pasted image 20231116204045.png",
     "Attachments/Pasted image 20231116203723.png",
-    "ITP/Projektmanagement.md",
     "Attachments/React.svg",
     "Attachments/Pasted image 20231109092519.png",
     "Attachments/Pasted image 20231108183657.png",
