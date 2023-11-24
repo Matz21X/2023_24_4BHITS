@@ -1,3 +1,6 @@
+# ITP Projektplanung
+#ITP
+
 1. **Wo stehen wir im Projekt?**  
 	Betrachtung der Ausgangssituation: vorliegende Informationen aufbereiten, Punkte klar oder unklar?, wer ist schon beteiligt?, was ist schon alles passiert?, Stärken und Schwächen berücksichtigen
 
@@ -17,8 +20,8 @@
 	Projekt wird in eine Struktur gebracht
 	In Unteraufgaben aufgeteilt und übersichtlich grafisch dargestellt
 	Wie geht man mit Risiken um?
-	
-1. **Bis wann?**
+
+6. **Bis wann?**
    - Bis wann soll das Projektziel und sollen Teilziele erreicht worden sein?
    - Das Thema in grobe Zeitliche Abschnitte unterteilen
    - Auch Meilensteine als wichtige Prüfpunkte spielen eine große Rolle.

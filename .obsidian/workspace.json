@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITP Projektplanung.md",
+                "file": "ITP/ITP Projektplanung.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -145,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP Projektplanung.md"
+                "file": "ITP/ITP Projektplanung.md"
               }
             }
           },
@@ -191,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP Projektplanung.md"
+                "file": "ITP/ITP Projektplanung.md"
               }
             }
           },
@@ -217,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP Projektplanung.md",
+                "file": "ITP/ITP Projektplanung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP Projektplanung.md",
+                "file": "ITP/ITP Projektplanung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,8 +254,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,7 +273,7 @@
   "active": "12fa9c659d8eea19",
   "lastOpenFiles": [
     "Backlog_1123.md",
-    "ITP Projektplanung.md",
+    "ITP/ITP Projektplanung.md",
     "Z_Hacking/Wifi de-auth attack.md",
     "Z_Hacking/StormBreak + NGROK.md",
     "Z_Hacking/Untitled.md",
