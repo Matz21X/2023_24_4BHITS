@@ -14,13 +14,15 @@
 	solide Organisationsstruktur im Team schaffen, Unterstützer finden, Gegner durch geeignete Maßnahmen so einbinden, dass der Projekterfolg nicht gefährdet wird.
 
 5. **Wie?**
-
-
-6. **Bis wann?**
+	Projekt wird in eine Struktur gebracht
+	In Unteraufgaben aufgeteilt und übersichtlich grafisch dargestellt
+	Wie geht man mit Risiken um?
+	
+1. **Bis wann?**
    - Bis wann soll das Projektziel und sollen Teilziele erreicht worden sein?
    - Das Thema in grobe Zeitliche Abschnitte unterteilen
    - Auch Meilensteine als wichtige Prüfpunkte spielen eine große Rolle.
-7. **Wie viel?**
+2. **Wie viel?**
     - Wie viel kostet das Projekt?
     - Auf Basis der Terminplanung durch die Planung von Ressourcen und ihren Aufwänden ermittelt
     - In der Praxis ist es allerdings auch oft so, dass die Projektkosten bzw. das Projektbudget ganz einfach vorgegeben sind

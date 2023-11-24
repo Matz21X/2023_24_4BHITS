@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITP Projektziele.md",
+                "file": "ITP Projektplanung.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP Projektziele.md"
+                "file": "ITP Projektplanung.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP Projektziele.md"
+                "file": "ITP Projektplanung.md"
               }
             }
           },
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP Projektziele.md",
+                "file": "ITP Projektplanung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP Projektziele.md",
+                "file": "ITP Projektplanung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,7 +275,7 @@
   "active": "12fa9c659d8eea19",
   "lastOpenFiles": [
     "Backlog_1123.md",
-    "ITP Projektziele.md",
+    "ITP Projektplanung.md",
     "Z_Hacking/Wifi de-auth attack.md",
     "Z_Hacking/StormBreak + NGROK.md",
     "Z_Hacking/Untitled.md",
