@@ -25,7 +25,8 @@
    - Bis wann soll das Projektziel und sollen Teilziele erreicht worden sein?
    - Das Thema in grobe Zeitliche Abschnitte unterteilen
    - Auch Meilensteine als wichtige Prüfpunkte spielen eine große Rolle.
-2. **Wie viel?**
+
+7. **Wie viel?**
     - Wie viel kostet das Projekt?
     - Auf Basis der Terminplanung durch die Planung von Ressourcen und ihren Aufwänden ermittelt
     - In der Praxis ist es allerdings auch oft so, dass die Projektkosten bzw. das Projektbudget ganz einfach vorgegeben sind

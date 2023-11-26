@@ -23,71 +23,12 @@
             }
           },
           {
-            "id": "12fa9c659d8eea19",
+            "id": "4459958ee9b23a43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITP/ITP Projektplanung.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7432b0e30b8a7e93",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDT/pptx/06-Docker.pdf"
-              }
-            }
-          },
-          {
-            "id": "e0045be10e794ede",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INSY/PSQL.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "738f5ba62f0e2313",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "REL/4_Themenheft_Armut.pdf"
-              }
-            }
-          },
-          {
-            "id": "694135775aa18c4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REL/November.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aeddfb63bf45e5ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z_Hacking/Wifi de-auth attack.md",
+                "file": "EN/Notes to Video.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -124,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#INSY",
+                "query": "tag:#ITP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -172,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP/ITP Projektplanung.md"
+                "file": "EN/Notes to Video.md"
               }
             }
           },
@@ -190,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP/ITP Projektplanung.md"
+                "file": "EN/Notes to Video.md"
               }
             }
           },
@@ -216,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/ITP Projektplanung.md",
+                "file": "EN/Notes to Video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP/ITP Projektplanung.md",
+                "file": "EN/Notes to Video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,9 +211,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "12fa9c659d8eea19",
+  "active": "4459958ee9b23a43",
   "lastOpenFiles": [
     "Backlog_1123.md",
+    "EN/Notes to Video.md",
+    "INSY/PSQL.md",
+    "MEDT/pptx/06-Docker.pdf",
     "ITP/ITP Projektplanung.md",
     "Z_Hacking/Wifi de-auth attack.md",
     "Z_Hacking/StormBreak + NGROK.md",
@@ -284,12 +228,10 @@
     "REL/4_Themenheft_Armut.pdf",
     "INSY/test dingsi.md",
     "NWT/dijkstraPY/bruh.py~",
-    "INSY/PSQL.md",
     "INSY/Stolli github/P01_Grundlagen.md",
     "INSY/Stolli github/GrundlagenPSQL.md",
     "INSY/Stolli github/Datenbankdesign.md",
     "INSY/PSQL/PSQL-Aufgabe-1.md",
-    "MEDT/pptx/06-Docker.pdf",
     "NWT/dijkstraPY/bruh.py",
     "MEDT/pptx/03-Nodejs.pdf",
     "MEDT/MEDT-Jahresstoff.md",
@@ -310,7 +252,6 @@
     "SEW-Theorie/Dependency Injection (Pattern).md",
     "SEW-Theorie/RESTful Webservices.md",
     "Z_Obsidian-Help/Help-Page.md",
-    "SEW-Theorie/Socketing.md",
     "Attachments/Pasted image 20231116204115.png",
     "Attachments/Pasted image 20231116204045.png",
     "Attachments/Pasted image 20231116203723.png",

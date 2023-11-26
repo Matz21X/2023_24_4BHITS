@@ -69,4 +69,7 @@
 | -     | #NW        | Allgemeine X Spezielle Relativitätstheorie                                 |                       |
 | -     | #ITP       | Stolli Einfühlung [[Wifi de-auth attack]]                                  |                       |
 | 24.11 | #AM        | Letto Hausübung                                                            |                       |
-| -     | #ITP       | Risikobewertung                                                                           |                       |
+| -     | #ITP       | Risikobewertung                                                            |                       |
+| -     | #SEW       | Nix (Projekt)                                                              |                       |
+| -     | #NW        | Tafelrechnung                                                              |                       |
+| -     | #ITP       | [[ITP Projektplanung]]                                                     |                       | 
