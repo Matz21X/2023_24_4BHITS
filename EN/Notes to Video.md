@@ -9,5 +9,5 @@
 **Answers:**
 1. Looks good on the CV, to connect to the local people, to break away for a bit, it feels nice to share something with someone else, 
 2. The farming project seems a bit odd. To start teaching kids without having any former teaching experience. Motives behind projects aren't humanitarian or charitable in any way. One of the major volunteer sending agencies made a profit of 3$ Million (selling poverty). There would be a better way to solve problems (pay locals to build buildings, train teachers directly...). Children get attached to the volunteers.
-3. Being an engaged citizen at home, reading the news, being awaer of what is going on in the world, signing petitions, lobbying, voting, donating money to NGOs or volunteering on a regular basis at home.
+3. Being an engaged citizen at home, reading the news, being aware of what is going on in the world, signing petitions, lobbying, voting, donating money to NGOs or volunteering on a regular basis at home. 
 
