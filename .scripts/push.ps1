@@ -5,7 +5,7 @@ git add -A
 git commit -m $commitMessage
 git push
 if ($LASTEXITCODE -eq 0) {
-    shutdown.exe /p
+    # shutdown.exe /p
 } else {
     Pause
 }
