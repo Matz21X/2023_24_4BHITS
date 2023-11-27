@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REL/November.md",
+                "file": "EN/Notes to Video.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REL/November.md"
+                "file": "EN/Notes to Video.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "REL/November.md"
+                "file": "EN/Notes to Video.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REL/November.md",
+                "file": "EN/Notes to Video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REL/November.md",
+                "file": "EN/Notes to Video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,6 +213,7 @@
   },
   "active": "4459958ee9b23a43",
   "lastOpenFiles": [
+    "REL/November.md",
     "EN/Notes to Video.md",
     "Backlog_1123.md",
     "INSY/PSQL.md",
@@ -222,7 +223,6 @@
     "Z_Hacking/StormBreak + NGROK.md",
     "Z_Hacking/Untitled.md",
     "INSY/PSQL/PSQL-Aufgabe1.md",
-    "REL/November.md",
     "NW/~$ysikHA4_2.docx",
     "Attachments/Pasted image 20231123100821.png",
     "REL/4_Themenheft_Armut.pdf",
