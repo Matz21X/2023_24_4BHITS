@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EN/Notes to Video.md",
+                "file": "EN/Speaking_Task_S20_6.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EN/Notes to Video.md"
+                "file": "EN/Speaking_Task_S20_6.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "EN/Notes to Video.md"
+                "file": "EN/Speaking_Task_S20_6.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EN/Notes to Video.md",
+                "file": "EN/Speaking_Task_S20_6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EN/Notes to Video.md",
+                "file": "EN/Speaking_Task_S20_6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,8 +213,12 @@
   },
   "active": "4459958ee9b23a43",
   "lastOpenFiles": [
-    "REL/November.md",
+    "EN/report_youth unemployment rates.pdf",
+    "EN/~$S161-2.docx",
+    "EN/Report youth unemployment.md",
+    "EN/Letter of application.md",
     "EN/Notes to Video.md",
+    "REL/November.md",
     "Backlog_1123.md",
     "INSY/PSQL.md",
     "MEDT/pptx/06-Docker.pdf",
@@ -239,7 +243,6 @@
     "MEDT/Node.js.md",
     "MEDT/pptx/04-REST.pdf",
     "MEDT/pptx/05-OpenAPI.pdf",
-    "MEDT/pptx/03-Nodejs (1).pdf",
     "INSY/PSQL, DatabaseDesign, Python.md",
     "INSY/Grundlagen PSQL.md",
     "INSY/INSY-Jahresstoff.md",
@@ -249,9 +252,6 @@
     "DE/DasBrot.md",
     "ITP/ITP WH.md",
     "Attachments/Pasted image 20231116211349.png",
-    "SEW-Theorie/Dependency Injection (Pattern).md",
-    "SEW-Theorie/RESTful Webservices.md",
-    "Z_Obsidian-Help/Help-Page.md",
     "Attachments/Pasted image 20231116204115.png",
     "Attachments/Pasted image 20231116204045.png",
     "Attachments/Pasted image 20231116203723.png",
