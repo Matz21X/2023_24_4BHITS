@@ -21,27 +21,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "4459958ee9b23a43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EN/Speaking_Task_S20_6.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f33027e4c817192a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ]
       }
@@ -89,8 +68,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,9 +98,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Backlog_1123.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,9 +114,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Backlog_1123.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +155,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,8 +191,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d38f66751bba2e52",
+  "active": "38083c4526031a57",
   "lastOpenFiles": [
+    "Backlog_1123.md",
     "SYT/Arduino-Code/DisplayYUH/src/main.cpp",
     "SYT/Arduino-Code/DisplayYUH/test/README",
     "SYT/Arduino-Code/DisplayYUH/test",
@@ -231,9 +204,7 @@
     "SYT/Arduino-Code/DisplayYUH/src",
     "SYT/Arduino-Code/DisplayYUH/platformio.ini",
     "SYT/Arduino-Code/DisplayYUH",
-    "Backlog_1123.md",
     "EN/Speaking_Task_S20_6.md",
-    "EN/report_youth unemployment rates.pdf",
     "EN/Report youth unemployment.md",
     "EN/Letter of application.md",
     "EN/Notes to Video.md",
