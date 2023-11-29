@@ -75,4 +75,8 @@
 | -     | #ITP       | [[ITP Projektplanung]]                                                     |                       |
 | -     | YUH        | Tag der offenen Tür                                                        |                       |
 | 27.11 | #AM        | Yep, Variablentrennung                                                     |                       |
-| -     |            |                                                                            |                       |
+| -     | #RK        | [[3_AB_Caritas.pdf]]                                                       |                       |
+| -     | #EN        | Nix                                                                        |                       |
+| 28.11 |            | Ausfug                                                                     |                       |
+| 29.11 | #SYT       | OLED-Bildschirm                                                            |                       |
+| -     | #MEDT      | [[06-Docker.pdf]]                                                          |                       | 
