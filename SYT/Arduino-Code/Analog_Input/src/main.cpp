@@ -11,6 +11,10 @@ int getValue(int analogValue) {
   return analogValue / 16;
 }
 
+int getPercent() {
+  return 0.024 * analogRead (36);
+}
+
 void loop() {
   Serial.println( getValue( analogRead(36)));
   
