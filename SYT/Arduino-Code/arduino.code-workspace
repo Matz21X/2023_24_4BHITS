@@ -18,6 +18,10 @@
 		{
 			"name": "Analog_Input",
 			"path": "Analog_Input"
+		},
+		{
+			"name": "DisplayYUH",
+			"path": "DisplayYUH"
 		}
 	],
 	"settings": {}
