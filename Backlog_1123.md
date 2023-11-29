@@ -72,4 +72,7 @@
 | -     | #ITP       | Risikobewertung                                                            |                       |
 | -     | #SEW       | Nix (Projekt)                                                              |                       |
 | -     | #NW        | Tafelrechnung                                                              |                       |
-| -     | #ITP       | [[ITP Projektplanung]]                                                     |                       | 
+| -     | #ITP       | [[ITP Projektplanung]]                                                     |                       |
+| -     | YUH        | Tag der offenen Tür                                                        |                       |
+| 27.11 | #AM        | Yep, Variablentrennung                                                     |                       |
+| -     |            |                                                                            |                       |
