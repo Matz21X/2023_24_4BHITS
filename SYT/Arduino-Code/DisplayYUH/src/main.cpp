@@ -1,18 +1,18 @@
 #include <Arduino.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_SSD1306.h>
 
-// put function declarations here:
-int myFunction(int, int);
+Adafruit_SSD1306 dp( 124, 64, &Wire, -1 );
 
 void setup() {
-  // put your setup code here, to run once:
-  int result = myFunction(2, 3);
+  dp.begin( SSD1306_SWITCHCAPVCC, 0x3C );
+  dp.clearDisplay();
+  dp.setTextColor(SSD1306_WHITE);
+  dp.drawCircle(10, 10, 10, WHITE);
+  dp.write("Bruh");
+  dp.display();
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-}
 
-// put function definitions here:
-int myFunction(int x, int y) {
-  return x + y;
 }
