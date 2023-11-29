@@ -12,7 +12,7 @@ int getValue(int analogValue) {
 }
 
 void loop() {
-  Serial.println( analogRead(36));
+  Serial.println( getValue( analogRead(36)));
 
   ledcWrite(0, getValue( analogRead(36))); 
 }
