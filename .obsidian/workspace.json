@@ -21,8 +21,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "cb57b93201779d6e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "REL/4_Themenheft_Armut.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "REL/4_Themenheft_Armut.pdf"
               }
             }
           },
@@ -117,7 +128,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1123.md"
+                "file": "REL/4_Themenheft_Armut.pdf"
               }
             }
           },
@@ -143,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "REL/4_Themenheft_Armut.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "REL/4_Themenheft_Armut.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,9 +208,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "38083c4526031a57",
+  "active": "cb57b93201779d6e",
   "lastOpenFiles": [
+    "REL/6_Fairtrade.pdf",
     "Backlog_1123.md",
+    "REL/3_AB_Caritas.pdf",
     "SYT/Arduino-Code/DisplayYUH/src/main.cpp",
     "SYT/Arduino-Code/DisplayYUH/test/README",
     "SYT/Arduino-Code/DisplayYUH/test",
@@ -209,7 +222,6 @@
     "SYT/Arduino-Code/DisplayYUH/include",
     "SYT/Arduino-Code/DisplayYUH/src",
     "SYT/Arduino-Code/DisplayYUH/platformio.ini",
-    "SYT/Arduino-Code/DisplayYUH",
     "EN/Speaking_Task_S20_6.md",
     "EN/Report youth unemployment.md",
     "EN/Letter of application.md",

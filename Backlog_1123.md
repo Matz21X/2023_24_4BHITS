@@ -75,8 +75,11 @@
 | -     | #ITP       | [[ITP Projektplanung]]                                                     |                       |
 | -     | YUH        | Tag der offenen Tür                                                        |                       |
 | 27.11 | #AM        | Yep, Variablentrennung                                                     |                       |
-| -     | #RK        | [[3_AB_Caritas.pdf]]                                                       |                       |
+| -     | #RK        | [[4_Themenheft_Armut.pdf]]                                                       |                       |
 | -     | #EN        | Nix                                                                        |                       |
 | 28.11 |            | Ausfug                                                                     |                       |
 | 29.11 | #SYT       | OLED-Bildschirm                                                            |                       |
-| -     | #MEDT      | [[06-Docker.pdf]]                                                          |                       | 
+| -     | #MEDT      | [[06-Docker.pdf]]                                                          |                       |
+| 30.11 | #EN        | Swedish culture                                                            |                       |
+| -     | #DE        | Nix / Referat vorbereiten                                                  |                       |
+| -     | #RK        |                                                                            |                       |
