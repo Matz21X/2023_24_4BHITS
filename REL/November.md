@@ -45,4 +45,12 @@ Zusätzlich noch Unleistbarkeit von gewissen Standards:
 ## Ökologischer Fußabdruck
 
 >[!INFO] Definition
->Bruh
+>Der ökologische Fußabdruck bezeichnet die biologisch produktive Fläche auf der Erde, die notwendig ist, um den Lebensstil und Lebensstandard eines Menschen dauerhaft zu ermöglichen. Damit soll der ökologische Fußabdruck ein Indikator für Nachhaltigkeit sein. Wird in gha (Global Hektar) gemessen
+
+**Mein Abruck:**
+==6.1 gha==
+
+**Planeten:**
+3.8
+
+**Wie ich meinen Abdruck verkleinern kann:** 
