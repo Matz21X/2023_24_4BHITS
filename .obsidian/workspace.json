@@ -26,9 +26,12 @@
             "id": "cb57b93201779d6e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "REL/4_Themenheft_Armut.pdf"
+                "file": "REL/November.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -110,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REL/4_Themenheft_Armut.pdf"
+                "file": "REL/November.md"
               }
             }
           },
@@ -128,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "REL/4_Themenheft_Armut.pdf"
+                "file": "REL/November.md"
               }
             }
           },
@@ -154,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REL/4_Themenheft_Armut.pdf",
+                "file": "REL/November.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REL/4_Themenheft_Armut.pdf",
+                "file": "REL/November.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,6 +213,7 @@
   },
   "active": "cb57b93201779d6e",
   "lastOpenFiles": [
+    "REL/4_Themenheft_Armut.pdf",
     "REL/6_Fairtrade.pdf",
     "Backlog_1123.md",
     "REL/3_AB_Caritas.pdf",
@@ -221,7 +225,6 @@
     "SYT/Arduino-Code/DisplayYUH/include/README",
     "SYT/Arduino-Code/DisplayYUH/include",
     "SYT/Arduino-Code/DisplayYUH/src",
-    "SYT/Arduino-Code/DisplayYUH/platformio.ini",
     "EN/Speaking_Task_S20_6.md",
     "EN/Report youth unemployment.md",
     "EN/Letter of application.md",

@@ -40,3 +40,9 @@ Zusätzlich noch Unleistbarkeit von gewissen Standards:
 
 **Leistungen des Sozailstaates:**
 ![[Pasted image 20231123100821.png]]
+
+
+## Ökologischer Fußabdruck
+
+>[!INFO] Definition
+>Bruh
