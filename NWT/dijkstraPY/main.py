@@ -1,46 +1,20 @@
-import heapq as hq
+def dijkstra(nodes, edges, source_index=0):
+    path_lengths = {v: int('inf') for v in nodes}
+    path_lengths[source_index] = 0
 
-class Solution:
+    adjacent_nodes = {v: {} for v in nodes}
+    for (u, v), w_uv in edges.items():
+        adjacent_nodes[u][v] = w_uv
+        adjacent_nodes[v][u] = w_uv
 
-    # Function to find the shortest distance of all the vertices
-    # from the source vertex S.
-    def dijkstra(self, V, adj, S):
-        pq = [(0, S)]
-        dist = [float('inf')] * V
-        dist[S] = 0
+    temporary_nodes = [v for v in nodes]
+    while len(temporary_nodes) > 0:
+        upper_bounds = {v: path_lengths[v] for v in temporary_nodes}
+        u = min(upper_bounds, key=upper_bounds.get)
 
-        while pq:
-            d, u = hq.heappop(pq)
+        temporary_nodes.remove(u)
 
-            for v, w in adj[u]:
-                if dist[u] + w < dist[v]:
-                    dist[v] = dist[u] + w
-                    hq.heappush(pq, (dist[v], v))
+        for v, w_uv in adjacent_nodes[u].items():
+            path_lengths[v] = min(path_lengths[v], path_lengths[u] + w_uv)
 
-        result = [dist[i] if dist[i] != float('inf') else -1 for i in range(V)]
-        return result
-
-
-# Driver Code Starts
-# Initial Template for Python 3
-import atexit
-import io
-import sys
-
-if __name__ == '__main__':
-    test_cases = int(input())
-    for cases in range(test_cases):
-        V, E = map(int, input().strip().split())
-        adj = [[] for i in range(V)]
-        for i in range(E):
-            u, v, w = map(int, input().strip().split())
-            adj[u].append([v, w])
-            adj[v].append([u, w])
-        S = int(input())
-        ob = Solution()
-
-        res = ob.dijkstra(V, adj, S)
-        for i in res:
-            print(i, end=" ")
-        print()
-# } Driver Code Ends
+    return path_lengths
