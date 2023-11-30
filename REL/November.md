@@ -54,3 +54,5 @@ Zusätzlich noch Unleistbarkeit von gewissen Standards:
 3.8
 
 **Wie ich meinen Abdruck verkleinern kann:** 
+Weniger Auto fahren und so, Weniger Fleisch
+[[]]
