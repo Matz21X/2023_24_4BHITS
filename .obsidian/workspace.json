@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ITP/Notes.md"
+              }
             }
           },
           {
@@ -149,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "ITP/Notes.md"
+              }
             }
           },
           {
@@ -174,6 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ITP/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ITP/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,8 +232,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8c61e24a4aba9b2b",
+  "active": "e7eb45e806064394",
   "lastOpenFiles": [
+    "NWT/config.txt",
     "Backlog_1223.md",
     "ITP/Notes.md",
     "SEW-Theorie/Immutable Objects.md",
@@ -264,7 +271,6 @@
     "MEDT/Node.js.md",
     "INSY/PSQL, DatabaseDesign, Python.md",
     "INSY/Grundlagen PSQL.md",
-    "INSY/INSY-Jahresstoff.md",
     "Attachments/Pasted image 20231120114517.png",
     "Attachments/Pasted image 20231116211349.png",
     "Attachments/Pasted image 20231116204115.png",
