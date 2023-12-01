@@ -36,24 +36,16 @@
             }
           },
           {
-            "id": "e7eb45e806064394",
+            "id": "00fe87563e2b5ed1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITP/Notes.md",
+                "file": "NWT/Mikrotik OSPF Config.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "8c61e24a4aba9b2b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
@@ -134,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP/Notes.md"
+                "file": "NWT/Mikrotik OSPF Config.md"
               }
             }
           },
@@ -152,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP/Notes.md"
+                "file": "NWT/Mikrotik OSPF Config.md"
               }
             }
           },
@@ -178,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/Notes.md",
+                "file": "NWT/Mikrotik OSPF Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP/Notes.md",
+                "file": "NWT/Mikrotik OSPF Config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,15 +224,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e7eb45e806064394",
+  "active": "00fe87563e2b5ed1",
   "lastOpenFiles": [
-    "NWT/config.txt",
     "Backlog_1223.md",
-    "ITP/Notes.md",
+    "NWT/Mikrotik OSPF Config.md",
     "SEW-Theorie/Immutable Objects.md",
+    "ITP/Notes.md",
+    "Backlog_1123.md",
+    "NWT/config.txt",
     "Schularbeit Stoff.md",
     "REL/November.md",
-    "Backlog_1123.md",
     "NWT/dijkstraPY/main.py~",
     "REL/4_Themenheft_Armut.pdf",
     "REL/6_Fairtrade.pdf",
@@ -250,7 +243,6 @@
     "SYT/Arduino-Code/DisplayYUH/test",
     "SYT/Arduino-Code/DisplayYUH/lib/README",
     "SYT/Arduino-Code/DisplayYUH/lib",
-    "SYT/Arduino-Code/DisplayYUH/include/README",
     "EN/Speaking_Task_S20_6.md",
     "EN/Report youth unemployment.md",
     "EN/Letter of application.md",

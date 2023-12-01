@@ -6,4 +6,5 @@
 | 1.12 | #ITP    | Aufgabenpaket         |                 |
 | -    | #SEW    | [[Immutable Objects]] |                 |
 | -    | #NW     | Lebensgeschichte      |                 |
-| -    | #ITP    | [[Notes]]                      |                 |
+| -    | #ITP    | [[Notes]]             |                 |
+| -    | #NWT    | [[Mikrotik OSPF Config]]  |                 | 
