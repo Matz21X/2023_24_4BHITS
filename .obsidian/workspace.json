@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SEW-Theorie/Immutable Objects.md"
+              }
             }
           },
           {
@@ -136,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "SEW-Theorie/Immutable Objects.md"
+              }
             }
           },
           {
@@ -161,6 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SEW-Theorie/Immutable Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,6 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SEW-Theorie/Immutable Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +219,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8c61e24a4aba9b2b",
+  "active": "4b082f56758f705e",
   "lastOpenFiles": [
     "SEW-Theorie/Immutable Objects.md",
     "Backlog_1223.md",
