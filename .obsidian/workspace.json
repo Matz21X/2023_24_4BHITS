@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d38f66751bba2e52",
+            "id": "2b7a352f707fd0d2",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backlog_1123.md",
+                "file": "Backlog_1223.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,20 +23,28 @@
             }
           },
           {
-            "id": "cb57b93201779d6e",
+            "id": "4b082f56758f705e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REL/November.md",
+                "file": "SEW-Theorie/Immutable Objects.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c61e24a4aba9b2b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DE",
+                "query": "tag:#NWT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -112,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "REL/November.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "REL/November.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,7 +161,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REL/November.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +177,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REL/November.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,12 +213,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cb57b93201779d6e",
+  "active": "8c61e24a4aba9b2b",
   "lastOpenFiles": [
+    "SEW-Theorie/Immutable Objects.md",
+    "Backlog_1223.md",
+    "Schularbeit Stoff.md",
+    "REL/November.md",
+    "Backlog_1123.md",
     "NWT/dijkstraPY/main.py~",
     "REL/4_Themenheft_Armut.pdf",
     "REL/6_Fairtrade.pdf",
-    "Backlog_1123.md",
     "REL/3_AB_Caritas.pdf",
     "SYT/Arduino-Code/DisplayYUH/src/main.cpp",
     "SYT/Arduino-Code/DisplayYUH/test/README",
@@ -224,12 +230,10 @@
     "SYT/Arduino-Code/DisplayYUH/lib/README",
     "SYT/Arduino-Code/DisplayYUH/lib",
     "SYT/Arduino-Code/DisplayYUH/include/README",
-    "SYT/Arduino-Code/DisplayYUH/include",
     "EN/Speaking_Task_S20_6.md",
     "EN/Report youth unemployment.md",
     "EN/Letter of application.md",
     "EN/Notes to Video.md",
-    "REL/November.md",
     "INSY/PSQL.md",
     "ITP/ITP Projektplanung.md",
     "Z_Hacking/Wifi de-auth attack.md",
@@ -249,8 +253,6 @@
     "INSY/INSY-Jahresstoff.md",
     "Attachments/Pasted image 20231120114517.png",
     "WIR/Aufzeichnung der E+A Rechnung.md",
-    "DE/Textanalyse-Das Brot.md",
-    "DE/DasBrot.md",
     "Attachments/Pasted image 20231116211349.png",
     "Attachments/Pasted image 20231116204115.png",
     "Attachments/Pasted image 20231116204045.png",
