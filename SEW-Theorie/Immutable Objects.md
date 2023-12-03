@@ -21,3 +21,4 @@
 - Default ``clone`` Methode funktioniert (Keine eigene Implementierung notwendig)
 
 Speziell in Multithread-Umgebungen, bieten Unveränderliche Objekte den entscheidenden Vorteil der Thread-Sicherheit. Webservices beispielsweise, sollten immer Threadsicher realisiert sein, da viele Clients gleichzeitig darauf zugreifen können
+
