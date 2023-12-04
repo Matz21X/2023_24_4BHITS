@@ -117,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Backlog_1223.md"
+              }
             }
           },
           {
@@ -133,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Backlog_1223.md"
+              }
             }
           },
           {
@@ -158,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Backlog_1223.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,6 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Backlog_1223.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
