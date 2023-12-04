@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EN/Survey pt3.md"
+                "file": "Backlog_1223.md"
               }
             }
           },
@@ -150,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "EN/Survey pt3.md"
+                "file": "Backlog_1223.md"
               }
             }
           },
@@ -176,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EN/Survey pt3.md",
+                "file": "Backlog_1223.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EN/Survey pt3.md",
+                "file": "Backlog_1223.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,10 +230,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "793f5c3bf2d73a8a",
+  "active": "2b7a352f707fd0d2",
   "lastOpenFiles": [
-    "Attachments/WhatsApp Bild 2023-12-04 um 10.45.28_6e4d49c0.jpg",
     "EN/Survey pt3.md",
+    "Attachments/WhatsApp Bild 2023-12-04 um 10.45.28_6e4d49c0.jpg",
     "Attachments/Gasig.jpg",
     "Backlog_1123.md",
     "Attachments/katholischeSozial.svg",
@@ -278,7 +277,6 @@
     "Attachments/Pasted image 20231116211349.png",
     "Attachments/Pasted image 20231116204115.png",
     "Attachments/Pasted image 20231116204045.png",
-    "Attachments/Pasted image 20231116203723.png",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
