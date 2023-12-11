@@ -66,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NWT/Minecraft Server Task.md"
+                "file": "Backlog_1223.md"
               }
             }
           },
@@ -163,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NWT/Minecraft Server Task.md"
+                "file": "Backlog_1223.md"
               }
             }
           },
@@ -189,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NWT/Minecraft Server Task.md",
+                "file": "Backlog_1223.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NWT/Minecraft Server Task.md",
+                "file": "Backlog_1223.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,10 +243,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ac79664f1fc269ab",
+  "active": "2b7a352f707fd0d2",
   "lastOpenFiles": [
-    "Backlog_1223.md",
     "NWT/Minecraft Server Task.md",
+    "Backlog_1223.md",
     "EN/Survey pt3.md",
     "Attachments/WhatsApp Bild 2023-12-04 um 10.45.28_6e4d49c0.jpg",
     "Attachments/Gasig.jpg",
