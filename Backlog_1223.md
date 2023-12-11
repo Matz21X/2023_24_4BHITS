@@ -12,4 +12,5 @@
 | -     | #GGP    | [[3.Wirtschaftsräume_Schüler.pdf]] [[4.Wirtschaftssysteme_Schüler.pdf]] |                 |
 | -     | #EN     | [[Survey pt3]]                                                          |                 |
 | 11.12 | #NWT    | [[Minecraft Server Task]]                                               |                 |
-| -     | #        |                                                                         |                 |
+| -     | #GGP    | Planwirtschaft                                                          |                 |
+| -     | #EN     |                                                                         |                 |
