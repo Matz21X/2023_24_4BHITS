@@ -8,8 +8,8 @@ void setup() {
   dp.begin( SSD1306_SWITCHCAPVCC, 0x3C );
   dp.clearDisplay();
   dp.setTextColor(SSD1306_WHITE);
-  dp.drawCircle(10, 10, 10, WHITE);
-  dp.write("Bruh");
+  dp.drawCircle(20, 20, 5, WHITE);
+  dp.write("Goofy Ahhh");
   dp.display();
 }
 

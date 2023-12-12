@@ -22,6 +22,14 @@
 		{
 			"name": "DisplayYUH",
 			"path": "DisplayYUH"
+		},
+		{
+			"name": "showValueOnDP",
+			"path": "showValueOnDP"
+		},
+		{
+			"name": "Webserver",
+			"path": "Webserver"
 		}
 	],
 	"settings": {}
