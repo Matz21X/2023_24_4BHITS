@@ -14,6 +14,7 @@ def ping_ip(ip):
     else:
         output = sp.run(["ping", "-c", "1", ip], capture_output=True)
         outputs.append(output)
+        print("popo")
 
 
 def main(target_ip, subnet_mask):
