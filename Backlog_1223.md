@@ -13,4 +13,8 @@
 | -     | #EN     | [[Survey pt3]]                                                          |                 |
 | 11.12 | #NWT    | [[Minecraft Server Task]]                                               |                 |
 | -     | #GGP    | Planwirtschaft                                                          |                 |
-| -     | #EN     |                                                                         |                 |
+| -     | #EN     | Report verbessert                                                       |                 |
+| 12.12 | #WIR    | Recht Test 🫢                                                            |                 |
+| -     | #DE     | NIX                                                                     |                 |
+| -     | #BSP    | GASIG GASIG GAS [[Gasig.jpg]]                                           |                 |
+| -     | #INSY   | Teamaufteilung Projekt                                                  |                 | 
