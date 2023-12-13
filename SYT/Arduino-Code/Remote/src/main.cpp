@@ -26,7 +26,7 @@ unsigned long previousTime = 0;
 const long timeoutTime = 2000;
 
 void setup() {
-  Serial.begin(115200);
+  Serial.begin(9600);
   // Initialize the output variables as outputs
   pinMode(output26, OUTPUT);
   pinMode(output27, OUTPUT);
