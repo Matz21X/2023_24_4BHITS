@@ -200,6 +200,7 @@
   },
   "active": "2b7a352f707fd0d2",
   "lastOpenFiles": [
+    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/api/v1/models/exoplanetsModel.js~",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/api/v1/paths/exoplanets/{id}.js",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/api/v1/services/exoplanetsService.js",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/api/v1/paths/exoplanets.js",
@@ -210,7 +211,6 @@
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/api/v1/services",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/api/v1/paths",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/api/v1/models",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/api/v1/middleware",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/strip-ansi/readme.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/string-width/readme.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/README.md",
