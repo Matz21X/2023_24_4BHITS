@@ -17,4 +17,5 @@
 | 12.12 | #WIR    | Recht Test 🫢                                                            |                 |
 | -     | #DE     | NIX                                                                     |                 |
 | -     | #BSP    | GASIG GASIG GAS [[Gasig.jpg]]                                           |                 |
-| -     | #INSY   | Teamaufteilung Projekt                                                  |                 | 
+| -     | #INSY   | Teamaufteilung Projekt                                                  |                 |
+| 13.12 | #SYT    | Remote Control Webserver                                                                        |                 |
