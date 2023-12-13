@@ -2,8 +2,8 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-#define SSID "OnePlus Nord 2T 5G"
-#define WIFI_PW "Bussin6969!"
+#define SSID "HTLIoT"
+#define WIFI_PW "hollabrunn"
 
 WebServer myWebServer( 80 );
 
