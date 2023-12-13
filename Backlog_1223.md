@@ -20,3 +20,4 @@
 | -     | #INSY   | Teamaufteilung Projekt                                                  |                 |
 | 13.12 | #SYT    | Remote Control Webserver                                                |                 |
 | -     | #WIR    | Steuern Recht Buch S. 343/344 (Sonderausgaben)                          |                 |
+| -     | #MEDT   |                                                                         |                 |
