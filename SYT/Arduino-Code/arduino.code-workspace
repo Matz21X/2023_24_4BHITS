@@ -30,6 +30,10 @@
 		{
 			"name": "Webserver",
 			"path": "Webserver"
+		},
+		{
+			"name": "Remote",
+			"path": "Remote"
 		}
 	],
 	"settings": {}
