@@ -1,39 +1,45 @@
 # NoSql injections
 #ITP 
 
-><span style="color:#00b050">NoSQL injection is a vulnerability where an attacker is able to interfere with the queries that an application makes to a NoSQL database.</span>
+><span style="color:#00b050">NoSQL Injection ist eine Sicherheitslücke, die in nicht-relationalen Datenbanken (NoSQL-Datenbanken) auftritt. Ähnlich wie SQL Injection ermöglicht NoSQL Injection einem Angreifer, bösartigen Code in Anfragen einzufügen und somit unautorisierten Zugriff auf Daten zu erlangen.</span>
 
-**NoSQL injection may enable an attacker to:**
+**NoSQL injection erlaubt dem angreifer:**
 - Bypass authentication or protection mechanisms.
 - Extract or edit data.
 - Cause a denial of service.
 - Execute code on the server.
 
-**There are two different types of NoSQL injections:**
+**Die 2 Arten von NoSQL Injection:**
 - Syntax injection
 - Operator injection
 
+### 2.1 Einfaches Beispiel
 
-## Syntax Injection
+Angenommen, eine Anwendung verwendet MongoDB und eine Benutzerauthentifizierung mit einer Abfrage wie:
 
-To detect if a server is vulnerable to syntax injection systematically test each input by submitting fuzz strings and special characters. If the server responds different with those inputs it's a hint that it's vulnerable to syntax injections.
-### Examples:
+`db.users.find({ username: 'benutzername', password: 'passwort' });`
 
-Normal URL:
-``https://insecure-website.com/product/lookup?category=fizzy``
+Ein Angreifer könnte versuchen, sich durch die Eingabe von `{"$ne": null}` als Passwort zu authentifizieren, um die Bedingung zu umgehen:
 
-Through this link a JSON query gets sent with the information:
-`this.category == fizzy`
+`db.users.find({ username: 'benutzername', password: {"$ne": null} });`
 
-Try replacing it with:
-``https://insecure-website.com/product/lookup?category='%22%60%7b%0d%0a%3b%24Foo%7d%0d%0a%24Foo%20%5cxYZ%00``
+### 2.2 Erweitertes Beispiel
 
->[!NFO] Note
->NoSQL injection vulnerabilities can occur in a variety of contexts, and you need to adapt your fuzz strings accordingly. Otherwise, you may simply trigger validation errors that mean the application never executes your query.
->
->In this example, we're injecting the fuzz string via the URL, so the string is URL-encoded. In some applications, you may need to inject your payload via a JSON property instead. In this case, this payload would become ``'\"`{\r;$Foo}\n$Foo \\xYZ\u0000``.
+Eine Anwendung könnte eine Anfrage zum Abrufen von Benutzerinformationen haben:
 
-**Server error example:**
+`db.users.find({ username: 'benutzername' });`
 
-`Command failed with error 139 (JSInterpreterFailure): 'SyntaxError: unterminated string literal : functionExpressionParser@src/mongo/scripting/mozjs/mongohelpers.js:46:25 ' on server 127.0.0.1:27017. The full response is {"ok": 0.0, "errmsg": "SyntaxError: unterminated string literal :\nfunctionExpressionParser@src/mongo/scripting/mozjs/mongohelpers.js:46:25\n", "code": 139, "codeName": "JSInterpreterFailure"}`
+Ein Angreifer könnte versuchen, die Anfrage zu manipulieren, um alle Benutzerdaten abzurufen:
+
+`db.users.find({ $where: 'this.username == "benutzername" || 1==1' });`
+
+## 3. Präventive Maßnahmen
+
+Um NoSQL Injection zu verhindern, sollten folgende Maßnahmen ergriffen werden:
+
+- **Verwenden Sie Parameterisierte Abfragen:** Stellen Sie sicher, dass alle Benutzereingaben als Parameter behandelt werden und nicht direkt in die Abfrage eingefügt werden.
+    
+- **Validierung der Benutzereingaben:** Überprüfen und validieren Sie alle Benutzereingaben, um sicherzustellen, dass sie den erwarteten Formaten entsprechen.
+    
+- **Begrenzung von Berechtigungen:** Gewähren Sie nur die notwendigen Berechtigungen für Datenbankzugriffe und vermeiden Sie übermäßige Privilegien.
 
