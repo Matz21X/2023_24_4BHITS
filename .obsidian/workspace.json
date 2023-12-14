@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP/Projekte/STO/PortSwigger NoSqlInjection.md"
+                "file": "ITP/Projekte/STO/JuiceShop Setup.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP/Projekte/STO/PortSwigger NoSqlInjection.md"
+                "file": "ITP/Projekte/STO/JuiceShop Setup.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/Projekte/STO/PortSwigger NoSqlInjection.md",
+                "file": "ITP/Projekte/STO/JuiceShop Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP/Projekte/STO/PortSwigger NoSqlInjection.md",
+                "file": "ITP/Projekte/STO/JuiceShop Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,9 +226,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b4b585e24458def5",
+  "active": "b68563dfcbf17de5",
   "lastOpenFiles": [
+    "Z_Obsidian-Help/Java.md",
+    "Z_Obsidian-Help/Syntax.md",
     "ITP/Projekte/STO/JuiceShop Setup.md",
+    "Z_Obsidian-Help/Help-Page.md",
     "ITP/Projekte/STO/PortSwigger NoSqlInjection.md",
     "Backlog_1223.md",
     "Z_Hacking/Wifi de-auth attack.md",
@@ -263,9 +266,6 @@
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/@pkgjs/parseargs/README.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/@pkgjs/parseargs/CHANGELOG.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/@isaacs/cliui/README.md",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/readme.md",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi/readme.md",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/utils-merge/README.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-16x16.png",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-32x32.png",
     "Attachments/katholischeSozial.svg",
