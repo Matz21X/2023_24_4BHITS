@@ -17,9 +17,9 @@
 ## Syntax Injection
 
 To detect if a server is vulnerable to syntax injection systematically test each input by submitting fuzz strings and special characters. If the server responds different with those inputs it's a hint that it's vulnerable to syntax injections.
+### Examples:
 
-**Examples:**
+Normal URL:
+``https://insecure-website.com/product/lookup?category=fizzy``
 
-```
-`https://insecure-website.com/product/lookup?category=fizzy`
-```
+Through this 
