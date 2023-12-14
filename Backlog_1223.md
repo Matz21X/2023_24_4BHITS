@@ -22,4 +22,6 @@
 | -     | #WIR    | Steuern Recht Buch S. 343/344 (Sonderausgaben)                          |                 |
 | -     | #MEDT   | UHHH                                                                    |                 |
 | -     | #INSY   | NiX                                                                     |                 |
-| -     | #SEW    | NIX                                                                     |                 | 
+| -     | #SEW    | NIX                                                                     |                 |
+| -     | #EN     | SA (Nicht da)                                                           |                 |
+| -     | #INSY        |                                                                         |                 |
