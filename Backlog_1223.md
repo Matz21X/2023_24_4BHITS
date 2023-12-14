@@ -24,4 +24,5 @@
 | -     | #INSY   | NiX                                                                     |                 |
 | -     | #SEW    | NIX                                                                     |                 |
 | -     | #EN     | SA (Nicht da)                                                           |                 |
-| -     | #INSY        |                                                                         |                 |
+| -     | #INSY   | Suppliert (Lehrer nicht da)                                             |                 |
+| -     | #AM         |                                                                         |                 |
