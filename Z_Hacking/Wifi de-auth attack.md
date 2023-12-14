@@ -1,5 +1,6 @@
 # Wifi attack
 
+With this attack, you are able to get the passkey to many (unsafe) wifi networks. 
 ### 1. Switch mode from managed to monitor
 
 ```bash
