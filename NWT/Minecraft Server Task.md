@@ -31,3 +31,9 @@ sudo java -Xms2G -Xmx2G -jar server.jar nogui
 ![[Pasted image 20231215133302.png]]
 
 ## Securing the server
+
+1. **Denying ssh root login**
+
+```bash
+nano /etc/ssh/sshd_config
+```
