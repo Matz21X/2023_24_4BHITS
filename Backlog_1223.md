@@ -31,3 +31,4 @@
 | 15.12 | #AM     | DGL. 1. Ordnung mit konst.                                               |                 |
 | -     | #ITP    | Project Libre / Organisatorisches / Teststoff                            |                 |
 | -     | #SEW    | [[Immutable Objects]] Telescoping Constructor Problem [[BuilderPattern]] |                 |
+| -     | #NW     | NAJJJN BERGAUA                                                                         |                 |

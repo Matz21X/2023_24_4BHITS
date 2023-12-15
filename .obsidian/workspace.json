@@ -68,9 +68,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "390c20e6dd774b4a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "NW/SchrödingerGleichung.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -147,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/BuilderPattern.md"
+                "file": "NW/SchrödingerGleichung.pdf"
               }
             }
           },
@@ -165,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/BuilderPattern.md"
+                "file": "NW/SchrödingerGleichung.pdf"
               }
             }
           },
@@ -191,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/BuilderPattern.md",
+                "file": "NW/SchrödingerGleichung.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/BuilderPattern.md",
+                "file": "NW/SchrödingerGleichung.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +255,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b02db831ea4b73f0",
+  "active": "390c20e6dd774b4a",
   "lastOpenFiles": [
     "Backlog_1223.md",
     "SEW-Theorie/BuilderPattern.md",
