@@ -28,4 +28,4 @@
 | -     | #AM     | NIX                                                                     |                 |
 | -     | #NW     | [[SchrödingerGleichung.pdf]]                                            |                 |
 | -     | #ITP    | [[PortSwigger NoSqlInjection]]                                          |                 |
-| 15.12 | #AM     |                                                                         |                 |
+| 15.12 | #AM     | DGL. 1. Ordnung mit konst.                                                                        |                 |
