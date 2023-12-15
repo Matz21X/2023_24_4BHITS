@@ -35,5 +35,12 @@ sudo java -Xms2G -Xmx2G -jar server.jar nogui
 1. **Denying ssh root login**
 
 ```bash
-nano /etc/ssh/sshd_config
+# Change permission
+sudo nano /etc/ssh/sshd_config
+PermitRootLogin = no # Change to no
+
+# Restart ssh server
+service ssh restart
 ```
+
+![[Pasted image 20231215135227.png]]
