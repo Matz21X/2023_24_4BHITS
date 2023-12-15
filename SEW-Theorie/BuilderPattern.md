@@ -24,11 +24,25 @@ public static void main (String [] args){
 ```java
 public static void main (String [] args){
 	User user1 = new User.UserBuilder("James", "Bond")
-	.age(13)
-	.phone("123467")
-	.address("Springfield, 308 Negra Arroyo Lane, ABQ")
+	.age(52)
+	.phone("007")
+	// no address
 	.build()
 
 	System.out.println(user1)
 }
 ```
+
+```java
+public static void main (String [] args){
+	User user1 = new User.UserBuilder("Super", "Man")
+	// no age
+	// no phone
+	// no address
+	.build()
+
+	System.out.println(user1)
+}
+```
+
+Die Konkrete Implementierung des User Builder findet sich im Projekt BuilderPattern.
