@@ -23,7 +23,9 @@
 | -     | #MEDT   | UHHH                                                                    |                 |
 | -     | #INSY   | NiX                                                                     |                 |
 | -     | #SEW    | NIX                                                                     |                 |
-| -     | #EN     | SA (Nicht da)                                                           |                 |
+| 14.12 | #EN     | SA (Nicht da)                                                           |                 |
 | -     | #INSY   | Suppliert (Lehrer nicht da)                                             |                 |
 | -     | #AM     | NIX                                                                     |                 |
-| -     | #ITP    | [[PortSwigger NoSqlInjection]]                                          |                 | 
+| -     | #NW     | [[SchrödingerGleichung.pdf]]                                            |                 |
+| -     | #ITP    | [[PortSwigger NoSqlInjection]]                                          |                 |
+| 15.12 | #AM     |                                                                         |                 |
