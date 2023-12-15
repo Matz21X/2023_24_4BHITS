@@ -23,53 +23,6 @@
             }
           },
           {
-            "id": "b68563dfcbf17de5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b4b585e24458def5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITP/Projekte/STO/PortSwigger NoSqlInjection.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "519b0f3bdb35ea41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SEW-Theorie/Immutable Objects.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b02db831ea4b73f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SEW-Theorie/BuilderPattern.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "390c20e6dd774b4a",
             "type": "leaf",
             "state": {
@@ -79,8 +32,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NW/SchrödingerGleichung.pdf"
+                "file": "Backlog_1223.md"
               }
             }
           },
@@ -175,7 +127,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NW/SchrödingerGleichung.pdf"
+                "file": "Backlog_1223.md"
               }
             }
           },
@@ -201,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NW/SchrödingerGleichung.pdf",
+                "file": "Backlog_1223.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NW/SchrödingerGleichung.pdf",
+                "file": "Backlog_1223.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,8 +207,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "390c20e6dd774b4a",
+  "active": "2b7a352f707fd0d2",
   "lastOpenFiles": [
+    "NW/SchrödingerGleichung.pdf",
     "Backlog_1223.md",
     "SEW-Theorie/BuilderPattern.md",
     "SEW-Theorie/Immutable Objects.md",
@@ -269,7 +222,6 @@
     "Z_Hacking/StormBreak + NGROK.md",
     "ITP/Projekte/Untitled.md",
     "ITP/Projekte/STO",
-    "NW/SchrödingerGleichung.pdf",
     "NW/~$ysikHA4_2.docx",
     "NW/~$ysikHA4_3.docx",
     "INSY/~$thon-DB-Projektangabe.docx",
@@ -294,7 +246,6 @@
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/send/node_modules/ms/license.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/difunc/coverage/lcov-report/sort-arrow-sprite.png",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ts-log/example/screenshot.jpg",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/@pkgjs/parseargs/README.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-16x16.png",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-32x32.png",
     "Attachments/katholischeSozial.svg",
