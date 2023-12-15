@@ -42,9 +42,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "519b0f3bdb35ea41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SEW-Theorie/Immutable Objects.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b02db831ea4b73f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SEW-Theorie/BuilderPattern.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SEW-Theorie/BuilderPattern.md"
+              }
             }
           },
           {
@@ -136,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "SEW-Theorie/BuilderPattern.md"
+              }
             }
           },
           {
@@ -161,6 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SEW-Theorie/BuilderPattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,6 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SEW-Theorie/BuilderPattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,10 +245,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "38083c4526031a57",
+  "active": "b02db831ea4b73f0",
   "lastOpenFiles": [
-    "ITP/Projekte/STO/JuiceShop Setup.md",
     "Backlog_1223.md",
+    "SEW-Theorie/BuilderPattern.md",
+    "SEW-Theorie/Immutable Objects.md",
+    "ITP/Projekte/STO/JuiceShop Setup.md",
     "ITP/Projekte/STO/PortSwigger NoSqlInjection.md",
     "Z_Obsidian-Help/Java.md",
     "Z_Obsidian-Help/Syntax.md",
@@ -251,8 +285,6 @@
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/difunc/coverage/lcov-report/sort-arrow-sprite.png",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ts-log/example/screenshot.jpg",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/@pkgjs/parseargs/README.md",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/@pkgjs/parseargs/CHANGELOG.md",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/@isaacs/cliui/README.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-16x16.png",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-32x32.png",
     "Attachments/katholischeSozial.svg",
