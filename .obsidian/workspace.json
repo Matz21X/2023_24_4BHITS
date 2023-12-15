@@ -23,12 +23,15 @@
             }
           },
           {
-            "id": "390c20e6dd774b4a",
+            "id": "f07c6d40010baaff",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "NW/SchrödingerGleichung.pdf"
+                "file": "NWT/Minecraft Server Task.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -110,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NW/SchrödingerGleichung.pdf"
+                "file": "NWT/Minecraft Server Task.md"
               }
             }
           },
@@ -128,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NW/SchrödingerGleichung.pdf"
+                "file": "NWT/Minecraft Server Task.md"
               }
             }
           },
@@ -154,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NW/SchrödingerGleichung.pdf",
+                "file": "NWT/Minecraft Server Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NW/SchrödingerGleichung.pdf",
+                "file": "NWT/Minecraft Server Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,10 +211,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "390c20e6dd774b4a",
+  "active": "f07c6d40010baaff",
   "lastOpenFiles": [
-    "ITP/Theorie/4A752100",
+    "Attachments/Pasted image 20231215133302.png",
     "Backlog_1223.md",
+    "NW/SchrödingerGleichung.pdf",
+    "ITP/Theorie/4A752100",
     "ITP/Theorie/ScreenshotPL.png",
     "ITP/Theorie/ZimmerEinräumen.pod",
     "ITP/Theorie/~$ZimmerEinrichtung.xlsx",
@@ -223,7 +228,6 @@
     "ITP/Theorie/ITP Projektplanung.md",
     "ITP/Theorie",
     "ITP/Neuer Ordner",
-    "NW/SchrödingerGleichung.pdf",
     "SEW-Theorie/BuilderPattern.md",
     "SEW-Theorie/Immutable Objects.md",
     "ITP/Projekte/STO/JuiceShop Setup.md",
@@ -236,7 +240,6 @@
     "ITP/Projekte/Untitled.md",
     "ITP/Projekte/STO",
     "NW/~$ysikHA4_2.docx",
-    "NW/~$ysikHA4_3.docx",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/mysql2/node_modules/lru-cache/README.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/mysql2/lib/auth_plugins/caching_sha2_password.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/long/README.md",

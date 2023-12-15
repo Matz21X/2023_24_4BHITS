@@ -27,3 +27,7 @@ nano eula.txt (eula=true)
 # DONE!
 sudo java -Xms2G -Xmx2G -jar server.jar nogui
 ```
+
+![[Pasted image 20231215133302.png]]
+
+## Securing the server
