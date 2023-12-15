@@ -37,10 +37,10 @@ sudo java -Xms2G -Xmx2G -jar server.jar nogui
 ```bash
 # Change permission
 sudo nano /etc/ssh/sshd_config
-PermitRootLogin = no # Change to no
+PermitRootLogin no # Change to no
+PubkeyAuthentification yes # Comment in
 
 # Restart ssh server
 service ssh restart
 ```
 
-![[Pasted image 20231215135227.png]]
