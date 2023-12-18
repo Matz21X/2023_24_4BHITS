@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "914a90d5cba0d243",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EN/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NWT/Minecraft Server Task.md"
+                "file": "EN/Untitled.md"
               }
             }
           },
@@ -132,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NWT/Minecraft Server Task.md"
+                "file": "EN/Untitled.md"
               }
             }
           },
@@ -158,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NWT/Minecraft Server Task.md",
+                "file": "EN/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NWT/Minecraft Server Task.md",
+                "file": "EN/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,8 +226,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "38083c4526031a57",
+  "active": "914a90d5cba0d243",
   "lastOpenFiles": [
+    "NWT/Untitled 1.md",
+    "EN/Untitled.md",
+    "NWT/Minecraft Server Task.md",
     "Attachments/Pasted image 20231215135227.png",
     "Attachments/Pasted image 20231215133302.png",
     "Backlog_1223.md",
@@ -250,8 +267,6 @@
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/README.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/ansi-styles/readme.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/ansi-regex/readme.md",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/strip-ansi-cjs/node_modules/ansi-regex/readme.md",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/string-width-cjs/node_modules/strip-ansi/readme.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/difunc/coverage/lcov-report/sort-arrow-sprite.png",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ts-log/example/screenshot.jpg",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-16x16.png",
@@ -259,7 +274,6 @@
     "Attachments/katholischeSozial.svg",
     "Attachments/WhatsApp Bild 2023-12-04 um 10.45.28_6e4d49c0.jpg",
     "Attachments/Gasig.jpg",
-    "Attachments/Pasted image 20230915115957.png",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
