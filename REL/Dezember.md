@@ -13,3 +13,9 @@
 
 ### Das jüngste Gericht (Michelangelo)
 - [[DasJuengsteGericht.png]]
+
+### Salvator Mundi (Leonardo Da Vinci)
+- 1499-1520
+- "Erlöser der Welt"
+- [[SalvatorMundi.png]]
+

@@ -26,16 +26,6 @@
             "id": "77653efa5269e47b",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/DasJuengsteGericht.png"
-              }
-            }
-          },
-          {
-            "id": "3a0de289cd0b5717",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "REL/Dezember.md",
@@ -54,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,9 +219,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3a0de289cd0b5717",
+  "active": "77653efa5269e47b",
   "lastOpenFiles": [
     "Attachments/DasJuengsteGericht.png",
+    "Attachments/SalvatorMundi.png",
     "REL/Dezember.md",
     "Attachments/ErschaffungAdams.png",
     "Backlog_1223.md",
@@ -275,7 +266,6 @@
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ts-log/example/screenshot.jpg",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-16x16.png",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-32x32.png",
-    "Attachments/katholischeSozial.svg",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
