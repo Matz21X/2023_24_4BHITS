@@ -33,4 +33,8 @@
 | -     | #SEW    | [[Immutable Objects]] Telescoping Constructor Problem [[BuilderPattern]] |                 |
 | -     | #NW     | Endliche Potential / Tunneleffekt / Rutherford experiment                |                 |
 | -     | #ITP    | Project Libre                                                            |                 |
-| -     | #NWT    |                                                                          |                 |
+| -     | #NWT    | [[Minecraft Server Task]]                                                                         |                 |
+| -     | #NWT    | [[Minecraft Server Task]]                                                |                 |
+| -     | #GGP    | WKO Vortrag                                                              |                 |
+| -     | #EN     | [[Speaking Task Notes]]                                                  |                 |
+| -     | #RK     | [[Dezember]] Kultur                                                      |                 |
