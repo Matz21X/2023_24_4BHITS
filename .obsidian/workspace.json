@@ -26,6 +26,16 @@
             "id": "77653efa5269e47b",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/DasJuengsteGericht.png"
+              }
+            }
+          },
+          {
+            "id": "3a0de289cd0b5717",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "REL/Dezember.md",
@@ -36,17 +46,15 @@
             }
           },
           {
-            "id": "3a0de289cd0b5717",
+            "id": "e3f37c50bd504ba8",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/ErschaffungAdams.png"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,7 +209,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -221,7 +229,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "77653efa5269e47b",
+  "active": "3a0de289cd0b5717",
   "lastOpenFiles": [
     "Attachments/DasJuengsteGericht.png",
     "REL/Dezember.md",
