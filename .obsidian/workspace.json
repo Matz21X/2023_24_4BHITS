@@ -196,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,7 +212,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f07c6d40010baaff",
+  "active": "38083c4526031a57",
   "lastOpenFiles": [
     "Attachments/Pasted image 20231215135227.png",
     "Attachments/Pasted image 20231215133302.png",
