@@ -34,8 +34,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a0de289cd0b5717",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/ErschaffungAdams.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1223.md"
+                "file": "REL/Dezember.md"
               }
             }
           },
@@ -130,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1223.md"
+                "file": "REL/Dezember.md"
               }
             }
           },
@@ -156,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1223.md",
+                "file": "REL/Dezember.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1223.md",
+                "file": "REL/Dezember.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -210,9 +221,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2b7a352f707fd0d2",
+  "active": "77653efa5269e47b",
   "lastOpenFiles": [
+    "Attachments/DasJuengsteGericht.png",
     "REL/Dezember.md",
+    "Attachments/ErschaffungAdams.png",
     "Backlog_1223.md",
     "EN/Speaking Task Notes.md",
     "NWT/Minecraft Server Task.md",
@@ -250,14 +263,11 @@
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/strip-ansi/readme.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/string-width/readme.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/README.md",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/ansi-styles/readme.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/difunc/coverage/lcov-report/sort-arrow-sprite.png",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ts-log/example/screenshot.jpg",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-16x16.png",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-32x32.png",
     "Attachments/katholischeSozial.svg",
-    "Attachments/WhatsApp Bild 2023-12-04 um 10.45.28_6e4d49c0.jpg",
-    "Attachments/Gasig.jpg",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
