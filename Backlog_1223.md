@@ -38,3 +38,4 @@
 | -     | #GGP    | WKO Vortrag                                                              |                 |
 | -     | #EN     | [[Speaking Task Notes]]                                                  |                 |
 | -     | #RK     | [[Dezember]] Kultur                                                      |                 |
+| 19.12 | #DE     | D-SA Textanalyse                                                         |                 | 
