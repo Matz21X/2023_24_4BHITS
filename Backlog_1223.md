@@ -38,4 +38,7 @@
 | -     | #GGP    | WKO Vortrag                                                              |                 |
 | -     | #EN     | [[Speaking Task Notes]]                                                  |                 |
 | -     | #RK     | [[Dezember]] Kultur                                                      |                 |
-| 19.12 | #DE     | D-SA Textanalyse                                                         |                 | 
+| 19.12 | #DE     | D-SA Textanalyse                                                         |                 |
+| 20.12 | #SYT    | TempSensor                                                               |                 |
+| -     | #WIR    | Weihnachtsstunde                                                         |                 |
+| -     | #MEDT   |                                                                          |                 |
