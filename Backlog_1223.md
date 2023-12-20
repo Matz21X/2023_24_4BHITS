@@ -41,4 +41,4 @@
 | 19.12 | #DE     | D-SA Textanalyse                                                         |                 |
 | 20.12 | #SYT    | TempSensor                                                               |                 |
 | -     | #WIR    | Weihnachtsstunde                                                         |                 |
-| -     | #MEDT   |                                                                          |                 |
+| -     | #MEDT   | Videoschnitt (Nix)                                                                         |                 |
