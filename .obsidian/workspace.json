@@ -23,33 +23,17 @@
             }
           },
           {
-            "id": "817be925cf5aef8d",
+            "id": "ee7b3f9536b48e86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ITP/Projekte/STO/PortSwigger NoSqlInjection.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8652d43e29401383",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITP/Projekte/STO/Protokoll_Hrbek211223.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "ITP/Theorie/Kickstart-Projektmanagement_Fragen.pdf"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP/Projekte/STO/Protokoll_Hrbek211223.md"
+                "file": "ITP/Theorie/Kickstart-Projektmanagement_Fragen.pdf"
               }
             }
           },
@@ -144,7 +128,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP/Projekte/STO/Protokoll_Hrbek211223.md"
+                "file": "ITP/Theorie/Kickstart-Projektmanagement_Fragen.pdf"
               }
             }
           },
@@ -170,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/Projekte/STO/Protokoll_Hrbek211223.md",
+                "file": "ITP/Theorie/Kickstart-Projektmanagement_Fragen.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP/Projekte/STO/Protokoll_Hrbek211223.md",
+                "file": "ITP/Theorie/Kickstart-Projektmanagement_Fragen.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,10 +208,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8652d43e29401383",
+  "active": "ee7b3f9536b48e86",
   "lastOpenFiles": [
-    "output/Protokoll_Hrbek211223.md",
+    "Backlog_1223.md",
+    "ITP/Projekte/STO/PortSwigger NoSqlInjection.md",
     "ITP/Projekte/STO/Protokoll_Hrbek211223.md",
+    "output/Protokoll_Hrbek211223.md",
     "output/Protokoll_Hrbek211223.zip",
     "output/attachment/7f20b6925b441545b880dd551e906565.png",
     "output/attachment/4cf8a87ed3e219a4beb8cd281a44a469.png",
@@ -250,9 +236,7 @@
     "ITP/Projekte/STO/ProtokollHrbek_211223.zip",
     "ProtokollHrbek_211223.zip",
     "output.zip",
-    "ITP/Projekte/STO/PortSwigger NoSqlInjection.md",
     "ITP/Projekte/STO/JuiceShop Setup.md",
-    "Backlog_1223.md",
     "ITP/Projekte/STO/Hrbek_FTP_Exploit.md",
     "Z_Hacking/Wifi de-auth attack.md",
     "Z_Hacking/StormBreak + NGROK.md",
