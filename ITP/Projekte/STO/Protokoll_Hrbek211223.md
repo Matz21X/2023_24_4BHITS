@@ -15,7 +15,7 @@ Jetzt müssen wir ein eigenes Review posten um zu sehen welche API's aufgerufen 
 ![[201Created.png]]
 In diesem Fall wurde eine PUT Anfrage an den Server gesendet. Als Nutzlast ist folgendes vorhanden:
 ```json
-1. {message: "Testreview", author: "example@example.com"}
+{message: "Testreview", author: "example@example.com"}
 	author: "example@example.com"
-message: "Testreview"
+	message: "Testreview"
 ```
