@@ -62,12 +62,12 @@
             }
           },
           {
-            "id": "6145f3bd3b1c0501",
+            "id": "e3177cf64e02bf6d",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Attachments/201Created.png"
+                "file": "Attachments/NewPackages.png"
               }
             }
           }
@@ -249,8 +249,10 @@
   },
   "active": "9ccb23ad8c79722f",
   "lastOpenFiles": [
-    "Attachments/201Created.png",
+    "Attachments/NewPackages.png",
     "ITP/Projekte/STO/Protokoll_Hrbek211223.md",
+    "Attachments/ChangeURL.png",
+    "Attachments/201Created.png",
     "Attachments/Packages.png",
     "Attachments/UserRegistration.png",
     "ITP/Projekte/STO/JuiceShop Setup.md",
@@ -270,7 +272,6 @@
     "Attachments/Pasted image 20231215133302.png",
     "NW/SchrödingerGleichung.pdf",
     "ITP/Theorie/4A752100",
-    "ITP/Theorie/ScreenshotPL.png",
     "ITP/Theorie/ZimmerEinräumen.pod",
     "ITP/Theorie/~$ZimmerEinrichtung.xlsx",
     "ITP/Theorie/ZimmerEinrichtung.xlsx",
@@ -293,7 +294,6 @@
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/mysql2/lib/auth_plugins/caching_sha2_password.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/long/README.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/strip-ansi/readme.md",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/difunc/coverage/lcov-report/sort-arrow-sprite.png",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"

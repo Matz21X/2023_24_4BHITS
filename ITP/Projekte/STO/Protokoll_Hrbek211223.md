@@ -20,5 +20,10 @@ In diesem Fall wurde eine PUT Anfrage an den Server gesendet. Als Nutzlast ist f
 	message: "Testreview"
 ```
 
-### Step 4 (Testen auf unsicherheiten)
-Nun testen wir eine ob der We
+### Step 4 (Testen auf Unsicherheiten)
+Nun testen wir eine ob der Webserver auf SQL injections reagiert indem wir einen Paketinhalt ändern. (Rechtsklick auf Packet -> Bearbeiten und erneut senden)
+![[ChangeURL.png]]
+Nach dem senden kamen neue Pakete nach der angegebenen SleepTime an.
+![[NewPackages.png]]
+
+
