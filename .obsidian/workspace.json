@@ -60,16 +60,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e3177cf64e02bf6d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/NewPackages.png"
-              }
-            }
           }
         ],
         "currentTab": 3
@@ -122,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -231,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,8 +241,9 @@
   },
   "active": "9ccb23ad8c79722f",
   "lastOpenFiles": [
-    "Attachments/BurpSuiteIntercept1.png",
+    "Attachments/HackedReview.png",
     "ITP/Projekte/STO/Protokoll_Hrbek211223.md",
+    "Attachments/BurpSuiteIntercept1.png",
     "Attachments/NewPackages.png",
     "Attachments/ChangeURL.png",
     "Attachments/201Created.png",
@@ -269,7 +262,6 @@
     "EN/Speaking Task Notes.md",
     "NWT/Minecraft Server Task.md",
     "NWT/Untitled 1.md",
-    "Attachments/Pasted image 20231215135227.png",
     "NW/SchrödingerGleichung.pdf",
     "ITP/Theorie/4A752100",
     "ITP/Theorie/ZimmerEinräumen.pod",
