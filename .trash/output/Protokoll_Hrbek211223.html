@@ -1,0 +1,47 @@
+<h1 data-heading="NoSQL attack JuiceShop">NoSQL attack JuiceShop</h1>
+<p><a href="#ITP" class="tag" target="_blank" rel="noopener">#ITP</a> </p>
+<p>In diesem Beispiel wird gezeigt wie eine NoSQL Attacke durchgeführt wird. Ziel dieses Beispiels ist es Reviews von Produkten zu ändern.</p>
+<h3 data-heading="Step 1 (Account erstellen)">Step 1 (Account erstellen)</h3>
+<p>Zuerst ist es notwendig einen Account auf im JuiceShop zu erstellen<br>
+</p><div src="attachment/37123315f963400e428dbfc7cba69c8c.png" class="internal-embed"></div><p></p>
+<h3 data-heading="Step 2 (Packet finden)">Step 2 (Packet finden)</h3>
+<p>Nun müssen wir das richtige Packet in den Entwickleroptionen finden wenn wir ein Produkt anklicken.<br>
+</p><div src="attachment/612240cccaca5aea6c621c2e329008ce.png" class="internal-embed"></div><p></p>
+<h3 data-heading="Step 3 (Review posten)">Step 3 (Review posten)</h3>
+<p>Jetzt müssen wir ein eigenes Review posten um zu sehen welche API's aufgerufen werden.<br>
+</p><div src="attachment/063cf185f13c1973cfd8269d7990baca.png" class="internal-embed"></div><br>
+In diesem Fall wurde eine PUT Anfrage an den Server gesendet. Als Nutzlast ist folgendes vorhanden:<p></p>
+<pre class="language-json" tabindex="0"><code class="language-json is-loaded"><span class="token punctuation">{</span>message<span class="token operator">:</span> <span class="token string">"Testreview"</span><span class="token punctuation">,</span> author<span class="token operator">:</span> <span class="token string">"example@example.com"</span><span class="token punctuation">}</span>
+	author<span class="token operator">:</span> <span class="token string">"example@example.com"</span>
+	message<span class="token operator">:</span> <span class="token string">"Testreview"</span>
+</code><button class="copy-code-button">Copy</button></pre>
+<h3 data-heading="Step 4 (Testen auf Unsicherheiten)">Step 4 (Testen auf Unsicherheiten)</h3>
+<p>Nun testen wir eine ob der Webserver auf SQL injections reagiert indem wir einen Paketinhalt ändern. (Rechtsklick auf Packet -&gt; Bearbeiten und erneut senden)<br>
+</p><div src="attachment/22a89583b9d6f4938d45408436f9e768.png" class="internal-embed"></div><br>
+Nach dem senden kamen neue Pakete nach der angegebenen SleepTime an.<br>
+<div src="attachment/e9a881a33f9439b4a5439c6dbca94ec9.png" class="internal-embed"></div><p></p>
+<h3 data-heading="Step 5 (Interception)">Step 5 (Interception)</h3>
+<p>Jetzt möchten wir mit BurpSuite unsere Anfragen bearbeiten um Zugriff auf andere Reviews zu bekommen. <mark>In diesem Schritt muss der geamte Webseitenverkehr durch BurpSuite geleitet werden.</mark><br>
+AppleJuice Reviews -&gt; Edit Review -&gt; Review ändern</p>
+<p></p><div src="attachment/4cf8a87ed3e219a4beb8cd281a44a469.png" class="internal-embed"></div><br>
+Rechts unten sehen wir die <code>id</code> und <code>message</code>. Diese Parameter müssen geändert werden. Zuerst muss das Packet aber erst an den Repeater in BurpSuite geschickt werden (Rechtsklick auf Packet -&gt; Send to Repeater)<p></p>
+<h3 data-heading="Step 6 (Daten manipulieren)">Step 6 (Daten manipulieren)</h3>
+<p>Nun ändern wir die Daten in BurpSuite, wichtig ist uns in diesem Beispiel die <code>id</code>.</p>
+<p>Vorher:</p>
+<pre class="language-json" tabindex="0"><code class="language-json is-loaded"><span class="token punctuation">{</span>
+	<span class="token property">"id"</span><span class="token operator">:</span><span class="token string">"jcKpAtfAMyFRJcmHP"</span><span class="token punctuation">,</span>
+	<span class="token property">"message"</span><span class="token operator">:</span><span class="token string">"Hacked by unknown"</span>
+<span class="token punctuation">}</span>
+</code><button class="copy-code-button">Copy</button></pre>
+<p>Nachher:</p>
+<pre class="language-json" tabindex="0"><code class="language-json is-loaded"><span class="token punctuation">{</span>
+	<span class="token property">"id"</span><span class="token operator">:</span><span class="token punctuation">{</span>
+		<span class="token property">"$ne"</span><span class="token operator">:</span><span class="token number">-1</span>
+	<span class="token punctuation">}</span><span class="token punctuation">,</span>
+	<span class="token property">"message"</span><span class="token operator">:</span><span class="token string">"Hacked by unknown"</span>
+<span class="token punctuation">}</span>
+</code><button class="copy-code-button">Copy</button></pre>
+<p>Das Statement <code>"$ne":-1</code> bedeutet genau so viel wie ein always-true Statement, bedeutet so viel, dass jedes Review Element auf die angegebene Message geändert wird</p>
+<p>Nach dem senden dieses Paketes sollte die Review Seite so aussehen:<br>
+</p><div src="attachment/7f20b6925b441545b880dd551e906565.png" class="internal-embed"></div><br>
+Wie man auf der Grafik erkennen kann ist die Nachricht vom Account <code>admin@juice-sh.op</code> auf <code>Hacked by unknown geändert worden</code>.<p></p>
