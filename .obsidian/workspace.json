@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "output/Protokoll_Hrbek211223.md",
+                "file": "ITP/Projekte/STO/Protokoll_Hrbek211223.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "output/Protokoll_Hrbek211223.md"
+                "file": "ITP/Projekte/STO/Protokoll_Hrbek211223.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "output/Protokoll_Hrbek211223.md"
+                "file": "ITP/Projekte/STO/Protokoll_Hrbek211223.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "output/Protokoll_Hrbek211223.md",
+                "file": "ITP/Projekte/STO/Protokoll_Hrbek211223.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "output/Protokoll_Hrbek211223.md",
+                "file": "ITP/Projekte/STO/Protokoll_Hrbek211223.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,9 +226,9 @@
   },
   "active": "8652d43e29401383",
   "lastOpenFiles": [
+    "output/Protokoll_Hrbek211223.md",
     "ITP/Projekte/STO/Protokoll_Hrbek211223.md",
     "output/Protokoll_Hrbek211223.zip",
-    "output/Protokoll_Hrbek211223.md",
     "output/attachment/7f20b6925b441545b880dd551e906565.png",
     "output/attachment/4cf8a87ed3e219a4beb8cd281a44a469.png",
     "output/attachment/e9a881a33f9439b4a5439c6dbca94ec9.png",
