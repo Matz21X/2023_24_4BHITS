@@ -62,17 +62,17 @@
             }
           },
           {
-            "id": "83579e54840238f8",
+            "id": "6145f3bd3b1c0501",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Attachments/Pasted image 20231221144219.png"
+                "file": "Attachments/201Created.png"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/Pasted image 20231221144219.png"
+                "file": "ITP/Projekte/STO/Protokoll_Hrbek211223.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Attachments/Pasted image 20231221144219.png"
+                "file": "ITP/Projekte/STO/Protokoll_Hrbek211223.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/Pasted image 20231221144219.png",
+                "file": "ITP/Projekte/STO/Protokoll_Hrbek211223.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/Pasted image 20231221144219.png",
+                "file": "ITP/Projekte/STO/Protokoll_Hrbek211223.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,10 +248,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "83579e54840238f8",
+  "active": "9ccb23ad8c79722f",
   "lastOpenFiles": [
+    "Attachments/201Created.png",
     "ITP/Projekte/STO/Protokoll_Hrbek211223.md",
-    "Attachments/Pasted image 20231221144219.png",
+    "Attachments/Packages.png",
+    "Attachments/UserRegistration.png",
     "ITP/Projekte/STO/JuiceShop Setup.md",
     "Backlog_1223.md",
     "ITP/Projekte/STO/PortSwigger NoSqlInjection.md",
@@ -293,8 +295,6 @@
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/long/README.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/wrap-ansi-cjs/node_modules/strip-ansi/readme.md",
     "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/difunc/coverage/lcov-report/sort-arrow-sprite.png",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/ts-log/example/screenshot.jpg",
-    "MEDT/4xHITS-MEDT-Nodejs-Exoplanets/node_modules/swagger-ui-dist/favicon-16x16.png",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"

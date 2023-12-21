@@ -5,4 +5,17 @@ In diesem Beispiel wird gezeigt wie eine NoSQL Attacke durchgeführt wird. Ziel 
 
 ### Step 1 (Account erstellen)
 Zuerst ist es notwendig einen Account auf im JuiceShop zu erstellen
-![[Pasted image 20231221144219.png]]
+![[UserRegistration.png]]
+### Step 2 (Packet finden)
+Nun müssen wir das richtige Packet in den Entwickleroptionen finden wenn wir ein Produkt anklicken.
+![[Packages.png]]
+
+### Step 3 (Review posten)
+Jetzt müssen wir ein eigenes Review posten um zu sehen welche API's aufgerufen werden.
+![[201Created.png]]
+In diesem Fall wurde eine PUT Anfrage an den Server gesendet. Als Nutzlast ist folgendes vorhanden:
+```json
+1. {message: "Testreview", author: "example@example.com"}
+	author: "example@example.com"
+message: "Testreview"
+```
