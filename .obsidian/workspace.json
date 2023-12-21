@@ -36,10 +36,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITP/Projekte/STO/Hrbek_FTP_Exploit.md",
+                "file": "Z_Hacking/Wifi de-auth attack.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP/Projekte/STO/Hrbek_FTP_Exploit.md"
+                "file": "Z_Hacking/Wifi de-auth attack.md"
               }
             }
           },
@@ -140,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP/Projekte/STO/Hrbek_FTP_Exploit.md"
+                "file": "Z_Hacking/Wifi de-auth attack.md"
               }
             }
           },
@@ -166,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/Projekte/STO/Hrbek_FTP_Exploit.md",
+                "file": "Z_Hacking/Wifi de-auth attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP/Projekte/STO/Hrbek_FTP_Exploit.md",
+                "file": "Z_Hacking/Wifi de-auth attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,6 +222,9 @@
   },
   "active": "dfdddb84c97f1bda",
   "lastOpenFiles": [
+    "Z_Hacking/StormBreak + NGROK.md",
+    "ITP/Projekte/STO/JuiceShop Setup.md",
+    "ITP/Projekte/STO/PortSwigger NoSqlInjection.md",
     "ITP/Projekte/STO/Hrbek_FTP_Exploit.md",
     "Backlog_1223.md",
     "REL/Dezember.md",
@@ -249,13 +251,10 @@
     "ITP/Neuer Ordner",
     "SEW-Theorie/BuilderPattern.md",
     "SEW-Theorie/Immutable Objects.md",
-    "ITP/Projekte/STO/JuiceShop Setup.md",
-    "ITP/Projekte/STO/PortSwigger NoSqlInjection.md",
     "Z_Obsidian-Help/Java.md",
     "Z_Obsidian-Help/Syntax.md",
     "Z_Obsidian-Help/Help-Page.md",
     "Z_Hacking/Wifi de-auth attack.md",
-    "Z_Hacking/StormBreak + NGROK.md",
     "ITP/Projekte/Untitled.md",
     "ITP/Projekte/STO",
     "NW/~$ysikHA4_2.docx",
