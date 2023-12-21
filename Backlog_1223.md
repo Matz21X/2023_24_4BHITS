@@ -43,4 +43,8 @@
 | -     | #WIR    | Weihnachtsstunde                                                         |                 |
 | -     | #MEDT   | Videoschnitt (Nix)                                                       |                 |
 | 21.21 | #EN     | EU Text                                                                  |                 |
-| -     | #WIR    | Weihnachtsstunde                                                                         |                 |
+| -     | #WIR    | Weihnachtsstunde                                                         |                 |
+| -     | #RK     | Weihnachtsstunde Quiz Spiel                                              |                 |
+| -     | #AM     | Übungsaufgaben                                                           |                 |
+| -     | #NW     | Teilchenphysik                                                           |                 |
+| -     | #ITP    |                                                                          |                 |
