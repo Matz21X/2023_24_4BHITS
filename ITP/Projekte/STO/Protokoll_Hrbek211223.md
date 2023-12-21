@@ -26,4 +26,10 @@ Nun testen wir eine ob der Webserver auf SQL injections reagiert indem wir einen
 Nach dem senden kamen neue Pakete nach der angegebenen SleepTime an.
 ![[NewPackages.png]]
 
+### Step 5 (Interception)
+Jetzt möchten wir mit BurpSuite unsere Anfragen bearbeiten um Zugriff auf andere Reviews zu bekommen. ==In diesem Schritt muss der geamte Webseitenverkehr durch BurpSuite geleitet werden.==
+AppleJuice Reviews -> Edit Review -> Review ändern
+
+![[BurpSuiteIntercept1.png]]
+Rechts unten sehen wir die `id` und `message`. Diese Parameter müssen geändert werden. Zuerst muss das Packet aber erst an den Repeater in BurpSuite geschickt werden ()
 
