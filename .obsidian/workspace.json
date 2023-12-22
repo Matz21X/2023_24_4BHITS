@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/BuilderPattern.md"
+                "file": "Backlog_1223.md"
               }
             }
           },
@@ -131,7 +130,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/BuilderPattern.md"
+                "file": "Backlog_1223.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/BuilderPattern.md",
+                "file": "Backlog_1223.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/BuilderPattern.md",
+                "file": "Backlog_1223.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,8 +210,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ee7b3f9536b48e86",
+  "active": "2b7a352f707fd0d2",
   "lastOpenFiles": [
+    "SEW-Theorie/BuilderPattern.md",
     "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern/Example.java",
     "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern/User.java",
     "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern",
@@ -223,7 +223,6 @@
     "SEW-Prog/BuilderPattern/pom.xml",
     "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/Main.java",
     "SEW-Prog/BuilderPattern/src/main/java/at/htlhl",
-    "SEW-Prog/BuilderPattern/src/main/java/at",
     "Backlog_1223.md",
     "ITP/Projekte/STO/PortSwigger NoSqlInjection.md",
     "ITP/Projekte/STO/Protokoll_Hrbek211223.md",
@@ -252,7 +251,6 @@
     "ITP/Theorie/Notes.md",
     "ITP/Theorie/ITP WH.md",
     "ITP/Theorie/ITP Projektplanung.md",
-    "SEW-Theorie/BuilderPattern.md",
     "SEW-Theorie/Immutable Objects.md",
     "Z_Obsidian-Help/Java.md",
     "Z_Obsidian-Help/Syntax.md",

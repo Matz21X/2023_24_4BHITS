@@ -48,4 +48,8 @@
 | -     | #AM     | Übungsaufgaben                                                           |                 |
 | -     | #NW     | Teilchenphysik                                                           |                 |
 | -     | #ITP    | [[Hrbek_FTP_Exploit]] [[Protokoll_Hrbek211223]]                          |                 |
-| 22.12 | #AM     |                                                                          |                 |
+| 22.12 | #AM     | 5. Mathe HÜ                                                              |                 |
+| -     | #ITP    | Test                                                                     |                 |
+| -     | #SEW    | Builderpattern Beispiel                                                  |                 |
+| -     | #NW     | Bergi redet                                                              |                 |
+| -     | #        |                                                                          |                 |
