@@ -52,4 +52,6 @@
 | -     | #ITP    | Test                                                                     |                 |
 | -     | #SEW    | Builderpattern Beispiel                                                  |                 |
 | -     | #NW     | Bergi redet                                                              |                 |
-| -     | #        |                                                                          |                 |
+| -     | #ITP    | Politik                                                                  |                 |
+| -     | #DE     | Hangman                                                                  |                 |
+| -     | #NWT    | Kahoot                                                                         |                 |
