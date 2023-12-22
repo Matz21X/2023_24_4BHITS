@@ -47,4 +47,5 @@
 | -     | #RK     | Weihnachtsstunde Quiz Spiel                                              |                 |
 | -     | #AM     | Übungsaufgaben                                                           |                 |
 | -     | #NW     | Teilchenphysik                                                           |                 |
-| -     | #ITP    | [[Hrbek_FTP_Exploit]] [[Protokoll_Hrbek211223]]                          |                 | 
+| -     | #ITP    | [[Hrbek_FTP_Exploit]] [[Protokoll_Hrbek211223]]                          |                 |
+| 22.12 | #AM     |                                                                          |                 |
