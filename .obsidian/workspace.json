@@ -26,9 +26,12 @@
             "id": "ee7b3f9536b48e86",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ITP/Theorie/Kickstart-Projektmanagement_Fragen.pdf"
+                "file": "SEW-Theorie/BuilderPattern.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -110,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP/Theorie/Kickstart-Projektmanagement_Fragen.pdf"
+                "file": "SEW-Theorie/BuilderPattern.md"
               }
             }
           },
@@ -128,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP/Theorie/Kickstart-Projektmanagement_Fragen.pdf"
+                "file": "SEW-Theorie/BuilderPattern.md"
               }
             }
           },
@@ -154,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/Theorie/Kickstart-Projektmanagement_Fragen.pdf",
+                "file": "SEW-Theorie/BuilderPattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP/Theorie/Kickstart-Projektmanagement_Fragen.pdf",
+                "file": "SEW-Theorie/BuilderPattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,12 +213,21 @@
   },
   "active": "ee7b3f9536b48e86",
   "lastOpenFiles": [
+    "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern/User.java",
+    "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern",
+    "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/User.java",
+    "SEW-Prog/BuilderPattern/src/test/java",
+    "SEW-Prog/BuilderPattern/src/test",
+    "SEW-Prog/BuilderPattern/src/main/resources",
+    "SEW-Prog/BuilderPattern/pom.xml",
+    "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/Main.java",
+    "SEW-Prog/BuilderPattern/src/main/java/at/htlhl",
+    "SEW-Prog/BuilderPattern/src/main/java/at",
+    "SEW-Prog/BuilderPattern/src/main/java",
     "Backlog_1223.md",
-    "ITP/Theorie/Kickstart-Projektmanagement_Fragen.pdf",
     "ITP/Projekte/STO/PortSwigger NoSqlInjection.md",
     "ITP/Projekte/STO/Protokoll_Hrbek211223.md",
     "output/Protokoll_Hrbek211223.md",
-    "output/Protokoll_Hrbek211223.zip",
     "output/attachment/7f20b6925b441545b880dd551e906565.png",
     "output/attachment/4cf8a87ed3e219a4beb8cd281a44a469.png",
     "output/attachment/e9a881a33f9439b4a5439c6dbca94ec9.png",
@@ -226,16 +238,8 @@
     "output\\attachment\\7f20b6925b441545b880dd551e906565.png",
     "output\\attachment\\4cf8a87ed3e219a4beb8cd281a44a469.png",
     "output\\attachment\\e9a881a33f9439b4a5439c6dbca94ec9.png",
-    "output/attachment",
-    "output",
     "ITP/Projekte/STO/ProtokollHrbek_211223/Protokoll_Hrbek211223.md",
-    "ITP/Projekte/STO/ProtokollHrbek_211223/attachment",
-    "ITP/Projekte/STO/ProtokollHrbek_211223/output/attachment",
     "ITP/Projekte/STO/ProtokollHrbek_211223/output/Protokoll_Hrbek211223.md",
-    "ITP/Projekte/STO/ProtokollHrbek_211223/output",
-    "ITP/Projekte/STO/ProtokollHrbek_211223",
-    "ITP/Projekte/STO/ProtokollHrbek_211223.zip",
-    "ProtokollHrbek_211223.zip",
     "ITP/Projekte/STO/JuiceShop Setup.md",
     "ITP/Projekte/STO/Hrbek_FTP_Exploit.md",
     "Z_Hacking/Wifi de-auth attack.md",
