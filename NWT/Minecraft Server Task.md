@@ -43,7 +43,14 @@ PubkeyAuthentification yes # Comment in
 service ssh restart
 ```
 
-2. **Only allow access from local network**
+2.  **Change SSH-Server port**
+   
+```bash
+# Open ssh config file and e
+sudo nano /etc/ssh/sshd_config
+
+```
+4. **Only allow access from local network**
    
 ```bash
 # server.properties file
@@ -61,6 +68,24 @@ Optionally disable Port-forwarding on your router
 # Create user "minecraft" without home directory / without login shell
 sudo adduser --system --no-create-home --group 
 
-# Switch user and create M 
+# Switch user and copy server files to new user
+su - minecraft
+cd ~
+cp -r ~/server
 
+# Create startup script
+nano start.sh
+"""
+#!/bin/bash
+java -Xmx1G -Xms1G -jar server.jar nogui
+"""
+
+	# Add permissions
+chmod +x start.sh
+```
+
+Server start example:
+```bash
+su - minecraft
+./start.sh
 ```
