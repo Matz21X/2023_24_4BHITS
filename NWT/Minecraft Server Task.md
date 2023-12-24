@@ -44,3 +44,9 @@ PubkeyAuthentification yes # Comment in
 service ssh restart
 ```
 
+2. **Only allow access from local network**
+```bash
+# server.properties file
+# input local ip
+server-ip=192.168.132.11
+```
