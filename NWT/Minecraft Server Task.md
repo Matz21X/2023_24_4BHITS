@@ -1,6 +1,5 @@
 # Protokoll
 #NWT 
-
 ## Setup
 Ubuntu + Minecraft Server (1.20.2)
 
@@ -8,7 +7,7 @@ Ubuntu + Minecraft Server (1.20.2)
 # Java install
 sudo apt install openjdk-17-jre-headless 
 
-# Enable port
+	# Enable port
 sudo ufw allow 25565
 
 # Make server folder
@@ -45,8 +44,23 @@ service ssh restart
 ```
 
 2. **Only allow access from local network**
+   
 ```bash
 # server.properties file
 # input local ip
 server-ip=192.168.132.11
+
+# Block port on firewall
+sudo iptables -A INPUT -p tcp --dport 25565 -j DROP
+```
+Optionally disable Port-forwarding on your router
+
+3.  **Add user "minecraft" to start server**
+
+```bash
+# Create user "minecraft" without home directory / without login shell
+sudo adduser --system --no-create-home --group 
+
+# Switch user and create M 
+
 ```
