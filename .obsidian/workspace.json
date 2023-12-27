@@ -34,9 +34,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e45c1b4f1ec08bc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,7 +196,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -211,7 +223,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9d35c6ce7f54e075",
+  "active": "0e45c1b4f1ec08bc",
   "lastOpenFiles": [
     "Attachments/Pasted image 20231227172232.png",
     "Attachments/Pasted image 20231227172213.png",
