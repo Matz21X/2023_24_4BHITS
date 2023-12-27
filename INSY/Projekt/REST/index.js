@@ -6,10 +6,10 @@ const port = 3000;
 
 // PostgreSQL-Konfiguration
 const pool = new Pool({
-    user: 'dein_pg_benutzername',
+    user: 'postgres',
     host: 'localhost',
-    database: 'deine_datenbank',
-    password: 'dein_pg_passwort',
+    database: 'postgres',
+    password: 'mysecretpassword',
     port: 5432,
 });
 
