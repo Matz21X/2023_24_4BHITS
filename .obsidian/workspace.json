@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "ee7b3f9536b48e86",
+            "id": "9d35c6ce7f54e075",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NWT/Minecraft Server Task.md",
+                "file": "INSY/Projekt/Datenbank-Projekt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1223.md"
+                "file": "INSY/Projekt/Datenbank-Projekt.md"
               }
             }
           },
@@ -132,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1223.md"
+                "file": "INSY/Projekt/Datenbank-Projekt.md"
               }
             }
           },
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1223.md",
+                "file": "INSY/Projekt/Datenbank-Projekt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1223.md",
+                "file": "INSY/Projekt/Datenbank-Projekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,11 +211,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e1cb03b33a7d44c5",
+  "active": "9d35c6ce7f54e075",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20231227172232.png",
+    "Attachments/Pasted image 20231227172213.png",
+    "Attachments/Pasted image 20231227172159.png",
+    "Backlog_1223.md",
+    "INSY/Projekt/Datenbank-Projekt.md",
+    "NWT/Minecraft Server Task.md",
     "SEW-Theorie/BuilderPattern.md",
     "ITP/Theorie/Projektmanagement.md",
-    "Backlog_1223.md",
     "Backlog_1123.md",
     "Backlog_1023.md",
     "Backlog_0923.md",
@@ -245,8 +248,6 @@
     "output/attachment/612240cccaca5aea6c621c2e329008ce.png",
     "output/attachment/37123315f963400e428dbfc7cba69c8c.png",
     "output\\attachment\\7f20b6925b441545b880dd551e906565.png",
-    "output\\attachment\\4cf8a87ed3e219a4beb8cd281a44a469.png",
-    "output\\attachment\\e9a881a33f9439b4a5439c6dbca94ec9.png",
     "ITP/Projekte/STO/ProtokollHrbek_211223/Protokoll_Hrbek211223.md",
     "ITP/Projekte/STO/ProtokollHrbek_211223/output/Protokoll_Hrbek211223.md",
     "ITP/Projekte/STO/JuiceShop Setup.md",
@@ -255,12 +256,9 @@
     "Z_Hacking/StormBreak + NGROK.md",
     "REL/Dezember.md",
     "EN/Speaking Task Notes.md",
-    "NWT/Minecraft Server Task.md",
     "NWT/Untitled 1.md",
     "ITP/Theorie/Notes.md",
     "Z_Obsidian-Help/Java.md",
-    "Z_Obsidian-Help/Syntax.md",
-    "Z_Obsidian-Help/Help-Page.md",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
