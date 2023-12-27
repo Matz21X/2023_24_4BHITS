@@ -122,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +179,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,11 +219,11 @@
   },
   "active": "0e45c1b4f1ec08bc",
   "lastOpenFiles": [
+    "INSY/Projekt/Datenbank-Projekt.md",
+    "Backlog_1223.md",
     "Attachments/Pasted image 20231227172232.png",
     "Attachments/Pasted image 20231227172213.png",
     "Attachments/Pasted image 20231227172159.png",
-    "Backlog_1223.md",
-    "INSY/Projekt/Datenbank-Projekt.md",
     "NWT/Minecraft Server Task.md",
     "SEW-Theorie/BuilderPattern.md",
     "ITP/Theorie/Projektmanagement.md",
@@ -259,7 +253,6 @@
     "output/attachment/063cf185f13c1973cfd8269d7990baca.png",
     "output/attachment/612240cccaca5aea6c621c2e329008ce.png",
     "output/attachment/37123315f963400e428dbfc7cba69c8c.png",
-    "output\\attachment\\7f20b6925b441545b880dd551e906565.png",
     "ITP/Projekte/STO/ProtokollHrbek_211223/Protokoll_Hrbek211223.md",
     "ITP/Projekte/STO/ProtokollHrbek_211223/output/Protokoll_Hrbek211223.md",
     "ITP/Projekte/STO/JuiceShop Setup.md",
