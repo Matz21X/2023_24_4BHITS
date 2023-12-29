@@ -49,6 +49,17 @@ app.get('/produkte', async (req, res) => {
     }
 });
 
+app.post('/produkte', async (req, res) => {
+    const { name, preis, gewicht } = req.body;
+    try {
+        const result = await pool.query('INSERT INTO Produkte (name, preis, gewicht) VALUES ($1, $2, $3) RETURNING *', [name, preis, gewicht]);
+        res.json(result.rows[0]);
+    } catch (err) {
+        console.error('Fehler beim Hinzufügen des Produkts:', err);
+        res.status(500).json({ error: 'Interner Serverfehler' });
+    }
+});
+
 
 // Bestellungen API-Routen
 // Hier sind ähnliche Routen für Bestellungen einzufügen (GET, POST, etc.)
@@ -62,6 +73,17 @@ app.get('/bestellungen', async (req, res) => {
     }
 });
 
+app.post('/bestellungen', async (req, res) => {
+    const { kunden_id, produkt_id, anzahl, betrag, bestelldatum } = req.body;
+    try {
+        const result = await pool.query('INSERT INTO Bestellungen (kunden_id, produkt_id, anzahl, betrag, bestelldatum) VALUES ($1, $2, $3, $4, $5) RETURNING *', [kunden_id, produkt_id, anzahl, betrag, bestelldatum]);
+        res.json(result.rows[0]);
+    } catch (err) {
+        console.error('Fehler beim Hinzufügen der Bestellung:', err);
+        res.status(500).json({ error: 'Interner Serverfehler' });
+    }
+});
+
 // Lager API-Routen
 // Hier sind ähnliche Routen für Lager einzufügen (GET, POST, etc.)
 app.get('/lager', async (req, res) => {
@@ -70,6 +92,17 @@ app.get('/lager', async (req, res) => {
         res.json(result.rows);
     } catch (err) {
         console.error('Fehler beim Abrufen des Lagers:', err);
+        res.status(500).json({ error: 'Interner Serverfehler' });
+    }
+});
+
+app.post('/lager', async (req, res) => {
+    const { produkt_id, anzahl, datumNeulieferung } = req.body;
+    try {
+        const result = await pool.query('INSERT INTO Lager (produkt_id, anzahl, datumNeulieferung) VALUES ($1, $2, $3) RETURNING *', [produkt_id, anzahl, datumNeulieferung]);
+        res.json(result.rows[0]);
+    } catch (err) {
+        console.error('Fehler beim Hinzufügen zum Lager:', err);
         res.status(500).json({ error: 'Interner Serverfehler' });
     }
 });
