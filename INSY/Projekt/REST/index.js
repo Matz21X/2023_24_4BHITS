@@ -1,4 +1,6 @@
 const express = require('express');
+const swaggerJSDoc = require('swagger-jsdoc');
+const swaggerUI = require('swagger-ui-express');
 const { Pool } = require('pg');
 
 const app = express();
@@ -15,7 +17,39 @@ const pool = new Pool({
 
 app.use(express.json());
 
+// Swagger-Optionen
+const swaggerOptions = {
+    definition: {
+        openapi: '3.0.0',
+        info: {
+            title: 'API-Dokumentation',
+            version: '1.0.0',
+            description: 'API-Dokumentation für deine Anwendung',
+        },
+    },
+    apis: [__filename], // Hier kann der Pfad zu deiner API-Routen-Datei angegeben werden
+};
+
+const swaggerSpec = swaggerJSDoc(swaggerOptions);
+app.use('/api-docs', swaggerUI.serve, swaggerUI.setup(swaggerSpec));
+
+/**
+ * @openapi
+ * tags:
+ *   name: Kunden
+ *   description: Operationen im Zusammenhang mit Kunden
+ */
+
 // Kunden API-Routen
+/**
+ * @openapi
+ * /kunden:
+ *   get:
+ *     summary: Gibt alle Kunden zurück.
+ *     responses:
+ *       200:
+ *         description: Erfolgreiche Anfrage. Gibt eine Liste der Kunden zurück.
+ */
 app.get('/kunden', async (req, res) => {
     try {
         const result = await pool.query('SELECT * FROM Kunden');
@@ -26,6 +60,28 @@ app.get('/kunden', async (req, res) => {
     }
 });
 
+/**
+ * @openapi
+ * /kunden:
+ *   post:
+ *     summary: Fügt einen neuen Kunden hinzu.
+ *     requestBody:
+ *       content:
+ *         application/json:
+ *           schema:
+ *             type: object
+ *             properties:
+ *               name:
+ *                 type: string
+ *               ort:
+ *                 type: string
+ *             required:
+ *               - name
+ *               - ort
+ *     responses:
+ *       200:
+ *         description: Erfolgreiche Anfrage. Gibt den hinzugefügten Kunden zurück.
+ */
 app.post('/kunden', async (req, res) => {
     const { name, ort } = req.body;
     try {
@@ -37,8 +93,23 @@ app.post('/kunden', async (req, res) => {
     }
 });
 
+/**
+ * @openapi
+ * tags:
+ *   name: Produkte
+ *   description: Operationen im Zusammenhang mit Produkten
+ */
+
 // Produkte API-Routen
-// Hier sind ähnliche Routen für Produkte einzufügen (GET, POST, etc.)
+/**
+ * @openapi
+ * /produkte:
+ *   get:
+ *     summary: Gibt alle Produkte zurück.
+ *     responses:
+ *       200:
+ *         description: Erfolgreiche Anfrage. Gibt eine Liste der Produkte zurück.
+ */
 app.get('/produkte', async (req, res) => {
     try {
         const result = await pool.query('SELECT * FROM Produkte');
@@ -49,6 +120,31 @@ app.get('/produkte', async (req, res) => {
     }
 });
 
+/**
+ * @openapi
+ * /produkte:
+ *   post:
+ *     summary: Fügt ein neues Produkt hinzu.
+ *     requestBody:
+ *       content:
+ *         application/json:
+ *           schema:
+ *             type: object
+ *             properties:
+ *               name:
+ *                 type: string
+ *               preis:
+ *                 type: number
+ *               gewicht:
+ *                 type: number
+ *             required:
+ *               - name
+ *               - preis
+ *               - gewicht
+ *     responses:
+ *       200:
+ *         description: Erfolgreiche Anfrage. Gibt das hinzugefügte Produkt zurück.
+ */
 app.post('/produkte', async (req, res) => {
     const { name, preis, gewicht } = req.body;
     try {
@@ -60,9 +156,23 @@ app.post('/produkte', async (req, res) => {
     }
 });
 
+/**
+ * @openapi
+ * tags:
+ *   name: Bestellungen
+ *   description: Operationen im Zusammenhang mit Bestellungen
+ */
 
 // Bestellungen API-Routen
-// Hier sind ähnliche Routen für Bestellungen einzufügen (GET, POST, etc.)
+/**
+ * @openapi
+ * /bestellungen:
+ *   get:
+ *     summary: Gibt alle Bestellungen zurück.
+ *     responses:
+ *       200:
+ *         description: Erfolgreiche Anfrage. Gibt eine Liste der Bestellungen zurück.
+ */
 app.get('/bestellungen', async (req, res) => {
     try {
         const result = await pool.query('SELECT * FROM Bestellungen');
@@ -73,6 +183,38 @@ app.get('/bestellungen', async (req, res) => {
     }
 });
 
+/**
+ * @openapi
+ * /bestellungen:
+ *   post:
+ *     summary: Fügt eine neue Bestellung hinzu.
+ *     requestBody:
+ *       content:
+ *         application/json:
+ *           schema:
+ *             type: object
+ *             properties:
+ *               kunden_id:
+ *                 type: integer
+ *               produkt_id:
+ *                 type: integer
+ *               anzahl:
+ *                 type: integer
+ *               betrag:
+ *                 type: number
+ *               bestelldatum:
+ *                 type: string
+ *                 format: date
+ *             required:
+ *               - kunden_id
+ *               - produkt_id
+ *               - anzahl
+ *               - betrag
+ *               - bestelldatum
+ *     responses:
+ *       200:
+ *         description: Erfolgreiche Anfrage. Gibt die hinzugefügte Bestellung zurück.
+ */
 app.post('/bestellungen', async (req, res) => {
     const { kunden_id, produkt_id, anzahl, betrag, bestelldatum } = req.body;
     try {
@@ -84,8 +226,23 @@ app.post('/bestellungen', async (req, res) => {
     }
 });
 
+/**
+ * @openapi
+ * tags:
+ *   name: Lager
+ *   description: Operationen im Zusammenhang mit Lager
+ */
+
 // Lager API-Routen
-// Hier sind ähnliche Routen für Lager einzufügen (GET, POST, etc.)
+/**
+ * @openapi
+ * /lager:
+ *   get:
+ *     summary: Gibt alle Lagerbestände zurück.
+ *     responses:
+ *       200:
+ *         description: Erfolgreiche Anfrage. Gibt eine Liste der Lagerbestände zurück.
+ */
 app.get('/lager', async (req, res) => {
     try {
         const result = await pool.query('SELECT * FROM Lager');
@@ -96,6 +253,32 @@ app.get('/lager', async (req, res) => {
     }
 });
 
+/**
+ * @openapi
+ * /lager:
+ *   post:
+ *     summary: Fügt einen neuen Lagerbestand hinzu.
+ *     requestBody:
+ *       content:
+ *         application/json:
+ *           schema:
+ *             type: object
+ *             properties:
+ *               produkt_id:
+ *                 type: integer
+ *               anzahl:
+ *                 type: integer
+ *               datumNeulieferung:
+ *                 type: string
+ *                 format: date
+ *             required:
+ *               - produkt_id
+ *               - anzahl
+ *               - datumNeulieferung
+ *     responses:
+ *       200:
+ *         description: Erfolgreiche Anfrage. Gibt den hinzugefügten Lagerbestand zurück.
+ */
 app.post('/lager', async (req, res) => {
     const { produkt_id, anzahl, datumNeulieferung } = req.body;
     try {
