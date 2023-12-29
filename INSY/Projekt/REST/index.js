@@ -39,12 +39,40 @@ app.post('/kunden', async (req, res) => {
 
 // Produkte API-Routen
 // Hier sind ähnliche Routen für Produkte einzufügen (GET, POST, etc.)
+app.get('/produkte', async (req, res) => {
+    try {
+        const result = await pool.query('SELECT * FROM Produkte');
+        res.json(result.rows);
+    } catch (err) {
+        console.error('Fehler beim Abrufen der Produkte:', err);
+        res.status(500).json({ error: 'Interner Serverfehler' });
+    }
+});
+
 
 // Bestellungen API-Routen
 // Hier sind ähnliche Routen für Bestellungen einzufügen (GET, POST, etc.)
+app.get('/bestellungen', async (req, res) => {
+    try {
+        const result = await pool.query('SELECT * FROM Bestellungen');
+        res.json(result.rows);
+    } catch (err) {
+        console.error('Fehler beim Abrufen der Bestellungen:', err);
+        res.status(500).json({ error: 'Interner Serverfehler' });
+    }
+});
 
 // Lager API-Routen
 // Hier sind ähnliche Routen für Lager einzufügen (GET, POST, etc.)
+app.get('/lager', async (req, res) => {
+    try {
+        const result = await pool.query('SELECT * FROM Lager');
+        res.json(result.rows);
+    } catch (err) {
+        console.error('Fehler beim Abrufen des Lagers:', err);
+        res.status(500).json({ error: 'Interner Serverfehler' });
+    }
+});
 
 app.listen(port, () => {
     console.log(`Server läuft auf http://localhost:${port}`);
