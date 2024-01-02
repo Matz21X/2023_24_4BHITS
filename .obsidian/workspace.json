@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP/Projekte/STO/JuiceShop Setup.md"
+                "file": "INSY/Projekt/Datenbank-Projekt.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP/Projekte/STO/JuiceShop Setup.md"
+                "file": "INSY/Projekt/Datenbank-Projekt.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/Projekte/STO/JuiceShop Setup.md",
+                "file": "INSY/Projekt/Datenbank-Projekt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP/Projekte/STO/JuiceShop Setup.md",
+                "file": "INSY/Projekt/Datenbank-Projekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,10 +226,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9d35c6ce7f54e075",
+  "active": "f4e28a260b866dfc",
   "lastOpenFiles": [
-    "INSY/Projekt/Datenbank-Projekt.md",
+    "Attachments/Pasted image 20240102175855.png",
     "ITP/Projekte/STO/JuiceShop Setup.md",
+    "INSY/Projekt/Datenbank-Projekt.md",
     "Backlog_1223.md",
     "Attachments/Pasted image 20231227172232.png",
     "Attachments/Pasted image 20231227172213.png",

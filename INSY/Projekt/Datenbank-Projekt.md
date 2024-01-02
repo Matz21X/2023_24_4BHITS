@@ -49,4 +49,7 @@ CREATE TABLE Lager (
 
 ## Startup:
 
-1. 
+1. Start Docker-Postgres Container
+2. ![[Pasted image 20240102175855.png]]
+3. Start API with `npm start`
+4. Start Python GUI
