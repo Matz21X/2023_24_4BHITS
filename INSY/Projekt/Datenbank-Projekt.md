@@ -5,7 +5,7 @@ In diesem Projekt wird eine Datenbank für einen Online-Einzelhandel verwirklich
 
 **Software:**
 - Docker
-- Datagrip
+- NodeJS
 - Postgresql
 
 ## Datenbankstruktur
@@ -46,3 +46,7 @@ CREATE TABLE Lager (
     datumNeulieferung DATE  
 );
 ```
+
+## Startup:
+
+1. 

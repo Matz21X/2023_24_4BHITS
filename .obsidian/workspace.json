@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md",
+                "file": "ITP/Projekte/STO/JuiceShop Setup.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,17 +36,20 @@
             }
           },
           {
-            "id": "0e45c1b4f1ec08bc",
+            "id": "f4e28a260b866dfc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "INSY/Projekt/Datenbank-Projekt.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1223.md"
+                "file": "ITP/Projekte/STO/JuiceShop Setup.md"
               }
             }
           },
@@ -141,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1223.md"
+                "file": "ITP/Projekte/STO/JuiceShop Setup.md"
               }
             }
           },
@@ -167,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1223.md",
+                "file": "ITP/Projekte/STO/JuiceShop Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1223.md",
+                "file": "ITP/Projekte/STO/JuiceShop Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,9 +226,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0e45c1b4f1ec08bc",
+  "active": "9d35c6ce7f54e075",
   "lastOpenFiles": [
     "INSY/Projekt/Datenbank-Projekt.md",
+    "ITP/Projekte/STO/JuiceShop Setup.md",
     "Backlog_1223.md",
     "Attachments/Pasted image 20231227172232.png",
     "Attachments/Pasted image 20231227172213.png",
@@ -261,7 +265,6 @@
     "output/attachment/37123315f963400e428dbfc7cba69c8c.png",
     "ITP/Projekte/STO/ProtokollHrbek_211223/Protokoll_Hrbek211223.md",
     "ITP/Projekte/STO/ProtokollHrbek_211223/output/Protokoll_Hrbek211223.md",
-    "ITP/Projekte/STO/JuiceShop Setup.md",
     "ITP/Projekte/STO/Hrbek_FTP_Exploit.md",
     "Z_Hacking/Wifi de-auth attack.md",
     "Z_Hacking/StormBreak + NGROK.md",
