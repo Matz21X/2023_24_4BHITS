@@ -50,6 +50,17 @@ CREATE TABLE Lager (
 ## Startup:
 
 1. Start Docker-Postgres Container
-2. ![[Pasted image 20240102175855.png]]
-3. Start API with `npm start`
-4. Start Python GUI
+```powershell
+PS C:\Users\matth> docker start postgres
+postgres
+```
+1. Start API with `npm start`
+```powershell
+PS C:\Users\matth\Documents\2023_24_4BHITS\INSY\Projekt\REST> npm start
+
+> rest@1.0.0 start
+> node index.js
+
+Server läuft auf http://localhost:3000
+```
+3. Start Python GUI
