@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md"
+                "file": "Backlog_1223.md"
               }
             }
           },
@@ -144,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md"
+                "file": "Backlog_1223.md"
               }
             }
           },
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md",
+                "file": "Backlog_1223.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md",
+                "file": "Backlog_1223.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,15 +225,32 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f4e28a260b866dfc",
+  "active": "2b7a352f707fd0d2",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20240102175855.png",
+    "INSY/databaseProject/dist/main.exe",
+    "INSY/databaseProject/dist",
+    "INSY/databaseProject/dist/main/_internal/tcl/tzdata/Arctic/Longyearbyen",
+    "INSY/databaseProject/dist/main/_internal/tcl/tzdata/Arctic",
+    "INSY/databaseProject/dist/main/_internal/tcl/http1.0/pkgIndex.tcl",
+    "INSY/databaseProject/dist/main/_internal/tcl/http1.0/http.tcl",
+    "INSY/databaseProject/dist/main/_internal/tcl/http1.0",
+    "INSY/databaseProject/build/main/COLLECT-00.toc",
+    "INSY/databaseProject/dist/main/_internal/certifi/py.typed",
+    "INSY/databaseProject/dist/main/_internal/certifi/cacert.pem",
+    "INSY/databaseProject/dist/main/_internal/certifi",
+    "INSY/databaseProject/dist/main/_internal/tk/images/tai-ku.gif",
+    "INSY/databaseProject/dist/main/_internal/tk/images/pwrdLogo75.gif",
+    "INSY/databaseProject/dist/main/_internal/tk/images/pwrdLogo200.gif",
+    "INSY/databaseProject/dist/main/_internal/tk/images/pwrdLogo175.gif",
+    "INSY/databaseProject/dist/main/_internal/tk/images/pwrdLogo150.gif",
+    "INSY/databaseProject/dist/main/_internal/tk/images/pwrdLogo100.gif",
+    "INSY/databaseProject/dist/main/_internal/tk/images/logoMed.gif",
+    "INSY/databaseProject/dist/main/_internal/tk/images/logoLarge.gif",
+    "INSY/databaseProject/dist/main/_internal/tk/images/logo64.gif",
+    "INSY/databaseProject/dist/main/_internal/tk/images/logo100.gif",
     "ITP/Projekte/STO/JuiceShop Setup.md",
     "INSY/Projekt/Datenbank-Projekt.md",
     "Backlog_1223.md",
-    "Attachments/Pasted image 20231227172232.png",
-    "Attachments/Pasted image 20231227172213.png",
-    "Attachments/Pasted image 20231227172159.png",
     "NWT/Minecraft Server Task.md",
     "SEW-Theorie/BuilderPattern.md",
     "ITP/Theorie/Projektmanagement.md",
@@ -244,26 +260,9 @@
     "ITP/Theorie/ITP Projektplanung.md",
     "ITP/Theorie/ITP WH.md",
     "SEW-Theorie/Immutable Objects.md",
-    "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern/Example.java",
-    "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern/User.java",
-    "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern",
-    "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/User.java",
-    "SEW-Prog/BuilderPattern/src/test/java",
-    "SEW-Prog/BuilderPattern/src/test",
-    "SEW-Prog/BuilderPattern/src/main/resources",
-    "SEW-Prog/BuilderPattern/pom.xml",
-    "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/Main.java",
-    "SEW-Prog/BuilderPattern/src/main/java/at/htlhl",
     "ITP/Projekte/STO/PortSwigger NoSqlInjection.md",
     "ITP/Projekte/STO/Protokoll_Hrbek211223.md",
     "output/Protokoll_Hrbek211223.md",
-    "output/attachment/7f20b6925b441545b880dd551e906565.png",
-    "output/attachment/4cf8a87ed3e219a4beb8cd281a44a469.png",
-    "output/attachment/e9a881a33f9439b4a5439c6dbca94ec9.png",
-    "output/attachment/22a89583b9d6f4938d45408436f9e768.png",
-    "output/attachment/063cf185f13c1973cfd8269d7990baca.png",
-    "output/attachment/612240cccaca5aea6c621c2e329008ce.png",
-    "output/attachment/37123315f963400e428dbfc7cba69c8c.png",
     "ITP/Projekte/STO/ProtokollHrbek_211223/Protokoll_Hrbek211223.md",
     "ITP/Projekte/STO/ProtokollHrbek_211223/output/Protokoll_Hrbek211223.md",
     "ITP/Projekte/STO/Hrbek_FTP_Exploit.md",
