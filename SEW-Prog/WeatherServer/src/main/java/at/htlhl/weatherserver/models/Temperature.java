@@ -3,20 +3,32 @@ package at.htlhl.weatherserver.models;
 import java.time.LocalDateTime;
 
 public class Temperature {
-    private LocalDateTime measuretime;
-    private float temperature;
+    private LocalDateTime measureTime;
+    private  float temperature;
+
+    public Temperature (LocalDateTime measureTime, float temperature){
+        this.measureTime=measureTime;
+        this.temperature=temperature;
+    }
 
     public Temperature() {
-        this.measuretime = measureTime;
-        this.temperature = temperature;
+
     }
 
-    public LocalDateTime getMeasuretime() {
-        return measuretime;
+    @Override
+    public String toString() {
+        return "Temperature{" +
+                "measureTime=" + measureTime +
+                ", temperature=" + temperature +
+                '}';
     }
 
-    public void setMeasuretime(LocalDateTime measuretime) {
-        this.measuretime = measuretime;
+    public LocalDateTime getMeasureTime() {
+        return measureTime;
+    }
+
+    public void setMeasureTime(LocalDateTime measureTime) {
+        this.measureTime = measureTime;
     }
 
     public float getTemperature() {
@@ -25,13 +37,5 @@ public class Temperature {
 
     public void setTemperature(float temperature) {
         this.temperature = temperature;
-    }
-
-    @Override
-    public String toString() {
-        return "Temperature{" +
-               "measureTime=" + measuretime +
-               ", temperature=" + temperature +
-               '}';
     }
 }

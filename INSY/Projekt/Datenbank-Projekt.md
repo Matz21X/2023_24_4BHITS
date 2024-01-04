@@ -64,3 +64,8 @@ PS C:\Users\matth\Documents\2023_24_4BHITS\INSY\Projekt\REST> npm start
 Server läuft auf http://localhost:3000
 ```
 3. Start Python GUI
+
+Note:
+```bash
+pyinstaller main.py --onefile -w
+```

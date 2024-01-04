@@ -7,59 +7,51 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Timestamp;
+import java.sql.*;
 import java.time.LocalDateTime;
 
 @Repository
 public class TemperatureRepository {
-
     // Constants **************************************************************
+
     private static final Logger LOGGER = (Logger) LoggerFactory.getLogger(TemperatureRepository.class);
 
-    private static final String INSERT_TEMPERATURE_SQL = "INSERT INTO temperature(measuretime, temperature) VALUES (?,?,?)";
+    private static final String INSERT_TEMPERATURE_SQL= "insert into temperature(measuretime, temperature) values (?,?)";
 
-    private final static String SELECT_LASTEST_TEMP_SQL = "SELECT measuretime, temp\n" + "FROM temperature\n" + "ORDER BY measuretime DESC" + "LIMIT 1";
+    private static final String SELECT_LATEST_TEMP_SQL="select measuretime, temperature from temperature order by measuretime limit 1";
 
-    // Fields *****************************************************************
     private JdbcTemplate jdbcTemplate;
 
     @Autowired
-    private void setJdbcTemplate(JdbcTemplate jdbcTemplate) {
-        this.jdbcTemplate = jdbcTemplate;
+    private void setJdbcTemplate(JdbcTemplate jdbcTemplate){
+        this.jdbcTemplate=jdbcTemplate;
     }
 
-    // Database CRUD (CRUD = Create, Reade, Update, Delete)
-    public Temperature insert(Temperature temperature) throws SQLException {
-        if (temperature.getMeasuretime() == null) {
-            LocalDateTime measureTime = LocalDateTime.now();
-            temperature.setMeasuretime(measureTime);
-            LOGGER.info("measure time added (" + measureTime + ")");
-        }
-        PreparedStatement ps = jdbcTemplate.getDataSource().getConnection().prepareStatement(INSERT_TEMPERATURE_SQL);
+    //Database CRUD operations (CRUD = Create Read Update Delete)
 
-        ps.setTimestamp(1, Timestamp.valueOf(temperature.getMeasuretime()));
-        ps.setFloat(2, temperature.getTemperature());
+    public Temperature insert(Temperature temperature) throws SQLException {
+        if (temperature.getMeasureTime()==null){
+            LocalDateTime measureTime =LocalDateTime.now();
+            temperature.setMeasureTime(measureTime);
+            LOGGER.info("measure time added ("+measureTime+")");
+        }
+        PreparedStatement ps= jdbcTemplate.getDataSource().getConnection().prepareStatement(INSERT_TEMPERATURE_SQL);
+        ps.setTimestamp(1, Timestamp.valueOf(temperature.getMeasureTime()));
+        ps.setFloat(2,temperature.getTemperature());
         ps.executeUpdate();
         return temperature;
     }
 
-    public Temperature findLatestTemperature() throws SQLException {
-        ResultSet rs = jdbcTemplate.getDataSource().getConnection().createStatement().executeQuery(SELECT_LASTEST_TEMP_SQL);
-        if (rs.next()){
-            Temperature temperature = new Temperature();
-            temperature.getMeasuretime(rs.getTimestamp("measuretime").toLocalDateTime());
-            temperature.setTemperature(rs.getFloat("temp"));
+    public Temperature findLatestTemperature()throws SQLException{
+        ResultSet rs=jdbcTemplate.getDataSource().getConnection().createStatement().executeQuery(SELECT_LATEST_TEMP_SQL);
+        if(rs.next()){
+            Temperature temperature=new Temperature();
+            temperature.setMeasureTime(rs.getTimestamp("measuretime").toLocalDateTime());
+            temperature.setTemperature(rs.getFloat("temperature"));
             return temperature;
-
-        } else {
+        }else {
             throw new SQLException("Could not fetch data from database");
         }
+
     }
-
 }
-
-
-

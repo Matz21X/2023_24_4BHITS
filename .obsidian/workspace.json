@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1223.md"
+                "file": "INSY/Projekt/Datenbank-Projekt.md"
               }
             }
           },
@@ -143,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1223.md"
+                "file": "INSY/Projekt/Datenbank-Projekt.md"
               }
             }
           },
@@ -169,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1223.md",
+                "file": "INSY/Projekt/Datenbank-Projekt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1223.md",
+                "file": "INSY/Projekt/Datenbank-Projekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,8 +226,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2b7a352f707fd0d2",
+  "active": "f4e28a260b866dfc",
   "lastOpenFiles": [
+    "Backlog_1223.md",
     "INSY/databaseProject/dist/main.exe",
     "INSY/databaseProject/dist",
     "INSY/databaseProject/dist/main/_internal/tcl/tzdata/Arctic/Longyearbyen",
@@ -237,7 +239,6 @@
     "INSY/databaseProject/build/main/COLLECT-00.toc",
     "INSY/databaseProject/dist/main/_internal/certifi/py.typed",
     "INSY/databaseProject/dist/main/_internal/certifi/cacert.pem",
-    "INSY/databaseProject/dist/main/_internal/certifi",
     "INSY/databaseProject/dist/main/_internal/tk/images/tai-ku.gif",
     "INSY/databaseProject/dist/main/_internal/tk/images/pwrdLogo75.gif",
     "INSY/databaseProject/dist/main/_internal/tk/images/pwrdLogo200.gif",
@@ -250,7 +251,6 @@
     "INSY/databaseProject/dist/main/_internal/tk/images/logo100.gif",
     "ITP/Projekte/STO/JuiceShop Setup.md",
     "INSY/Projekt/Datenbank-Projekt.md",
-    "Backlog_1223.md",
     "NWT/Minecraft Server Task.md",
     "SEW-Theorie/BuilderPattern.md",
     "ITP/Theorie/Projektmanagement.md",
