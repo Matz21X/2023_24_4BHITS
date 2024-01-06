@@ -12,8 +12,24 @@
 
 ### Basics
 
+**Variablen**
 ```js
 var // Function scope
 let // Block scope (standard)
 const // Konstante
+```
+
+**Strings**
+```js
+// Formatierter String mit `` (Einzeiliger String mit "")
+const address = `Eduard Müller  
+Anton Ehrenfried-Straße 10  
+2020 Hollabrunn`;
+
+// Interpolation (innerhalb der Klammer ${ } kann js code stehen)
+const address2 = `${firstName} ${lastname}  
+${street} ${houseNr}  
+${zipCode} ${city}`;  
+  
+console.log(address2);
 ```
