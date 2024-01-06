@@ -64,4 +64,37 @@ console.log(address);
 console.log(address.firstName);
 ```
 
-****
+**Filehandling (sync)**
+```js
+// Bei sync wartet der Code bis das File geladen ist (ungut 😬)
+import {readFileSync} from 'node:fs';  // Importiert Filesystem Modul
+
+const fileContent = readFileSync('./input.txt', 'utf8');  
+  
+console.log(fileContent);  
+```
+
+**Filehandling (async)**
+```js
+// Bei async wartet der Code nicht und macht normal weiter bis die Ressource geladen ist (😎)
+import {readFile} from 'node:fs';  
+  
+console.log('A')  
+readFile('./input.txt', 'utf8', (err, data) => {  
+    if (err !== null) {  
+        console.error((err.message));  
+    } else {  
+        console.log('B')  
+        console.log(data)  
+    }  
+  
+});  
+  
+console.log('C')
+
+// LOG:
+A
+C
+B
+This is my Filecontent
+```

@@ -17,12 +17,12 @@ readFile('./input.txt', 'utf-8').then(
 */
 
 console.log('A')
-try{
-const data = await readFile('./input.txt', 'utf8');
+try {
+    const data = await readFile('./input.txt', 'utf8');
 
-console.log('B');
-console.log(data);
-}catch (error){
+    console.log('B');
+    console.log(data);
+} catch (error) {
     console.error(error.message);
 }
 
