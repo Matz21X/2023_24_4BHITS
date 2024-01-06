@@ -205,5 +205,9 @@ Tools für Hot Reloading:
 - Ursprüngliches Modulsystem für NodeJS
 ```js
 // index.js
-requie
+require(`./user`);
+
+// user.js
+class User {...}
+module.exports = User;
 ```
