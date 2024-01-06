@@ -92,7 +92,7 @@ readFile('./input.txt', 'utf8', (err, data) => {
   
 console.log('C')
 
-// LOG:
+// ------------ LOG ------------
 A
 C
 B
@@ -115,3 +115,39 @@ try {
   
 console.log('C');
 ```
+
+**Klassen:**
+```js
+// # Steht für private
+class Person {  
+    #firstName;  
+    #lastName;  
+  
+    constructor(firstName, lastName) {  
+        this.#firstName = firstName;  
+        this.#lastName = lastName;  
+    }  
+  
+    getFullName() {  
+
+        return `${this.#firstName} ${this.#lastName}`  
+    }  
+}  
+  
+const p = new Person('Eduard','Müller');  
+  
+console.log(person);  
+console.log(p.getFullName());
+
+// ------------ LOG ------------
+Eduard Müller
+{
+  firstName: 'Eduard',
+  lastName: 'Müller',
+  getFullName: [Function: getFullName]
+}
+Eduard Müller
+```
+
+### NodeJS Theorie
+
