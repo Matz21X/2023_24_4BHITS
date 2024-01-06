@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md"
+                "file": "MEDT/NodeJS Testvorbereitung.md"
               }
             }
           },
@@ -158,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md"
+                "file": "MEDT/NodeJS Testvorbereitung.md"
               }
             }
           },
@@ -184,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md",
+                "file": "MEDT/NodeJS Testvorbereitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP/Projekte/RAH/JavaScript.md",
+                "file": "MEDT/NodeJS Testvorbereitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,8 +241,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "748a25c6f2d0079d",
+  "active": "2a32cb25f9f037a8",
   "lastOpenFiles": [
+    "ITP/Projekte/RAH/JavaScript.md",
     "MEDT/NodeJS Testvorbereitung.md",
     "Backlog_1223.md",
     "MEDT/nodejs_basics/02-template_strings/02-multiline_strings.js~",
