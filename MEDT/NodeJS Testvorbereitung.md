@@ -151,3 +151,7 @@ Eduard Müller
 
 ### NodeJS Theorie
 
+>[!INFO] Was ist NodeJS?
+>Node.js ist eine <span style="color:#00b050">Open-Source-Plattform</span>, die es ermöglicht, serverseitige Anwendungen mit JavaScript zu entwickeln.
+>Ein Hauptmerkmal von Node.js ist die <span style="color:#00b050">V8 JavaScript-Engine von Google</span>, die eine hohe Leistung und Geschwindigkeit bietet. Node.js eignet sich besonders gut für Anwendungen, die viele gleichzeitige Verbindungen handhaben müssen, wie beispielsweise Webanwendungen, APIs (Application Programming Interfaces) oder Echtzeit-Anwendungen wie Chat-Anwendungen.
+
