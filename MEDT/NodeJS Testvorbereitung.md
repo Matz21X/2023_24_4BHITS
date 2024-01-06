@@ -236,4 +236,29 @@ import CustomName from `./user.mjs`
 ### REST
 
 >[!SUMMARY] REST
-> **R**
+> **R**epresentational **S**tate **T**ransfer. API Design Standard. 
+> 
+>
+>**Methoden:**
+>- GET
+> - POST
+> - PUT
+> - PATCH
+> - DELETE
+
+
+### API-Design
+
+<span style="color:#00b0f0">Eine well-designed API..</span>.
+- … bietet Erleichterung und transportiert nicht nur Daten einer Datenbank
+über HTTP.
+- … sollte den Erwartungen von Entwicklern für Qualität und Standards gerecht
+werden.
+
+**Merkmale einer guten API**
+- einfach zu **lernen, nutzen, erweitern**
+- erfüllt die **Anforderungen**
+- passend für die **Zielgruppe
+
+**Wozu APIs?**
+- interner ****
