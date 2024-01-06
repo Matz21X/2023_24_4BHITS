@@ -45,5 +45,23 @@ console.log(ListDoubled);
 ```
 
 **Arrow functions**
+```js
+const ListDoubled = list.map((x) => x*2);  
+  
+console.log(ListDoubled);
 ```
+
+**Objektzugriff**
+```js
+// Objekt  
+const address = {  
+    firstName: 'Eduard',  
+    lastName: 'Müller',  
+    ... // Weitere Eigenschaften
+};  
+  
+console.log(address);  
+console.log(address.firstName);
 ```
+
+****
