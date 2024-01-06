@@ -33,3 +33,13 @@ ${zipCode} ${city}`;
   
 console.log(address2);
 ```
+
+**Inline functions**
+```js
+const ListDoubled = list.map(function ( number){  
+    const result = number * 2;  
+    return result;  
+});  
+  
+console.log(ListDoubled);
+```

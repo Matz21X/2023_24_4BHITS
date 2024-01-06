@@ -9,5 +9,11 @@ const ListDoubled = list.map(function ( number){
     return result;
 });
 
+const listDivided = list.map(function (n){
+    const res = n*2;
+    return n
+})
+
 console.log(ListDoubled);
+console.log(listDivided)
 
