@@ -376,9 +376,13 @@ docker run -d –-name webserver –p 8080:80 nginx // Portweiterleitung mit -p
 Bsp. Node.js App im Docker-Container
 
 ```
-FROM node:19.0.0
-ADD..
-CMD ["node", "app.js"]
+FROM node:18.18.2  
+WORKDIR /app  
+COPY . /app  
+RUN npm install  
+EXPOSE 3000  
+CMD node index.js
 ```
 
 Docker command: `docker build <pathOfDockerfileDirectory>`
+`docker build .` "." bedeutet jetziges directory
