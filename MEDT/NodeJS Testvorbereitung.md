@@ -341,3 +341,27 @@ In diesem Beispiel sind die Endpunkte: `/users` & `/users/{userID}`
 
 >[!INFO] Was ist Docker?
 >  Docker ist eine Open-Source-Plattform, die es ermöglicht, Anwendungen und ihre Abhängigkeiten in isolierten Containern zu verpacken, wodurch Portabilität, Konsistenz und Skalierbarkeit über verschiedene Umgebungen hinweg gewährleistet werden.
+
+**Anwendungsbereich**
+Docker ist **vor allem für DevOps und Entwickler** gedacht 
+
+ENTW (dev)
+QS (test)
+PROD (prod)
+
+**Setup**
+Docker download - https://docs.docker.com/desktop/install/windows-install/
+
+```bash
+docker pull ubuntu // Vorkonfigurierte Images herunterladen
+docker pull ubuntu:YYMM // Spezifische Version herunterladen
+
+docker run –it <image> <application>
+• i … interaktiv (STDIN bleibt geöffnet)
+• t … TTY – "Terminal"
+docker run -it ubuntu bash
+
+docker images // Listet alle geladenen Images auf
+
+
+```
