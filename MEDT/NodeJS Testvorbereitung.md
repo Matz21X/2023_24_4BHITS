@@ -6,7 +6,7 @@
 2. NodeJs - Was ist das?, Aufbau, Features, Installationsvarianten, Features für Hot/Cold Reloading, Modulsysteme, Codebeispiele z.B. mit Express, Sync, Async, Promises,...
 3. REST
 4. API-Design
-5. OpenAPI - Definition, Wozu dient es?, Endpunkte auf Basis eine Specification identifizieren... keine Specification selbst schreiben notwendig
+5. OpenAPI - Definition, Wozu dient es?, Endpunkte auf Basis einer Specification identifizieren... keine Specification selbst schreiben notwendig
 6. Docker - Definition, Einsatz, Vorteile/Nachteile, Setup, DockerCommands (z.B. Container auflisten, starten, stoppen, Images auflisten, downloaden, ......... , es ist nicht notwendig Images builden zukönnen)
 
 
@@ -309,3 +309,35 @@ description: Staging server
 - url: https://api.example.com/v1
 description: Production server
 ```
+
+**Endpunkte anhand einer Spezifikation finden**
+```yaml
+paths:
+  /users:
+    get:
+      summary: Liste aller Benutzer
+      description: Gibt eine Liste aller Benutzer zurück.
+    post:
+      summary: Benutzer erstellen
+      description: Erstellt einen neuen Benutzer.
+  /users/{userId}:
+    get:
+      summary: Einzelner Benutzer abrufen
+      description: Gibt Informationen zu einem einzelnen Benutzer zurück.
+    put:
+      summary: Benutzer aktualisieren
+      description: Aktualisiert die Informationen eines Benutzers.
+    delete:
+      summary: Benutzer löschen
+      description: Löscht einen Benutzer.
+
+```
+
+In diesem Beispiel sind die Endpunkte: `/users` & `/users/{userID}`
+
+
+
+### Docker
+
+>[!INFO] Was ist Docker?
+>  Docker ist eine Open-Source-Plattform, die es ermöglicht, Anwendungen und ihre Abhängigkeiten in isolierten Containern zu verpacken, wodurch Portabilität, Konsistenz und Skalierbarkeit über verschiedene Umgebungen hinweg gewährleistet werden.
