@@ -172,4 +172,30 @@ Eduard Müller
 - Asynchron
 - Lightweight
 
-**In**
+**Installationsvarianten**
+Installation über nvm (Node Version Manager)
+```shell
+nvm install lastest // Installiert neueste NodeJS Version
+nvm install lts // Long time support
+nvm install x.x.x
+...
+
+nvm use x.x.x // Benutzt angegebene Version
+nvm list 
+nvm current
+```
+NPM (Node Package Manager)
+```
+npm install <modul/package> (-g) (-g steht für Global - installiert modul bei jeder Node Version)
+npm init // Erstellt package in aktuellem Verzeichnis
+```
+
+**Hot / Cold Reloading**
+<span style="color:#00b0f0">Cold Reloading:</span>
+Bei Cold Reloading wird der Prozess manuell komplett (oder große Teile) gestoppt und neu gestartet, um die Veränderungen durch den neu geschriebenen Code zu sehen. Dies ist mühsam.
+
+<span style="color:#ff0000">Hot Reloading:</span>
+Im Gegensatz zu Cold Reloading bietet Hot Reloading automatische Aktualisierung in Echtzeit. Die Entwickler können nun besser arbeiten dar sie die Auswirkungen ihres Codes direkt sehen.
+
+Tools für Hot Reloading:
+`nodemon index.js`
