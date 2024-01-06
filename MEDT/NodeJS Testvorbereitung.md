@@ -211,3 +211,29 @@ require(`./user`);
 class User {...}
 module.exports = User;
 ```
+
+<span style="color:#00b050">ECMAScript</span>
+- Dateityp -> `.mjs`
+- package.json -> `type: module`
+- Commandline Argument -> `node -input-type=module`
+```js
+// Exportieren
+// NAMED
+export class User {...}
+// DEFAULT
+export default class User {...}
+
+// Importieren
+// NAMED
+import { User } from `./user.mjs`
+import { User as CustomName } from `./user.mjs`
+
+// DEFAULT
+import User from `./user.mjs`
+import CustomName from `./user.mjs`
+```
+
+### REST
+
+>[!SUMMARY] REST
+> **R**
