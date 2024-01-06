@@ -363,10 +363,22 @@ docker run -it ubuntu bash
 
 docker images // Listet alle geladenen Images auf
 
-docker stop <id/name>
-docker kill <id/name>
-docker rm <id/name>
-docker rmi ubuntu:20.10
-docker s
+docker stop <id/name> // stop
+docker kill <id/name> // hard stop
+docker rm <id/name> // remove container
+docker rmi ubuntu:20.10 // remove image
+docker system prune --all --volumes // remove container & images
+
+docker run -d –-name webserver –p 8080:80 nginx // Portweiterleitung mit -p
+```
+
+**Docker images erstellen**
+Bsp. Node.js App im Docker-Container
 
 ```
+FROM node:19.0.0
+ADD..
+CMD ["node", "app.js"]
+```
+
+Docker command: `docker build <pathOfDockerfileDirectory>`
