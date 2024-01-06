@@ -13,7 +13,7 @@
 | -     | #INSY      | Python basics (unnötig)                                                    |                       |
 | 8.11  | #SYT       | C++ Pointer                                                                |                       |
 | -     | #WIR       | [[Aufzeichnung der E+A Rechnung]]                                          | S.43                  |
-| -     | #MED       | OpenAPI                                                                    |                       |
+| -     | #MEDT       | OpenAPI                                                                    |                       |
 | -     | #INSY      | Python Palindrome                                                          |                       |
 | -     | #SEW       | Test / H2 Database                                                         |                       |
 | 9.11  | #EN        | Native speaker Stunde                                                      |                       |
@@ -28,7 +28,7 @@
 | -     | #NW        | TEST (oasch)                                                               |                       |
 | -     | #ITP       | Projekt Teile vorstellung                                                  |                       |
 | -     | #DE        | [[Textanalyse-Das Brot]]                                                   |                       |
-| -     | #N         | Minecraft Session / Dajxtra dingsi                                         |                       |
+| -     | #NWT         | Minecraft Session / Dajxtra dingsi                                         |                       |
 | 13.11 | #NWT       | Dajkstra                                                                   |                       |
 | -     | #GGP       | [[3.Wirtschaftsräume_Schüler.pdf]]                                         |                       |
 | -     | #EN        | Graded writing job application                                             |                       |

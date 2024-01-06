@@ -1,5 +1,3 @@
-
-
 function varProblem() {
 var myVariable = 1234;
 
