@@ -250,10 +250,8 @@ import CustomName from `./user.mjs`
 ### API-Design
 
 <span style="color:#00b0f0">Eine well-designed API..</span>.
-- … bietet Erleichterung und transportiert nicht nur Daten einer Datenbank
-über HTTP.
-- … sollte den Erwartungen von Entwicklern für Qualität und Standards gerecht
-werden.
+- … bietet Erleichterung und transportiert nicht nur Daten einer Datenbanküber HTTP.
+- … sollte den Erwartungen von Entwicklern für Qualität und Standards gerechtwerden.
 
 **Merkmale einer guten API**
 - einfach zu **lernen, nutzen, erweitern**
@@ -261,4 +259,53 @@ werden.
 - passend für die **Zielgruppe
 
 **Wozu APIs?**
-- interner ****
+- interner **Datenzugriff** und erhöhte **Agilität**
+- Generierung von **B2B Synergien**
+- Vermarktung **digitaler Assets** an dritte
+- Realisierung einer **Omni-Channel Strategie**
+
+
+### OpenAPI
+
+>[!INFO] Definition
+>Die OpenAPI Specification ist ein Standard zur Beschreibung von HTTP-Programmierschnittstellen. Mit ihr können auch REST-konforme Schnittstellen definiert werden
+
+**Wozu OpenAPI?**
+- OpenAPI ermöglicht die abstrakte Beschreibung von RESTSchittstellen auf einheitliche Weise
+- API-Definition werden mit den Formaten JSON und YAML verfasst.
+- JSON
+	- JavaScript Object Notation
+- YAML
+	- Yet Another Markup Language
+
+**JSON v YAML**
+```json
+// JSON
+{
+"servers": [
+	{
+		"url": "https://development.example.com/v1",
+		"description": "Development server"
+	},
+	{
+		"url": "https://staging.example.com/v1",
+		"description": "Staging server"
+	},
+	{
+		"url": "https://api.example.com/v1",
+		"description": "Production server"
+	}
+	]
+}
+```
+
+```yaml
+// YAML
+servers:
+- url: https://development.example.com/v1
+description: Development server
+- url: https://staging.example.com/v1
+description: Staging server
+- url: https://api.example.com/v1
+description: Production server
+```
