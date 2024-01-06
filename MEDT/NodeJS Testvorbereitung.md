@@ -199,3 +199,11 @@ Im Gegensatz zu Cold Reloading bietet Hot Reloading automatische Aktualisierung 
 
 Tools für Hot Reloading:
 `nodemon index.js`
+
+**Modulsysteme (CommonJS/ ECMAScript)**
+<span style="color:#00b050">CommonJS</span>
+- Ursprüngliches Modulsystem für NodeJS
+```js
+// index.js
+requie
+```
