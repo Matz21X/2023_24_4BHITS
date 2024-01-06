@@ -363,5 +363,10 @@ docker run -it ubuntu bash
 
 docker images // Listet alle geladenen Images auf
 
+docker stop <id/name>
+docker kill <id/name>
+docker rm <id/name>
+docker rmi ubuntu:20.10
+docker s
 
 ```
