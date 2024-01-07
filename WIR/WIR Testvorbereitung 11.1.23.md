@@ -89,8 +89,16 @@ Als **Betriebsausgabe** dürfen verrechnet werden:
 Ausnahme:
 - Bestimmte Tätigkeiten (z.B. kaufmännische und technische Beratung, wissenschaftliche, schriftstrellerische, unterrichtende Tätigkeiten) vermindert sicher der Satz auf <span style="color:#00b050">6%</span>
 
-|          |          |
-| -------- | -------- |
-| Umsatz   | € 25.000 |
-| Material | -€ 2000  |
-| Sozialver         |          |
+```
+| Umsatz                                               | € 25.000                    |
+| Material                                             | -€ 2.000                    |
+| Sozialversicherung                                   | -€ 3.700                    |
+| 12% Betriebsausgabenpauschale                        | -€ 3.000                    |
+| ---------------------------------------------------- | --------------------------- |
+| Gewinn                                               | € 16.300                    |
+| 15% Gewinnfreibetrag                                 | -€ 2.445                    |
+| ---------------------------------------------------- | --------------------------- |
+| Bemessungsgrundlage                                  | € 13.855                    |
+
+Gewinnfreibetrag nur bis max 30.000€ Gewinn
+```
