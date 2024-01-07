@@ -18,4 +18,5 @@
     Gewinn/Verlust
 ```
 
-<span style="color:#00b0f0">Note:</span> Wenn zB. keine Mitarbeiter/Fahrzeuge vorhanden sind muss das entsprechende Buch nicht geführt werden
+<span style="color:#00b0f0">Note:</span> Wenn zB. keine Mitarbeiter/Fahrzeuge/Wareneingang vorhanden sind muss das entsprechende Buch nicht geführt werden
+
