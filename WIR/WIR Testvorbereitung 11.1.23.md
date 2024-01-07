@@ -105,3 +105,5 @@ Ausnahme:
 
 Gewinnfreibetrag nur bis max 30.000€ Gewinn
 ```
+
+Frage: Gewinnfreibetrag
