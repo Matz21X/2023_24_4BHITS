@@ -77,3 +77,14 @@
 - Weiteres auf Seite 39...
 
 ### Pauschalierung
+
+> Pauschalierung ist eine Vereinfachung. Sie verzichtet auf eine genaue Aufgliederung der Einnahmen bzw. Ausgaben und schätzt diesen Wert aufgrund anderer Merkmale. Dadurch wird Zeit und Arbeit gespart
+
+Als **Betriebsausgabe** dürfen verrechnet werden:
+- Wareneinkäufe
+- Personalausgaben
+- Sozialversicherung
+
+**Übrige Betriebsausgaben werden pauschal mit <span style="color:#00b050">12%</span> der Einnahmen (exkl. USt) angenommen**
+Ausnahme:
+- Bestimmte Tätigkeiten (z.B. kaufmännische und technische Beratung, wissenschaftliche, schriftstrellerische, unterrichtende Tätigkeiten) vermindert sicher der Satz auf <span style="color:#00b050">6%</span>
