@@ -8,6 +8,14 @@
 
 ### Gewinnermittlung 
 
-````
-	Betriebs
 ```
+	Betriebseinnahmen
+-   Betriebsausgaben
+-   Abschreibungen
+-   Entgelt für Mitarbeiter
+-   Fahrkosten 
+    ------------------------
+    Gewinn/Verlust
+```
+
+<span style="color:#00b0f0">Note:</span> Wenn zB. keine Mitarbeiter/Fahrzeuge vorhanden sind muss das entsprechende Buch nicht geführt werden
