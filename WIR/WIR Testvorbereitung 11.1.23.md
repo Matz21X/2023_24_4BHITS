@@ -6,7 +6,7 @@
 - Rechtbuch S. 331-346 (inkl. Ü 7.6) oder Skript S. 1-11
 - Englische Begriffe Kapitel 2 (Teams)
 
-### Gewinnermittlung 
+### Einnahmen-Ausgaben Rechnung
 
 ```
 	Betriebseinnahmen
@@ -65,3 +65,15 @@
 - Dauer
 - Zweck
 - gefahrene Kilometer
+
+**Einnahmen-Ausgaben-Journal**
+- Ausgaben für Waren, Roh- und Hilfsstoffe
+- Fremdpersonal
+- Eigenes Personal
+- Abschreibung auf das Anlagevermögen (Afa, geringwertige Wirtschaftsgüter)
+- Instandhaltung für Gebäude
+- Reise- und Fahrtspesen (inkl. Kilometergeld und Diäten
+- Tatsächliche Kfz-Kosten
+- Weiteres auf Seite 39...
+
+### Pauschalierung
