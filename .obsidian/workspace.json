@@ -60,6 +60,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6076634ad704e6f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIR/Gewinnermittlung_Kap2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -112,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -242,8 +254,9 @@
   },
   "active": "fe4d4b6cd1a33427",
   "lastOpenFiles": [
-    "MEDT/NodeJS Testvorbereitung.md",
+    "WIR/Gewinnermittlung_Kap2.md",
     "WIR/WIR Testvorbereitung 11.1.23.md",
+    "MEDT/NodeJS Testvorbereitung.md",
     "ITP/Projekte/RAH/JavaScript.md",
     "INSY/Projekt/REST/node_modules/z-schema/node_modules/commander/typings/index.d.ts",
     "INSY/Projekt/REST/node_modules/z-schema/node_modules/commander/typings",
@@ -283,7 +296,6 @@
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-5.x/Contributing/contributing.md",
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-7.x/intro.md",
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-5.x/validation.md",
-    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-6.x/intro.md",
     "INSY/databaseProject/dist/main/_internal/tk/images/tai-ku.gif",
     "INSY/databaseProject/dist/main/_internal/tk/images/pwrdLogo75.gif",
     "INSY/databaseProject/dist/main/_internal/tk/images/pwrdLogo200.gif",
