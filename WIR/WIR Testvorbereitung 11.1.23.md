@@ -20,6 +20,18 @@
 
 <span style="color:#00b0f0">Note:</span> Wenn zB. keine Mitarbeiter/Fahrzeuge/Wareneingang vorhanden sind muss das entsprechende Buch nicht geführt werden
 
+**Aufzeichnungen:**
+- Einnahmen-Ausgaben-Journal
+	- bare und unbare Einnahmen und Ausgaben
+- Fahrtenbuch
+	- Fahrten für das Unternehmen mit dem Kfz
+- Lohnkonto
+	- wenn Mitarbeiter beschäftigt werden
+- Wareneingangsbuch
+	- Waren, die das Unternehmen zum Weiterverkauf oder zu Verarbeitung erwirbt 
+- Anlagenverzeichnis
+	- abnutzbares Anlagevermögen
+
 **Wareneingangsbuch**
 - ID (Fortlaufende Nummer der Eintragung)
 - Tag des Wareneingangs oder der Rechnungslegung
@@ -44,3 +56,12 @@
 - Name und Versicherungsnummer des jüngsten Kindes, wenn der Alleinerzieherabsetzbetrag berücksichtigt wurde
 - der für den Arbeitnehmer zuständige Sozialversicherungsträger
 - Bemessungsgrundlage für Dienstgeberbeitrag und Zuschlag zum Dienstgeberbeitrag
+- Weiteres auf Seite 37...
+
+**Fahrtenbuch**
+- Datum
+- Ausgangsort und Ziel der Fahrt
+- Zeit und Kilometerstand am Anfang / Ende
+- Dauer
+- Zweck
+- gefahrene Kilometer
