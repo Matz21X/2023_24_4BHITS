@@ -88,3 +88,9 @@ Als **Betriebsausgabe** dürfen verrechnet werden:
 **Übrige Betriebsausgaben werden pauschal mit <span style="color:#00b050">12%</span> der Einnahmen (exkl. USt) angenommen**
 Ausnahme:
 - Bestimmte Tätigkeiten (z.B. kaufmännische und technische Beratung, wissenschaftliche, schriftstrellerische, unterrichtende Tätigkeiten) vermindert sicher der Satz auf <span style="color:#00b050">6%</span>
+
+|          |          |
+| -------- | -------- |
+| Umsatz   | € 25.000 |
+| Material | -€ 2000  |
+| Sozialver         |          |

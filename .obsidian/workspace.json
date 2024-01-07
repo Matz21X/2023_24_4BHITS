@@ -60,19 +60,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6076634ad704e6f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIR/Gewinnermittlung_Kap2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 3
@@ -252,8 +239,54 @@
       "markdown-importer:Open format converter": false
     }
   },
+  "floating": {
+    "id": "84a0f199a334106a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ee64115509a2513a",
+        "type": "window",
+        "children": [
+          {
+            "id": "c72dac96769a4f03",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6076634ad704e6f9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "WIR/Aufzeichnung der E+A Rechnung.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1167,
+        "y": 80,
+        "width": 600,
+        "height": 745,
+        "maximize": true,
+        "zoom": 1.5
+      }
+    ]
+  },
   "active": "fe4d4b6cd1a33427",
   "lastOpenFiles": [
+    "WIR/Aufzeichnung der E+A Rechnung.md",
+    "WIR/Einstieg Wirtschaft.md",
+    "WIR/Unternehmensarten.md",
+    "WIR/Wirtschaft-Test Vorbereitung.md",
+    "WIR/Wirtschaftsordnung.md",
+    "WIR/Wirtschaftssubjekte.md",
+    "WIR/Wirtschaft.pdf",
+    "WIR/SkriptSteuerlehre.pdf",
     "WIR/Gewinnermittlung_Kap2.md",
     "WIR/WIR Testvorbereitung 11.1.23.md",
     "MEDT/NodeJS Testvorbereitung.md",
@@ -267,8 +300,6 @@
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_sidebars/version-5.x-sidebars.json",
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_sidebars",
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/docs/intro.md",
-    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/docs",
-    "INSY/Projekt/REST/node_modules/swagger-jsdoc/bin/swagger-jsdoc.js",
     "INSY/Projekt/REST/node_modules/validator/README.md",
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/static/img/undraw_docusaurus_tree.svg",
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/static/img/undraw_docusaurus_react.svg",
@@ -290,12 +321,6 @@
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-6.x/Quick Start/cli.md",
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-6.x/Contributing/typescript.md",
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-6.x/Contributing/reporting-issues.md",
-    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-6.x/Contributing/project-goals.md",
-    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-6.x/Contributing/fundamental-concepts.md",
-    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-5.x/Contributing/report-issues.md",
-    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-5.x/Contributing/contributing.md",
-    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-7.x/intro.md",
-    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-5.x/validation.md",
     "INSY/databaseProject/dist/main/_internal/tk/images/tai-ku.gif",
     "INSY/databaseProject/dist/main/_internal/tk/images/pwrdLogo75.gif",
     "INSY/databaseProject/dist/main/_internal/tk/images/pwrdLogo200.gif",
