@@ -78,7 +78,7 @@
 
 ### Pauschalierung
 
-> Pauschalierung ist eine Vereinfachung. Sie verzichtet auf eine genaue Aufgliederung der Einnahmen bzw. Ausgaben und schätzt diesen Wert aufgrund anderer Merkmale. Dadurch wird Zeit und Arbeit gespart
+> Pauschalierung ist eine Vereinfachung. Sie verzichtet auf eine genaue Aufgliederung der Einnahmen bzw. Ausgaben und schätzt diesen Wert aufgrund anderer Merkmale. Dadurch wird Zeit und Arbeit gespart. **BIS ZU EINER UMSATZHÖHE VON 35.000€ NUTZBAR**
 
 Als **Betriebsausgabe** dürfen verrechnet werden:
 - Wareneinkäufe
