@@ -16,6 +16,9 @@
 -   Fahrkosten 
     ------------------------
     Gewinn/Verlust
+-   15% Gewinnfreibetrag
+	------------------------
+	Steuerpflichtiges Einkommen
 ```
 
 <span style="color:#00b0f0">Note:</span> Wenn zB. keine Mitarbeiter/Fahrzeuge/Wareneingang vorhanden sind muss das entsprechende Buch nicht geführt werden
