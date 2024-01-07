@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIR/WIR Testvorbereitung 11.1.23.md"
+                "file": "MEDT/NodeJS Testvorbereitung.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "WIR/WIR Testvorbereitung 11.1.23.md"
+                "file": "MEDT/NodeJS Testvorbereitung.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIR/WIR Testvorbereitung 11.1.23.md",
+                "file": "MEDT/NodeJS Testvorbereitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WIR/WIR Testvorbereitung 11.1.23.md",
+                "file": "MEDT/NodeJS Testvorbereitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,48 +239,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "floating": {
-    "id": "84a0f199a334106a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ee64115509a2513a",
-        "type": "window",
-        "children": [
-          {
-            "id": "c72dac96769a4f03",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6076634ad704e6f9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "WIR/Aufzeichnung der E+A Rechnung.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 662,
-        "y": 136,
-        "width": 600,
-        "height": 745,
-        "maximize": false,
-        "zoom": 1.5
-      }
-    ]
-  },
-  "active": "fe4d4b6cd1a33427",
+  "active": "2a32cb25f9f037a8",
   "lastOpenFiles": [
-    "WIR/Aufzeichnung der E+A Rechnung.md",
     "WIR/WIR Testvorbereitung 11.1.23.md",
+    "WIR/Aufzeichnung der E+A Rechnung.md",
     "WIR/Einstieg Wirtschaft.md",
     "WIR/Unternehmensarten.md",
     "WIR/Wirtschaft-Test Vorbereitung.md",
