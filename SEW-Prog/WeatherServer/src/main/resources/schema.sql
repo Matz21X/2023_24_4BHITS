@@ -1,5 +1,4 @@
-CREATE TABLE temperature
-(
+CREATE TABLE temperature(
     measuretime TIMESTAMP,
     temperature REAL,
     PRIMARY KEY (measuretime)

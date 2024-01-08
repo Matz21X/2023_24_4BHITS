@@ -17,13 +17,52 @@
                 "file": "Backlog_1223.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               },
               "pinned": true
             }
           },
           {
-            "id": "ee7b3f9536b48e86",
+            "id": "fe54bee7084076d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backlog_0124.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e41010f6ace20055",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "befad16dceeb90e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MEDT/NodeJS Testvorbereitung.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8625f55c0769ece5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,9 +73,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e320583691b48ac9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1223.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -131,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1223.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -157,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1223.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1223.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +233,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -195,8 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,54 +260,54 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e1cb03b33a7d44c5",
+  "active": "e41010f6ace20055",
   "lastOpenFiles": [
-    "Protokoll.zip",
-    "Protokoll/Minecraft Server Task.md",
-    "Protokoll/attachment",
-    "Protokoll",
-    "output/Minecraft Server Task.md",
-    "output/attachment/56c1dec2715cbbfffe7b1984fce49cbc.png",
-    "output\\attachment\\56c1dec2715cbbfffe7b1984fce49cbc.png",
-    "output/attachment",
-    "output",
-    "SEW-Theorie/BuilderPattern.md",
-    "ITP/Theorie/Projektmanagement.md",
+    "Backlog_0124.md",
+    "conflict-files-obsidian-git.md",
     "Backlog_1223.md",
-    "Backlog_1123.md",
-    "Backlog_1023.md",
-    "Backlog_0923.md",
-    "ITP/Theorie/ITP Projektplanung.md",
-    "ITP/Theorie/ITP WH.md",
-    "SEW-Theorie/Immutable Objects.md",
-    "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern/Example.java",
-    "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern/User.java",
-    "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern",
-    "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/User.java",
-    "SEW-Prog/BuilderPattern/src/test/java",
-    "SEW-Prog/BuilderPattern/src/test",
-    "ITP/Projekte/STO/PortSwigger NoSqlInjection.md",
-    "ITP/Projekte/STO/Protokoll_Hrbek211223.md",
-    "output/Protokoll_Hrbek211223.md",
-    "output/attachment/7f20b6925b441545b880dd551e906565.png",
-    "output/attachment/4cf8a87ed3e219a4beb8cd281a44a469.png",
-    "output/attachment/e9a881a33f9439b4a5439c6dbca94ec9.png",
-    "output/attachment/22a89583b9d6f4938d45408436f9e768.png",
-    "output/attachment/063cf185f13c1973cfd8269d7990baca.png",
-    "output/attachment/612240cccaca5aea6c621c2e329008ce.png",
-    "output/attachment/37123315f963400e428dbfc7cba69c8c.png",
-    "output\\attachment\\7f20b6925b441545b880dd551e906565.png",
-    "ITP/Projekte/STO/ProtokollHrbek_211223/Protokoll_Hrbek211223.md",
-    "ITP/Projekte/STO/ProtokollHrbek_211223/output/Protokoll_Hrbek211223.md",
-    "ITP/Projekte/STO/JuiceShop Setup.md",
-    "ITP/Projekte/STO/Hrbek_FTP_Exploit.md",
-    "Z_Hacking/Wifi de-auth attack.md",
-    "Z_Hacking/StormBreak + NGROK.md",
-    "REL/Dezember.md",
-    "EN/Speaking Task Notes.md",
     "NWT/Minecraft Server Task.md",
-    "NWT/Untitled 1.md",
-    "ITP/Theorie/Notes.md",
+    "MEDT/NodeJS Testvorbereitung.md",
+    "INSY/Projekt/REST/node_modules/xtend/test.js",
+    "INSY/Projekt/REST/node_modules/xtend/README.md",
+    "INSY/Projekt/REST/node_modules/xtend/package.json",
+    "INSY/Projekt/REST/node_modules/xtend/mutable.js",
+    "INSY/Projekt/REST/node_modules/xtend/LICENSE",
+    "INSY/Projekt/REST/node_modules/xtend/immutable.js",
+    "INSY/Projekt/REST/node_modules/xtend",
+    "INSY/Projekt/REST/node_modules/wrappy/wrappy.js",
+    "INSY/Projekt/REST/node_modules/wrappy/README.md",
+    "INSY/Projekt/REST/node_modules/wrappy/package.json",
+    "INSY/Projekt/REST/node_modules/wrappy/LICENSE",
+    "INSY/Projekt/REST/node_modules/wrappy",
+    "INSY/Projekt/REST/node_modules/vary/README.md",
+    "INSY/Projekt/REST/node_modules/vary/HISTORY.md",
+    "INSY/Projekt/REST/node_modules/validator/README.md",
+    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-6.x/Quick Start/first-steps.md",
+    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-6.x/Quick Start/cli.md",
+    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-6.x/Contributing/typescript.md",
+    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-6.x/Contributing/reporting-issues.md",
+    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-6.x/Contributing/project-goals.md",
+    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-6.x/Contributing/fundamental-concepts.md",
+    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-7.x/quick-start/first-steps.md",
+    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-7.x/Contributing/typescript.md",
+    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-7.x/Contributing/reporting-issues.md",
+    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-7.x/Contributing/project-goals.md",
+    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-7.x/Contributing/fundamental-concepts.md",
+    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-5.x/Contributing/report-issues.md",
+    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-5.x/Contributing/contributing.md",
+    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/static/img/undraw_docusaurus_tree.svg",
+    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/static/img/undraw_docusaurus_react.svg",
+    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/static/img/undraw_docusaurus_mountain.svg",
+    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/static/img/screenshot.png",
+    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/static/img/logo.svg",
+    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/static/img/docusaurus.png",
+    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-6.x/intro.md",
+    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-7.x/intro.md",
+    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-5.x/validation.md",
+    "Attachments/Pasted image 20240102175855.png",
+    "Attachments/Pasted image 20231227172232.png",
+    "Attachments/Pasted image 20231227172213.png",
+    "Attachments/Pasted image 20231227172159.png",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
