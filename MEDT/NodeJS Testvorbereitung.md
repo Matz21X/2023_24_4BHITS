@@ -363,6 +363,7 @@ docker run –it <image> <application>
 docker run -it ubuntu bash
 
 docker images // Listet alle geladenen Images auf
+docker ps -a
 
 docker stop <id/name> // stop
 docker kill <id/name> // hard stop
