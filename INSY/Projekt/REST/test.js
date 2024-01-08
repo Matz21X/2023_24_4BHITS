@@ -1,11 +1,6 @@
-const fs = require('node:fs');
+// Bei sync wartet der Code bis das File geladen ist (ungut 😬)
+import {readFileSync} from 'node:fs';  // Importiert Filesystem Modul
 
-const bruh = fs.readFile('./oasch.txt', 'utf-8', (err, data) => {
-    if (err) {
-        console.log(err)
-    } else {
-        console.log(data)
-    }
-});
+const fileContent = readFileSync('./oasch.txt', 'utf8');
 
-console.log(bruh)
+console.log(fileContent);  
