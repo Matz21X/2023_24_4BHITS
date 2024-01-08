@@ -36,19 +36,6 @@
             }
           },
           {
-            "id": "e41010f6ace20055",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "befad16dceeb90e7",
             "type": "leaf",
             "state": {
@@ -83,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -178,7 +165,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -204,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Backlog_0124.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Backlog_0124.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,11 +247,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e41010f6ace20055",
+  "active": "fe54bee7084076d4",
   "lastOpenFiles": [
+    "Backlog_1223.md",
     "Backlog_0124.md",
     "conflict-files-obsidian-git.md",
-    "Backlog_1223.md",
     "NWT/Minecraft Server Task.md",
     "MEDT/NodeJS Testvorbereitung.md",
     "INSY/Projekt/REST/node_modules/xtend/test.js",

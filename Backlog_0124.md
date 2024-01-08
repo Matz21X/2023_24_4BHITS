@@ -1,3 +1,7 @@
+# Backlog Jänner
+#Backlog
+
+
 | Date | Subject | Material      | Additional info |
 | ---- | ------- | ------------- | --------------- |
-| 1.12 | #ITP    | Aufgabenpaket |                 |
+| 8.1 | #NWT    | Donkeykong lvl 22 Bug |                 |
