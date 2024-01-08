@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NWT/Minecraft Server Task.md"
+                "file": "Backlog_1223.md"
               }
             }
           },
@@ -132,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NWT/Minecraft Server Task.md"
+                "file": "Backlog_1223.md"
               }
             }
           },
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NWT/Minecraft Server Task.md",
+                "file": "Backlog_1223.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NWT/Minecraft Server Task.md",
+                "file": "Backlog_1223.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,6 +214,15 @@
   },
   "active": "e1cb03b33a7d44c5",
   "lastOpenFiles": [
+    "Protokoll.zip",
+    "Protokoll/Minecraft Server Task.md",
+    "Protokoll/attachment",
+    "Protokoll",
+    "output/Minecraft Server Task.md",
+    "output/attachment/56c1dec2715cbbfffe7b1984fce49cbc.png",
+    "output\\attachment\\56c1dec2715cbbfffe7b1984fce49cbc.png",
+    "output/attachment",
+    "output",
     "SEW-Theorie/BuilderPattern.md",
     "ITP/Theorie/Projektmanagement.md",
     "Backlog_1223.md",
@@ -230,10 +238,6 @@
     "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/User.java",
     "SEW-Prog/BuilderPattern/src/test/java",
     "SEW-Prog/BuilderPattern/src/test",
-    "SEW-Prog/BuilderPattern/src/main/resources",
-    "SEW-Prog/BuilderPattern/pom.xml",
-    "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/Main.java",
-    "SEW-Prog/BuilderPattern/src/main/java/at/htlhl",
     "ITP/Projekte/STO/PortSwigger NoSqlInjection.md",
     "ITP/Projekte/STO/Protokoll_Hrbek211223.md",
     "output/Protokoll_Hrbek211223.md",
@@ -245,8 +249,6 @@
     "output/attachment/612240cccaca5aea6c621c2e329008ce.png",
     "output/attachment/37123315f963400e428dbfc7cba69c8c.png",
     "output\\attachment\\7f20b6925b441545b880dd551e906565.png",
-    "output\\attachment\\4cf8a87ed3e219a4beb8cd281a44a469.png",
-    "output\\attachment\\e9a881a33f9439b4a5439c6dbca94ec9.png",
     "ITP/Projekte/STO/ProtokollHrbek_211223/Protokoll_Hrbek211223.md",
     "ITP/Projekte/STO/ProtokollHrbek_211223/output/Protokoll_Hrbek211223.md",
     "ITP/Projekte/STO/JuiceShop Setup.md",
@@ -258,9 +260,6 @@
     "NWT/Minecraft Server Task.md",
     "NWT/Untitled 1.md",
     "ITP/Theorie/Notes.md",
-    "Z_Obsidian-Help/Java.md",
-    "Z_Obsidian-Help/Syntax.md",
-    "Z_Obsidian-Help/Help-Page.md",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"

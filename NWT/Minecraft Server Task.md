@@ -46,11 +46,21 @@ service ssh restart
 2.  **Change SSH-Server port**
    
 ```bash
-# Open ssh config file and e
+# Open ssh config file and edit port
 sudo nano /etc/ssh/sshd_config
+port=25566
 
+# Reload SSH Server settings
+sudo service ssh reload
+
+# Check connection on the new port
+ssh -p 25566 ubuntu@192.168.132.11
+
+# Update firewall config
+sudo iptables -A INPUT -p tcp --dport 25566 -j ACCEPT
 ```
-4. **Only allow access from local network**
+
+3. **Only allow access from local network**
    
 ```bash
 # server.properties file
@@ -62,7 +72,7 @@ sudo iptables -A INPUT -p tcp --dport 25565 -j DROP
 ```
 Optionally disable Port-forwarding on your router
 
-3.  **Add user "minecraft" to start server**
+4.  **Add user "minecraft" to start server**
 
 ```bash
 # Create user "minecraft" without home directory / without login shell
