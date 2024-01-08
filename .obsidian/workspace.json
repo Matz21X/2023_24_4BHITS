@@ -8,16 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b7a352f707fd0d2",
+            "id": "f586103e388b7ca2",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backlog_1223.md",
+                "file": "Backlog_0124.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               },
               "pinned": true
             }
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "REL/Jänner-Zivilcourage.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#NWT",
+                "query": "#RK",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,7 +116,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "REL/Jänner-Zivilcourage.md"
               }
             }
           },
@@ -165,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "REL/Jänner-Zivilcourage.md"
               }
             }
           },
@@ -191,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "REL/Jänner-Zivilcourage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "REL/Jänner-Zivilcourage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,8 +250,10 @@
   },
   "active": "fe54bee7084076d4",
   "lastOpenFiles": [
-    "Backlog_1223.md",
     "Backlog_0124.md",
+    "REL/Jänner-Zivilcourage.md",
+    "Backlog_1223.md",
+    "GGP/5. Wirtschaftspolitk_Schüler.pdf",
     "conflict-files-obsidian-git.md",
     "NWT/Minecraft Server Task.md",
     "MEDT/NodeJS Testvorbereitung.md",
@@ -265,7 +268,6 @@
     "INSY/Projekt/REST/node_modules/wrappy/README.md",
     "INSY/Projekt/REST/node_modules/wrappy/package.json",
     "INSY/Projekt/REST/node_modules/wrappy/LICENSE",
-    "INSY/Projekt/REST/node_modules/wrappy",
     "INSY/Projekt/REST/node_modules/vary/README.md",
     "INSY/Projekt/REST/node_modules/vary/HISTORY.md",
     "INSY/Projekt/REST/node_modules/validator/README.md",
@@ -290,7 +292,6 @@
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/static/img/docusaurus.png",
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-6.x/intro.md",
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-7.x/intro.md",
-    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-5.x/validation.md",
     "Attachments/Pasted image 20240102175855.png",
     "Attachments/Pasted image 20231227172232.png",
     "Attachments/Pasted image 20231227172213.png",
