@@ -23,19 +23,6 @@
             }
           },
           {
-            "id": "fe54bee7084076d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REL/Jänner-Zivilcourage.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "befad16dceeb90e7",
             "type": "leaf",
             "state": {
@@ -47,17 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e320583691b48ac9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,14 +216,14 @@
   },
   "active": "befad16dceeb90e7",
   "lastOpenFiles": [
-    "Backlog_0124.md",
     "MEDT/NodeJS Testvorbereitung.md",
+    "Backlog_0124.md",
+    "REL/Jänner-Zivilcourage.md",
     "MEDT/nodejs_basics.zip",
     "INSY/Projekt/REST/test.js~",
     "INSY/Projekt/REST/oasch.txt",
     "INSY/Projekt/REST/test.js",
     "NWT/Minecraft Server Task.md",
-    "REL/Jänner-Zivilcourage.md",
     "GGP/1_Zivilcourage.pdf",
     "Backlog_1223.md",
     "GGP/5. Wirtschaftspolitk_Schüler.pdf",

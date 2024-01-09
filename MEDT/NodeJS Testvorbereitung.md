@@ -208,6 +208,9 @@ module.exports = User;
 export class User {...}
 // DEFAULT
 export default class User {...}
+export const bruh = {
+...
+}
 
 // Importieren
 // NAMED
