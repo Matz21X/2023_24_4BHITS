@@ -3,7 +3,7 @@
 
 **Stoff:**
 1. Javascript - Basics, kurze Codebeispiele (ähnlich wie beim Quiz)
-2. NodeJs - Was ist das?, Aufbau, Features, Installationsvarianten, Features für Hot/Cold Reloading, Modulsysteme, Codebeispiele z.B. mit Express, Sync, Async, Promises,...
+2. NodeJS - Was ist das?, Aufbau, Features, Installationsvarianten, Features für Hot/Cold Reloading, Modulsysteme, Codebeispiele z.B. mit Express, Sync, Async, Promises,...
 3. REST
 4. API-Design
 5. OpenAPI - Definition, Wozu dient es?, Endpunkte auf Basis einer Specification identifizieren... keine Specification selbst schreiben notwendig
