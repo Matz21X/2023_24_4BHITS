@@ -6,3 +6,4 @@ fs.readFile('/Users/joe/test.txt', 'utf8', (err, data) => {
     }
     console.log(data);
 });
+
