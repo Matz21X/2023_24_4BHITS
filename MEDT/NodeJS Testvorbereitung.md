@@ -341,7 +341,7 @@ In diesem Beispiel sind die Endpunkte: `/users` & `/users/{userID}`
 ### Docker
 
 >[!INFO] Was ist Docker?
->  Docker ist eine Open-Source-Plattform, die es ermöglicht, Anwendungen und ihre Abhängigkeiten in isolierten Containern zu verpacken, wodurch Portabilität, Konsistenz und Skalierbarkeit über verschiedene Umgebungen hinweg gewährleistet werden.
+>  Docker ist eine freie Software zur Isolierung von Anwendungen mit Hilfe von Containervirtualisierung.
 
 **Anwendungsbereich**
 Docker ist **vor allem für DevOps und Entwickler** gedacht 
