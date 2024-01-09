@@ -12,8 +12,10 @@ const city = 'Hollabrunn';
 
 const address = `${firstName} ${lastname}
 ${street} ${houseNr}
-${zipCode} ${city}`;
+${zipCode} ${city} $`;
 
 console.log(address);
+
+console.log($(houseNr))
 
 console.log(`1+1=${1+1}`);
