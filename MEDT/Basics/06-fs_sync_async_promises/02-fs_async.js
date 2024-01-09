@@ -1,14 +1,8 @@
-import {readFile} from 'node:fs';
-
-console.log('A')
-
-readFile('./input.txt', 'utf8', (error, data) => {
-   if (error !== null) {
-       console.error(error.message);
-   } else {
-       console.log('B')
-       console.log(data);
-   }
+const fs = require('node:fs');
+fs.readFile('/Users/joe/test.txt', 'utf8', (err, data) => {
+    if (err) {
+        console.error(err);
+        return;
+    }
+    console.log(data);
 });
-
-console.log('C')

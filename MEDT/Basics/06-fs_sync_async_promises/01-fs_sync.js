@@ -1,11 +1,7 @@
-import {readFileSync} from 'node:fs';
-
-console.log('A');
-
-const fileContent = readFileSync('./input.txt', 'utf8');
-
-console.log('B')
-
-console.log(fileContent);
-
-console.log('C')
+const fs = require('node:fs');
+try {
+    const data = fs.readFileSync('/Users/joe/test.txt', 'utf8');
+    console.log(data);
+} catch (err) {
+    console.error(err);
+}
