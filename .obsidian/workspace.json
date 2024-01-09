@@ -56,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "MEDT/NodeJS Testvorbereitung.md"
               }
             }
           },
@@ -151,7 +152,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "MEDT/NodeJS Testvorbereitung.md"
               }
             }
           },
@@ -177,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "MEDT/NodeJS Testvorbereitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "MEDT/NodeJS Testvorbereitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,14 +234,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f586103e388b7ca2",
+  "active": "befad16dceeb90e7",
   "lastOpenFiles": [
+    "Backlog_0124.md",
     "MEDT/NodeJS Testvorbereitung.md",
     "MEDT/nodejs_basics.zip",
     "INSY/Projekt/REST/test.js~",
     "INSY/Projekt/REST/oasch.txt",
     "INSY/Projekt/REST/test.js",
-    "Backlog_0124.md",
     "NWT/Minecraft Server Task.md",
     "REL/Jänner-Zivilcourage.md",
     "GGP/1_Zivilcourage.pdf",
