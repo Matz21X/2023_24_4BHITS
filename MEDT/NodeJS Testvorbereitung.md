@@ -66,54 +66,39 @@ console.log(address.firstName);
 
 **Filehandling (sync)**
 ```js
-// Bei sync wartet der Code bis das File geladen ist (ungut 😬)
-import {readFileSync} from 'node:fs';  // Importiert Filesystem Modul
-
-const fileContent = readFileSync('./input.txt', 'utf8');  
-  
-console.log(fileContent);  
+const fs = require('node:fs');  
+try {  
+    const data = fs.readFileSync('/Users/joe/test.txt', 'utf8');  
+    console.log(data);  
+} catch (err) {  
+    console.error(err);  
+}
 ```
 
 **Filehandling (async)**
 ```js
-// Bei async wartet der Code nicht und macht normal weiter bis die Ressource geladen ist (😎)
-import {readFile} from 'node:fs';  
-  
-console.log('A')  
-readFile('./input.txt', 'utf8', (err, data) => {  
-    if (err !== null) {  
-        console.error((err.message));  
-    } else {  
-        console.log('B')  
-        console.log(data)  
+const fs = require('node:fs');  
+fs.readFile('/Users/joe/test.txt', 'utf8', (err, data) => {  
+    if (err) {  
+        console.error(err);  
+        return;  
     }  
-  
-});  
-  
-console.log('C')
-
-// ------------ LOG ------------
-A
-C
-B
-This is my Filecontent
+    console.log(data);  
+});
 ```
 
 **Promises**
 ```js
-import {readFile} from 'node:fs/promises';
-
-console.log('A')  
-try {  
-    const data = await readFile('./input.txt', 'utf8');  
-  
-    console.log('B');  
-    console.log(data);  
-} catch (error) {  
-    console.error(error.message);  
+const fs = require('node:fs/promises');  
+async function example() {  
+    try {  
+        const data = await fs.readFile('/Users/joe/test.txt', { encoding: 'utf8' });  
+        console.log(data);  
+    } catch (err) {  
+        console.log(err);  
+    }  
 }  
-  
-console.log('C');
+example();
 ```
 
 **Klassen:**
