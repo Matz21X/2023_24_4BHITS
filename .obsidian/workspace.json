@@ -56,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDT/NodeJS Testvorbereitung.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -153,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "MEDT/NodeJS Testvorbereitung.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -179,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDT/NodeJS Testvorbereitung.md",
+                "file": "Backlog_0124.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDT/NodeJS Testvorbereitung.md",
+                "file": "Backlog_0124.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,14 +233,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "befad16dceeb90e7",
+  "active": "f586103e388b7ca2",
   "lastOpenFiles": [
+    "MEDT/NodeJS Testvorbereitung.md",
     "MEDT/nodejs_basics.zip",
     "INSY/Projekt/REST/test.js~",
     "INSY/Projekt/REST/oasch.txt",
     "INSY/Projekt/REST/test.js",
     "Backlog_0124.md",
-    "MEDT/NodeJS Testvorbereitung.md",
     "NWT/Minecraft Server Task.md",
     "REL/Jänner-Zivilcourage.md",
     "GGP/1_Zivilcourage.pdf",
@@ -254,7 +252,6 @@
     "INSY/Projekt/REST/node_modules/xtend/package.json",
     "INSY/Projekt/REST/node_modules/xtend/mutable.js",
     "INSY/Projekt/REST/node_modules/xtend/LICENSE",
-    "INSY/Projekt/REST/node_modules/xtend/immutable.js",
     "INSY/Projekt/REST/node_modules/wrappy/README.md",
     "INSY/Projekt/REST/node_modules/vary/README.md",
     "INSY/Projekt/REST/node_modules/vary/HISTORY.md",
