@@ -208,7 +208,8 @@ module.exports = User;
 export class User {...}
 // DEFAULT
 export default class User {...}
-export const bruh = {
+export default bruhFunc;
+export const bruh = x => {
 ...
 }
 
