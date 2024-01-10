@@ -24,15 +24,15 @@
 <span style="color:#00b0f0">Note:</span> Wenn zB. keine Mitarbeiter/Fahrzeuge/Wareneingang vorhanden sind muss das entsprechende Buch nicht geführt werden
 
 **Aufzeichnungen:**
-- Einnahmen-Ausgaben-Journal
+- <span style="color:#00b050">Einnahmen-Ausgaben-Journal</span>
 	- bare und unbare Einnahmen und Ausgaben
-- Fahrtenbuch
+- <span style="color:#00b050">Fahrtenbuch</span>
 	- Fahrten für das Unternehmen mit dem Kfz
-- Lohnkonto
+- <span style="color:#00b050">Lohnkonto</span>
 	- wenn Mitarbeiter beschäftigt werden
-- Wareneingangsbuch
+- <span style="color:#00b050">Wareneingangsbuch</span>
 	- Waren, die das Unternehmen zum Weiterverkauf oder zu Verarbeitung erwirbt 
-- Anlagenverzeichnis
+- <span style="color:#00b050">Anlagenverzeichnis</span>
 	- abnutzbares Anlagevermögen
 
 **Wareneingangsbuch**
