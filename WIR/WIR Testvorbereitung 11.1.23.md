@@ -163,7 +163,31 @@ Gewinnfreibetrag 15% nur bis max 30.000€ Gewinn
 | <span style="color:#00b050">5. Kapitalvermögen</span> | Sparbuchzinsen, Verkauf von Wertpapieren, GmbH Gewinnanteile |
 | <span style="color:#00b050">6. Vermietung & Verpachtung</span> | Vermietung von Wohnungen, Überlassung von Marken/Patentrechten |
 | <span style="color:#00b050">7. sonstiges</span> | Renten, priv. Grundstücksverkauf, gelegentliche Vermietung beweglicher Sachen |
+<span style="color:#00b050">Betriebliche Einkünfte:</span>
+- Land- und Forstwirtschaft
+- selbstständige Arbeit
+- Gewerbetrieb
+
+<span style="color:#00b050">Außerbetriebliche Einkünfte:</span>
+- nichtselbständige Arbeit
+- Kapitalvermögen
+- Vermietung & Verpachtung
+- sonstiges
+
 **Keine Einkommensteuer:**
 - Lottogewinne
 - Erbschaften
 - Schmerzensgeld
+
+### Überschusseinkünfte
+
+Bei den **Außerbetrieblichen Einkünften** werden die Einkünfte ermittelt:
+$$Überschuss = E\\inahmen - Werbungskosten$$
+
+<span style="color:#00b050">Beispiele für Werbungskosten:</span>
+ - nicht selbstständige Arbeit
+	 - Kurskosten einer Weiterbildung
+- Kapitalvermögen:
+	- Kontoführungskosten
+- Vermietung & Verpachtung
+	- Ausmalen einer Wohnung -> bessere Vermietung
