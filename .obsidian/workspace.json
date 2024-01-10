@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MEDT/NodeJS Testvorbereitung.md",
+                "file": "ITP/Projekte/RAH/JavaScript.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDT/NodeJS Testvorbereitung.md"
+                "file": "ITP/Projekte/RAH/JavaScript.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "MEDT/NodeJS Testvorbereitung.md"
+                "file": "ITP/Projekte/RAH/JavaScript.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDT/NodeJS Testvorbereitung.md",
+                "file": "ITP/Projekte/RAH/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDT/NodeJS Testvorbereitung.md",
+                "file": "ITP/Projekte/RAH/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,6 +216,7 @@
   },
   "active": "befad16dceeb90e7",
   "lastOpenFiles": [
+    "MEDT/NodeJS Testvorbereitung.md",
     "SYT/Arduino-Code/TempServer/src/main.cpp",
     "SYT/Arduino-Code/TempServer/test/README",
     "SYT/Arduino-Code/TempServer/test",
@@ -226,10 +227,8 @@
     "SYT/Arduino-Code/TempServer/src",
     "SYT/Arduino-Code/TempServer/platformio.ini",
     "SYT/Arduino-Code/TempServer",
-    "MEDT/NodeJS Testvorbereitung.md",
     "Backlog_0124.md",
     "REL/Jänner-Zivilcourage.md",
-    "MEDT/nodejs_basics.zip",
     "NWT/Minecraft Server Task.md",
     "Backlog_1223.md",
     "conflict-files-obsidian-git.md",
