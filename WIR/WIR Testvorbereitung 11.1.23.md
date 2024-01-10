@@ -212,6 +212,7 @@ $$Überschuss = E\\inahmen - Werbungskosten$$
 
 ### Englische Begriffe
 
+
 | **Englischer Begriff** | **Bedeutung** | **Deutscher Begriff** |
 | ---- | ---- | ---- |
 | accounting | Process of recording financial transactions pertaining to a business | Rechnungswesen |
