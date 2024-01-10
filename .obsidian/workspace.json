@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIR/Aufzeichnung der E+A Rechnung.md"
+                "file": "WIR/WIR Testvorbereitung 11.1.23.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "WIR/Aufzeichnung der E+A Rechnung.md"
+                "file": "WIR/WIR Testvorbereitung 11.1.23.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIR/Aufzeichnung der E+A Rechnung.md",
+                "file": "WIR/WIR Testvorbereitung 11.1.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WIR/Aufzeichnung der E+A Rechnung.md",
+                "file": "WIR/WIR Testvorbereitung 11.1.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,10 +228,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "88f1d79b52e1c3d5",
+  "active": "f9d815eb6e4f4d64",
   "lastOpenFiles": [
-    "WIR/WIR Testvorbereitung 11.1.23.md",
     "WIR/Aufzeichnung der E+A Rechnung.md",
+    "WIR/WIR Testvorbereitung 11.1.23.md",
     "WIR/Gewinnermittlung_Kap2.md",
     "MEDT/NodeJS Testvorbereitung.md",
     "Backlog_0124.md",
