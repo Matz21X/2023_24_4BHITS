@@ -14,7 +14,9 @@
 | - | #INSY | [[Datenbank-Projekt]] |  |
 | 10.1 | #SYT | Temperatursensor Webservice |  |
 | - | #WIR | Englische Begriffe |  |
-| - | #MEDT  | Test ([[NodeJS Testvorbereitung]]),  |  |
+| - | #MEDT | Test ([[NodeJS Testvorbereitung]]), |  |
+| - | #INSY | [[Datenbank-Projekt]] |  |
+| - | #SEW | H2Database Projekt |  |
 
 
 

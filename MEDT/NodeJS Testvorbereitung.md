@@ -1,5 +1,5 @@
 # Testvorbereitung 
-#MEDT #HOEF
+#MEDT #HOEF #Vorbereitung
 
 **Stoff:**
 1. Javascript - Basics, kurze Codebeispiele (ähnlich wie beim Quiz)

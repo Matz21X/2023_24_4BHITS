@@ -1,5 +1,5 @@
 # Wirtschaft Testvorbereitung
-#WIR #HUM
+#WIR #HUM #Vorbereitung 
 
 **Stoff:**
 - Wirtschaftsbuch S. 34-48 (Einnahmen-Ausgabenrechnung und Pauschalierung)
