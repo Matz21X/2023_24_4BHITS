@@ -140,3 +140,6 @@ Gewinnfreibetrag 15% nur bis max 30.000€ Gewinn
 	- Tabaksteuer
 	- Branntweinsteuer
 	- Mineralölsteuer
+
+### Persönliche Einkommensteuerpflicht
+
