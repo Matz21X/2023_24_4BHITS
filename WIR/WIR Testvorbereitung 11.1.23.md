@@ -154,7 +154,16 @@ Gewinnfreibetrag 15% nur bis max 30.000€ Gewinn
 - **Nur bestimmte in Österreich erwirtschaftete Einkommen versteuert**
 
 ### Einkunftsarten
-
 | **Einkunftsart** | **Beispiele** |
-| ---------------- | ------------- |
-| 1. Einkünfte aus Land und Forstwirtschaftz                 |               |
+| ---- | ---- |
+| <span style="color:#00b050">1. Einkünfte aus Land- und Forstwirtschaft</span> | Land- und Forstwirtschaft, Tierzucht, Jagd |
+| <span style="color:#00b050">2. selbstständige Arbeit</span> | Freiberufliche Tätigkeiten, Steuerberater, Freelancer |
+| <span style="color:#00b050">3. Gewerbebetrieb</span> | Tätigkeiten die; selbständig, wiederholt, mit Gewinnabsicht |
+| <span style="color:#00b050">4. nichtselbstständige Arbeit</span> | Arbeiter, Angestellter, Beamter |
+| <span style="color:#00b050">5. Kapitalvermögen</span> | Sparbuchzinsen, Verkauf von Wertpapieren, GmbH Gewinnanteile |
+| <span style="color:#00b050">6. Vermietung & Verpachtung</span> | Vermietung von Wohnungen, Überlassung von Marken/Patentrechten |
+| <span style="color:#00b050">7. sonstiges</span> | Renten, priv. Grundstücksverkauf, gelegentliche Vermietung beweglicher Sachen |
+**Keine Einkommensteuer:**
+- Lottogewinne
+- Erbschaften
+- Schmerzensgeld
