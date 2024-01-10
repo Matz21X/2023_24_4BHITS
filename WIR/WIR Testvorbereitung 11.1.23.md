@@ -106,37 +106,37 @@ Ausnahme:
 Gewinnfreibetrag 15% nur bis max 30.000€ Gewinn
 ```
 
-# Recht
+# Steuerrecht
 
-**Finanzquellen des Staates**
+<span style="color:#00b050">Finanzquellen des Staates</span>
 - Abgaben
 - wirtschaftliche Tätigkeiten
 - Kreditaufnahme
 
 <span style="color:#00b050">Abgabenarten:</span>
-- Steuern (Dienen zur allgemeinen Finanzdeckung des Staates)
+- <span style="color:#00b0f0">Steuern</span> (Dienen zur allgemeinen Finanzdeckung des Staates)
 	- Einkommenssteuer
 	- keine Gegenleistung
 	- ...
-- Beiträge (Zahlungen an öffentliche Leistungen)
+- <span style="color:#00b0f0">Beiträge</span> (Zahlungen an öffentliche Leistungen)
 	- Sozialversicherungsbeitrag
 	- Keine Gegenleistung
-- Gebühren (Entgelt für Inanspruchnahme von öffentl. Leistungen)
+- <span style="color:#00b0f0">Gebühren</span> (Entgelt für Inanspruchnahme von öffentl. Leistungen)
 	- Ausstellungsgebühr Reisepass
 	- Gegenleistung
 	- ...
 
 <span style="color:#00b050">Steuerarten:</span>
-- <span style="color:#00b050">Erwerbstreuer</span> (Vermögenszuwachs)
+- <span style="color:#00b0f0">Erwerbstreuer</span> (Vermögenszuwachs)
 	- Körperschaftsteuer
 	- Einkommensteuer
-- <span style="color:#00b050">Substanzsteuer</span> (Besitz)
+- <span style="color:#00b0f0">Substanzsteuer</span> (Besitz)
 	- Grundsteuer
 	- Kfz-Steuer
-- <span style="color:#00b050">Verkehrsteuer</span> (Übertragen von Vermögen & Rechten)
+- <span style="color:#00b0f0">Verkehrsteuer</span> (Übertragen von Vermögen & Rechten)
 	- Umsatzsteuer
 	- Grunderwerbsteuer
-- <span style="color:#00b050">Verbrauchsteuer</span> (Verbrauch bestimmter Sachen)
+- <span style="color:#00b0f0">Verbrauchsteuer</span> (Verbrauch bestimmter Sachen)
 	- Tabaksteuer
 	- Branntweinsteuer
 	- Mineralölsteuer
