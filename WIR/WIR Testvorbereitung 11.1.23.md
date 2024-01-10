@@ -219,7 +219,7 @@ $$Überschuss = E\\inahmen - Werbungskosten$$
 | cost accounting | It tracks and analyses a company's spending to manage money | Kostenrechnung |
 | planning | Systematic process of setting goals | Planung |
 | profit | difference between the amount earned and the amount spent | Gewinn |
-| tax law |  | Steuerrecht |
+| tax law | law that affects taxes | Steuerrecht |
 | commercial code | set of laws and rules that control business transactions in a specific area | Unternehmensrecht |
 | receipt | Acknowledgement of a subject receiving money | Beleg |
 | invoice, bill | Document of a transaction | Rechnung |
@@ -228,4 +228,10 @@ $$Überschuss = E\\inahmen - Werbungskosten$$
 | expenses | Monetary outflow of a company (salaries, rent...) | Betriebsausgaben |
 | deprecation | method of accounting, represents the gradual decrease in worth of an asset | Abschreibung |
 | useful life | timespan an asset gets used | Nutzungsdauer |
-| low value assets | Items of  |  |
+| low value assets | Items / Investment with a low monetary worth | Geringwertig. Wirtschaftsg. |
+| supplier, contractor | company that provides goods | Lieferanten |
+| product, commodity | Result of companies work | Ware |
+| social insurance | system of compulsory contribution to enable the provision of state assistance | Sozialversicherung |
+| salary, wage | Money an employee receives | Gehalt |
+| flat-rate bookkeeping | method of determining company profits | Pauschalierung |
+| cost of sales | cost involved in directly producing the goods or services that you actually sell | Wareneinkäufe |
