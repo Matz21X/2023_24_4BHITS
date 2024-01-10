@@ -26,12 +26,9 @@
             "id": "f9d815eb6e4f4d64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "WIR/WIR Testvorbereitung 11.1.23.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "WIR/SkriptSteuerlehre.pdf"
               }
             }
           },
@@ -62,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -140,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDT/NodeJS Testvorbereitung.md"
+                "file": "WIR/SkriptSteuerlehre.pdf"
               }
             }
           },
@@ -158,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "MEDT/NodeJS Testvorbereitung.md"
+                "file": "WIR/SkriptSteuerlehre.pdf"
               }
             }
           },
@@ -184,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDT/NodeJS Testvorbereitung.md",
+                "file": "WIR/SkriptSteuerlehre.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDT/NodeJS Testvorbereitung.md",
+                "file": "WIR/SkriptSteuerlehre.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,13 +236,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e63502bdb943f5f2",
+  "active": "f9d815eb6e4f4d64",
   "lastOpenFiles": [
     "WIR/WIR Testvorbereitung 11.1.23.md",
+    "MEDT/NodeJS Testvorbereitung.md",
     "WIR/Aufzeichnung der E+A Rechnung.md",
     "Backlog_0124.md",
     "WIR/Gewinnermittlung_Kap2.md",
-    "MEDT/NodeJS Testvorbereitung.md",
     "WIR/Wirtschaftssubjekte.md",
     "WIR/Wirtschaftsordnung.md",
     "WIR/Wirtschaft-Test Vorbereitung.md",
