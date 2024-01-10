@@ -81,7 +81,7 @@
 
 ### Pauschalierung
 
-> Pauschalierung ist eine Vereinfachung. Sie verzichtet auf eine genaue Aufgliederung der Einnahmen bzw. Ausgaben und schätzt diesen Wert aufgrund anderer Merkmale. Dadurch wird Zeit und Arbeit gespart. **BIS ZU EINER UMSATZHÖHE VON 225.000€ NUTZBAR**
+> Pauschalierung ist eine Vereinfachung. Sie verzichtet auf eine genaue Aufgliederung der Einnahmen bzw. Ausgaben und schätzt diesen Wert aufgrund anderer Merkmale. Dadurch wird Zeit und Arbeit gespart. **BIS ZU EINER UMSATZHÖHE VON 35.000€ NUTZBAR**
 
 Als **Betriebsausgabe** dürfen verrechnet werden:
 - Wareneinkäufe
@@ -103,7 +103,15 @@ Ausnahme:
 | ---------------------------------------------------- | --------------------------- |
 | Bemessungsgrundlage                                  | € 13.855                    |
 
-Gewinnfreibetrag nur bis max 30.000€ Gewinn
+Gewinnfreibetrag 15% nur bis max 30.000€ Gewinn
 ```
 
-Frage: Gewinnfreibetrag - Investitionen
+# Recht
+
+**Finanzquellen des Staates**
+- Abgaben
+- wirtschaftliche Tätigkeiten
+- Kreditaufnahme
+
+<span style="color:#00b050">Abgabenarten:</span>
+- 
