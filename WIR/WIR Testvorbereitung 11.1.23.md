@@ -182,6 +182,7 @@ Gewinnfreibetrag 15% nur bis max 30.000€ Gewinn
 ### Überschusseinkünfte
 
 Bei den **Außerbetrieblichen Einkünften** werden die Einkünfte ermittelt:
+
 $$Überschuss = E\\inahmen - Werbungskosten$$
 
 <span style="color:#00b050">Beispiele für Werbungskosten:</span>
@@ -191,3 +192,12 @@ $$Überschuss = E\\inahmen - Werbungskosten$$
 	- Kontoführungskosten
 - Vermietung & Verpachtung
 	- Ausmalen einer Wohnung -> bessere Vermietung
+
+
+### Berechnung der Einkommensteuer
+
+![[Pasted image 20240110222832.png]]
+
+<span style="color:#00b050">Sonderausgaben</span> (Kein Zusammenhang mit der Einkommenserzielung)
+- bestimmte Pensionen und dauernde Lasten
+- Beiträge an gesetzlich anerkannte Kirchen 
