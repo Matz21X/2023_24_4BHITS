@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NWT/ipv6Cheatsheet.md",
+                "file": "WIR/WIR Testvorbereitung 11.1.23.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NWT/ipv6Cheatsheet.md"
+                "file": "WIR/WIR Testvorbereitung 11.1.23.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NWT/ipv6Cheatsheet.md"
+                "file": "WIR/WIR Testvorbereitung 11.1.23.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NWT/ipv6Cheatsheet.md",
+                "file": "WIR/WIR Testvorbereitung 11.1.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NWT/ipv6Cheatsheet.md",
+                "file": "WIR/WIR Testvorbereitung 11.1.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,6 +215,8 @@
   },
   "active": "227d5466fa69741a",
   "lastOpenFiles": [
+    "WIR/Wirtschaft-Test Vorbereitung.md",
+    "NWT/ipv6Cheatsheet.md",
     "AM/AM.md",
     "Backlog_0124.md",
     "ITP/Projekte/RAH/JavaScript.md",
@@ -249,8 +251,6 @@
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-7.x/Contributing/reporting-issues.md",
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-7.x/Contributing/project-goals.md",
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-7.x/Contributing/fundamental-concepts.md",
-    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-5.x/Contributing/report-issues.md",
-    "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/versioned_docs/version-5.x/Contributing/contributing.md",
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/static/img/undraw_docusaurus_tree.svg",
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/static/img/undraw_docusaurus_react.svg",
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/static/img/undraw_docusaurus_mountain.svg",
