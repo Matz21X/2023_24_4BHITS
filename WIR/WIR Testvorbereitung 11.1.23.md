@@ -209,3 +209,13 @@ $$Überschuss = E\\inahmen - Werbungskosten$$
 - Mehraufwendungen für ein erheblich behindertes Kind
 - Katastrophenschäden
 - Kosten für ein auswärtiges Studium eines Kindes
+
+### Englische Begriffe
+
+| **Englischer Begriff** | **Bedeutung**                                                        | **Deutscher Begriff** |
+| ---------------------- | -------------------------------------------------------------------- | --------------------- |
+| accounting             | Process of recording financial transactions pertaining to a business | Rechnungswesen        |
+| bookkeeping            | Keeping track of financial transactions in a business                | Buchhaltung           |
+| cost accounting        | It tracks and analyses a company's spending to manage money          | Kostenrechnung        |
+| planning               | Systematic process of setting goals                                  | Planung               |
+| Pr                       |                                                                      |                       |
