@@ -6,5 +6,6 @@
   "showInlineTitle": false,
   "trashOption": "local",
   "showUnsupportedFiles": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "tabSize": 4
 }

@@ -114,4 +114,15 @@ Gewinnfreibetrag 15% nur bis max 30.000€ Gewinn
 - Kreditaufnahme
 
 <span style="color:#00b050">Abgabenarten:</span>
-- 
+- Steuern (Dienen zur allgemeinen Finanzdeckung des Staates)
+	- Einkommenssteuer
+	- keine Gegenleistung
+	- ...
+- Beiträge (Zahlungen an öffentliche Leistungen)
+	- Sozialversicherungsbeitrag
+	- Keine Gegenleistung
+- Gebühren (Entgelt für Inanspruchnahme von öffentl. Leistungen)
+	- Ausstellungsgebühr Reisepass
+	- Gegenleistung
+	- ...
+
