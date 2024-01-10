@@ -126,3 +126,17 @@ Gewinnfreibetrag 15% nur bis max 30.000€ Gewinn
 	- Gegenleistung
 	- ...
 
+<span style="color:#00b050">Steuerarten:</span>
+- <span style="color:#00b050">Erwerbstreuer</span> (Vermögenszuwachs)
+	- Körperschaftsteuer
+	- Einkommensteuer
+- <span style="color:#00b050">Substanzsteuer</span> (Besitz)
+	- Grundsteuer
+	- Kfz-Steuer
+- <span style="color:#00b050">Verkehrsteuer</span> (Übertragen von Vermögen & Rechten)
+	- Umsatzsteuer
+	- Grunderwerbsteuer
+- <span style="color:#00b050">Verbrauchsteuer</span> (Verbrauch bestimmter Sachen)
+	- Tabaksteuer
+	- Branntweinsteuer
+	- Mineralölsteuer

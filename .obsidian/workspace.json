@@ -23,12 +23,15 @@
             }
           },
           {
-            "id": "f9d815eb6e4f4d64",
+            "id": "92f53fe7d9ffc36a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "WIR/SkriptSteuerlehre.pdf"
+                "file": "WIR/WIR Testvorbereitung 11.1.23.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -136,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIR/SkriptSteuerlehre.pdf"
+                "file": "WIR/WIR Testvorbereitung 11.1.23.md"
               }
             }
           },
@@ -154,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "WIR/SkriptSteuerlehre.pdf"
+                "file": "WIR/WIR Testvorbereitung 11.1.23.md"
               }
             }
           },
@@ -180,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIR/SkriptSteuerlehre.pdf",
+                "file": "WIR/WIR Testvorbereitung 11.1.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WIR/SkriptSteuerlehre.pdf",
+                "file": "WIR/WIR Testvorbereitung 11.1.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,12 +239,48 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f9d815eb6e4f4d64",
+  "floating": {
+    "id": "a89e0e01e3ce5613",
+    "type": "floating",
+    "children": [
+      {
+        "id": "38149ca2dea3a8cd",
+        "type": "window",
+        "children": [
+          {
+            "id": "373dd97014ad4d3b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9d815eb6e4f4d64",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "WIR/SkriptSteuerlehre.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1623,
+        "y": 14,
+        "width": 1016,
+        "height": 745,
+        "maximize": true,
+        "zoom": 1.5
+      }
+    ]
+  },
+  "active": "92f53fe7d9ffc36a",
   "lastOpenFiles": [
+    "WIR/SkriptSteuerlehre.pdf",
     "WIR/WIR Testvorbereitung 11.1.23.md",
+    "Backlog_0124.md",
     "MEDT/NodeJS Testvorbereitung.md",
     "WIR/Aufzeichnung der E+A Rechnung.md",
-    "Backlog_0124.md",
     "WIR/Gewinnermittlung_Kap2.md",
     "WIR/Wirtschaftssubjekte.md",
     "WIR/Wirtschaftsordnung.md",
@@ -263,7 +302,6 @@
     "DE/Textanalyse-Das Brot.md",
     "ITP/Projekte/RAH/JavaScriptES6Template.md",
     "NWT/ipv6Cheatsheet.md",
-    "AM/AM.md",
     "SYT/Arduino-Code/TempServer/src/main.cpp",
     "SYT/Arduino-Code/TempServer/test/README",
     "SYT/Arduino-Code/TempServer/test",
@@ -273,7 +311,6 @@
     "SYT/Arduino-Code/TempServer/include",
     "SYT/Arduino-Code/TempServer/src",
     "SYT/Arduino-Code/TempServer/platformio.ini",
-    "SYT/Arduino-Code/TempServer",
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/static/img/undraw_docusaurus_tree.svg",
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/static/img/undraw_docusaurus_react.svg",
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/static/img/undraw_docusaurus_mountain.svg",
