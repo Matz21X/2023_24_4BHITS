@@ -38,6 +38,10 @@
 		{
 			"name": "Temp",
 			"path": "Temp"
+		},
+		{
+			"name": "TempServer",
+			"path": "TempServer"
 		}
 	],
 	"settings": {}
