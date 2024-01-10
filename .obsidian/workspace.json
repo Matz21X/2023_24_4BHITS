@@ -39,8 +39,13 @@
             "id": "88f1d79b52e1c3d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WIR/Aufzeichnung der E+A Rechnung.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -223,9 +228,11 @@
   },
   "active": "f9d815eb6e4f4d64",
   "lastOpenFiles": [
+    "WIR/Aufzeichnung der E+A Rechnung.md",
+    "WIR/Gewinnermittlung_Kap2.md",
+    "WIR/WIR Testvorbereitung 11.1.23.md",
     "MEDT/NodeJS Testvorbereitung.md",
     "Backlog_0124.md",
-    "WIR/WIR Testvorbereitung 11.1.23.md",
     "WIR/Wirtschaftssubjekte.md",
     "WIR/Wirtschaftsordnung.md",
     "WIR/Wirtschaft-Test Vorbereitung.md",
@@ -247,7 +254,6 @@
     "ITP/Projekte/RAH/JavaScriptES6Template.md",
     "NWT/ipv6Cheatsheet.md",
     "AM/AM.md",
-    "ITP/Projekte/RAH/JavaScript.md",
     "SYT/Arduino-Code/TempServer/src/main.cpp",
     "SYT/Arduino-Code/TempServer/test/README",
     "SYT/Arduino-Code/TempServer/test",
@@ -258,7 +264,6 @@
     "SYT/Arduino-Code/TempServer/src",
     "SYT/Arduino-Code/TempServer/platformio.ini",
     "SYT/Arduino-Code/TempServer",
-    "REL/Jänner-Zivilcourage.md",
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/static/img/undraw_docusaurus_tree.svg",
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/static/img/undraw_docusaurus_react.svg",
     "INSY/Projekt/REST/node_modules/swagger-jsdoc/docusaurus/static/img/undraw_docusaurus_mountain.svg",
