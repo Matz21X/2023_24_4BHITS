@@ -212,10 +212,20 @@ $$Überschuss = E\\inahmen - Werbungskosten$$
 
 ### Englische Begriffe
 
-| **Englischer Begriff** | **Bedeutung**                                                        | **Deutscher Begriff** |
-| ---------------------- | -------------------------------------------------------------------- | --------------------- |
-| accounting             | Process of recording financial transactions pertaining to a business | Rechnungswesen        |
-| bookkeeping            | Keeping track of financial transactions in a business                | Buchhaltung           |
-| cost accounting        | It tracks and analyses a company's spending to manage money          | Kostenrechnung        |
-| planning               | Systematic process of setting goals                                  | Planung               |
-| Pr                       |                                                                      |                       |
+| **Englischer Begriff** | **Bedeutung** | **Deutscher Begriff** |
+| ---- | ---- | ---- |
+| accounting | Process of recording financial transactions pertaining to a business | Rechnungswesen |
+| bookkeeping | Keeping track of financial transactions in a business | Buchhaltung |
+| cost accounting | It tracks and analyses a company's spending to manage money | Kostenrechnung |
+| planning | Systematic process of setting goals | Planung |
+| profit | difference between the amount earned and the amount spent | Gewinn |
+| tax law |  | Steuerrecht |
+| commercial code | set of laws and rules that control business transactions in a specific area | Unternehmensrecht |
+| receipt | Acknowledgement of a subject receiving money | Beleg |
+| invoice, bill | Document of a transaction | Rechnung |
+| cash-based accounting | method that recognizes revenues and expenses at the time cash is received or paid out | Einnahmen-Ausgaben-Rechnung |
+| incomes | total profit that a company makes in a year | Betriebseinnahmen |
+| expenses | Monetary outflow of a company (salaries, rent...) | Betriebsausgaben |
+| deprecation | method of accounting, represents the gradual decrease in worth of an asset | Abschreibung |
+| useful life | timespan an asset gets used | Nutzungsdauer |
+| low value assets | Items of  |  |
