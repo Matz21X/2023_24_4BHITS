@@ -143,3 +143,18 @@ Gewinnfreibetrag 15% nur bis max 30.000€ Gewinn
 
 ### Persönliche Einkommensteuerpflicht
 
+<span style="color:#00b050">Unbeschränkte Steuerpflicht</span>
+- Wohnsitz oder gewöhnlichen Aufenthaltsort in Österreich
+- Aufenthalt > 6 Monate
+- **Sämtliches Einkommen ist in Österreich zu versteuern**
+
+<span style="color:#00b050">Beschränkte Steuerpflicht</span>
+- ~~Wohnsitz oder gewöhnlichen Aufenthaltsort in Österreich~~
+- Aufenthalt < 70 Tage
+- **Nur bestimmte in Österreich erwirtschaftete Einkommen versteuert**
+
+### Einkunftsarten
+
+| **Einkunftsart** | **Beispiele** |
+| ---------------- | ------------- |
+| 1. Einkünfte aus Land und Forstwirtschaftz                 |               |
