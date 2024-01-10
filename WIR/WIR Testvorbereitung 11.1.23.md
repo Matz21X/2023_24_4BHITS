@@ -81,7 +81,7 @@
 
 ### Pauschalierung
 
-> Pauschalierung ist eine Vereinfachung. Sie verzichtet auf eine genaue Aufgliederung der Einnahmen bzw. Ausgaben und schätzt diesen Wert aufgrund anderer Merkmale. Dadurch wird Zeit und Arbeit gespart. **BIS ZU EINER UMSATZHÖHE VON 35.000€ NUTZBAR**
+> Pauschalierung ist eine Vereinfachung. Sie verzichtet auf eine genaue Aufgliederung der Einnahmen bzw. Ausgaben und schätzt diesen Wert aufgrund anderer Merkmale. Dadurch wird Zeit und Arbeit gespart. **BIS ZU EINER UMSATZHÖHE VON 35.000€ NUTZBAR** (Ich weiß ned vllt auch 225k ☠️☠️☠️)
 
 Als **Betriebsausgabe** dürfen verrechnet werden:
 - Wareneinkäufe
@@ -195,9 +195,17 @@ $$Überschuss = E\\inahmen - Werbungskosten$$
 
 
 ### Berechnung der Einkommensteuer
-
+(Bild Seite 343 Recht Buch, Rechenschema Einkommensteuer)
 ![[Pasted image 20240110222832.png]]
 
 <span style="color:#00b050">Sonderausgaben</span> (Kein Zusammenhang mit der Einkommenserzielung)
 - bestimmte Pensionen und dauernde Lasten
-- Beiträge an gesetzlich anerkannte Kirchen 
+- Beiträge an gesetzlich anerkannte Kirchen (Religionen)
+- Steuerberatungskosten
+- bestimmte Spenden
+
+<span style="color:#00b050">Außergewöhnliche Belastungen</span>
+- Krankheits- und Diätkosten
+- Mehraufwendungen für ein erheblich behindertes Kind
+- Katastrophenschäden
+- Kosten für ein auswärtiges Studium eines Kindes
