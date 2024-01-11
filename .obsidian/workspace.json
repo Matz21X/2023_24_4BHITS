@@ -74,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "Backlog_1223.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "Backlog_1223.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "Backlog_1223.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "Backlog_1223.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,10 +253,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f586103e388b7ca2",
+  "active": "cf565e594e5727ae",
   "lastOpenFiles": [
-    "Backlog_1223.md",
     "Backlog_0124.md",
+    "Backlog_1223.md",
     "REL/Jänner-Zivilcourage.md",
     "WIR/WIR Testvorbereitung 11.1.23.md",
     "WIR/Aufzeichnung der E+A Rechnung.md",
