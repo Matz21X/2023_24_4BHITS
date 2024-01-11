@@ -17,6 +17,9 @@
 | - | #MEDT | Test ([[NodeJS Testvorbereitung]]), |  |
 | - | #INSY | [[Datenbank-Projekt]] |  |
 | - | #SEW | H2Database Projekt |  |
+| 11.1 | #EN | Leaflet besprochen |  |
+| - | #WIR | Wirtschaft Test |  |
+| - | #RK  | [[Jänner-Zivilcourage]] |  |
 
 
 
