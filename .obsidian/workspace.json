@@ -47,19 +47,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e63502bdb943f5f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MEDT/NodeJS Testvorbereitung.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -112,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -223,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 212.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,50 +228,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "floating": {
-    "id": "a89e0e01e3ce5613",
-    "type": "floating",
-    "children": [
-      {
-        "id": "38149ca2dea3a8cd",
-        "type": "window",
-        "children": [
-          {
-            "id": "373dd97014ad4d3b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f9d815eb6e4f4d64",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "WIR/SkriptSteuerlehre.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1623,
-        "y": 14,
-        "width": 1016,
-        "height": 745,
-        "maximize": true,
-        "zoom": 1.5
-      }
-    ]
-  },
   "active": "92f53fe7d9ffc36a",
   "lastOpenFiles": [
+    "Backlog_0124.md",
+    "WIR/WIR Testvorbereitung 11.1.23.md",
     "WIR/Aufzeichnung der E+A Rechnung.md",
     "MEDT/NodeJS Testvorbereitung.md",
-    "WIR/WIR Testvorbereitung 11.1.23.md",
     "Attachments/Pasted image 20240110222832.png",
     "Attachments/Pasted image 20240110222818.png",
     "WIR/SkriptSteuerlehre.pdf",
-    "Backlog_0124.md",
     "WIR/Gewinnermittlung_Kap2.md",
     "WIR/Wirtschaftssubjekte.md",
     "WIR/Wirtschaftsordnung.md",

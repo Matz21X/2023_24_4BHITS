@@ -211,8 +211,6 @@ $$Überschuss = E\\inahmen - Werbungskosten$$
 - Kosten für ein auswärtiges Studium eines Kindes
 
 ### Englische Begriffe
-
-
 | **Englischer Begriff** | **Bedeutung** | **Deutscher Begriff** |
 | ---- | ---- | ---- |
 | accounting | Process of recording financial transactions pertaining to a business | Rechnungswesen |
