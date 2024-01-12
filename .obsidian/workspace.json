@@ -60,8 +60,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d1ec641f3b8be83f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "GGP/3.Wirtschaftsräume_Schüler.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "GGP/3.Wirtschaftsräume_Schüler.pdf"
               }
             }
           },
@@ -156,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "GGP/3.Wirtschaftsräume_Schüler.pdf"
               }
             }
           },
@@ -182,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "GGP/3.Wirtschaftsräume_Schüler.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "GGP/3.Wirtschaftsräume_Schüler.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,11 +249,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f586103e388b7ca2",
+  "active": "d1ec641f3b8be83f",
   "lastOpenFiles": [
+    "GGP/5. Wirtschaftspolitk_Schüler.pdf",
+    "GGP/4.Wirtschaftssysteme_Schüler.pdf",
+    "GGP/3.Wirtschaftsräume_Schüler.pdf",
+    "Backlog_0124.md",
     "NWT/VPN.md",
     "SEW-Theorie/Singleton (Pattern).md",
-    "Backlog_0124.md",
     "SEW-Theorie/BuilderPattern.md",
     "INSY/Projekt/REST/index.js~",
     "ITP/Theorie/Projektmanagement.md",
@@ -253,8 +267,6 @@
     "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern/Example.class",
     "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern",
     "SEW-Prog/BuilderPattern/target/classes/at/htlhl",
-    "SEW-Prog/BuilderPattern/target/classes/at",
-    "SEW-Prog/BuilderPattern/target/classes",
     "WIR/WIR Testvorbereitung 11.1.23.md",
     "ITP/Projekte/GEI/GrucaApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
     "ITP/Projekte/GEI/GrucaApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp",
