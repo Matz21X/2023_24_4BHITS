@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -144,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md",
+                "file": "Backlog_0124.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md",
+                "file": "Backlog_0124.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,10 +225,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e048ed4b92cf0cec",
+  "active": "f586103e388b7ca2",
   "lastOpenFiles": [
-    "SEW-Theorie/BuilderPattern.md",
     "SEW-Theorie/Singleton (Pattern).md",
+    "SEW-Theorie/BuilderPattern.md",
     "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern/User.class",
     "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern/User$UserBuilder.class",
     "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern/Example.class",

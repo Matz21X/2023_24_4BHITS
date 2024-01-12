@@ -12,6 +12,13 @@ public class mySingleton(){
 		if (instance == null){
 			instance = new Singleton()
 		}
+			return instance; 
 	}
+
+	// Other Methods
+
+	public int getValue(){
+		// ...
+		}
 }
 ```

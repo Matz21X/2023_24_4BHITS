@@ -23,7 +23,9 @@
 | -    | #NW     | CERN / LHC besprochen                |                 |
 | -    | #ITP    | #GEI Introduction Android            |                 |
 | 12.2 | #AM     | Wiederholung                         |                 |
-| -     | #ITP        | Luki mündlicher Test                                     |                 |
+| -    | #ITP    | Luki mündlicher Test                 |                 |
+| -    | #SEW    | [[Singleton (Pattern)]]              |                 |
+| -     | #NW        |                                      |                 |
 
 
 
