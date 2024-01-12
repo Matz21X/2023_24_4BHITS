@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md",
+                "file": "Backlog_0124.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md",
+                "file": "Backlog_0124.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,13 +238,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e048ed4b92cf0cec",
+  "active": "f586103e388b7ca2",
   "lastOpenFiles": [
-    "SEW-Theorie/BuilderPattern.md",
-    "Backlog_0124.md",
     "NWT/VPN.md",
-    "INSY/Projekt/REST/index.js~",
     "SEW-Theorie/Singleton (Pattern).md",
+    "Backlog_0124.md",
+    "SEW-Theorie/BuilderPattern.md",
+    "INSY/Projekt/REST/index.js~",
     "ITP/Theorie/Projektmanagement.md",
     "ITP/Theorie/Systemplanung und Projektentwicklung.pdf",
     "NW/~$ysikHA4_2.docx",
