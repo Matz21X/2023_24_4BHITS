@@ -47,14 +47,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0bcb418012e1ee7a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ]
       }
@@ -235,9 +227,11 @@
   },
   "active": "f586103e388b7ca2",
   "lastOpenFiles": [
+    "SEW-Theorie/Singleton (Pattern).md",
+    "ITP/Theorie/Projektmanagement.md",
+    "Backlog_0124.md",
     "ITP/Theorie/Systemplanung und Projektentwicklung.pdf",
     "NW/~$ysikHA4_2.docx",
-    "SEW-Theorie/Singleton (Pattern).md",
     "SEW-Theorie/BuilderPattern.md",
     "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern/User.class",
     "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern/User$UserBuilder.class",
@@ -247,8 +241,6 @@
     "SEW-Prog/BuilderPattern/target/classes/at",
     "SEW-Prog/BuilderPattern/target/classes",
     "SEW-Prog/BuilderPattern/target",
-    "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern/Example.java~",
-    "Backlog_0124.md",
     "WIR/WIR Testvorbereitung 11.1.23.md",
     "ITP/Projekte/GEI/GrucaApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
     "ITP/Projekte/GEI/GrucaApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp",
@@ -271,7 +263,6 @@
     "NW/NW Test Vorbereitung.md",
     "NWT/Untitled 1.md",
     "ITP/Theorie/Notes.md",
-    "ITP/Theorie/Projektmanagement.md",
     "ITP/Theorie/ITP Projektplanung.md",
     "INSY/test dingsi.md",
     "EN/Vocabulary.md",
