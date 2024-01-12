@@ -25,7 +25,8 @@
 | 12.2 | #AM     | Wiederholung                         |                 |
 | -    | #ITP    | Luki mündlicher Test                 |                 |
 | -    | #SEW    | [[Singleton (Pattern)]]              |                 |
-| -     | #NW        | Anfang Radioaktivität                                     |                 |
+| -    | #NW     | Anfang Radioaktivität                |                 |
+| -     | #ITP        | Luki mündlicher Test pt. 2                                     |                 |
 
 
 
