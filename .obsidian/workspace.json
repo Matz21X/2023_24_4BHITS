@@ -47,6 +47,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0bcb418012e1ee7a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -227,6 +235,7 @@
   },
   "active": "f586103e388b7ca2",
   "lastOpenFiles": [
+    "NW/~$ysikHA4_2.docx",
     "SEW-Theorie/Singleton (Pattern).md",
     "SEW-Theorie/BuilderPattern.md",
     "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern/User.class",
@@ -272,7 +281,6 @@
     "EN/Speaking Task Notes.md",
     "EN/Report youth unemployment.md",
     "EN/Notes to Video.md",
-    "EN/Letter of application.md",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
