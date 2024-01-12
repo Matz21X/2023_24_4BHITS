@@ -41,7 +41,7 @@
 - **Privatanwender:**
     - Schutz der Privatsphäre, Umgehung von Geobeschränkungen beim Streaming.
 - **Unternehmen:**
-    - Sichere Vernetzung von Standorten, Remote-Arbeitszugriff.
+	    - Sichere Vernetzung von Standorten, Remote-Arbeitszugriff.
 - **Sicherheitsbewusste Nutzer:**
     - Schutz vor Datenspionage, sicheres Surfen in unsicheren Netzwerken.
 
