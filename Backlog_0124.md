@@ -25,10 +25,12 @@
 | 12.2 | #AM     | Wiederholung                         |                 |
 | -    | #ITP    | Luki mündlicher Test                 |                 |
 | -    | #SEW    | [[Singleton (Pattern)]]              |                 |
-| -     | #NW        |                                      |                 |
+| -     | #NW        | Anfang Radioaktrivität                                     |                 |
 
 
 
 3.W Räume
 4.W Systeme
 5.W 1.1, 1.2
+
+
