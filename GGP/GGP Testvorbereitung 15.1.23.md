@@ -58,8 +58,22 @@ Top 10 wertvollsten Unternehmen der Welt
 
 <span style="color:#00b050">Merkmale liberaler Politik:</span>
 - Privateigentum/Privatisierung
-- Deregulierung und Liberalisierung
-- Steuerpolitik
-- Sozialsystem
-- Arbeitsrecht
+- Deregulierung und Liberalisierung - lockere Gesetze
+- Steuerpolitik - niedrige Steuern
+- Sozialsystem - privatwirtschaftliche Lösungen 
+- Arbeitsrecht - Kein Kündigungsschutz
 
+Ronald Reagan hat (1981-1989) die USA zu einem neoliberalen Musterstaat umgebaut. <span style="color:#00b050">Reagonomics</span> 
+<span style="color:#00b050">Flat Tax System:</span> Jeder zahlt den selben Steuersatz
+
+**Standortfaktoren**
+
+USA Weltmarkführer Gründe:
+- <span style="color:#00b050">Reiche Bodenschätze</span>
+- <span style="color:#00b050">Starke EInwanderung</span>
+- <span style="color:#00b050">Wirtschaftsordnung</span>
+- <span style="color:#00b050">Fortschrittsglaube</span>
+- <span style="color:#00b050">Großer Binnenmarkt</span>
+- Leistungsfähige Landwirtschaft
+- Hohe räumliche Mobilität
+- Gut 
