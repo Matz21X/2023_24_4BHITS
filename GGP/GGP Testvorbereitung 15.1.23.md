@@ -98,3 +98,11 @@ USA Weltmarkführer Gründe:
 - Niedrige Lohnkosten
 - Niedrige Energiekosten
 - Günstige Steuersätze
+
+**Goldener Westen**
+- Film- und Unterhaltungsbrache → Hollywood
+- Silicon Valley – Computerindustrie
+- Elite-Universitäten:
+
+**Immobilien Spekulationsblase**
+Höhepunkt September 2008, Insolvenz US-Bank Lehmann Brothers
