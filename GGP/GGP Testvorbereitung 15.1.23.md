@@ -30,7 +30,6 @@ Der größte Teil am Welthandel fällt auf die <span style="color:#00b050">Triad
 
 
 **Landgrabbing**
-
  >Aneignung von großen agrarischen Nutzflächen durch langjährige Pacht
 
 China, Arabische Länder, USA,
@@ -49,5 +48,18 @@ Top 10 wertvollsten Unternehmen der Welt
 | 6 | Visa | USA |
 | 7 | Tencent | CHN |
 | 8 | Louis Vuitton | FRA |
-| 9 | MasterCard | USA  |
+| 9 | MasterCard | USA |
 | 10 | Coca-Cola | USA |
+|  |  |  |
+| 93 | RedBull | AUT |
+### Wirtschaftsstandorte
+
+**Wirtschaftsstandort USA**
+
+<span style="color:#00b050">Merkmale liberaler Politik:</span>
+- Privateigentum/Privatisierung
+- Deregulierung und Liberalisierung
+- Steuerpolitik
+- Sozialsystem
+- Arbeitsrecht
+
