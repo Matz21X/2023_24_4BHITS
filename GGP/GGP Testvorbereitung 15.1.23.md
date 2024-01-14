@@ -116,6 +116,6 @@ Höhepunkt September 2008, Insolvenz US-Bank Lehmann Brothers
 | Geschlossene Wirtschafts | Offenere Wirtschaft |
 | Arbeiterklasse | Mittelschicht |
 | Von Landwirtschaft geprägt | Von Urbanisierung geprägt |
+## PowerPoint WKO
 
-
-
+<span style="color:#00b050">Exporte entsprechen mehr als 50% </span>
