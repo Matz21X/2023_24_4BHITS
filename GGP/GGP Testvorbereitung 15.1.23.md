@@ -109,10 +109,16 @@ Höhepunkt September 2008, Insolvenz US-Bank Lehmann Brothers
 
 **China**
 
-| **Altes China**          | **Neues China**                    |
-| ------------------------ | ---------------------------------- |
-| Export                   | Technologie & Innovationsgetrieben |
-| Rohstoffzentriert        | Konsum- und servicezentriert       |
-| Geschlossene Wirtschafts | Offenere Wirtschaft                |
-| Arbeiterklasse           | Mittelschicht                      |
-| Von Landwirtschaft geprägt                         | Von Urbanisierung geprägt                                   |
+| **Altes China** | **Neues China** |
+| ---- | ---- |
+| Export | Technologie & Innovationsgetrieben |
+| Rohstoffzentriert | Konsum- und servicezentriert |
+| Geschlossene Wirtschafts | Offenere Wirtschaft |
+| Arbeiterklasse | Mittelschicht |
+| Von Landwirtschaft geprägt | Von Urbanisierung geprägt |
+
+## Wirtschaftssysteme
+
+### Kapitalismus
+
+
