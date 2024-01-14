@@ -23,56 +23,20 @@
             }
           },
           {
-            "id": "f610867cd01842cc",
+            "id": "635ae5dade408f5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NWT/VPN.md",
+                "file": "GGP/GGP Testvorbereitung 15.1.23.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "598f4706b6cfb8df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SEW-Theorie/BuilderPattern.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e048ed4b92cf0cec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1ec641f3b8be83f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "GGP/3.Wirtschaftsräume_Schüler.pdf"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GGP/3.Wirtschaftsräume_Schüler.pdf"
+                "file": "GGP/GGP Testvorbereitung 15.1.23.md"
               }
             }
           },
@@ -167,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "GGP/3.Wirtschaftsräume_Schüler.pdf"
+                "file": "GGP/GGP Testvorbereitung 15.1.23.md"
               }
             }
           },
@@ -193,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GGP/3.Wirtschaftsräume_Schüler.pdf",
+                "file": "GGP/GGP Testvorbereitung 15.1.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GGP/3.Wirtschaftsräume_Schüler.pdf",
+                "file": "GGP/GGP Testvorbereitung 15.1.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,13 +213,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d1ec641f3b8be83f",
+  "active": "635ae5dade408f5b",
   "lastOpenFiles": [
+    "Backlog_0124.md",
+    "GGP/GGP Testvorbereitung 15.1.23.md",
+    "NWT/VPN.md",
+    "GGP/3.Wirtschaftsräume_Schüler.pdf",
     "GGP/5. Wirtschaftspolitk_Schüler.pdf",
     "GGP/4.Wirtschaftssysteme_Schüler.pdf",
-    "GGP/3.Wirtschaftsräume_Schüler.pdf",
-    "Backlog_0124.md",
-    "NWT/VPN.md",
     "SEW-Theorie/Singleton (Pattern).md",
     "SEW-Theorie/BuilderPattern.md",
     "INSY/Projekt/REST/index.js~",
@@ -266,7 +231,6 @@
     "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern/User$UserBuilder.class",
     "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern/Example.class",
     "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern",
-    "SEW-Prog/BuilderPattern/target/classes/at/htlhl",
     "WIR/WIR Testvorbereitung 11.1.23.md",
     "ITP/Projekte/GEI/GrucaApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
     "ITP/Projekte/GEI/GrucaApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp",
