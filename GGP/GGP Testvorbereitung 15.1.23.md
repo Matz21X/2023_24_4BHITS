@@ -35,3 +35,19 @@ Der größte Teil am Welthandel fällt auf die <span style="color:#00b050">Triad
 
 China, Arabische Länder, USA,
 Investoren oft Staatsbetriebe, auch (Großunternehmen, Investmentfonds)
+
+**Marken der Welt**
+Top 10 wertvollsten Unternehmen der Welt
+
+| **Stelle** | **Marke** | **Land** |
+| ---- | ---- | ---- |
+| 1 | Apple | USA |
+| 2 | Google | USA |
+| 3 | Microsoft | USA |
+| 4 | Amazon | USA |
+| 5 | McDonald's | USA |
+| 6 | Visa | USA |
+| 7 | Tencent | CHN |
+| 8 | Louis Vuitton | FRA |
+| 9 | MasterCard | USA  |
+| 10 | Coca-Cola | USA |
