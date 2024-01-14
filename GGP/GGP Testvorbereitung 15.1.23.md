@@ -70,10 +70,31 @@ Ronald Reagan hat (1981-1989) die USA zu einem neoliberalen Musterstaat umgebaut
 
 USA Weltmarkführer Gründe:
 - <span style="color:#00b050">Reiche Bodenschätze</span>
-- <span style="color:#00b050">Starke EInwanderung</span>
-- <span style="color:#00b050">Wirtschaftsordnung</span>
-- <span style="color:#00b050">Fortschrittsglaube</span>
-- <span style="color:#00b050">Großer Binnenmarkt</span>
-- Leistungsfähige Landwirtschaft
-- Hohe räumliche Mobilität
-- Gut 
+- <span style="color:#00b050">Starke Einwanderung</span> - Immigranten Industrialisierung
+- <span style="color:#00b050">Wirtschaftsordnung</span>- liberale Marktwirtschaft
+- <span style="color:#00b050">Fortschrittsglaube</span> - Vertrauen in die Machbarkeit
+- <span style="color:#00b050">Großer Binnenmarkt</span> - 320 Mio Menschen
+- <span style="color:#00b050">Leistungsfähige Landwirtschaft</span> - genug Lebensmittel
+- <span style="color:#00b050">Hohe räumliche Mobilität</span> - "Bereit zu einem Job zu ziehen"
+- <span style="color:#00b050">Gut ausgebaute Infrastruktur</span>
+
+**Manufacturing Belt - "Rust Belt"**
+- ältester Wirtschaftsraum der USA
+- Aufschwung durch Industrialisierung
+- Große Automobilfabriken
+- Nähe zu Elite Unis - Harvard Boston, MIT Boston, MIT Yale
+
+<span style="color:#00b050">Verlust des Stellenwertes direr Region wegen:</span>
+- Arbeitsplatzverluste durch Automatisierung
+- Abwanderung der Schwerindustrie in Entwicklungsländer
+
+**Sunbelt**
+- Wachstumsstärkste Region wegen warmen, sonnigem Klima
+- Erdöl in Texas
+- Agrobusiness
+- Raumfahrt (Kontrollzentrum der NASA in Houston)
+- Mikroelektronische Industrie (Silicon Hills mit 1000 Softwarefirmen)
+- Rüstungsindustrie
+- Niedrige Lohnkosten
+- Niedrige Energiekosten
+- Günstige Steuersätze
