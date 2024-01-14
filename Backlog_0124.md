@@ -27,7 +27,9 @@
 | - | #SEW | [[Singleton (Pattern)]] |  |
 | - | #NW | Anfang Radioaktivität |  |
 | - | #ITP | Luki mündlicher Test pt. 2 |  |
-| -  | #DE |  |  |
+| - | #DE | Neue Klassenlektüre |  |
+| - | #NWT | [[VPN]] |  |
+|  |  |  |  |
 
 
 
