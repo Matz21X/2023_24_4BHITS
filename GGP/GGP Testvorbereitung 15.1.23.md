@@ -117,8 +117,5 @@ Höhepunkt September 2008, Insolvenz US-Bank Lehmann Brothers
 | Arbeiterklasse | Mittelschicht |
 | Von Landwirtschaft geprägt | Von Urbanisierung geprägt |
 
-## Wirtschaftssysteme
-
-### Kapitalismus
 
 
