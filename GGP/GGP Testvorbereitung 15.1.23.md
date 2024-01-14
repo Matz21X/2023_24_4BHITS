@@ -32,3 +32,6 @@ Der größte Teil am Welthandel fällt auf die <span style="color:#00b050">Triad
 **Landgrabbing**
 
  >Aneignung von großen agrarischen Nutzflächen durch langjährige Pacht
+
+China, Arabische Länder, USA,
+Investoren oft Staatsbetriebe, auch (Großunternehmen, Investmentfonds)
