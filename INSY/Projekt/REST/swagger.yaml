@@ -45,3 +45,203 @@ paths:
       responses:
         200:
           description: Erfolgreiche Anfrage. Gibt das hinzugefügte Benutzerkonto zurück.
+  /useraccounts/:user_id:
+    delete:
+      summary: Gibt alle Adressen zurück.
+      responses:
+        200:
+          description: Erfolgreiche Anfrage. Gibt eine Liste der Adressen zurück.
+  /addresses:
+    get:
+      summary: Gibt alle Adressen zurück.
+      responses:
+        200:
+          description: Erfolgreiche Anfrage. Gibt eine Liste der Adressen zurück.
+    post:
+      summary: Fügt eine neue Adresse hinzu.
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                user_id:
+                  type: integer
+                address_type:
+                  type: string
+                street:
+                  type: string
+                city:
+                  type: string
+                state:
+                  type: string
+                postal_code:
+                  type: string
+                country:
+                  type: string
+              required:
+                - user_id
+                - address_type
+                - street
+                - city
+                - state
+                - postal_code
+                - country
+      responses:
+        200:
+          description: Erfolgreiche Anfrage. Gibt die hinzugefügte Adresse zurück.
+  /productcatalog:
+    get:
+      summary: Gibt alle Produkte im Katalog zurück.
+      responses:
+        200:
+          description: Erfolgreiche Anfrage. Gibt eine Liste der Produkte im Katalog zurück.
+    post:
+      summary: Fügt ein neues Produkt zum Katalog hinzu.
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                product_name:
+                  type: string
+                description:
+                  type: string
+                price:
+                  type: number
+                stock_quantity:
+                  type: integer
+                image_url:
+                  type: string
+              required:
+                - product_name
+                - description
+                - price
+                - stock_quantity
+                - image_url
+      responses:
+        200:
+          description: Erfolgreiche Anfrage. Gibt das hinzugefügte Produkt im Katalog zurück.
+  /shoppingcart:
+    get:
+      summary: Gibt alle Warenkörbe zurück.
+      responses:
+        200:
+          description: Erfolgreiche Anfrage. Gibt eine Liste der Warenkörbe zurück.
+    post:
+      summary: Fügt einen neuen Warenkorb hinzu.
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                user_id:
+                  type: integer
+                created_at:
+                  type: string
+                  format: date-time
+              required:
+                - user_id
+                - created_at
+      responses:
+        200:
+          description: Erfolgreiche Anfrage. Gibt den hinzugefügten Warenkorb zurück.
+  /cartitems:
+    get:
+      summary: Gibt alle Warenkorbpositionen zurück.
+      responses:
+        200:
+          description: Erfolgreiche Anfrage. Gibt eine Liste der Warenkorbpositionen zurück.
+    post:
+      summary: Fügt eine neue Warenkorbposition hinzu.
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                cart_id:
+                  type: integer
+                product_id:
+                  type: integer
+                quantity:
+                  type: integer
+              required:
+                - cart_id
+                - product_id
+                - quantity
+      responses:
+        200:
+          description: Erfolgreiche Anfrage. Gibt die hinzugefügte Warenkorbposition zurück.
+  /orders:
+    get:
+      summary: Gibt alle Bestellungen zurück.
+      responses:
+        200:
+          description: Erfolgreiche Anfrage. Gibt eine Liste der Bestellungen zurück.
+    post:
+      summary: Fügt eine neue Bestellung hinzu.
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                user_id:
+                  type: integer
+                payment_method:
+                  type: string
+                shipping_address_id:
+                  type: integer
+                billing_address_id:
+                  type: integer
+                order_status:
+                  type: string
+                order_date:
+                  type: string
+                  format: date-time
+                total_cost:
+                  type: number
+              required:
+                - user_id
+                - payment_method
+                - shipping_address_id
+                - billing_address_id
+                - order_status
+                - order_date
+                - total_cost
+      responses:
+        200:
+          description: Erfolgreiche Anfrage. Gibt die hinzugefügte Bestellung zurück.
+  /orderitems:
+    get:
+      summary: Gibt alle Bestellpositionen zurück.
+      responses:
+        200:
+          description: Erfolgreiche Anfrage. Gibt eine Liste der Bestellpositionen zurück.
+    post:
+      summary: Fügt eine neue Bestellposition hinzu.
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                order_id:
+                  type: integer
+                product_id:
+                  type: integer
+                quantity:
+                  type: integer
+                price_at_purchase:
+                  type: number
+              required:
+                - order_id
+                - product_id
+                - quantity
+                - price_at_purchase
+      responses:
+        200:
+          description: Erfolgreiche Anfrage. Gibt die hinzugefügte Bestellposition zurück.
