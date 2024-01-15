@@ -16,4 +16,8 @@
 - Bei Zivilcourage geht es darum, **hinzusehen und hinzuhören**. Nicht wegzuschauen oder gar wegzugehen.
 
 
-### 
+### Zivilcourage in Gesellschaft, Politik und Kirche
+
+**Welchen Appell richten "die Ärzte" in "Deine Schuld" an ihr Publikum?**
+- Veränderung kann und soll von jedem herbeigerufen werden. Jeder kann einen Unterschied machen.
+- Diejenigen die nichts unternehmen um das System zum Besseren zu ändern seien Schuld

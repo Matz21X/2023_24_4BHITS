@@ -39,14 +39,6 @@
             "id": "cc2ba0f852d8ea16",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "be5295ffe4551b86",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "REL/Jänner-Zivilcourage.md",
@@ -57,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,8 +226,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "be5295ffe4551b86",
+  "active": "cc2ba0f852d8ea16",
   "lastOpenFiles": [
+    "REL/Jänner-Zivilcourage.md",
     "Backlog_0124.md",
     "GGP/GGP Testvorbereitung 15.1.23.md",
     "WIR/Gewinnermittlung_Kap2.md",
@@ -266,7 +259,6 @@
     "ITP/Projekte/GEI/GrucaApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp",
     "ITP/Projekte/GEI/GrucaApp/app/src/main/res/mipmap-hdpi/ic_launcher.webp",
     "Backlog_1223.md",
-    "REL/Jänner-Zivilcourage.md",
     "WIR/Aufzeichnung der E+A Rechnung.md",
     "MEDT/NodeJS Testvorbereitung.md",
     "WIR/Wirtschaftssubjekte.md",
