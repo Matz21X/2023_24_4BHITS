@@ -15,7 +15,7 @@ In diesem Projekt wird eine Datenbank für einen Online-Einzelhandel verwirklich
 ```SQL
 -- Kunden-Tabelle  
 CREATE TABLE Kunden (  
-    id SERIAL PRIMARY KEY,  
+    id SERIAL PRIMARY KEY AUTO_INCREMENT,  
     name VARCHAR(255),  
     Ort VARCHAR(255)  
 );  
