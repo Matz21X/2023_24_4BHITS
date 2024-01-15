@@ -5,10 +5,13 @@ from tkinter import ttk
 
 # API-URLs für den Datenbankzugriff
 api_urls = {
-    'Users': 'http://localhost:3000/produkte',
-    'bestellungen': 'http://localhost:3000/bestellungen',
-    'lager': 'http://localhost:3000/lager',
-    'kunden': 'http://localhost:3000/kunden'  # Neuer Tab für die Tabelle "kunden"
+    'Users': 'http://localhost:3000/useraccounts',
+    'Addresses': 'http://localhost:3000/addresses',
+    'Products': 'http://localhost:3000/productcatalog',
+    'Carts': 'http://localhost:3000/shoppingcart',
+    'CartItems': 'http://localhost:3000/cartitems',
+    'Orders': 'http://localhost:3000/orders',
+    'OrderItems': 'http://localhost:3000/orderitems'# Neuer Tab für die Tabelle "kunden"
 }
 
 def get_data_from_api(url):
