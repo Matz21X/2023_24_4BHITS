@@ -43,8 +43,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GGP/GGP Testvorbereitung 15.1.23.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -139,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "GGP/GGP Testvorbereitung 15.1.23.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -165,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GGP/GGP Testvorbereitung 15.1.23.md",
+                "file": "Backlog_0124.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GGP/GGP Testvorbereitung 15.1.23.md",
+                "file": "Backlog_0124.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,11 +220,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9816ecc2a5308128",
+  "active": "f586103e388b7ca2",
   "lastOpenFiles": [
+    "GGP/GGP Testvorbereitung 15.1.23.md",
     "Backlog_0124.md",
     "WIR/Gewinnermittlung_Kap2.md",
-    "GGP/GGP Testvorbereitung 15.1.23.md",
     "GGP/PowerPoint WKO.md",
     "NWT/VPN.md",
     "GGP/3.Wirtschaftsräume_Schüler.pdf",
