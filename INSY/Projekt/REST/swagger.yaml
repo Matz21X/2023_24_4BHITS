@@ -58,6 +58,46 @@ paths:
       responses:
         200:
           description: Erfolgreiche Anfrage. Löscht User.
+    put:
+      summary: Benutzerkonto aktualisieren
+      parameters:
+        - name: user_id
+          in: path
+          required: true
+          schema:
+            type: integer
+          description: ID des Benutzerkontos
+        - name: body
+          in: body
+          required: true
+          description: Aktualisierte Benutzerkontodaten
+          schema:
+            type: object
+            properties:
+              username:
+                type: string
+              email:
+                type: string
+              password:
+                type: string
+              first_name:
+                type: string
+              last_name:
+                type: string
+              phone_number:
+                type: string
+      responses:
+        '200':
+          description: Erfolgreich aktualisiert
+          content:
+            application/json:
+              example:
+                user_id: 1
+                username: updatedUsername
+                email: updated@example.com
+                first_name: UpdatedFirstName
+                last_name: UpdatedLastName
+                phone_number: UpdatedPhoneNumber
   /addresses:
     get:
       summary: Gibt alle Adressen zurück.
@@ -110,6 +150,48 @@ paths:
       responses:
         200:
           description: Erfolgreiche Anfrage. Löscht Adresse.
+    put:
+      summary: Adresse aktualisieren
+      parameters:
+        - name: address_id
+          in: path
+          required: true
+          schema:
+            type: integer
+          description: ID der Adresse
+        - name: body
+          in: body
+          required: true
+          description: Aktualisierte Adressendaten
+          schema:
+            type: object
+            properties:
+              address_type:
+                type: string
+              street:
+                type: string
+              city:
+                type: string
+              state:
+                type: string
+              postal_code:
+                type: string
+              country:
+                type: string
+      responses:
+        '200':
+          description: Erfolgreich aktualisiert
+          content:
+            application/json:
+              example:
+                address_id: 1
+                user_id: 1
+                address_type: updatedType
+                street: updatedStreet
+                city: updatedCity
+                state: updatedState
+                postal_code: updatedPostalCode
+                country: updatedCountry
   /productcatalog:
     get:
       summary: Gibt alle Produkte im Katalog zurück.
@@ -156,6 +238,44 @@ paths:
       responses:
         200:
           description: Erfolgreiche Anfrage. Löscht Produkt.
+    put:
+      summary: Produkt im Katalog aktualisieren
+      parameters:
+        - name: product_id
+          in: path
+          required: true
+          schema:
+            type: integer
+          description: ID des Produkts
+        - name: body
+          in: body
+          required: true
+          description: Aktualisierte Produktdaten
+          schema:
+            type: object
+            properties:
+              product_name:
+                type: string
+              description:
+                type: string
+              price:
+                type: number
+              stock_quantity:
+                type: integer
+              image_url:
+                type: string
+      responses:
+        '200':
+          description: Erfolgreich aktualisiert
+          content:
+            application/json:
+              example:
+                product_id: 1
+                product_name: updatedProductName
+                description: updatedDescription
+                price: 99.99
+                stock_quantity: 50
+                image_url: updatedImageUrl
   /shoppingcart:
     get:
       summary: Gibt alle Warenkörbe zurück.
@@ -194,6 +314,36 @@ paths:
       responses:
         200:
           description: Erfolgreiche Anfrage. Löscht Shoppingcart.
+    put:
+      summary: Warenkorb aktualisieren
+      parameters:
+        - name: cart_id
+          in: path
+          required: true
+          schema:
+            type: integer
+          description: ID des Warenkorbs
+        - name: body
+          in: body
+          required: true
+          description: Aktualisierte Warenkorbdetails
+          schema:
+            type: object
+            properties:
+              user_id:
+                type: integer
+              created_at:
+                type: string
+                format: date-time
+      responses:
+        '200':
+          description: Erfolgreich aktualisiert
+          content:
+            application/json:
+              example:
+                cart_id: 1
+                user_id: 1
+                created_at: '2024-01-15T12:00:00.000Z'
   /cartitems:
     get:
       summary: Gibt alle Warenkorbpositionen zurück.
@@ -234,6 +384,38 @@ paths:
       responses:
         200:
           description: Erfolgreiche Anfrage. Löscht CartItem.
+    put:
+      summary: Warenkorbposition aktualisieren
+      parameters:
+        - name: cart_item_id
+          in: path
+          required: true
+          schema:
+            type: integer
+          description: ID der Warenkorbposition
+        - name: body
+          in: body
+          required: true
+          description: Aktualisierte Warenkorbpositionsdetails
+          schema:
+            type: object
+            properties:
+              cart_id:
+                type: integer
+              product_id:
+                type: integer
+              quantity:
+                type: integer
+      responses:
+        '200':
+          description: Erfolgreich aktualisiert
+          content:
+            application/json:
+              example:
+                cart_item_id: 1
+                cart_id: 1
+                product_id: 1
+                quantity: 2
   /orders:
     get:
       summary: Gibt alle Bestellungen zurück.
@@ -287,6 +469,51 @@ paths:
       responses:
         200:
           description: Erfolgreiche Anfrage. Löscht Order.
+    put:
+      summary: Bestellung aktualisieren
+      parameters:
+        - name: order_id
+          in: path
+          required: true
+          schema:
+            type: integer
+          description: ID der Bestellung
+        - name: body
+          in: body
+          required: true
+          description: Aktualisierte Bestelldetails
+          schema:
+            type: object
+            properties:
+              user_id:
+                type: integer
+              payment_method:
+                type: string
+              shipping_address_id:
+                type: integer
+              billing_address_id:
+                type: integer
+              order_status:
+                type: string
+              order_date:
+                type: string
+                format: date-time
+              total_cost:
+                type: number
+      responses:
+        '200':
+          description: Erfolgreich aktualisiert
+          content:
+            application/json:
+              example:
+                order_id: 1
+                user_id: 1
+                payment_method: updatedPaymentMethod
+                shipping_address_id: 1
+                billing_address_id: 2
+                order_status: updatedStatus
+                order_date: '2024-01-15T12:00:00.000Z'
+                total_cost: 150.99
   /orderitems:
     get:
       summary: Gibt alle Bestellpositionen zurück.
@@ -330,3 +557,33 @@ paths:
       responses:
         200:
           description: Erfolgreiche Anfrage. Löscht OrderItem
+    put:
+      summary: Bestellposition aktualisieren
+      parameters:
+        - name: order_item_id
+          in: path
+          required: true
+          schema:
+            type: integer
+          description: ID der Bestellposition
+        - name: body
+          in: body
+          required: true
+          description: Aktualisierte Bestellpositionsdetails
+          schema:
+            type: object
+            properties:
+              order_id:
+                type: integer
+              product_id:
+                type: integer
+              quantity:
+                type: integer
+              price_at_purchase:
+                type: number
+      responses:
+        '200':
+          description: Erfolgreich aktualisiert
+          content:
+            application/json:
+              example:
