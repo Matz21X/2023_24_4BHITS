@@ -5,7 +5,7 @@ from tkinter import ttk
 
 # API-URLs für den Datenbankzugriff
 api_urls = {
-    'produkte': 'http://localhost:3000/produkte',
+    'Users': 'http://localhost:3000/produkte',
     'bestellungen': 'http://localhost:3000/bestellungen',
     'lager': 'http://localhost:3000/lager',
     'kunden': 'http://localhost:3000/kunden'  # Neuer Tab für die Tabelle "kunden"
