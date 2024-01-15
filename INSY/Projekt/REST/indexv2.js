@@ -1,9 +1,8 @@
 const express = require('express');
-const { readFileSync } = require('fs');
-const { join } = require('path');
-const { swaggerUi, specs } = require('swagger-ui-express');
-
+const swaggerJSDoc = require('swagger-jsdoc');
+const swaggerUI = require('swagger-ui-express');
 const {Pool} = require('pg');
+
 const app = express();
 const port = 3000;
 
@@ -28,16 +27,14 @@ const swaggerOptions = {
             description: 'API-Dokumentation für deine Anwendung',
         },
     },
-    apis: [__filename], // Hier kann der Pfad zu deiner API-Routen-Datei angegeben werden
+    apis: ['./swagger.yaml'], // Hier kann der Pfad zu deiner API-Routen-Datei angegeben werden
 };
-const swaggerDocument = readFileSync(join(__dirname, 'swagger.yaml'), 'utf8');
-const swaggerData = YAML.parse(swaggerDocument);
 
-// Verwende Swagger UI
-app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerData));
+const swaggerSpec = swaggerJSDoc(swaggerOptions);
+app.use('/api-docs', swaggerUI.serve, swaggerUI.setup(swaggerSpec));
 
 
-
+// UserAccount Routen
 app.get('/useraccounts', async (req, res) => {
     try {
         const result = await pool.query('SELECT * FROM UserAccounts');
@@ -47,7 +44,6 @@ app.get('/useraccounts', async (req, res) => {
         res.status(500).json({error: 'Interner Serverfehler'});
     }
 });
-
 
 app.post('/useraccounts', async (req, res) => {
     const {username, email, password, first_name, last_name, phone_number, created_at} = req.body;
@@ -71,13 +67,12 @@ app.delete('/useraccounts/:user_id', async (req, res) => {
         }
     } catch (err) {
         console.error('Fehler beim Löschen des Benutzerkontos:', err);
-        res.status(500).json({error: 'Interner Serverfehler'});
+        res.status(500).json({error: 'Interner Serverfehler: '} + err);
     }
 });
 
 
 // Address API-Routen
-
 app.get('/addresses', async (req, res) => {
     try {
         const result = await pool.query('SELECT * FROM Address');
@@ -87,7 +82,6 @@ app.get('/addresses', async (req, res) => {
         res.status(500).json({error: 'Interner Serverfehler'});
     }
 });
-
 
 app.post('/addresses', async (req, res) => {
     const {user_id, address_type, street, city, state, postal_code, country} = req.body;
@@ -101,9 +95,23 @@ app.post('/addresses', async (req, res) => {
     }
 });
 
+app.delete('/addresses/:address_id', async (req, res) => {
+    const addressId = req.params.address_id;
+    try {
+        const result = await pool.query('DELETE FROM Address WHERE address_id=$1 RETURNING *', [addressId]);
+        if (result.rows.length === 0) {
+            res.status(404).json({error: 'Adresse nicht gefunden'});
+        } else {
+            res.json({message: 'Adresse erfolgreich gelöscht'});
+        }
+    } catch (err) {
+        console.error('Fehler beim Löschen der Adresse:', err);
+        res.status(500).json({error: 'Interner Serverfehler: '} + err);
+    }
+});
+
 
 // ProductCatalog API-Routen
-
 app.get('/productcatalog', async (req, res) => {
     try {
         const result = await pool.query('SELECT * FROM ProductCatalog');
@@ -113,7 +121,6 @@ app.get('/productcatalog', async (req, res) => {
         res.status(500).json({error: 'Interner Serverfehler'});
     }
 });
-
 
 app.post('/productcatalog', async (req, res) => {
     const {product_name, description, price, stock_quantity, image_url} = req.body;
@@ -126,7 +133,22 @@ app.post('/productcatalog', async (req, res) => {
     }
 });
 
+app.delete('/productcatalog/:product_id', async (req, res) => {
+    const productId = req.params.product_id;
+    try {
+        const result = await pool.query('DELETE FROM ProductCatalog WHERE product_id=$1 RETURNING *', [productId]);
+        if (result.rows.length === 0) {
+            res.status(404).json({error: 'Produkt nicht gefunden'});
+        } else {
+            res.json({message: 'Produkt  erfolgreich gelöscht'});
+        }
+    } catch (err) {
+        console.error('Fehler beim Löschen des Produkts:', err);
+        res.status(500).json({error: 'Interner Serverfehler: '} + err);
+    }
+});
 
+// ShoppingCart Routen
 app.get('/shoppingcart', async (req, res) => {
     try {
         const result = await pool.query('SELECT * FROM ShoppingCart');
@@ -148,7 +170,22 @@ app.post('/shoppingcart', async (req, res) => {
     }
 });
 
+app.delete('/shoppingcart/:cart_id', async (req, res) => {
+    const cartId = req.params.cart_id;
+    try {
+        const result = await pool.query('DELETE FROM Shoppingcart WHERE cart_id=$1 RETURNING *', [cartId]);
+        if (result.rows.length === 0) {
+            res.status(404).json({error: 'Shoppingcart nicht gefunden'});
+        } else {
+            res.json({message: 'Shoppingcart erfolgreich gelöscht'});
+        }
+    } catch (err) {
+        console.error('Fehler beim Löschen des Shoppingcarts:', err);
+        res.status(500).json({error: 'Interner Serverfehler: '} + err);
+    }
+});
 
+// Cartitems Routen
 app.get('/cartitems', async (req, res) => {
     try {
         const result = await pool.query('SELECT * FROM CartItems');
@@ -158,7 +195,6 @@ app.get('/cartitems', async (req, res) => {
         res.status(500).json({error: 'Interner Serverfehler'});
     }
 });
-
 
 app.post('/cartitems', async (req, res) => {
     const {cart_id, product_id, quantity} = req.body;
@@ -171,7 +207,23 @@ app.post('/cartitems', async (req, res) => {
     }
 });
 
+app.delete('/cartitems/:cart_item_id', async (req, res) => {
+    const cartItemId = req.params.cart_item_id;
+    try {
+        const result = await pool.query('DELETE FROM CartItems WHERE cart_item_id=$1 RETURNING *', [cartItemId]);
+        if (result.rows.length === 0) {
+            res.status(404).json({error: 'CartItem nicht gefunden'});
+        } else {
+            res.json({message: 'CartItem erfolgreich gelöscht'});
+        }
+    } catch (err) {
+        console.error('Fehler beim Löschen des CartItems:', err);
+        res.status(500).json({error: 'Interner Serverfehler: '} + err);
+    }
+});
 
+
+// Orders Routen
 app.get('/orders', async (req, res) => {
     try {
         const result = await pool.query('SELECT * FROM Orders');
@@ -181,7 +233,6 @@ app.get('/orders', async (req, res) => {
         res.status(500).json({error: 'Interner Serverfehler'});
     }
 });
-
 
 app.post('/orders', async (req, res) => {
     const {
@@ -202,6 +253,23 @@ app.post('/orders', async (req, res) => {
     }
 });
 
+app.delete('/orders/:order_id', async (req, res) => {
+    const order_id = req.params.order_id;
+    try {
+        const result = await pool.query('DELETE FROM Orders WHERE order_id=$1 RETURNING *', [order_id]);
+        if (result.rows.length === 0) {
+            res.status(404).json({error: 'Order nicht gefunden'});
+        } else {
+            res.json({message: 'Order erfolgreich gelöscht'});
+        }
+    } catch (err) {
+        console.error('Fehler beim Löschen der Order:', err);
+        res.status(500).json({error: 'Interner Serverfehler: '} + err);
+    }
+});
+
+
+// Orderitems Routen
 app.get('/orderitems', async (req, res) => {
     try {
         const result = await pool.query('SELECT * FROM OrderItems');
@@ -211,8 +279,6 @@ app.get('/orderitems', async (req, res) => {
         res.status(500).json({error: 'Interner Serverfehler'});
     }
 });
-
-
 app.post('/orderitems', async (req, res) => {
     const {order_id, product_id, quantity, price_at_purchase} = req.body;
     try {
@@ -223,6 +289,22 @@ app.post('/orderitems', async (req, res) => {
         res.status(500).json({error: 'Interner Serverfehler'});
     }
 });
+app.delete('/orderitems/:order_item_id', async (req, res) => {
+    const order_item_id = req.params.order_item_id;
+    try {
+        console.log('order_item_id:', order_item_id);
+        const result = await pool.query('DELETE FROM OrderItems WHERE order_item_id=$1 RETURNING *', [order_item_id]);
+        if (result.rows.length === 0) {
+            res.status(404).json({error: 'OrderItem nicht gefunden'});
+        } else {
+            res.json({message: `OrderItem ${order_item_id} erfolgreich gelöscht`});
+        }
+    } catch (err) {
+        console.error('Fehler beim Löschen des OrderItems:', err);
+        res.status(500).json({error: 'Interner Serverfehler: '} + err);
+    }
+});
+
 
 app.listen(port, () => {
     console.log(`Server läuft auf http://localhost:${port}`);
