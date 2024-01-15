@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "90b98ce58f9d0388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INSY/Projekt/Datenbank-Projekt.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "INSY/Projekt/Datenbank-Projekt.md"
               }
             }
           },
@@ -117,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "INSY/Projekt/Datenbank-Projekt.md"
               }
             }
           },
@@ -143,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "INSY/Projekt/Datenbank-Projekt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "INSY/Projekt/Datenbank-Projekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,14 +213,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f586103e388b7ca2",
+  "active": "90b98ce58f9d0388",
   "lastOpenFiles": [
+    "INSY/Stolli github/Datenbankdesign.md",
+    "Backlog_0124.md",
     "GGP/GGP Testvorbereitung 15.1.23.md",
     "INSY/Projekt/Datenbank-Projekt.md",
     "INSY/datenbankDesign.drawio",
     "INSY/Projekt/REST/indexv2.js",
     "REL/Jänner-Zivilcourage.md",
-    "Backlog_0124.md",
     "WIR/Gewinnermittlung_Kap2.md",
     "GGP/PowerPoint WKO.md",
     "NWT/VPN.md",
@@ -246,7 +261,6 @@
     "EN/Vocabulary.md",
     "EN/USA v Austria.md",
     "EN/Survey pt3.md",
-    "EN/Speaking_Task_S20_6.md",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
