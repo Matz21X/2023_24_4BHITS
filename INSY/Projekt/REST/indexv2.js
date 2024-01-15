@@ -111,6 +111,31 @@ app.post('/useraccounts', async (req, res) => {
 
 /**
  * @openapi
+ * /useraccounts/:user_id:
+ *   delete:
+ *     summary: Gibt alle Adressen zurück.
+ *     responses:
+ *       200:
+ *         description: Erfolgreiche Anfrage. Gibt eine Liste der Adressen zurück.
+ */
+app.delete('/useraccounts/:user_id', async (req, res) => {
+    const userId = req.params.user_id;
+    try {
+        const result = await pool.query('DELETE FROM UserAccounts WHERE user_id=$1 RETURNING *', [userId]);
+        if (result.rows.length === 0) {
+            res.status(404).json({ error: 'Benutzerkonto nicht gefunden' });
+        } else {
+            res.json({ message: 'Benutzerkonto erfolgreich gelöscht' });
+        }
+    } catch (err) {
+        console.error('Fehler beim Löschen des Benutzerkontos:', err);
+        res.status(500).json({ error: 'Interner Serverfehler' });
+    }
+});
+
+
+/**
+ * @openapi
  * tags:
  *   name: Address
  *   description: Operationen im Zusammenhang mit Adressen
