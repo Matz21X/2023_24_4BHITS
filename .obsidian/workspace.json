@@ -42,8 +42,22 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "be5295ffe4551b86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REL/Jänner-Zivilcourage.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "REL/Jänner-Zivilcourage.md"
               }
             }
           },
@@ -138,7 +152,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "REL/Jänner-Zivilcourage.md"
               }
             }
           },
@@ -164,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "REL/Jänner-Zivilcourage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "REL/Jänner-Zivilcourage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,10 +234,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f586103e388b7ca2",
+  "active": "be5295ffe4551b86",
   "lastOpenFiles": [
-    "GGP/GGP Testvorbereitung 15.1.23.md",
     "Backlog_0124.md",
+    "GGP/GGP Testvorbereitung 15.1.23.md",
     "WIR/Gewinnermittlung_Kap2.md",
     "GGP/PowerPoint WKO.md",
     "NWT/VPN.md",
