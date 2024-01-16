@@ -16,8 +16,10 @@ Für jede Tabelle sind die CRUD-Operations über die API verfügbar. Doku: https
 ![[Pasted image 20240116084427.png]]
 
 ### Python Tabellen Anzeige (Programm)
+Programm zeigt Inhalte aller Tabellen an 
 
-Programm zeigt Inhalte in einer Tabelle an 
+![[Pasted image 20240116092121.png]]
+
 ## Startup:
 
 1. Start Docker-Postgres & API Container

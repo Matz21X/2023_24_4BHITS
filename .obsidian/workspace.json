@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DE/Textinterpretation Eis.md"
+                "file": "INSY/Projekt/Datenbank-Projekt.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DE/Textinterpretation Eis.md"
+                "file": "INSY/Projekt/Datenbank-Projekt.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DE/Textinterpretation Eis.md",
+                "file": "INSY/Projekt/Datenbank-Projekt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DE/Textinterpretation Eis.md",
+                "file": "INSY/Projekt/Datenbank-Projekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,8 +236,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "755280396ecd601e",
+  "active": "90b98ce58f9d0388",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240116092121.png",
     "Backlog_0124.md",
     "INSY/Projekt/Datenbank-Projekt.md",
     "DE/Textinterpretation Eis.md",
@@ -277,7 +278,6 @@
     "INSY/Projekt/REST/node_modules/@types/hast/README.md",
     "INSY/Projekt/REST/node_modules/randexp/README.md",
     "INSY/Projekt/REST/node_modules/@types/unist/README.md",
-    "INSY/Projekt/REST/node_modules/core-js-pure/full/README.md",
     "INSY/Projekt/REST/node_modules/highlight.js/styles/school-book.png",
     "INSY/Projekt/REST/node_modules/highlight.js/styles/pojoaque.jpg",
     "INSY/Projekt/REST/node_modules/highlight.js/styles/brown-papersq.png",
