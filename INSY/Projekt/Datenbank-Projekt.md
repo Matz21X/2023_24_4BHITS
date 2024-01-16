@@ -10,26 +10,22 @@ In diesem Projekt wird eine Datenbank für einen Online-Einzelhandel. Datenbank 
 
 ## Datenbankstruktur
 ![[Pasted image 20240116081853.png]]
-Für jede Tabelle sind die CRUD-Operations über die API verfügbar
+Für jede Tabelle sind die CRUD-Operations über die API verfügbar. Doku: https://localhost:3000/api-docs
 ## Startup:
 
-1. Start Docker-Postgres Container
+1. Start Docker-Postgres & API Container
 ```powershell
 PS C:\Users\matth> docker start postgres
-postgres
+PS C:\Users\matth> docker start esnAPI
 ```
-1. Start API with `npm start`
-```powershell
-PS C:\Users\matth\Documents\2023_24_4BHITS\INSY\Projekt\REST> npm start
 
-> rest@1.0.0 start
-> node index.js
 
-Server läuft auf http://localhost:3000
-```
-3. Start Python GUI
 
-Note:
+
+
+
+
+
 ```bash
 pyinstaller main.py --onefile -w
 ```
