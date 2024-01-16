@@ -14,7 +14,6 @@ api_urls = {
     'OrderItems': 'http://localhost:3000/orderitems'  # Neuer Tab für die Tabelle "kunden"
 }
 
-
 def get_data_from_api(url):
     try:
         response = requests.get(url)
@@ -24,7 +23,6 @@ def get_data_from_api(url):
         print(f"Fehler bei der API-Anfrage: {e}")
         messagebox.showerror("Fehler", f"Fehler bei der API-Anfrage: {e}")
         return None
-
 
 def display_table_on_tab(tab, api_url):
     def update_data():
@@ -55,10 +53,8 @@ def display_table_on_tab(tab, api_url):
     else:
         print(f"Keine Daten für Tabelle {tab} zum Anzeigen.")
 
-
 def get_database_address():
-    return simpledialog.askstring("Datenbankadresse", "Geben Sie die Adresse der Datenbank ein:")
-
+    return simpledialog.askstring("Datenbankadresse", "Geben Sie die Adresse der Datenbank ein (default = localhost):")
 
 def main():
     root = tk.Tk()
@@ -68,15 +64,16 @@ def main():
     database_address = get_database_address()
 
     # Falls keine Adresse eingegeben wurde, das Programm beenden
-    if not database_address:
-        root.destroy()
-        return
+    if database_address:
+        for key in api_urls:
+            api_urls[key] = api_urls[key].replace("localhost", database_address)
+
+        #root.destroy()
+        #return
+
 
     # API-URLs mit der eingegebenen Datenbankadresse aktualisieren
-    for key in api_urls:
-        if database_address == "":
-            database_address = "localhost"
-        api_urls[key] = api_urls[key].replace("localhost", database_address)
+
 
     notebook = ttk.Notebook(root)
 
@@ -87,7 +84,6 @@ def main():
 
     notebook.pack(expand=True, fill="both")
     root.mainloop()
-
 
 if __name__ == "__main__":
     main()
