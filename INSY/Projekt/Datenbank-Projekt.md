@@ -1,7 +1,7 @@
 # Protokoll (Hrbek & Thienel)
 #INSY #Projekt
 
-In diesem Projekt wird eine Datenbank für einen Online-Einzelhandel. Datenbank (Postgres) und API (NodeJS) laufen in Docker Containern
+In diesem Projekt wird eine Datenbank für einen Online-Einzelhandel verwirklicht. Datenbank (Postgres) und API (NodeJS) laufen in Docker Containern
 
 **Software:**
 - Docker
