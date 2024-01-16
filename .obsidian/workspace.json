@@ -35,7 +35,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "INSY/Projekt/Datenbank-Projekt.md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "INSY/Projekt/Datenbank-Projekt.md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "INSY/Projekt/Datenbank-Projekt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "INSY/Projekt/Datenbank-Projekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,9 +213,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f586103e388b7ca2",
+  "active": "90b98ce58f9d0388",
   "lastOpenFiles": [
-    "INSY/Projekt/Datenbank-Projekt.md",
+    "Attachments/Pasted image 20240116081853.png",
+    "INSY/Projekt/bruh.drawio",
+    "INSY/Projekt/public.drawio",
     "INSY/Projekt/REST/node_modules/tree-sitter/build/Release/obj/tree_sitter/vendor/tree-sitter/lib/src/lib.obj",
     "INSY/Projekt/REST/node_modules/tree-sitter/build/Release/obj/tree_sitter/vendor/tree-sitter/lib/src",
     "INSY/Projekt/REST/node_modules/tree-sitter/build/Release/obj/tree_sitter/vendor/tree-sitter/lib",
@@ -223,8 +226,6 @@
     "INSY/Projekt/REST/node_modules/tree-sitter/build/Release/obj/tree_sitter_runtime_binding/tree_sit.6765ED93.tlog/link.write.1.tlog",
     "INSY/Projekt/REST/node_modules/tree-sitter/build/Release/obj/tree_sitter_runtime_binding/tree_sit.6765ED93.tlog/link.read.1.tlog",
     "INSY/Projekt/REST/node_modules/tree-sitter/build/Release/obj/tree_sitter_runtime_binding/tree_sit.6765ED93.tlog/link.command.1.tlog",
-    "INSY/Projekt/REST/node_modules/tree-sitter/build/Release/obj/tree_sitter_runtime_binding/tree_sit.6765ED93.tlog/CL.read.1.tlog",
-    "INSY/Projekt/REST/node_modules/tree-sitter/build/Release/obj/tree_sitter_runtime_binding/tree_sit.6765ED93.tlog/CL.write.1.tlog",
     "INSY/Projekt/REST/node_modules/napi-build-utils/README.md",
     "INSY/Projekt/REST/node_modules/napi-build-utils/index.md",
     "INSY/Projekt/REST/node_modules/core-js-pure/README.md",
