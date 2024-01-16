@@ -1,5 +1,5 @@
 # Protokoll (Hrbek & Thienel)
-#INSY 
+#INSY #Projekt
 
 In diesem Projekt wird eine Datenbank für einen Online-Einzelhandel. Datenbank (Postgres) und API (NodeJS) laufen in Docker Containern
 
@@ -17,7 +17,7 @@ Für jede Tabelle sind die CRUD-Operations über die API verfügbar. Doku: https
 
 ### Python Tabellen Anzeige (Programm)
 
-
+Programm zeigt Inhalte in einer Tabelle an 
 ## Startup:
 
 1. Start Docker-Postgres & API Container
