@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8cbbded3aee14f1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NW/NW Testvorbereitung 19.1.23.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md"
+                "file": "NW/NW Testvorbereitung 19.1.23.md"
               }
             }
           },
@@ -131,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md"
+                "file": "NW/NW Testvorbereitung 19.1.23.md"
               }
             }
           },
@@ -157,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md",
+                "file": "NW/NW Testvorbereitung 19.1.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md",
+                "file": "NW/NW Testvorbereitung 19.1.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,10 +226,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "90b98ce58f9d0388",
+  "active": "8cbbded3aee14f1d",
   "lastOpenFiles": [
-    "Backlog_0124.md",
+    "NW/~$ysikHA4_2.docx",
+    "NW/~$ysikHA4_1.docx",
     "INSY/Projekt/Datenbank-Projekt.md",
+    "NW/NW Testvorbereitung 19.1.23.md",
+    "NW/NW4-Test2-Formelsammlung-v1.pdf",
+    "Backlog_0124.md",
     "DE/Textinterpretation Eis.md",
     "INSY/databaseProject/app.py",
     "INSY/Projekt/REST/node_modules/shebang-regex/readme.md",
@@ -228,8 +245,6 @@
     "INSY/Projekt/REST/node_modules/shebang-command/license",
     "INSY/Projekt/REST/node_modules/shebang-command/readme.md",
     "INSY/Projekt/REST/node_modules/shebang-command/package.json",
-    "INSY/Projekt/REST/node_modules/shebang-command/index.js",
-    "INSY/Projekt/REST/node_modules/shebang-command",
     "INSY/Projekt/REST/node_modules/isexe/README.md",
     "INSY/Projekt/REST/node_modules/is-number/README.md",
     "INSY/Projekt/REST/node_modules/fill-range/README.md",
@@ -250,8 +265,6 @@
     "INSY/Projekt/REST/node_modules/undici/docs/best-practices/client-certificate.md",
     "INSY/Projekt/REST/node_modules/undici/docs/api/RetryHandler.md",
     "INSY/Projekt/REST/node_modules/undici/docs/api/ProxyAgent.md",
-    "INSY/Projekt/REST/node_modules/undici/docs/api/Pool.md",
-    "INSY/Projekt/REST/node_modules/undici/docs/api/PoolStats.md",
     "INSY/Projekt/REST/node_modules/swagger-ui-dist/favicon-32x32.png",
     "INSY/Projekt/REST/node_modules/swagger-ui-dist/favicon-16x16.png",
     "INSY/Projekt/REST/node_modules/highlight.js/styles/school-book.png",
