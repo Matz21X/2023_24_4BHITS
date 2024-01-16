@@ -59,6 +59,7 @@ app.post('/useraccounts', async (req, res) => {
 app.put('/useraccounts/:user_id', async (req, res) => {
     const userId = req.params.user_id;
     const {username, email, password, first_name, last_name, phone_number} = req.body;
+    console.log(req.body)
 
     try {
         const result = await pool.query('UPDATE UserAccounts SET username=$1, email=$2, password=$3, first_name=$4, last_name=$5, phone_number=$6 WHERE user_id=$7 RETURNING *', [username, email, password, first_name, last_name, phone_number, userId]);
