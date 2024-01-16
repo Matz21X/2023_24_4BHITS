@@ -32,9 +32,6 @@ PS C:\Users\matth> docker start esnAPI
 
 
 
-
-
-
 ```bash
 pyinstaller main.py --onefile -w
 ```
