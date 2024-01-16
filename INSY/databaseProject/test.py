@@ -1,7 +1,7 @@
 import requests
 from tabulate import tabulate
 import tkinter as tk
-from tkinter import ttk, simpledialog
+from tkinter import ttk, simpledialog, messagebox
 
 # API-URLs für den Datenbankzugriff
 api_urls = {
@@ -14,6 +14,7 @@ api_urls = {
     'OrderItems': 'http://localhost:3000/orderitems'  # Neuer Tab für die Tabelle "kunden"
 }
 
+
 def get_data_from_api(url):
     try:
         response = requests.get(url)
@@ -21,7 +22,9 @@ def get_data_from_api(url):
         return response.json()  # Gibt die JSON-Daten der API-Antwort zurück
     except requests.exceptions.RequestException as e:
         print(f"Fehler bei der API-Anfrage: {e}")
+        messagebox.showerror("Fehler", f"Fehler bei der API-Anfrage: {e}")
         return None
+
 
 def display_table_on_tab(tab, api_url):
     def update_data():
@@ -52,8 +55,10 @@ def display_table_on_tab(tab, api_url):
     else:
         print(f"Keine Daten für Tabelle {tab} zum Anzeigen.")
 
+
 def get_database_address():
     return simpledialog.askstring("Datenbankadresse", "Geben Sie die Adresse der Datenbank ein:")
+
 
 def main():
     root = tk.Tk()
@@ -69,7 +74,9 @@ def main():
 
     # API-URLs mit der eingegebenen Datenbankadresse aktualisieren
     for key in api_urls:
-        api_urls[key] = api_urls[key].replace("http://localhost", database_address)
+        if database_address == "":
+            database_address = "localhost"
+        api_urls[key] = api_urls[key].replace("localhost", database_address)
 
     notebook = ttk.Notebook(root)
 
@@ -80,6 +87,7 @@ def main():
 
     notebook.pack(expand=True, fill="both")
     root.mainloop()
+
 
 if __name__ == "__main__":
     main()
