@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "NW/NW Testvorbereitung 19.1.23.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -228,6 +228,8 @@
   },
   "active": "8cbbded3aee14f1d",
   "lastOpenFiles": [
+    "NW/~$ Teststoff.docx",
+    "NW/NW Teststoff.docx",
     "NW/~$ysikHA4_2.docx",
     "NW/~$ysikHA4_1.docx",
     "INSY/Projekt/Datenbank-Projekt.md",
@@ -242,9 +244,7 @@
     "INSY/Projekt/REST/node_modules/shebang-regex/index.js",
     "INSY/Projekt/REST/node_modules/shebang-regex/index.d.ts",
     "INSY/Projekt/REST/node_modules/shebang-regex",
-    "INSY/Projekt/REST/node_modules/shebang-command/license",
     "INSY/Projekt/REST/node_modules/shebang-command/readme.md",
-    "INSY/Projekt/REST/node_modules/shebang-command/package.json",
     "INSY/Projekt/REST/node_modules/isexe/README.md",
     "INSY/Projekt/REST/node_modules/is-number/README.md",
     "INSY/Projekt/REST/node_modules/fill-range/README.md",
