@@ -33,6 +33,8 @@
 | - | #GGP | Test / Österreichische / AMS |  |
 | - | #EN | Matura listening |  |
 | - | #RK | [[Jänner-Zivilcourage#Zivilcourage in Gesellschaft, Politik und Kirche]] |  |
+| 16.1 | #WIR | Vertrag S.53 |  |
+| . | # |  |  |
 
 Nächster GGP Test ab
 Zettel 5 1.3

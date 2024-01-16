@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -131,7 +130,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md",
+                "file": "Backlog_0124.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md",
+                "file": "Backlog_0124.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,8 +212,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "90b98ce58f9d0388",
+  "active": "f586103e388b7ca2",
   "lastOpenFiles": [
+    "INSY/Projekt/Datenbank-Projekt.md",
     "Attachments/Pasted image 20240116084427.png",
     "Attachments/Pasted image 20240116081853.png",
     "INSY/Projekt/bruh.drawio",
@@ -260,7 +260,6 @@
     "INSY/Projekt/REST/node_modules/highlight.js/scss/brown-papersq.png",
     "INSY/Projekt/REST/node_modules/undici/docs/assets/lifecycle-diagram.png",
     "ITP/Projekte/GEI/GrucaApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
-    "ITP/Projekte/GEI/GrucaApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
