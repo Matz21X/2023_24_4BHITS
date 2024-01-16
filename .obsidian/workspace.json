@@ -238,6 +238,8 @@
   },
   "active": "90b98ce58f9d0388",
   "lastOpenFiles": [
+    "INSY/databaseProject/test.py~",
+    "INSY/databaseProject/test.py",
     "Attachments/Pasted image 20240116092121.png",
     "Backlog_0124.md",
     "INSY/Projekt/Datenbank-Projekt.md",
@@ -255,7 +257,6 @@
     "INSY/Projekt/REST/node_modules/tree-sitter/build/Release/obj/tree_sitter_runtime_binding/tree_sit.6765ED93.tlog/tree_sitter_runtime_binding.write.1u.tlog",
     "INSY/Projekt/REST/node_modules/tree-sitter/build/Release/obj/tree_sitter_runtime_binding/tree_sit.6765ED93.tlog/link.write.1.tlog",
     "INSY/Projekt/REST/node_modules/tree-sitter/build/Release/obj/tree_sitter_runtime_binding/tree_sit.6765ED93.tlog/link.read.1.tlog",
-    "INSY/Projekt/REST/node_modules/tree-sitter/build/Release/obj/tree_sitter_runtime_binding/tree_sit.6765ED93.tlog/link.command.1.tlog",
     "INSY/Projekt/REST/node_modules/napi-build-utils/README.md",
     "INSY/Projekt/REST/node_modules/napi-build-utils/index.md",
     "INSY/Projekt/REST/node_modules/core-js-pure/README.md",
@@ -283,7 +284,6 @@
     "INSY/Projekt/REST/node_modules/highlight.js/styles/brown-papersq.png",
     "INSY/Projekt/REST/node_modules/highlight.js/scss/school-book.png",
     "INSY/Projekt/REST/node_modules/highlight.js/scss/pojoaque.jpg",
-    "INSY/Projekt/REST/node_modules/highlight.js/scss/brown-papersq.png",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
