@@ -4,12 +4,15 @@
 **Stoff:**
 Alles ab ART bis inklusive Anfang Radioaktivität
 - Allgemeine Relativitätstheorie
+- Arschritz
+- Ich weiß nicht gans 🪿
+- ⛰️
   
 ### Schrödingergleichung
 
 >Die Schrödingergleichung ist die Grundgleichung der nicht relativistischen Quantenmechanik. Sie beschriebt als Wellengleichung die zeitliche Entwicklung des Zustandes eines unbeobachteten Quantensystems
 
-![[Pasted image 20240117190408.png]]
+![[Pasted image 20240117190408.png]] (Bild von der Gleichung)
 
 
 >**Tunneleffekt:** Aufgrund der Unschärferelation gibt es Lösungen der Schrödingergleichung, die einem Teilchen erlauben in Bereiche einzudringen, die klassisch nicht möglich wären ("durchtunneln")
