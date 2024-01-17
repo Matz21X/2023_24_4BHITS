@@ -56,3 +56,4 @@ Kommt die Berechnung des Radiuses zwischen Kern und Hülle?
 Was kommt von der Schrödinger Gleichung?
 Kommt was vom Teilchenbeschleuniger?
 Wie sehr ins Detail bei der Strahlung?
+
