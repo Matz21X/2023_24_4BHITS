@@ -51,6 +51,8 @@ $$f´=f*(1-\frac{g.H}{c^2})$$
 # Fragen:
 
 Kommen alle einzelnen Elementarteilchen? Ladung + Massezahl + Spin.
+WAS IST SPIN?????????
 Kommt die Berechnung des Radiuses zwischen Kern und Hülle?
 Was kommt von der Schrödinger Gleichung?
 Kommt was vom Teilchenbeschleuniger?
+Wie sehr ins Detail bei der Strahlung?
