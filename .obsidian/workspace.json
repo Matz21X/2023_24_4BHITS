@@ -73,9 +73,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "10aedd0852400ff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backlog_1223.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -125,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NW/NW Testvorbereitung 19.1.23.md"
+                "file": "Backlog_1223.md"
               }
             }
           },
@@ -171,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NW/NW Testvorbereitung 19.1.23.md"
+                "file": "Backlog_1223.md"
               }
             }
           },
@@ -197,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NW/NW Testvorbereitung 19.1.23.md",
+                "file": "Backlog_1223.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NW/NW Testvorbereitung 19.1.23.md",
+                "file": "Backlog_1223.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,16 +266,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "60bbdda0cbdc7b6f",
+  "active": "10aedd0852400ff7",
   "lastOpenFiles": [
+    "Backlog_0124.md",
+    "NW/NW Testvorbereitung 19.1.23.md",
     "Attachments/Pasted image 20240117192928.png",
     "Attachments/Pasted image 20240117190408.png",
-    "Backlog_0124.md",
     "MEDT/MEDT_test_gruppe1.pdf",
     "MEDT/Aufgabe Usability Tests.md",
     "ITP/Projekte/GEI/MobileComputingAndroid.pdf",
     "INSY/Projekt/Datenbank-Projekt.md",
-    "NW/NW Testvorbereitung 19.1.23.md",
     "ITP/Projekte/RAH/JavaScript.pdf",
     "NW/Test4.jpg",
     "NW/Test3.jpg",
@@ -301,7 +313,6 @@
     "INSY/Projekt/REST/node_modules/swagger-ui-dist/favicon-32x32.png",
     "INSY/Projekt/REST/node_modules/swagger-ui-dist/favicon-16x16.png",
     "INSY/Projekt/REST/node_modules/highlight.js/styles/school-book.png",
-    "INSY/Projekt/REST/node_modules/highlight.js/styles/pojoaque.jpg",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
