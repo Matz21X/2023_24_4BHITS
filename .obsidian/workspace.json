@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NW/NW Testvorbereitung 19.1.23.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -144,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NW/NW Testvorbereitung 19.1.23.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NW/NW Testvorbereitung 19.1.23.md",
+                "file": "Backlog_0124.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NW/NW Testvorbereitung 19.1.23.md",
+                "file": "Backlog_0124.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,8 +225,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8cbbded3aee14f1d",
+  "active": "f586103e388b7ca2",
   "lastOpenFiles": [
+    "NW/NW Testvorbereitung 19.1.23.md",
     "NW/Test4.jpg",
     "NW/Test3.jpg",
     "NW/Test2.jpg",
@@ -237,7 +237,6 @@
     "NW/~$ysikHA4_2.docx",
     "NW/~$ysikHA4_1.docx",
     "INSY/Projekt/Datenbank-Projekt.md",
-    "NW/NW Testvorbereitung 19.1.23.md",
     "NW/NW4-Test2-Formelsammlung-v1.pdf",
     "Backlog_0124.md",
     "DE/Textinterpretation Eis.md",
@@ -273,7 +272,6 @@
     "INSY/Projekt/REST/node_modules/highlight.js/styles/school-book.png",
     "INSY/Projekt/REST/node_modules/highlight.js/styles/pojoaque.jpg",
     "INSY/Projekt/REST/node_modules/highlight.js/styles/brown-papersq.png",
-    "INSY/Projekt/REST/node_modules/highlight.js/scss/school-book.png",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
