@@ -6,7 +6,8 @@ Alles ab ART bis inklusive Anfang Radioaktivität
 - Allgemeine Relativitätstheorie
 - Arschritz
 - Ich weiß nicht gans 🪿
-- ⛰️
+- ⛰️🤕
+- Ich werde hier noch verrückt (Meine Gehirnzellen tunneln aus meinem Gehirn)
   
 ### Schrödingergleichung
 
