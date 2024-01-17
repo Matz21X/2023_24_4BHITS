@@ -60,8 +60,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "60bbdda0cbdc7b6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NW/NW Testvorbereitung 19.1.23.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "NW/NW Testvorbereitung 19.1.23.md"
               }
             }
           },
@@ -157,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "NW/NW Testvorbereitung 19.1.23.md"
               }
             }
           },
@@ -183,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "NW/NW Testvorbereitung 19.1.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "NW/NW Testvorbereitung 19.1.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,11 +254,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f586103e388b7ca2",
+  "active": "60bbdda0cbdc7b6f",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240117190408.png",
+    "Backlog_0124.md",
     "MEDT/MEDT_test_gruppe1.pdf",
     "MEDT/Aufgabe Usability Tests.md",
-    "Backlog_0124.md",
     "ITP/Projekte/GEI/MobileComputingAndroid.pdf",
     "INSY/Projekt/Datenbank-Projekt.md",
     "NW/NW Testvorbereitung 19.1.23.md",
@@ -262,7 +277,6 @@
     "INSY/databaseProject/app.py",
     "INSY/Projekt/REST/node_modules/shebang-regex/readme.md",
     "INSY/Projekt/REST/node_modules/shebang-regex/license",
-    "INSY/Projekt/REST/node_modules/shebang-regex/package.json",
     "INSY/Projekt/REST/node_modules/shebang-command/readme.md",
     "INSY/Projekt/REST/node_modules/isexe/README.md",
     "INSY/Projekt/REST/node_modules/is-number/README.md",
