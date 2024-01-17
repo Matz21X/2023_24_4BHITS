@@ -31,4 +31,3 @@ $$∆p.∆x >ℏ/2=  h/4π$$
 >**Gravitations-Rotverschiebung:**
 >Photon steigt in Gravitationsfeld auf --> verliert Energie --> geringere Frequenz --> rotes Licht
 
-![[Pasted image 20240117192928.png]]
