@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1223.md"
+                "file": "NW/NW Testvorbereitung 19.1.23.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_1223.md"
+                "file": "NW/NW Testvorbereitung 19.1.23.md"
               }
             }
           },
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1223.md",
+                "file": "NW/NW Testvorbereitung 19.1.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1223.md",
+                "file": "NW/NW Testvorbereitung 19.1.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,16 +266,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "10aedd0852400ff7",
+  "active": "8cbbded3aee14f1d",
   "lastOpenFiles": [
+    "INSY/Projekt/Datenbank-Projekt.md",
+    "MEDT/Aufgabe Usability Tests.md",
     "Backlog_0124.md",
+    "Backlog_1223.md",
     "NW/NW Testvorbereitung 19.1.23.md",
     "Attachments/Pasted image 20240117192928.png",
     "Attachments/Pasted image 20240117190408.png",
     "MEDT/MEDT_test_gruppe1.pdf",
-    "MEDT/Aufgabe Usability Tests.md",
     "ITP/Projekte/GEI/MobileComputingAndroid.pdf",
-    "INSY/Projekt/Datenbank-Projekt.md",
     "ITP/Projekte/RAH/JavaScript.pdf",
     "NW/Test4.jpg",
     "NW/Test3.jpg",

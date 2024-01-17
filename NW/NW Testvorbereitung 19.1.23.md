@@ -34,3 +34,6 @@ $$∆p.∆x >ℏ/2=  h/4π$$
 >Photon steigt in Gravitationsfeld auf --> verliert Energie --> geringere Frequenz --> rotes Licht
 
 $$f´=f*(1-\frac{g.H}{c^2})$$
+
+>**Rutherford-Experiment:**
+>Herausgekommen dass Atomkerne viel kleiner sind als zuvor gedacht. Die meisten sind durchgedrungen, aber manche sind abgeprallt. (Goldfolienexperiment mit Alpha-Partikeln)
