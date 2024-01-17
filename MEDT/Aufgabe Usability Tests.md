@@ -15,6 +15,9 @@
 - **Wo findet der Test statt?**
 	- im Labor - mit spezieller Ausrüstung
 	- im Feld - Ort im Nutzungskontext
-- Welche Ausrüstung ist notwendig?
-- Wann sollte der Test durchgeführt werden?
-- Wie viele Probanden/Durchläufe?
+- **Welche Ausrüstung ist notwendig?**
+	- Einwegspiegel, Videoausstattung
+- **Wann sollte der Test durchgeführt werden?**
+	- Vor releases, vor der Auslieferungen an den Kunden
+- **Wie viele Probanden/Durchläufe?**
+	- 5 Testpersonen ausreichend

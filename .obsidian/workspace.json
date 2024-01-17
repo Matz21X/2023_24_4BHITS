@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDT/Aufgabe Usability Tests.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -158,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "MEDT/Aufgabe Usability Tests.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -184,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDT/Aufgabe Usability Tests.md",
+                "file": "Backlog_0124.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDT/Aufgabe Usability Tests.md",
+                "file": "Backlog_0124.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,10 +240,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6f34ef86f8f58b8e",
+  "active": "f586103e388b7ca2",
   "lastOpenFiles": [
-    "Backlog_0124.md",
     "MEDT/Aufgabe Usability Tests.md",
+    "Backlog_0124.md",
     "ITP/Projekte/GEI/MobileComputingAndroid.pdf",
     "INSY/Projekt/Datenbank-Projekt.md",
     "NW/NW Testvorbereitung 19.1.23.md",
