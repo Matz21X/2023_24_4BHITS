@@ -19,6 +19,8 @@ Alles ab ART bis inklusive Anfang Radioaktivität
 
 $$∆p.∆x >ℏ/2=  h/4π$$
 
+### ART (Allgemeine Relativitätstheorie)
+
 >**Äquivalenzprinzip:**
 >Man kann ein beschleunigtes System ohne Gravitation nicht von einem ruhenden System mit Gravitation unterscheiden
 
@@ -31,3 +33,4 @@ $$∆p.∆x >ℏ/2=  h/4π$$
 >**Gravitations-Rotverschiebung:**
 >Photon steigt in Gravitationsfeld auf --> verliert Energie --> geringere Frequenz --> rotes Licht
 
+$$f´=f*(1-\frac{g.H}{c^2})$$
