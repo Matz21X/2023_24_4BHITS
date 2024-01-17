@@ -22,5 +22,11 @@ $$∆p.∆x >ℏ/2=  h/4π$$
 >**Äquivalenzprinzip:**
 >Man kann ein beschleunigtes System ohne Gravitation nicht von einem ruhenden System mit Gravitation unterscheiden
 
->**Ablenkung des Lichts duch große Massen:**
->Wenn sich Licht an einer großen 
+>**Ablenkung des Lichts durch große Massen:**
+>Wenn sich Licht an einer großen Masse vorbeibewegt wird es von der Gravitation der Masse "gekrümmt", dadurch wird der Weg länger und das Licht bracht länger (v=c --> Konstant) 
+
+>**Periheldrehung:**
+>Die Umlaufbahn einer kleinen Masse (z.B. Mars) wird von der Gravitation der großen Masse (z.B Sonne) stark beeinflusst. 
+
+>**Gravitations-Rotverschiebung:**
+>Photon steigt in Gravitationsfeld auf --> verliert Energie --> geringere Frequenz --> rotes Licht
