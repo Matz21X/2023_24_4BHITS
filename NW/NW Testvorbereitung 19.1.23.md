@@ -37,3 +37,20 @@ $$f´=f*(1-\frac{g.H}{c^2})$$
 
 >**Rutherford-Experiment:**
 >Herausgekommen dass Atomkerne viel kleiner sind als zuvor gedacht. Die meisten sind durchgedrungen, aber manche sind abgeprallt. (Goldfolienexperiment mit Alpha-Partikeln)
+
+
+### Elementarteilchen
+
+>**Wechselwirkungen:**
+>- Starke Wechselwirkung 
+>- Schwache Wechselwirkung
+>- Elektromagnetische Wechselwirkung
+>- Gravitation
+
+
+# Fragen:
+
+Kommen alle einzelnen Elementarteilchen? Ladung + Massezahl + Spin.
+Kommt die Berechnung des Radiuses zwischen Kern und Hülle?
+Was kommt von der Schrödinger Gleichung?
+Kommt was vom Teilchenbeschleuniger?
