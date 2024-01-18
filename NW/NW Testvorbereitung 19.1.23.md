@@ -56,10 +56,13 @@ $$f´=f*(1-\frac{g.H}{c^2})$$
 
 Kommen alle einzelnen Elementarteilchen? Ladung + Massezahl + Spin.
 <span style="color:#00b050">Wie viel kommt von der Elementarteilchenphysik</span> 
-- 
-WAS IST SPIN?????????
+- Welche Kategorien gibt es? (Simet PDF)
+WAS IST SPIN????????? (Kann 2 Werte annehmen)
+- 4 Freiheitsgrad (Quantenzahlen) Eigenwertlösungen  1S1 1S2 4. Quantenzahl = Spin
 <span style="color:#00b050">Kommt die Berechnung des Radiuses zwischen Kern und Hülle?</span>
+- 
 <span style="color:#00b050">Was kommt von der Schrödinger Gleichung?</span>
+- Uendlich hoher Potenzialtop ansätze
 Kommt was vom Teilchenbeschleuniger?
 Wie sehr ins Detail bei der Strahlung?
 Müssen wir uns $$f´=f*(1-\frac{g.H}{c^2})$$ herleiten? J/N
