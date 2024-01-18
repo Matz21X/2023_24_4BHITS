@@ -26,3 +26,6 @@ Beteiligte Kapitalgeber bei einer GmbH, AG:
 ![[Pasted image 20240118090926.png]]
 
 ![[Pasted image 20240118091026.png]]
+
+**Aufgabe K7.6 im Buch auf Seite 355/356**
+
