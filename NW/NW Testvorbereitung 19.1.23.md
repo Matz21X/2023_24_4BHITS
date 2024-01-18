@@ -64,6 +64,8 @@ WAS IST SPIN????????? (Kann 2 Werte annehmen)
 <span style="color:#00b050">Was kommt von der Schrödinger Gleichung?</span>
 - Unendlich hoher Potenzialtop Ansätze
 Kommt was vom Teilchenbeschleuniger?
+- 
 Wie sehr ins Detail bei der Strahlung?
-- Alpha, Beta, Gamma Strahlung 
-Müssen wir uns $$f´=f*(1-\frac{g.H}{c^2})$$ herleiten? J/N
+- Alpha, Beta, Gamma Strahlung Beta- und beta+ 
+Müssen wir uns $$f´=f*(1-\frac{g.H}{c^2})$$herleiten? J/N
+- NAJN
