@@ -43,7 +43,7 @@
 | -    | #INSY   | NIX                                                                       |                 |
 | -    | #SEW    | Eigentlich Projekt Review aber nicht drangekommen                         |                 |
 | 18.1 | #EN     | US Elections, Oregon woman                                                |                 |
-| -     | #WIR         |                                                                           |                 |
+| -     | #WIR         | [[Erhebungsform der Einkommensteuer]]                                                                          |                 |
 
 Nächster GGP Test ab
 Zettel 5 1.3
