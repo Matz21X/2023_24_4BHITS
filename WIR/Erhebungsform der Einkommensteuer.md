@@ -13,5 +13,16 @@
 - ausgezahlt in 4 Teilbeträgen
 
 
+### Körperschaftsteuer
+jur. Personen = GmbH, AG
 
+- **23% für 2024**
 
+Beteiligte Kapitalgeber bei einer GmbH, AG:
+- Gesellschafter A
+- Gesellschafter B
+- Gesellschafter C
+
+![[Pasted image 20240118090926.png]]
+
+![[Pasted image 20240118091026.png]]
