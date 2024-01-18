@@ -26,5 +26,16 @@
 - Die wohl bekannteste Widerstandsgruppe gegen das NS-Regime ist die "Weiße Rose", zu der auch die Geschwister Sophie und Hans Scholl gehörten. Ab 1942 rief die Gruppe in Flugblättern zum Widerstand auf. 1943 wurden die Mitglieder für ihre Aktionen hingerichtet.
 
 
-### Sophie Scholl
+### Sophie Scholl - Lebenslauf
 
+1921 - Kommt in Forchtenberg zur Welt
+1930/32 - Umzug nach Ludwigsburg Ulm
+1934 - Eintritt in den BDM
+1937 - verliebt sich in Fritz Hartnagel (Nazi)
+1940 - Abitur, Ausbildung zur Kindergärtnerin
+1941 - Reichsarbeitsdienst und Kriegshilfsdienst
+1942 - Studium von Philosophie und Biologie
+Sommer 1942 - erster Kontakt mit "Weißer Rose"
+Jänner 1943 - Aufruf zum Wiederstand mittels Flugblättern
+Februar 1943 - Sophie und Hans werden beim Verteilen von der Gestapo beobachtet
+22.02.1943 - Verurteilung und Hinrichtung
