@@ -23,64 +23,12 @@
             }
           },
           {
-            "id": "6f34ef86f8f58b8e",
+            "id": "7836ac05054366a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MEDT/Aufgabe Usability Tests.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90b98ce58f9d0388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cbbded3aee14f1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NW/NW Testvorbereitung 19.1.23.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60bbdda0cbdc7b6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NW/NW Testvorbereitung 19.1.23.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10aedd0852400ff7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backlog_1223.md",
+                "file": "WIR/Erhebungsform der Einkommensteuer.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NW/NW Testvorbereitung 19.1.23.md"
+                "file": "WIR/Erhebungsform der Einkommensteuer.md"
               }
             }
           },
@@ -183,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NW/NW Testvorbereitung 19.1.23.md"
+                "file": "WIR/Erhebungsform der Einkommensteuer.md"
               }
             }
           },
@@ -209,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NW/NW Testvorbereitung 19.1.23.md",
+                "file": "WIR/Erhebungsform der Einkommensteuer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NW/NW Testvorbereitung 19.1.23.md",
+                "file": "WIR/Erhebungsform der Einkommensteuer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,13 +214,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8cbbded3aee14f1d",
+  "active": "7836ac05054366a4",
   "lastOpenFiles": [
-    "INSY/Projekt/Datenbank-Projekt.md",
-    "MEDT/Aufgabe Usability Tests.md",
+    "Attachments/Pasted image 20240118084945.png",
     "Backlog_0124.md",
+    "WIR/Erhebungsform der Einkommensteuer.md",
+    "MEDT/Aufgabe Usability Tests.md",
     "Backlog_1223.md",
     "NW/NW Testvorbereitung 19.1.23.md",
+    "INSY/Projekt/Datenbank-Projekt.md",
     "Attachments/Pasted image 20240117192928.png",
     "Attachments/Pasted image 20240117190408.png",
     "MEDT/MEDT_test_gruppe1.pdf",
@@ -309,8 +259,6 @@
     "INSY/Projekt/REST/node_modules/undici/docs/best-practices/proxy.md",
     "INSY/Projekt/REST/node_modules/undici/docs/assets/lifecycle-diagram.png",
     "INSY/Projekt/REST/node_modules/undici/docs/api/WebSocket.md",
-    "INSY/Projekt/REST/node_modules/undici/docs/best-practices/client-certificate.md",
-    "INSY/Projekt/REST/node_modules/undici/docs/api/RetryHandler.md",
     "INSY/Projekt/REST/node_modules/swagger-ui-dist/favicon-32x32.png",
     "INSY/Projekt/REST/node_modules/swagger-ui-dist/favicon-16x16.png",
     "INSY/Projekt/REST/node_modules/highlight.js/styles/school-book.png",
