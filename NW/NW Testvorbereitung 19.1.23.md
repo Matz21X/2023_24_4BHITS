@@ -60,11 +60,11 @@ Kommen alle einzelnen Elementarteilchen? Ladung + Massezahl + Spin.
 WAS IST SPIN????????? (Kann 2 Werte annehmen)
 - 4 Freiheitsgrad (Quantenzahlen) Eigenwertlösungen  1S1 1S2 4. Quantenzahl = Spin
 <span style="color:#00b050">Kommt die Berechnung des Radiuses zwischen Kern und Hülle?</span>
-- NUH UH
+- NUH UH, Er hat gesagt er will nicht bei jedem nein sagen (also denk ich nein)
 <span style="color:#00b050">Was kommt von der Schrödinger Gleichung?</span>
 - Unendlich hoher Potenzialtop Ansätze
 Kommt was vom Teilchenbeschleuniger?
-- 
+- Driftröhren, Teilchenbeschleunigung
 Wie sehr ins Detail bei der Strahlung?
 - Alpha, Beta, Gamma Strahlung Beta- und beta+ 
 Müssen wir uns $$f´=f*(1-\frac{g.H}{c^2})$$herleiten? J/N
