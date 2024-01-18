@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REL/Jänner-Zivilcourage.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "REL/Jänner-Zivilcourage.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REL/Jänner-Zivilcourage.md",
+                "file": "Backlog_0124.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REL/Jänner-Zivilcourage.md",
+                "file": "Backlog_0124.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,8 +238,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1cc050d6ccc13ae2",
+  "active": "f586103e388b7ca2",
   "lastOpenFiles": [
+    "REL/Jänner-Zivilcourage.md",
     "Backlog_0124.md",
     "REL/PDFs/4_Sophie_Scholl.pdf",
     "NW/NW Testvorbereitung 19.1.23.md",
