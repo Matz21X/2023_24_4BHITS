@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -220,7 +221,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 212.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,10 +240,10 @@
   },
   "active": "60bbdda0cbdc7b6f",
   "lastOpenFiles": [
+    "NW/Zusammenfassung Extreme NW.pdf",
     "NW/Zusammenfassung Extreme NW.md",
     "NW/NW Testvorbereitung 19.1.23.md",
     "NW/NW4-Test2-Formelsammlung-v2.pdf",
-    "NW/Zusammenfassung Extreme NW.pdf",
     "INSY/Projekt/Datenbank-Projekt.md",
     "conflict-files-obsidian-git.md",
     "WIR/Erhebungsform der Einkommensteuer.md",
