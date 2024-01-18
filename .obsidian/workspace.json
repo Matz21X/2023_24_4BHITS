@@ -249,8 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 212.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,6 +267,9 @@
   },
   "active": "8cbbded3aee14f1d",
   "lastOpenFiles": [
+    "NW/~WRL2070.tmp",
+    "NW/~WRD2054.tmp",
+    "NW/~WRD2046.tmp",
     "INSY/Projekt/Datenbank-Projekt.md",
     "MEDT/Aufgabe Usability Tests.md",
     "Backlog_0124.md",
@@ -288,9 +290,7 @@
     "NW/~$ysikHA4_1.docx",
     "NW/NW4-Test2-Formelsammlung-v1.pdf",
     "DE/Textinterpretation Eis.md",
-    "INSY/databaseProject/app.py",
     "INSY/Projekt/REST/node_modules/shebang-regex/readme.md",
-    "INSY/Projekt/REST/node_modules/shebang-regex/license",
     "INSY/Projekt/REST/node_modules/shebang-command/readme.md",
     "INSY/Projekt/REST/node_modules/isexe/README.md",
     "INSY/Projekt/REST/node_modules/is-number/README.md",
@@ -310,7 +310,6 @@
     "INSY/Projekt/REST/node_modules/undici/docs/assets/lifecycle-diagram.png",
     "INSY/Projekt/REST/node_modules/undici/docs/api/WebSocket.md",
     "INSY/Projekt/REST/node_modules/undici/docs/best-practices/client-certificate.md",
-    "INSY/Projekt/REST/node_modules/undici/docs/api/RetryHandler.md",
     "INSY/Projekt/REST/node_modules/swagger-ui-dist/favicon-32x32.png",
     "INSY/Projekt/REST/node_modules/swagger-ui-dist/favicon-16x16.png",
     "INSY/Projekt/REST/node_modules/highlight.js/styles/school-book.png",
