@@ -47,6 +47,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "73d1bb21160b1b58",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "NW/Zusammenfassung Extreme NW.pdf"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -229,8 +239,8 @@
   "active": "82139909294b8d16",
   "lastOpenFiles": [
     "NW/Zusammenfassung Extreme NW.pdf",
-    "NW/NW Testvorbereitung 19.1.23.md",
     "NW/Zusammenfassung Extreme NW.md",
+    "NW/NW Testvorbereitung 19.1.23.md",
     "INSY/Projekt/Datenbank-Projekt.md",
     "conflict-files-obsidian-git.md",
     "WIR/Erhebungsform der Einkommensteuer.md",
@@ -255,7 +265,6 @@
     "NW/Test1.jpg",
     "NW/~$ Teststoff.docx",
     "NW/NW Teststoff.docx",
-    "NW/~$ysikHA4_2.docx",
     "DE/Textinterpretation Eis.md",
     "INSY/Projekt/REST/node_modules/shebang-regex/readme.md",
     "INSY/Projekt/REST/node_modules/shebang-command/readme.md",
