@@ -55,9 +55,10 @@ $$f´=f*(1-\frac{g.H}{c^2})$$
 # Fragen:
 
 Kommen alle einzelnen Elementarteilchen? Ladung + Massezahl + Spin.
+<span style="color:#00b050">Wie viel kommt von der Elementarteilchenphysik</span>
 WAS IST SPIN?????????
 Kommt die Berechnung des Radiuses zwischen Kern und Hülle?
-Was kommt von der Schrödinger Gleichung?
+<span style="color:#00b050">Was kommt von der Schrödinger Gleichung?</span>
 Kommt was vom Teilchenbeschleuniger?
 Wie sehr ins Detail bei der Strahlung?
 Müssen wir uns $$f´=f*(1-\frac{g.H}{c^2})$$ herleiten? J/N

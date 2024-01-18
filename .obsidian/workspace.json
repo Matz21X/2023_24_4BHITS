@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "NW/NW Testvorbereitung 19.1.23.md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "NW/NW Testvorbereitung 19.1.23.md"
               }
             }
           },
@@ -182,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "NW/NW Testvorbereitung 19.1.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "NW/NW Testvorbereitung 19.1.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,10 +239,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f586103e388b7ca2",
+  "active": "38228c741ffbf53d",
   "lastOpenFiles": [
-    "REL/Jänner-Zivilcourage.md",
     "Backlog_0124.md",
+    "REL/Jänner-Zivilcourage.md",
     "REL/PDFs/4_Sophie_Scholl.pdf",
     "NW/NW Testvorbereitung 19.1.23.md",
     "WIR/Erhebungsform der Einkommensteuer.md",
