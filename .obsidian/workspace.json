@@ -23,58 +23,6 @@
             }
           },
           {
-            "id": "6f34ef86f8f58b8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MEDT/Aufgabe Usability Tests.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90b98ce58f9d0388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cbbded3aee14f1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NW/NW Testvorbereitung 19.1.23.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f388ea70d941f227",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "60bbdda0cbdc7b6f",
             "type": "leaf",
             "state": {
@@ -88,12 +36,12 @@
             }
           },
           {
-            "id": "10aedd0852400ff7",
+            "id": "82139909294b8d16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backlog_1223.md",
+                "file": "NW/Zusammenfassung Extreme NW.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "NW/Zusammenfassung Extreme NW.md"
               }
             }
           },
@@ -196,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "NW/Zusammenfassung Extreme NW.md"
               }
             }
           },
@@ -222,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "NW/Zusammenfassung Extreme NW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "NW/Zusammenfassung Extreme NW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,9 +226,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f388ea70d941f227",
+  "active": "82139909294b8d16",
   "lastOpenFiles": [
+    "NW/Zusammenfassung Extreme NW.pdf",
     "NW/NW Testvorbereitung 19.1.23.md",
+    "NW/Zusammenfassung Extreme NW.md",
+    "INSY/Projekt/Datenbank-Projekt.md",
     "conflict-files-obsidian-git.md",
     "WIR/Erhebungsform der Einkommensteuer.md",
     "REL/PDFs/4_Sophie_Scholl.pdf",
@@ -290,7 +241,6 @@
     "NW/~WRL2070.tmp",
     "NW/~WRD2054.tmp",
     "NW/~WRD2046.tmp",
-    "INSY/Projekt/Datenbank-Projekt.md",
     "MEDT/Aufgabe Usability Tests.md",
     "Backlog_0124.md",
     "Backlog_1223.md",
@@ -323,9 +273,7 @@
     "INSY/Projekt/REST/node_modules/undici/types/README.md",
     "INSY/Projekt/REST/node_modules/undici/docs/best-practices/writing-tests.md",
     "INSY/Projekt/REST/node_modules/undici/docs/best-practices/mocking-request.md",
-    "INSY/Projekt/REST/node_modules/undici/docs/best-practices/proxy.md",
     "INSY/Projekt/REST/node_modules/undici/docs/assets/lifecycle-diagram.png",
-    "INSY/Projekt/REST/node_modules/undici/docs/api/WebSocket.md",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
