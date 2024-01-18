@@ -62,6 +62,19 @@
             }
           },
           {
+            "id": "f388ea70d941f227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "60bbdda0cbdc7b6f",
             "type": "leaf",
             "state": {
@@ -88,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NW/NW Testvorbereitung 19.1.23.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -183,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NW/NW Testvorbereitung 19.1.23.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -209,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NW/NW Testvorbereitung 19.1.23.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NW/NW Testvorbereitung 19.1.23.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,8 +278,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8cbbded3aee14f1d",
+  "active": "f388ea70d941f227",
   "lastOpenFiles": [
+    "NW/NW Testvorbereitung 19.1.23.md",
+    "conflict-files-obsidian-git.md",
+    "WIR/Erhebungsform der Einkommensteuer.md",
+    "REL/PDFs/4_Sophie_Scholl.pdf",
+    "Attachments/Pasted image 20240118091026.png",
+    "Attachments/Pasted image 20240118090926.png",
+    "Attachments/Pasted image 20240118084945.png",
     "NW/~WRL2070.tmp",
     "NW/~WRD2054.tmp",
     "NW/~WRD2046.tmp",
@@ -274,7 +294,6 @@
     "MEDT/Aufgabe Usability Tests.md",
     "Backlog_0124.md",
     "Backlog_1223.md",
-    "NW/NW Testvorbereitung 19.1.23.md",
     "Attachments/Pasted image 20240117192928.png",
     "Attachments/Pasted image 20240117190408.png",
     "MEDT/MEDT_test_gruppe1.pdf",
@@ -287,8 +306,6 @@
     "NW/~$ Teststoff.docx",
     "NW/NW Teststoff.docx",
     "NW/~$ysikHA4_2.docx",
-    "NW/~$ysikHA4_1.docx",
-    "NW/NW4-Test2-Formelsammlung-v1.pdf",
     "DE/Textinterpretation Eis.md",
     "INSY/Projekt/REST/node_modules/shebang-regex/readme.md",
     "INSY/Projekt/REST/node_modules/shebang-command/readme.md",
@@ -309,10 +326,6 @@
     "INSY/Projekt/REST/node_modules/undici/docs/best-practices/proxy.md",
     "INSY/Projekt/REST/node_modules/undici/docs/assets/lifecycle-diagram.png",
     "INSY/Projekt/REST/node_modules/undici/docs/api/WebSocket.md",
-    "INSY/Projekt/REST/node_modules/undici/docs/best-practices/client-certificate.md",
-    "INSY/Projekt/REST/node_modules/swagger-ui-dist/favicon-32x32.png",
-    "INSY/Projekt/REST/node_modules/swagger-ui-dist/favicon-16x16.png",
-    "INSY/Projekt/REST/node_modules/highlight.js/styles/school-book.png",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"

@@ -39,8 +39,12 @@
 | - | #INSY | [[Datenbank-Projekt]] |  |
 | 17.1 | #SYT | NIX GOANIX FISCHER FIAT SICH AUF |  |
 | - | #WIR | Test zurückbekommen |  |
-| - | #MEDT  | [[07-Von Usability zu User Experience.pdf]] / [[Aufgabe Usability Tests]] |  |
-| - | #INSY  |  |  |
+| - | #MEDT | [[07-Von Usability zu User Experience.pdf]] / [[Aufgabe Usability Tests]] |  |
+| - | #INSY | NIX |  |
+| - | #SEW | Eigentlich Projekt Review aber nicht drangekommen |  |
+| 18.1 | #EN | US Elections, Oregon woman |  |
+| - | #WIR  | [[Erhebungsform der Einkommensteuer]] |  |
+| - | #RK | [[Jänner-Zivilcourage#Sophie Scholl - Lebenslauf]] |  |
 
 Nächster GGP Test ab
 Zettel 5 1.3

@@ -21,7 +21,7 @@ Alles ab ART bis inklusive Anfang Radioaktivität
 
 >**Heisenbergsche Unschärferelation:** Unmöglich den Ort und den Impuls eines (Quanten)-Objekts beliebig genau zu bestimmen.
 
-$$∆p.∆x >ℏ/2=  h/4π$$
+$$∆p.∆x >\frac{ℏ}{2}=  \frac{h}{4π}$$
 
 ### ART (Allgemeine Relativitätstheorie)
 
@@ -55,9 +55,17 @@ $$f´=f*(1-\frac{g.H}{c^2})$$
 # Fragen:
 
 Kommen alle einzelnen Elementarteilchen? Ladung + Massezahl + Spin.
-WAS IST SPIN?????????
-Kommt die Berechnung des Radiuses zwischen Kern und Hülle?
-Was kommt von der Schrödinger Gleichung?
+<span style="color:#00b050">Wie viel kommt von der Elementarteilchenphysik</span> 
+- Welche Kategorien gibt es? (Simet PDF)
+WAS IST SPIN????????? (Kann 2 Werte annehmen)
+- 4 Freiheitsgrad (Quantenzahlen) Eigenwertlösungen  1S1 1S2 4. Quantenzahl = Spin
+<span style="color:#00b050">Kommt die Berechnung des Radiuses zwischen Kern und Hülle?</span>
+- NUH UH, Er hat gesagt er will nicht bei jedem nein sagen (also denk ich nein)
+<span style="color:#00b050">Was kommt von der Schrödinger Gleichung?</span>
+- Unendlich hoher Potenzialtop Ansätze
 Kommt was vom Teilchenbeschleuniger?
+- Driftröhren, Teilchenbeschleunigung
 Wie sehr ins Detail bei der Strahlung?
-Müssen wir uns $$f´=f*(1-\frac{g.H}{c^2})$$ herleiten? J/N
+- Alpha, Beta, Gamma Strahlung Beta- und beta+ 
+Müssen wir uns $$f´=f*(1-\frac{g.H}{c^2})$$herleiten? J/N
+- NAJN
