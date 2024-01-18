@@ -21,7 +21,7 @@ Alles ab ART bis inklusive Anfang Radioaktivität
 
 >**Heisenbergsche Unschärferelation:** Unmöglich den Ort und den Impuls eines (Quanten)-Objekts beliebig genau zu bestimmen.
 
-$$∆p.∆x >ℏ/2=  h/4π$$
+$$∆p.∆x >\frac{ℏ}{2}=  \frac{h}{4π}$$
 
 ### ART (Allgemeine Relativitätstheorie)
 
