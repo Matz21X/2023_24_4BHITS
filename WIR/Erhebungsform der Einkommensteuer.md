@@ -9,5 +9,9 @@
 - Zinsen aus Spareinlagen 25%
 - Immobilienertragsteuer: 30%
 
+**veranlagte Einkommensteuer**
+- ausgezahlt in 4 Teilbeträgen
+
+
 
 
