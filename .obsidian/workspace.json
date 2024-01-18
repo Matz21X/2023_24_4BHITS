@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIR/Erhebungsform der Einkommensteuer.md"
+                "file": "NW/NW Testvorbereitung 19.1.23.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "WIR/Erhebungsform der Einkommensteuer.md"
+                "file": "NW/NW Testvorbereitung 19.1.23.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIR/Erhebungsform der Einkommensteuer.md",
+                "file": "NW/NW Testvorbereitung 19.1.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WIR/Erhebungsform der Einkommensteuer.md",
+                "file": "NW/NW Testvorbereitung 19.1.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,14 +226,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7836ac05054366a4",
+  "active": "38228c741ffbf53d",
   "lastOpenFiles": [
+    "WIR/Erhebungsform der Einkommensteuer.md",
+    "Backlog_0124.md",
     "Attachments/Pasted image 20240118091026.png",
     "Attachments/Pasted image 20240118090926.png",
     "NW/NW Testvorbereitung 19.1.23.md",
-    "WIR/Erhebungsform der Einkommensteuer.md",
     "Attachments/Pasted image 20240118084945.png",
-    "Backlog_0124.md",
     "MEDT/Aufgabe Usability Tests.md",
     "Backlog_1223.md",
     "INSY/Projekt/Datenbank-Projekt.md",
@@ -273,7 +273,6 @@
     "INSY/Projekt/REST/node_modules/undici/docs/best-practices/proxy.md",
     "INSY/Projekt/REST/node_modules/undici/docs/assets/lifecycle-diagram.png",
     "INSY/Projekt/REST/node_modules/undici/docs/api/WebSocket.md",
-    "INSY/Projekt/REST/node_modules/swagger-ui-dist/favicon-32x32.png",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
