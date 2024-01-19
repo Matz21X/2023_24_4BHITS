@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "82139909294b8d16",
+            "id": "1a0da4279e86f210",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NW/Zusammenfassung Extreme NW.md",
+                "file": "DE/Textinterpretation Eis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,22 +49,12 @@
             }
           },
           {
-            "id": "73d1bb21160b1b58",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "NW/Zusammenfassung Extreme NW.pdf"
-              }
-            }
-          },
-          {
-            "id": "1a0da4279e86f210",
+            "id": "51f615cf1afbcf7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DE/Textinterpretation Eis.md",
+                "file": "DE/DasBrot.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -149,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NW/Zusammenfassung Extreme NW.pdf"
+                "file": "DE/DasBrot.md"
               }
             }
           },
@@ -167,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NW/Zusammenfassung Extreme NW.pdf"
+                "file": "DE/DasBrot.md"
               }
             }
           },
@@ -193,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NW/Zusammenfassung Extreme NW.pdf",
+                "file": "DE/DasBrot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NW/Zusammenfassung Extreme NW.pdf",
+                "file": "DE/DasBrot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,14 +240,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "73d1bb21160b1b58",
+  "active": "51f615cf1afbcf7f",
   "lastOpenFiles": [
     "DE/Textinterpretation Eis.md",
-    "Backlog_0124.md",
     "NW/NW Testvorbereitung 19.1.23.md",
-    "NW/~$ysikHA4_2.docx",
-    "NW/Zusammenfassung Extreme NW.pdf",
     "NW/Zusammenfassung Extreme NW.md",
+    "NW/Zusammenfassung Extreme NW.pdf",
+    "Backlog_0124.md",
+    "NW/~$ysikHA4_2.docx",
     "NW/NW4-Test2-Formelsammlung-v2.pdf",
     "INSY/Projekt/Datenbank-Projekt.md",
     "conflict-files-obsidian-git.md",
