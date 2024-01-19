@@ -47,7 +47,11 @@
 | -    | #RK     | [[Jänner-Zivilcourage#Sophie Scholl - Lebenslauf]]                        |                 |
 | -    | #AM     | Wiederholung besprochen                                                   |                 |
 | -    | #NW     | Fragen beantworten                                                        |                 |
-| -     | #ITP         |                                                                           |                 |
+| -    | #ITP    | Projekt                                                                   |                 |
+| -    | #EN     | SA                                                                        |                 |
+| 19.1 | #AM     | WH zurück bekommen                                                        |                 |
+| -    | #NW     | TEST :-                                                                   |                 |
+| -     | #DE         | OASCHBUDDAN                                                                          |                 |
 
 Nächster GGP Test ab
 Zettel 5 1.3
