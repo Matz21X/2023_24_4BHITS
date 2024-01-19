@@ -57,8 +57,22 @@
                 "file": "NW/Zusammenfassung Extreme NW.pdf"
               }
             }
+          },
+          {
+            "id": "1a0da4279e86f210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DE/Textinterpretation Eis.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "NW/Zusammenfassung Extreme NW.pdf"
               }
             }
           },
@@ -154,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "NW/Zusammenfassung Extreme NW.pdf"
               }
             }
           },
@@ -180,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "NW/Zusammenfassung Extreme NW.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "NW/Zusammenfassung Extreme NW.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,12 +250,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f586103e388b7ca2",
+  "active": "73d1bb21160b1b58",
   "lastOpenFiles": [
+    "DE/Textinterpretation Eis.md",
+    "Backlog_0124.md",
     "NW/NW Testvorbereitung 19.1.23.md",
     "NW/~$ysikHA4_2.docx",
     "NW/Zusammenfassung Extreme NW.pdf",
-    "Backlog_0124.md",
     "NW/Zusammenfassung Extreme NW.md",
     "NW/NW4-Test2-Formelsammlung-v2.pdf",
     "INSY/Projekt/Datenbank-Projekt.md",
@@ -266,7 +280,6 @@
     "NW/Test3.jpg",
     "NW/Test2.jpg",
     "NW/Test1.jpg",
-    "DE/Textinterpretation Eis.md",
     "INSY/Projekt/REST/node_modules/shebang-regex/readme.md",
     "INSY/Projekt/REST/node_modules/shebang-command/readme.md",
     "INSY/Projekt/REST/node_modules/isexe/README.md",
