@@ -43,8 +43,9 @@
 | - | #INSY | NIX |  |
 | - | #SEW | Eigentlich Projekt Review aber nicht drangekommen |  |
 | 18.1 | #EN | US Elections, Oregon woman |  |
-| - | #WIR  | [[Erhebungsform der Einkommensteuer]] |  |
+| - | #WIR | [[Erhebungsform der Einkommensteuer]] |  |
 | - | #RK | [[Jänner-Zivilcourage#Sophie Scholl - Lebenslauf]] |  |
+| - |  |  |  |
 
 Nächster GGP Test ab
 Zettel 5 1.3
