@@ -64,3 +64,9 @@
 Schlussteil:</span>
 - Interpretationsergebnis zusammenfassen
 - Wirkung auf den Leser beschreiben
+
+
+## das / dass
+
+>[!INFO] Das / dass
+>Hier gibt es eine einfache Eselsbrücke: Wenn das Wort durch „dies/dieses“, „jenes“ oder „welches“ ersetzt werden kann, schreibst du es mit einem s. Denn dann handelt es sich um den Artikel beziehungsweise das Relativpronomen „das“.
