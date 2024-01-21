@@ -69,4 +69,5 @@ Schlussteil:</span>
 ## das / dass
 
 >[!INFO] Das / dass
->Hier gibt es eine einfache Eselsbrücke: Wenn das Wort durch „dies/dieses“, „jenes“ oder „welches“ ersetzt werden kann, schreibst du es mit einem s. Denn dann handelt es sich um den Artikel beziehungsweise das Relativpronomen „das“.
+>Wenn das Wort durch <span style="color:#00b050">„dies/dieses“, „jenes“</span> oder <span style="color:#00b050">„welches“</span> ersetzt werden kann, schreibst du es mit einem s <span style="color:#00b050">(das)</span>. Denn dann handelt es sich um den Artikel beziehungsweise das Relativpronomen „das“. 
+><span style="color:#00b0f0">Alles andere --> dass</span>
