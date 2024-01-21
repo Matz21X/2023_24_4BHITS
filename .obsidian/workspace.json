@@ -23,38 +23,12 @@
             }
           },
           {
-            "id": "60bbdda0cbdc7b6f",
+            "id": "b717a6d9c464f50f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NW/NW Testvorbereitung 19.1.23.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a0da4279e86f210",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DE/Textinterpretation Eis.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51f615cf1afbcf7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DE/DasBrot.md",
+                "file": "EN/Leaflet Work & study in the EU.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -140,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DE/DasBrot.md"
+                "file": "EN/Leaflet Work & study in the EU.md"
               }
             }
           },
@@ -158,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DE/DasBrot.md"
+                "file": "EN/Leaflet Work & study in the EU.md"
               }
             }
           },
@@ -184,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DE/DasBrot.md",
+                "file": "EN/Leaflet Work & study in the EU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DE/DasBrot.md",
+                "file": "EN/Leaflet Work & study in the EU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,13 +214,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "51f615cf1afbcf7f",
+  "active": "b717a6d9c464f50f",
   "lastOpenFiles": [
+    "Backlog_0124.md",
+    "EN/Leaflet Work & study in the EU.md",
+    "DE/DasBrot.md",
     "DE/Textinterpretation Eis.md",
     "NW/NW Testvorbereitung 19.1.23.md",
     "NW/Zusammenfassung Extreme NW.md",
     "NW/Zusammenfassung Extreme NW.pdf",
-    "Backlog_0124.md",
     "NW/~$ysikHA4_2.docx",
     "NW/NW4-Test2-Formelsammlung-v2.pdf",
     "INSY/Projekt/Datenbank-Projekt.md",
@@ -286,7 +261,6 @@
     "INSY/Projekt/REST/node_modules/graceful-fs/README.md",
     "INSY/Projekt/REST/node_modules/undici/types/README.md",
     "INSY/Projekt/REST/node_modules/undici/docs/best-practices/writing-tests.md",
-    "INSY/Projekt/REST/node_modules/undici/docs/best-practices/mocking-request.md",
     "INSY/Projekt/REST/node_modules/undici/docs/assets/lifecycle-diagram.png",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
