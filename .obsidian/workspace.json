@@ -26,12 +26,10 @@
             "id": "43101d04b01c50cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "DE/Muendliche Pruefung Vorb.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -112,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DE/Muendliche Pruefung Vorb.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "DE/Muendliche Pruefung Vorb.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DE/Muendliche Pruefung Vorb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DE/Muendliche Pruefung Vorb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,13 +207,14 @@
   },
   "active": "43101d04b01c50cf",
   "lastOpenFiles": [
+    "DE/Muendliche Pruefung Vorb.md",
+    "Attachments/Pasted image 20240121210234.png",
     "DE/Muendliche Pruefung Vorb.pdf",
     "INSY/PSQL/PSQL-Aufgabe1.md",
     "INSY/PSQL/PSQL-Aufgabe-1.md",
     "INSY/INSY-Jahresstoff.md",
     "INSY/PSQL.md",
     "INSY/~$thon-DB-Projektangabe.docx",
-    "DE/Muendliche Pruefung Vorb.md",
     "Backlog_0124.md",
     "DE/DeutschMuendlich/WhatsApp Image 2024-01-19 at 12.13.18 (1).jpeg",
     "DE/DeutschMuendlich/Textinterpretation/Seite39.jpeg",
@@ -235,13 +228,11 @@
     "DE/DeutschMuendlich/stilmittel/Seite23.jpeg",
     "DE/DeutschMuendlich/stilmittel/Seite22.jpeg",
     "DE/DeutschMuendlich/stilmittel",
-    "DE/DeutschMuendlich/Sachtext bravo/WhatsApp Image 2024-01-19 at 12.12.51.jpeg",
     "DE/DeutschMuendlich/Sachtext bravo",
     "DE/DeutschMuendlich/DasEis",
     "DE/DeutschMuendlich/Deutsch/Textinterpretation",
     "DE/DeutschMuendlich/Deutsch/Textanalyse",
     "DE/DeutschMuendlich/Deutsch/stilmittel",
-    "DE/DeutschMuendlich/Deutsch/Sachtext bravo",
     "EN/Leaflet Work & study in the EU.md",
     "DE/DasBrot.md",
     "DE/Textinterpretation Eis.md",

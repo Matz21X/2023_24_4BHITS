@@ -77,8 +77,22 @@ Schlussteil:</span>
 
 **Großschreibung**
 
-Nomen / Substantive
-- Artikel - der, die, das 
+<span style="color:#00b050">Nomen / Substantive:</span>
+- <span style="color:#00b0f0">Artikel - der, die, das </span>
 	- "der Trottl"
-- Zahlwörter - zwei, drei, vier
-	- drei 
+- <span style="color:#00b0f0">Zahlwörter - zwei, drei, vier</span>
+	- "drei Deppen"
+- <span style="color:#00b0f0"> Adjektive - dummer, blöder, behinderter</span>
+	- "dummer Emmentaler"
+- <span style="color:#00b0f0">Pronomen - mein, unser, deine</span>
+	- "mein Trottl" 
+
+Substantivierte Adjektive und Verbe:
+- <span style="color:#00b0f0">versteckte Artikel - vom, beim, zum</span>
+	- "beim Beschimpfen"
+- <span style="color:#00b0f0">vorangestellte (besitzanzeigende) Pronomen - dein, unser, ihr</span>
+	- "unser Brüllen"
+- <span style="color:#00b0f0">vorangestellte Mengenangaben - etwas, wenig, viel</span>
+	- "etwas Dummes"
+
+![[Pasted image 20240121210234.png]]
