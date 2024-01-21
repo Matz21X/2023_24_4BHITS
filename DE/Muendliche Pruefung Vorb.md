@@ -47,6 +47,20 @@
 
 ## Textinterpretation
 
-Einleitung:
+<span style="color:#00b050">Einleitung:</span>
 - Titel, Autor, Erscheinungsort/datum, Textsorte
-- Welche literarische Epoche
+- Welche literarische Epoche?
+- Thema des Textes
+
+<span style="color:#00b050">Hauptteil:</span>
+- Kurze Zusammenfassung
+- Analyse von Inhalt, Form, Sprache
+- Arbeitsaufträge
+- Interpretationshypothese entwickeln und interpretieren
+- überprüfen und belegen von Hypothese
+- Kritische Stellungnahme
+
+<span style="color:#00b050">
+Schlussteil:</span>
+- Interpretationsergebnis zusammenfassen
+- Wirkung auf den Leser beschreiben
