@@ -49,7 +49,7 @@
 
 <span style="color:#00b050">Einleitung:</span>
 - Titel, Autor, Erscheinungsort/datum, Textsorte
-- Welche literarische Epoche?
+- Welche literarische Epoche? (=Kontextuierung)
 - Thema des Textes
 
 <span style="color:#00b050">Hauptteil:</span>
