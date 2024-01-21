@@ -39,7 +39,7 @@
 - Bezug auf die Zielgruppe
 
 <span style="color:#00b050">Schlussteil - Zusammenfassung und Einschätzung</span>
-- Stellungnahme - Position von Autor einnehmen
+- Stellungnahme zur Position des Autors
 - Argumentation schlüssig?
 - Zielumsetzung von Autor gelungen?
 - Fazit
