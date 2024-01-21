@@ -95,4 +95,4 @@ Substantivierte Adjektive und Verbe:
 - <span style="color:#00b0f0">vorangestellte Mengenangaben - etwas, wenig, viel</span>
 	- "etwas Dummes"
 
-![[Pasted image 20240121210234.png]]
+![Pasted image 20240121210234](https://github.com/Matz21X/2023_24_4BHITS/assets/127680394/3de97849-9975-45d6-9f19-0955e3838687)
