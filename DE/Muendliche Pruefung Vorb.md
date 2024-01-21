@@ -35,7 +35,7 @@
 <span style="color:#00b050">Der Text und seine Wirkung</span>
 - Intentionen des Textes untersuchen
 - Botschaften entschlüsseln
-- Von Bildern vermittelte Botschaften (entschlüsseln)
+- (Von Bildern vermittelte Botschaften entschlüsseln)
 - Bezug auf die Zielgruppe
 
 <span style="color:#00b050">Schlussteil - Zusammenfassung und Einschätzung</span>
