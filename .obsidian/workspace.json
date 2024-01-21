@@ -197,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 212.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,6 +215,7 @@
   },
   "active": "b717a6d9c464f50f",
   "lastOpenFiles": [
+    "EN/Leaflet Work & study in the EU.pdf",
     "Backlog_0124.md",
     "EN/Leaflet Work & study in the EU.md",
     "DE/DasBrot.md",
@@ -260,7 +260,6 @@
     "INSY/Projekt/REST/node_modules/glob/changelog.md",
     "INSY/Projekt/REST/node_modules/graceful-fs/README.md",
     "INSY/Projekt/REST/node_modules/undici/types/README.md",
-    "INSY/Projekt/REST/node_modules/undici/docs/best-practices/writing-tests.md",
     "INSY/Projekt/REST/node_modules/undici/docs/assets/lifecycle-diagram.png",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
