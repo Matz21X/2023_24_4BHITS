@@ -71,3 +71,14 @@ Schlussteil:</span>
 >[!INFO] Das / dass
 >Wenn das Wort durch <span style="color:#00b050">„dies/dieses“, „jenes“</span> oder <span style="color:#00b050">„welches“</span> ersetzt werden kann, schreibst du es mit einem s <span style="color:#00b050">(das)</span>. Denn dann handelt es sich um den Artikel beziehungsweise das Relativpronomen „das“. 
 ><span style="color:#00b0f0">Alles andere --> dass</span>
+
+
+## Groß- / Kleinschreibung (🤡)
+
+**Großschreibung**
+
+Nomen / Substantive
+- Artikel - der, die, das 
+	- "der Trottl"
+- Zahlwörter - zwei, drei, vier
+	- drei 
