@@ -13,25 +13,33 @@
 
 **Aufbau:**
 
-Einleitung
+<span style="color:#00b050">Einleitung:</span>
 - Titel, Autor, Erscheinungsdatum
 - Textart bestimmen
 - Medium
 - Thema kurz beschreiben
 
-Hauptteil - Analyse:
+<span style="color:#00b050">Hauptteil - Analyse:</span>
 - Formale Merkmale (Wie ist der Text aufgebaut?)
 
-Inhaltliche Merkmale:
+<span style="color:#00b050">Inhaltliche Merkmale:</span>
 - Inhalt zusammenfassen
 - Textaufbau inhaltlich
 
-Satzbau und sprachliche Merkmale
+<span style="color:#00b050">Satzbau und sprachliche Merkmale</span>
 - Wortwahl, Satzbau analysieren
 - Sprachliche mittel / Wirkung
 - Argumentationsweise
 - Zusammenhang von Inhalt & Sprache
 
-Der Text und seine Wirkung
+<span style="color:#00b050">Der Text und seine Wirkung</span>
 - Intentionen des Textes untersuchen
-- Botschaften entschlüssel
+- Botschaften entschlüsseln
+- Von Bildern vermittelte Botschaften (entschlüsseln)
+- Bezug auf die Zielgruppe
+
+<span style="color:#00b050">Schlussteil - Zusammenfassung und Einschätzung</span>
+- Stellungnahme - Position von Autor einnehmen
+- Argumentation schlüssig?
+- Zielumsetzung von Autor gelungen?
+- Fazit
