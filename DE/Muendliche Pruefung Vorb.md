@@ -43,3 +43,10 @@
 - Argumentation schlüssig?
 - Zielumsetzung von Autor gelungen?
 - Fazit
+
+
+## Textinterpretation
+
+Einleitung:
+- Titel, Autor, Erscheinungsort/datum, Textsorte
+- Welche literarische Epoche
