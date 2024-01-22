@@ -82,7 +82,7 @@ Schlussteil:</span>
 	- "der Trottl"
 - <span style="color:#00b0f0">Zahlwörter - zwei, drei, vier</span>
 	- "drei Deppen"
-- <span style="color:#00b0f0"> Adjektive - dummer, blöder, behinderter</span>
+- <span style="color:#00b0f0">Adjektive - dummer, blöder, behinderter</span>
 	- "dummer Emmentaler"
 - <span style="color:#00b0f0">Pronomen - mein, unser, deine</span>
 	- "mein Trottl" 
