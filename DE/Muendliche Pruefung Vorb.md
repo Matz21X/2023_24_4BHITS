@@ -120,7 +120,7 @@ Substantivierte Adjektive und Verbe:
 | <span style="color:#00b050">Onomatopoesie</span> | Lautmalerei, Schallnachahmung | "Bumm, Knall, Schepper" |
 | <span style="color:#00b050">Oxymoron</span> | zwei Begriffe, die sich widersprechen | leises Brüllen |
 | <span style="color:#00b050">Paradoxon</span> | scheinbar widersprüchliche Aussage | Ich weiß, dass ich nix weiß |
-| <span style="color:#00b050">Pars pro Toto</span> | ein Teil fürs Ganze | Brüssel (EU Verwaltung), Felix (Ketchup...) |
+| <span style="color:#00b050">Pars pro Toto</span> | ein Teil fürs Ganze | <span style="color:#ff0000">Brüssel (EU Verwaltung), Felix (Ketchup...)</span> |
 | <span style="color:#00b050">Rhetorische Frage</span> | Frage, auf die keine Antwort erwartet wird | Kommt da Fischer heute zu spät? |
 | <span style="color:#00b050">Tautologie</span> | zwei Wörter die das selbe ausdrücken, aber keine neue Bedeutung bringen | nie und nimmer, der kleine Zwerg |
 | <span style="color:#00b050">Vergleich</span> |  | stark wie ein Gruca, dumm wie Brot |
