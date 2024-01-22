@@ -104,7 +104,7 @@ Substantivierte Adjektive und Verbe:
 | ---- | ---- | ---- |
 | <span style="color:#00b050">Allegorie</span> | Verbildlichung von Abstraktem | Sensenmann = Tod |
 | <span style="color:#00b050">Alliteration</span> | mehrere Wörter beginnen mit dem selben Laut | Fischers Fritz fischt frische.... |
-| <span style="color:#00b050">Anapher</span> | Wiederholung von einem / mehreren Wörtern |  |
+| <span style="color:#00b050">Anapher</span> | Wiederholung von einem / mehreren Wörtern | If-Schleife! If-Schleife! If-Schleife! |
 | <span style="color:#00b050">Antiklimax</span> | Wörter / Satzteile in abnehmender Wichtigkeit angereiht | Kaiser, König, Edelmann... |
 | <span style="color:#00b050">Antithese</span> | gegensätzliche Begriffe gegenüberstellen | liebe und hass, ... |
 | <span style="color:#00b050">Chiasmus</span> | Überkreuzstellung von Satzgliedern | Die Kunst ist lang, und Kurz ist unser Leben |
