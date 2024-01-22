@@ -53,7 +53,9 @@
 | - | #NW | TEST :- |  |
 | - | #DE | OASCHBUDDAN |  |
 | - | #NWT | VPN-Beispiel / NIX |  |
-| 22.1 | #NWT |  |  |
+| 22.1 | #NWT | [[DonkeyKong Lvl22 Bug]] |  |
+| - | #AM | OneNote Aufgabe Buch 3.67  |  |
+|  |  |  |  |
 
 Nächster GGP Test ab
 Zettel 5 1.3
