@@ -102,24 +102,24 @@ Substantivierte Adjektive und Verbe:
 
 | **Name** | **Erklärung** | **Beispiel** |
 | ---- | ---- | ---- |
-| Allegorie | Verbildlichung von Abstraktem | Sensenmann = Tod |
-| Alliteration | mehrere Wörter beginnen mit dem selben Laut | Fischers Fritz fischt frische.... |
-| Antiklimax | Wörter / Satzteile in abnehmender Wichtigkeit angereiht | Kaiser, König, Edelmann... |
-| Antithese | gegensätzliche Begriffe gegenüberstellen | liebe und hass, ... |
-| Chiasmus | Überkreuzstellung von Satzgliedern | Die Kunst ist lang, und Kurz ist unser Leben |
-| Ellipse | Auslassung eines Satzteils | Kann ich ein Glas Lean "[haben]"? |
-| Epipher | mehrere Sätze enden mit dem selben Wort / Wörtern | Unser Hotel: oasch! Unser Service: oasch! |
-| Euphemismus | sprachliche Beschönigung | Verhaltenskreativ |
-| Hendiadyoin |  | Feuer und Flamme, Recht und Würde |
-| Hyperbel | Überteibung | Es hat sich angefühlt wie 10 Mateusz |
-| Ironie | Man meint das Gegenteil der eigentlichen Aussage | Schöne Schrift, Herr Emmentaler |
-| Klimax | Sich steigernde Reihe von Wörtern / Satzteilen | Gut, Besser, Wieselburger |
-| Metapher | Bildhafter ausdruck | Einen Frosch im Hals zu haben |
-| Neologismus | Neubildung von Begriffen | "Käse" für Deutschlehrer |
-| Onomatopoesie | Lautmalerei, Schallnachahmung | "Bumm, Knall, Schepper" |
-| Oxymoron | zwei Begriffe, die sich widersprechen | leises Brüllen |
-| Paradoxon | scheinbar widersprüchliche Aussage | Ich weiß, dass ich nix weiß |
-| Pars pro Toto | ein Teil fürs Ganze | Brüssel (EU Verwaltung), Felix (Ketchup...) |
-| Rhetorische Frage | Frage, auf die keine Antwort erwartet wird | Kommt da Fischer heute zu spät? |
-| Tautologie | zwei Wörter die das selbe ausdrücken, aber keine neue Bedeutung bringen | nie und nimmer, der kleine Zwerg |
-| Vergleich |  | stark wie ein Gruca, dumm wie Brot |
+| <span style="color:#00b050">Allegorie</span> | Verbildlichung von Abstraktem | Sensenmann = Tod |
+| <span style="color:#00b050">Alliteration</span> | mehrere Wörter beginnen mit dem selben Laut | Fischers Fritz fischt frische.... |
+| <span style="color:#00b050">Antiklimax</span> | Wörter / Satzteile in abnehmender Wichtigkeit angereiht | Kaiser, König, Edelmann... |
+| <span style="color:#00b050">Antithese</span> | gegensätzliche Begriffe gegenüberstellen | liebe und hass, ... |
+| <span style="color:#00b050">Chiasmus</span> | Überkreuzstellung von Satzgliedern | Die Kunst ist lang, und Kurz ist unser Leben |
+| <span style="color:#00b050">Ellipse</span> | Auslassung eines Satzteils | Kann ich ein Glas Lean "[haben]"? |
+| <span style="color:#00b050">Epipher</span> | mehrere Sätze enden mit dem selben Wort / Wörtern | Unser Hotel: oasch! Unser Service: oasch! |
+| <span style="color:#00b050">Euphemismus</span> | sprachliche Beschönigung | Verhaltenskreativ |
+| <span style="color:#00b050">Hendiadyoin</span> |  | Feuer und Flamme, Recht und Würde |
+| <span style="color:#00b050">Hyperbel</span> | Überteibung | Es hat sich angefühlt wie 10 Mateusz |
+| <span style="color:#00b050">Ironie</span> | Man meint das Gegenteil der eigentlichen Aussage | Schöne Schrift, Herr Emmentaler |
+| <span style="color:#00b050">Klimax</span> | Sich steigernde Reihe von Wörtern / Satzteilen | Gut, Besser, Wieselburger |
+| <span style="color:#00b050">Metapher</span> | Bildhafter ausdruck | Einen Frosch im Hals zu haben |
+| <span style="color:#00b050">Neologismus</span> | Neubildung von Begriffen | "Käse" für Deutschlehrer |
+| <span style="color:#00b050">Onomatopoesie</span> | Lautmalerei, Schallnachahmung | "Bumm, Knall, Schepper" |
+| <span style="color:#00b050">Oxymoron</span> | zwei Begriffe, die sich widersprechen | leises Brüllen |
+| <span style="color:#00b050">Paradoxon</span> | scheinbar widersprüchliche Aussage | Ich weiß, dass ich nix weiß |
+| <span style="color:#00b050">Pars pro Toto</span> | ein Teil fürs Ganze | Brüssel (EU Verwaltung), Felix (Ketchup...) |
+| <span style="color:#00b050">Rhetorische Frage</span> | Frage, auf die keine Antwort erwartet wird | Kommt da Fischer heute zu spät? |
+| <span style="color:#00b050">Tautologie</span> | zwei Wörter die das selbe ausdrücken, aber keine neue Bedeutung bringen | nie und nimmer, der kleine Zwerg |
+| <span style="color:#00b050">Vergleich</span> |  | stark wie ein Gruca, dumm wie Brot |
