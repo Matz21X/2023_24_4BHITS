@@ -96,3 +96,18 @@ Substantivierte Adjektive und Verbe:
 	- "etwas Dummes"
 
 ![Pasted image 20240121210234](https://github.com/Matz21X/2023_24_4BHITS/assets/127680394/3de97849-9975-45d6-9f19-0955e3838687)
+
+
+## Stilmittel
+
+| **Name**     | **Erklärung**                                           | **Beispiel**                                 |
+| ------------ | ------------------------------------------------------- | -------------------------------------------- |
+| Allegorie    | Verbildlichung von Abstraktem                           | Sensenmann = Tod                             |
+| Alliteration | mehrere Wörter beginnen mit dem selben Laut             | Fischers Fritz fischt frische....            |
+| Antiklimax   | Wörter / Satzteile in abnehmender Wichtigkeit angereiht | Kaiser, König, Edelmann...                   |
+| Antithese    | gegensätzliche Begriffe gegenüberstellen                | liebe und hass, ...                          |
+| Chiasmus     | Überkreuzstellung von Satzgliedern                      | Die Kunst ist lang, und Kurz ist unser Leben |
+| Ellipse      | Auslassung eines Satzteils                              | Kann ich ein Glas Lean "[haben]"             |
+| Epipher      | mehrere Sätze enden mit dem selben Wort / Wörtern       | Unser Hotel: oasch! Unser Service: oasch!    |
+| Euphemismus  | sprachliche Beschönigung                                | Verhaltenskreativ                            |
+| Hendi             |                                                         |                                              |
