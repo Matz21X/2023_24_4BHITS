@@ -100,23 +100,26 @@ Substantivierte Adjektive und Verbe:
 
 ## Stilmittel
 
-| **Name**      | **Erklärung**                                           | **Beispiel**                                 |
-| ------------- | ------------------------------------------------------- | -------------------------------------------- |
-| Allegorie     | Verbildlichung von Abstraktem                           | Sensenmann = Tod                             |
-| Alliteration  | mehrere Wörter beginnen mit dem selben Laut             | Fischers Fritz fischt frische....            |
-| Antiklimax    | Wörter / Satzteile in abnehmender Wichtigkeit angereiht | Kaiser, König, Edelmann...                   |
-| Antithese     | gegensätzliche Begriffe gegenüberstellen                | liebe und hass, ...                          |
-| Chiasmus      | Überkreuzstellung von Satzgliedern                      | Die Kunst ist lang, und Kurz ist unser Leben |
-| Ellipse       | Auslassung eines Satzteils                              | Kann ich ein Glas Lean "[haben]"?            |
-| Epipher       | mehrere Sätze enden mit dem selben Wort / Wörtern       | Unser Hotel: oasch! Unser Service: oasch!    |
-| Euphemismus   | sprachliche Beschönigung                                | Verhaltenskreativ                            |
-| Hendiadyoin   |                                                         | Feuer und Flamme, Recht und Würde            |
-| Hyperbel      | Überteibung                                             | Es hat sich angefühlt wie 10 Mateusz         |
-| Ironie        | Man meint das Gegenteil der eigentlichen Aussage        | Schöne Schrift, Herr Emmentaler              |
-| Klimax        | Sich steigernde Reihe von Wörtern / Satzteilen          | Gut, Besser, Wieselburger                    |
-| Metapher      | Bildhafter ausdruck                                     | Einen Frosch im Hals zu haben                |
-| Neologismus   | Neubildung von Begriffen                                | "Käse" für Deutschlehrer                     |
-| Onomatopoesie | Lautmalerei, Schallnachahmung                           | "Bumm, Knall, Schepper"                      |
-| Oxymoron      | zwei Begriffe, die sich widersprechen                   | leises Brüllen                               |
-| Paradoxon     | scheinbar widersprüchliche Aussage                      | Ich weiß, dass ich nix weiß                  |
-|               |                                                         |                                              |
+| **Name** | **Erklärung** | **Beispiel** |
+| ---- | ---- | ---- |
+| Allegorie | Verbildlichung von Abstraktem | Sensenmann = Tod |
+| Alliteration | mehrere Wörter beginnen mit dem selben Laut | Fischers Fritz fischt frische.... |
+| Antiklimax | Wörter / Satzteile in abnehmender Wichtigkeit angereiht | Kaiser, König, Edelmann... |
+| Antithese | gegensätzliche Begriffe gegenüberstellen | liebe und hass, ... |
+| Chiasmus | Überkreuzstellung von Satzgliedern | Die Kunst ist lang, und Kurz ist unser Leben |
+| Ellipse | Auslassung eines Satzteils | Kann ich ein Glas Lean "[haben]"? |
+| Epipher | mehrere Sätze enden mit dem selben Wort / Wörtern | Unser Hotel: oasch! Unser Service: oasch! |
+| Euphemismus | sprachliche Beschönigung | Verhaltenskreativ |
+| Hendiadyoin |  | Feuer und Flamme, Recht und Würde |
+| Hyperbel | Überteibung | Es hat sich angefühlt wie 10 Mateusz |
+| Ironie | Man meint das Gegenteil der eigentlichen Aussage | Schöne Schrift, Herr Emmentaler |
+| Klimax | Sich steigernde Reihe von Wörtern / Satzteilen | Gut, Besser, Wieselburger |
+| Metapher | Bildhafter ausdruck | Einen Frosch im Hals zu haben |
+| Neologismus | Neubildung von Begriffen | "Käse" für Deutschlehrer |
+| Onomatopoesie | Lautmalerei, Schallnachahmung | "Bumm, Knall, Schepper" |
+| Oxymoron | zwei Begriffe, die sich widersprechen | leises Brüllen |
+| Paradoxon | scheinbar widersprüchliche Aussage | Ich weiß, dass ich nix weiß |
+| Pars pro Toto | ein Teil fürs Ganze | Brüssel (EU Verwaltung), Felix (Ketchup...) |
+| Rhetorische Frage | Frage, auf die keine Antwort erwartet wird | Kommt da Fischer heute zu spät? |
+| Tautologie | zwei Wörter die das selbe ausdrücken, aber keine neue Bedeutung bringen | nie und nimmer, der kleine Zwerg |
+| Vergleich |  | stark wie ein Gruca, dumm wie Brot |
