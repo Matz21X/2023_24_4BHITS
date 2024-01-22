@@ -206,11 +206,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,7 +226,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9883b4bae606b360",
+  "active": "70c8e5a78cbd40aa",
   "lastOpenFiles": [
     "NWT/Minecraft Server Task.md",
     "Backlog_0124.md",

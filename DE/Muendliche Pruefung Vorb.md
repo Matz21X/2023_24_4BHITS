@@ -104,6 +104,7 @@ Substantivierte Adjektive und Verbe:
 | ---- | ---- | ---- |
 | <span style="color:#00b050">Allegorie</span> | Verbildlichung von Abstraktem | Sensenmann = Tod |
 | <span style="color:#00b050">Alliteration</span> | mehrere Wörter beginnen mit dem selben Laut | Fischers Fritz fischt frische.... |
+| <span style="color:#00b050">Anapher</span> | Wiederholung von einem / mehreren Wörtern |  |
 | <span style="color:#00b050">Antiklimax</span> | Wörter / Satzteile in abnehmender Wichtigkeit angereiht | Kaiser, König, Edelmann... |
 | <span style="color:#00b050">Antithese</span> | gegensätzliche Begriffe gegenüberstellen | liebe und hass, ... |
 | <span style="color:#00b050">Chiasmus</span> | Überkreuzstellung von Satzgliedern | Die Kunst ist lang, und Kurz ist unser Leben |
@@ -111,7 +112,7 @@ Substantivierte Adjektive und Verbe:
 | <span style="color:#00b050">Epipher</span> | mehrere Sätze enden mit dem selben Wort / Wörtern | Unser Hotel: oasch! Unser Service: oasch! |
 | <span style="color:#00b050">Euphemismus</span> | sprachliche Beschönigung | Verhaltenskreativ |
 | <span style="color:#00b050">Hendiadyoin</span> |  | Feuer und Flamme, Recht und Würde |
-| <span style="color:#00b050">Hyperbel</span> | Überteibung | Es hat sich angefühlt wie 10 Mateusz |
+| <span style="color:#00b050">Hyperbel</span> | Überteibung | <span style="color:#ff0000">Es hat sich angefühlt wie 10 Mateusz</span> |
 | <span style="color:#00b050">Ironie</span> | Man meint das Gegenteil der eigentlichen Aussage | Schöne Schrift, Herr Emmentaler |
 | <span style="color:#00b050">Klimax</span> | Sich steigernde Reihe von Wörtern / Satzteilen | Gut, Besser, Wieselburger |
 | <span style="color:#00b050">Metapher</span> | Bildhafter ausdruck | Einen Frosch im Hals zu haben |
