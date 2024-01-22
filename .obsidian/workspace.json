@@ -47,6 +47,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8fcb84a65b33f4d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DE/Textinterpretation Eis.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -206,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -226,11 +239,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "70c8e5a78cbd40aa",
+  "active": "9883b4bae606b360",
   "lastOpenFiles": [
+    "DE/Textinterpretation Eis.md",
+    "DE/Muendliche Pruefung Vorb.md",
     "NWT/Minecraft Server Task.md",
     "Backlog_0124.md",
-    "DE/Muendliche Pruefung Vorb.md",
     "NWT/DonkeyKong Lvl22 Bug.md",
     "Attachments/Pasted image 20231215133302.png",
     "Attachments/Pasted image 20240121210234.png",
@@ -258,7 +272,6 @@
     "DE/DeutschMuendlich/Deutsch/stilmittel",
     "EN/Leaflet Work & study in the EU.md",
     "DE/DasBrot.md",
-    "DE/Textinterpretation Eis.md",
     "NW/NW Testvorbereitung 19.1.23.md",
     "NW/Zusammenfassung Extreme NW.md",
     "INSY/Projekt/Datenbank-Projekt.md",
