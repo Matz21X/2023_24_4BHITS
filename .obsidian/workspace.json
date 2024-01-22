@@ -23,6 +23,32 @@
             }
           },
           {
+            "id": "860649b016fd15ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NWT/Minecraft Server Task.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9883b4bae606b360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NWT/Minecraft Server Task.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d2990a71b38cf8ea",
             "type": "leaf",
             "state": {
@@ -41,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#RK",
+                "query": "Pasted image 20231215133302",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -219,10 +244,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d2990a71b38cf8ea",
+  "active": "f586103e388b7ca2",
   "lastOpenFiles": [
-    "DE/Muendliche Pruefung Vorb.md",
+    "NWT/Minecraft Server Task.md",
+    "Attachments/Pasted image 20231215133302.png",
     "Backlog_0124.md",
+    "DE/Muendliche Pruefung Vorb.md",
     "Attachments/Pasted image 20240121210234.png",
     "DE/Muendliche Pruefung Vorb.pdf",
     "INSY/PSQL/PSQL-Aufgabe1.md",
@@ -240,7 +267,6 @@
     "DE/DeutschMuendlich/Textanalyse/Analyse von literarischen Texten.jpeg",
     "DE/DeutschMuendlich/Textanalyse",
     "DE/DeutschMuendlich/stilmittel/Seite23.jpeg",
-    "DE/DeutschMuendlich/stilmittel/Seite22.jpeg",
     "DE/DeutschMuendlich/stilmittel",
     "DE/DeutschMuendlich/Sachtext bravo",
     "DE/DeutschMuendlich/DasEis",
@@ -265,7 +291,6 @@
     "INSY/Projekt/REST/node_modules/micromatch/README.md",
     "INSY/Projekt/REST/node_modules/slash/readme.md",
     "INSY/Projekt/REST/node_modules/inflight/README.md",
-    "INSY/Projekt/REST/node_modules/minimatch/README.md",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
