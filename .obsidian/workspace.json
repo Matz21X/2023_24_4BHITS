@@ -41,15 +41,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NWT/Minecraft Server Task.md",
+                "file": "DE/Muendliche Pruefung Vorb.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NWT/Minecraft Server Task.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -144,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NWT/Minecraft Server Task.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NWT/Minecraft Server Task.md",
+                "file": "Backlog_0124.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NWT/Minecraft Server Task.md",
+                "file": "Backlog_0124.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,13 +225,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "860649b016fd15ec",
+  "active": "f586103e388b7ca2",
   "lastOpenFiles": [
+    "NWT/Minecraft Server Task.md",
+    "DE/Muendliche Pruefung Vorb.md",
     "Backlog_0124.md",
     "NWT/DonkeyKong Lvl22 Bug.md",
-    "NWT/Minecraft Server Task.md",
     "Attachments/Pasted image 20231215133302.png",
-    "DE/Muendliche Pruefung Vorb.md",
     "Attachments/Pasted image 20240121210234.png",
     "DE/Muendliche Pruefung Vorb.pdf",
     "INSY/PSQL/PSQL-Aufgabe1.md",
