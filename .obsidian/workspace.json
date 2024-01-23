@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c58e6b35ab9ffe36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DE/Muendliche Pruefung Vorb.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md"
+                "file": "DE/Muendliche Pruefung Vorb.md"
               }
             }
           },
@@ -131,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md"
+                "file": "DE/Muendliche Pruefung Vorb.md"
               }
             }
           },
@@ -157,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md",
+                "file": "DE/Muendliche Pruefung Vorb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md",
+                "file": "DE/Muendliche Pruefung Vorb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,8 +227,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "860649b016fd15ec",
+  "active": "c58e6b35ab9ffe36",
   "lastOpenFiles": [
+    "INSY/Projekt/Datenbank-Projekt.md",
     "NWT/Minecraft Server Task.md",
     "DE/Muendliche Pruefung Vorb.md",
     "DE/Textinterpretation Eis.md",
@@ -250,7 +264,6 @@
     "DE/DasBrot.md",
     "NW/NW Testvorbereitung 19.1.23.md",
     "NW/Zusammenfassung Extreme NW.md",
-    "INSY/Projekt/Datenbank-Projekt.md",
     "conflict-files-obsidian-git.md",
     "WIR/Erhebungsform der Einkommensteuer.md",
     "MEDT/Aufgabe Usability Tests.md",
