@@ -5,7 +5,7 @@ S.38 [[Seite38.jpg]]
 
 **Einleitung:**
 
-Der vorliegende Text trägt den Titel "Eis" und stammt von Helga M. Novak (1935-2013). Veröffentlicht wurde er im Jahr 1968. Helga M. Novak war eine deutsche Schriftstellerin, die sich vor allem mit Lyrik und Prosa beschäftigte. Der Text ist in Form einer Kurzgeschichte verfasst und gehört in den Kontext der Nachkriegsliteratur.
+Der vorliegende Text mit dem Titel "Eis" und stammt von Helga M. Novak (1935-2013). Veröffentlicht wurde er im Jahr 1968. Der Text ist in Form einer Kurzgeschichte verfasst und gehört in den Kontext der Nachkriegsliteratur.
 
 **Thema des Textes:**
 
