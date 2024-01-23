@@ -26,13 +26,8 @@
             "id": "860649b016fd15ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -78,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pasted image 20231215133302",
+                "query": "tag:#DE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -95,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +178,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,12 +219,12 @@
   },
   "active": "860649b016fd15ec",
   "lastOpenFiles": [
-    "DE/Muendliche Pruefung Vorb.md",
     "INSY/Projekt/Datenbank-Projekt.md",
+    "Backlog_0124.md",
+    "DE/Muendliche Pruefung Vorb.md",
     "NWT/Minecraft Server Task.md",
     "DE/Textinterpretation Eis.md",
     "INSY/Stolli github/Datenbankdesign.md",
-    "Backlog_0124.md",
     "NWT/DonkeyKong Lvl22 Bug.md",
     "Attachments/Pasted image 20231215133302.png",
     "Attachments/Pasted image 20240121210234.png",
