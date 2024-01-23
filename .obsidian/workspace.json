@@ -26,8 +26,13 @@
             "id": "860649b016fd15ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "INSY/Projekt/Datenbank-Projekt.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -121,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "INSY/Projekt/Datenbank-Projekt.md"
+              }
             }
           },
           {
@@ -137,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "INSY/Projekt/Datenbank-Projekt.md"
+              }
             }
           },
           {
@@ -162,6 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "INSY/Projekt/Datenbank-Projekt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "INSY/Projekt/Datenbank-Projekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,9 +230,9 @@
   },
   "active": "860649b016fd15ec",
   "lastOpenFiles": [
-    "INSY/Projekt/Datenbank-Projekt.md",
-    "Backlog_0124.md",
     "DE/Muendliche Pruefung Vorb.md",
+    "Backlog_0124.md",
+    "INSY/Projekt/Datenbank-Projekt.md",
     "NWT/Minecraft Server Task.md",
     "DE/Textinterpretation Eis.md",
     "INSY/Stolli github/Datenbankdesign.md",
