@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "860649b016fd15ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c58e6b35ab9ffe36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DE/Muendliche Pruefung Vorb.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -145,7 +118,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -171,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md",
+                "file": "Backlog_0124.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/Projekt/Datenbank-Projekt.md",
+                "file": "Backlog_0124.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,11 +201,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "860649b016fd15ec",
+  "active": "f586103e388b7ca2",
   "lastOpenFiles": [
+    "INSY/Projekt/Datenbank-Projekt.md",
     "DE/Muendliche Pruefung Vorb.md",
     "Backlog_0124.md",
-    "INSY/Projekt/Datenbank-Projekt.md",
     "NWT/Minecraft Server Task.md",
     "DE/Textinterpretation Eis.md",
     "INSY/Stolli github/Datenbankdesign.md",
