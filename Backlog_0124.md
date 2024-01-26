@@ -64,7 +64,8 @@
 | -    | #INSY   | [[MEDT/PDF/06-Docker.pdf\|06-Docker]] Mogging 🗿                          |                 |
 | 25.1 | -       | Stellung                                                                  |                 |
 | 26.1 | -       | Stellung                                                                  |                 |
-| 27.1     | #AM        |                                                                           |                 |
+| 27.1 | #AM     | Yuh                                                                       |                 |
+| -     | #ITP        | [[Netzplan]]                                                                          |                 |
 
 Nächster GGP Test ab
 Zettel 5 1.3
