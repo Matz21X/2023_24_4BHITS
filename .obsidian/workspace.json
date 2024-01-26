@@ -74,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "Fischer timesheet.md"
               }
             }
           },
@@ -169,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "Fischer timesheet.md"
               }
             }
           },
@@ -195,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "Fischer timesheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "Fischer timesheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,10 +253,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f586103e388b7ca2",
+  "active": "82e867976177a0c1",
   "lastOpenFiles": [
-    "Fischer timesheet.md",
+    "SYT/Arduino-Code.zip",
     "Backlog_0124.md",
+    "Fischer timesheet.md",
     "Attachments/2000_Yard_Stare.jpg",
     "Attachments/2000_Yard_Stare.jpg.crdownload",
     "SEW-Theorie/Singleton (Pattern).md",
@@ -299,7 +301,6 @@
     "WIR/Erhebungsform der Einkommensteuer.md",
     "MEDT/Aufgabe Usability Tests.md",
     "Backlog_1223.md",
-    "INSY/Projekt/REST/node_modules/shebang-regex/readme.md",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
