@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -144,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md",
+                "file": "Backlog_0124.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md",
+                "file": "Backlog_0124.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,12 +226,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ae6b0113102c1acc",
+  "active": "f586103e388b7ca2",
   "lastOpenFiles": [
+    "SEW-Theorie/Singleton (Pattern).md",
     "Backlog_0124.md",
     "ITP/Theorie/Projektmanagement.md",
     "ITP/Theorie/Netzplan.md",
-    "SEW-Theorie/Singleton (Pattern).md",
     "INSY/Projekt/Datenbank-Projekt.md",
     "DE/Muendliche Pruefung Vorb.md",
     "NWT/Minecraft Server Task.md",

@@ -45,7 +45,7 @@ public enum MySingleton {
 }
 ```
 
-**Anwendungsbeispiele**:
+**Anwendungsbeispiele:**
 - Zugriff auf eine zentrale Login-Funktionalität in eine Datei
 
 

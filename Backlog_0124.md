@@ -66,7 +66,8 @@
 | 26.1 | - | Stellung |  |
 | 27.1 | #AM | Yuh |  |
 | - | #ITP | [[Netzplan]] |  |
-| - | #SEW  |  |  |
+| - | #SEW  | [[Singleton (Pattern)]] ENUM |  |
+| - | #NW |  |  |
 
 Nächster GGP Test ab
 Zettel 5 1.3
