@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITP/Theorie/Netzplan.md",
+                "file": "ITP/Theorie/YUH/README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP/Theorie/Netzplan.md"
+                "file": "ITP/Theorie/YUH/README.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP/Theorie/Netzplan.md"
+                "file": "ITP/Theorie/YUH/README.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/Theorie/Netzplan.md",
+                "file": "ITP/Theorie/YUH/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP/Theorie/Netzplan.md",
+                "file": "ITP/Theorie/YUH/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,10 +242,19 @@
   },
   "active": "1f50e723b9425e6a",
   "lastOpenFiles": [
+    "ITP/Theorie/Netzplan.md",
+    "ITP/Theorie/YUH/README.md",
+    "ITP/Theorie/YUH/projekte-leicht-gemacht.de-Crashkurs Netzplantechnik Grundbegriffe und Übungsbeispiel.pdf",
+    "ITP/Theorie/YUH/NetzplanUndGanttUebung02.pdf",
+    "ITP/Theorie/YUH",
+    "ITP/Theorie/Neuer Ordner/projekte-leicht-gemacht.de-Crashkurs Netzplantechnik Grundbegriffe und Übungsbeispiel.pdf",
+    "ITP/Theorie/Neuer Ordner/NetzplanUndGanttUebung02.pdf",
+    "ITP/Theorie/Neuer Ordner/README.md",
+    "ITP/Theorie/Neuer Ordner",
+    "Untitled",
     "Backlog_0124.md",
     "SEW-Theorie/Singleton (Pattern).md",
     "ITP/Theorie/Projektmanagement.md",
-    "ITP/Theorie/Netzplan.md",
     "INSY/Projekt/Datenbank-Projekt.md",
     "DE/Muendliche Pruefung Vorb.md",
     "NWT/Minecraft Server Task.md",
@@ -268,14 +277,7 @@
     "DE/DeutschMuendlich/Textanalyse/WhatsApp Image 2024-01-19 at 12.12.49.jpeg",
     "DE/DeutschMuendlich/Textanalyse/Seite23.jpeg",
     "DE/DeutschMuendlich/Textanalyse/Analyse von literarischen Texten.jpeg",
-    "DE/DeutschMuendlich/Textanalyse",
     "DE/DeutschMuendlich/stilmittel/Seite23.jpeg",
-    "DE/DeutschMuendlich/stilmittel",
-    "DE/DeutschMuendlich/Sachtext bravo",
-    "DE/DeutschMuendlich/DasEis",
-    "DE/DeutschMuendlich/Deutsch/Textinterpretation",
-    "DE/DeutschMuendlich/Deutsch/Textanalyse",
-    "DE/DeutschMuendlich/Deutsch/stilmittel",
     "EN/Leaflet Work & study in the EU.md",
     "DE/DasBrot.md",
     "NW/NW Testvorbereitung 19.1.23.md",
@@ -286,8 +288,6 @@
     "Backlog_1223.md",
     "INSY/Projekt/REST/node_modules/shebang-regex/readme.md",
     "INSY/Projekt/REST/node_modules/shebang-command/readme.md",
-    "INSY/Projekt/REST/node_modules/isexe/README.md",
-    "INSY/Projekt/REST/node_modules/is-number/README.md",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
