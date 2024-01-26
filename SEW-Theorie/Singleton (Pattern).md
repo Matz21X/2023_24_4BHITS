@@ -45,8 +45,9 @@ public enum MySingleton {
 }
 ```
 
-Anwendungsbeispiele:
+**Anwendungsbeispiele**:
 - Zugriff auf eine zentrale Login-Funktionalität in eine Datei
 
-VORSICHT:
-Eine Singleton implementier
+
+>[!INFO] VORSICHT!!!!
+>Eine Singleton Implementierung sollte sehr sparsam eingesetzt werden, da die Gefahr besteht Quasi ein Äquivalent zu globalen Variablen zu schaffen. Die Testbarkeit wird darüber hinaus sehr erschwert.
