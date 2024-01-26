@@ -22,3 +22,5 @@ public class mySingleton(){
 		}
 }
 ```
+
+Das Schlüsselwort `synchronized` stellt sicher, dass der Singleton nur einmal 
