@@ -74,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fischer timesheet.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -170,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fischer timesheet.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -196,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fischer timesheet.md",
+                "file": "Backlog_0124.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fischer timesheet.md",
+                "file": "Backlog_0124.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,11 +252,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "82e867976177a0c1",
+  "active": "f586103e388b7ca2",
   "lastOpenFiles": [
+    "Fischer timesheet.md",
     "SYT/Arduino-Code.zip",
     "Backlog_0124.md",
-    "Fischer timesheet.md",
     "Attachments/2000_Yard_Stare.jpg",
     "Attachments/2000_Yard_Stare.jpg.crdownload",
     "SEW-Theorie/Singleton (Pattern).md",
@@ -285,7 +284,6 @@
     "INSY/PSQL/PSQL-Aufgabe-1.md",
     "INSY/INSY-Jahresstoff.md",
     "INSY/PSQL.md",
-    "INSY/~$thon-DB-Projektangabe.docx",
     "DE/DeutschMuendlich/WhatsApp Image 2024-01-19 at 12.13.18 (1).jpeg",
     "DE/DeutschMuendlich/Textinterpretation/Seite39.jpeg",
     "DE/DeutschMuendlich/Textinterpretation/Seite38.jpeg",
