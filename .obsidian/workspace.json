@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "82e867976177a0c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fischer timesheet.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f20bde44d6ea23a8",
             "type": "leaf",
             "state": {
@@ -61,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "Fischer timesheet.md"
               }
             }
           },
@@ -156,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "Fischer timesheet.md"
               }
             }
           },
@@ -182,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "Fischer timesheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "Fischer timesheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,8 +253,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f586103e388b7ca2",
+  "active": "82e867976177a0c1",
   "lastOpenFiles": [
+    "Backlog_0124.md",
+    "Fischer timesheet.md",
     "Attachments/2000_Yard_Stare.jpg",
     "Attachments/2000_Yard_Stare.jpg.crdownload",
     "SEW-Theorie/Singleton (Pattern).md",
@@ -255,7 +271,6 @@
     "ITP/Theorie/Neuer Ordner/README.md",
     "ITP/Theorie/Neuer Ordner",
     "Untitled",
-    "Backlog_0124.md",
     "INSY/Projekt/Datenbank-Projekt.md",
     "DE/Muendliche Pruefung Vorb.md",
     "NWT/Minecraft Server Task.md",
@@ -277,7 +292,6 @@
     "DE/DeutschMuendlich/Textanalyse/WhatsApp Image 2024-01-19 at 12.12.49.jpeg",
     "DE/DeutschMuendlich/Textanalyse/Seite23.jpeg",
     "DE/DeutschMuendlich/Textanalyse/Analyse von literarischen Texten.jpeg",
-    "DE/DeutschMuendlich/stilmittel/Seite23.jpeg",
     "EN/Leaflet Work & study in the EU.md",
     "DE/DasBrot.md",
     "NW/NW Testvorbereitung 19.1.23.md",
