@@ -19,8 +19,34 @@ public class mySingleton(){
 
 	public int getValue(){
 		// ...
-		}
+	}
 }
 ```
 
-Das Schlüsselwort `synchronized` stellt sicher, dass der Singleton nur einmal 
+Das Schlüsselwort `synchronized` stellt sicher, dass der Singleton nur einmal instanziiert wird. (Threadsicher)
+
+**Zugriff aus anderer Klasse:**
+```java
+MySingleton.getInstance.getValue();
+```
+
+**Alternative Implementierung mittels Enum:**
+```java
+public enum MySingleton {
+	INSTANCE;
+	public MySingleton getInstance() {
+		return INSTANCE;
+	}
+	// Other methods ...
+
+	public int getValue(){
+		// ...
+	}
+}
+```
+
+Anwendungsbeispiele:
+- Zugriff auf eine zentrale Login-Funktionalität in eine Datei
+
+VORSICHT:
+Eine Singleton implementier

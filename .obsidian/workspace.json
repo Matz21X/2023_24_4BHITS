@@ -36,19 +36,6 @@
             }
           },
           {
-            "id": "4de3987002bc7d8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITP/Theorie/Netzplan.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ae6b0113102c1acc",
             "type": "leaf",
             "state": {
@@ -62,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,8 +230,9 @@
   "active": "ae6b0113102c1acc",
   "lastOpenFiles": [
     "Backlog_0124.md",
-    "ITP/Theorie/Netzplan.md",
     "ITP/Theorie/Projektmanagement.md",
+    "ITP/Theorie/Netzplan.md",
+    "SEW-Theorie/Singleton (Pattern).md",
     "INSY/Projekt/Datenbank-Projekt.md",
     "DE/Muendliche Pruefung Vorb.md",
     "NWT/Minecraft Server Task.md",
@@ -287,7 +275,6 @@
     "INSY/Projekt/REST/node_modules/shebang-command/readme.md",
     "INSY/Projekt/REST/node_modules/isexe/README.md",
     "INSY/Projekt/REST/node_modules/is-number/README.md",
-    "INSY/Projekt/REST/node_modules/fill-range/README.md",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
