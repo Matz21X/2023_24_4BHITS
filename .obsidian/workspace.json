@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP/Theorie/YUH/README.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP/Theorie/YUH/README.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/Theorie/YUH/README.md",
+                "file": "Backlog_0124.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP/Theorie/YUH/README.md",
+                "file": "Backlog_0124.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,10 +239,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1f50e723b9425e6a",
+  "active": "f586103e388b7ca2",
   "lastOpenFiles": [
-    "ITP/Theorie/Netzplan.md",
+    "Attachments/2000_Yard_Stare.jpg",
+    "Attachments/2000_Yard_Stare.jpg.crdownload",
+    "SEW-Theorie/Singleton (Pattern).md",
+    "ITP/Theorie/Projektmanagement.md",
     "ITP/Theorie/YUH/README.md",
+    "ITP/Theorie/Netzplan.md",
     "ITP/Theorie/YUH/projekte-leicht-gemacht.de-Crashkurs Netzplantechnik Grundbegriffe und Übungsbeispiel.pdf",
     "ITP/Theorie/YUH/NetzplanUndGanttUebung02.pdf",
     "ITP/Theorie/YUH",
@@ -253,8 +256,6 @@
     "ITP/Theorie/Neuer Ordner",
     "Untitled",
     "Backlog_0124.md",
-    "SEW-Theorie/Singleton (Pattern).md",
-    "ITP/Theorie/Projektmanagement.md",
     "INSY/Projekt/Datenbank-Projekt.md",
     "DE/Muendliche Pruefung Vorb.md",
     "NWT/Minecraft Server Task.md",
@@ -272,7 +273,6 @@
     "DE/DeutschMuendlich/WhatsApp Image 2024-01-19 at 12.13.18 (1).jpeg",
     "DE/DeutschMuendlich/Textinterpretation/Seite39.jpeg",
     "DE/DeutschMuendlich/Textinterpretation/Seite38.jpeg",
-    "DE/DeutschMuendlich/Textinterpretation",
     "DE/DeutschMuendlich/Textanalyse/WhatsApp Image 2024-01-19 at 12.12.51 (1).jpeg",
     "DE/DeutschMuendlich/Textanalyse/WhatsApp Image 2024-01-19 at 12.12.49.jpeg",
     "DE/DeutschMuendlich/Textanalyse/Seite23.jpeg",
@@ -287,7 +287,6 @@
     "MEDT/Aufgabe Usability Tests.md",
     "Backlog_1223.md",
     "INSY/Projekt/REST/node_modules/shebang-regex/readme.md",
-    "INSY/Projekt/REST/node_modules/shebang-command/readme.md",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
