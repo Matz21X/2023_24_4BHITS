@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3233d0b63368761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INSY/Docker Übungsaufgabe.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIR/Wirtschaft/Zeitungsartikel.md"
+                "file": "INSY/Docker Übungsaufgabe.md"
               }
             }
           },
@@ -132,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "WIR/Wirtschaft/Zeitungsartikel.md"
+                "file": "INSY/Docker Übungsaufgabe.md"
               }
             }
           },
@@ -158,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIR/Wirtschaft/Zeitungsartikel.md",
+                "file": "INSY/Docker Übungsaufgabe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WIR/Wirtschaft/Zeitungsartikel.md",
+                "file": "INSY/Docker Übungsaufgabe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,13 +228,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "92dc73fddbe7b3b5",
+  "active": "f3233d0b63368761",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240128163853.png",
+    "Attachments/Pasted image 20240128163454.png",
+    "WIR/Wirtschaft/Zeitungsartikel.md",
+    "INSY/Docker Übungsaufgabe.md",
     "WIR/Wirtschaft/Zeitungsartikel.pptx",
     "WIR/Wirtschaft/~$Zeitungsartikel.pptx",
     "Backlog_0124.md",
     "Z_Obsidian-Help/Help-Page.md",
-    "WIR/Wirtschaft/Zeitungsartikel.md",
     "WIR/Wirtschaft/Gewinnermittlung_Kap2.md",
     "Backlog_1023.md",
     "WIR/Zeitungsartikel.md",
@@ -242,7 +258,6 @@
     "WIR/Wirtschaft/Aufzeichnung der E+A Rechnung.md",
     "WIR/Recht",
     "WIR/Neuer Ordner",
-    "WIR/Wirtschaft",
     "Fischer timesheet.md",
     "Attachments/2000_Yard_Stare.jpg",
     "SEW-Theorie/Singleton (Pattern).md",
@@ -253,7 +268,6 @@
     "INSY/Projekt/Datenbank-Projekt.md",
     "DE/Muendliche Pruefung Vorb.md",
     "NWT/Minecraft Server Task.md",
-    "DE/Textinterpretation Eis.md",
     "Attachments/Pasted image 20231215133302.png",
     "Attachments/Pasted image 20240121210234.png",
     "DE/DeutschMuendlich/WhatsApp Image 2024-01-19 at 12.13.18 (1).jpeg",
@@ -262,7 +276,6 @@
     "DE/DeutschMuendlich/Textanalyse/WhatsApp Image 2024-01-19 at 12.12.51 (1).jpeg",
     "DE/DeutschMuendlich/Textanalyse/WhatsApp Image 2024-01-19 at 12.12.49.jpeg",
     "DE/DeutschMuendlich/Textanalyse/Seite23.jpeg",
-    "DE/DeutschMuendlich/Textanalyse/Analyse von literarischen Texten.jpeg",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
