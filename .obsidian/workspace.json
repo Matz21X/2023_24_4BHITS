@@ -23,51 +23,12 @@
             }
           },
           {
-            "id": "82e867976177a0c1",
+            "id": "92dc73fddbe7b3b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fischer timesheet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f20bde44d6ea23a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITP/Theorie/Projektmanagement.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae6b0113102c1acc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f50e723b9425e6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITP/Theorie/YUH/README.md",
+                "file": "WIR/Wirtschaft/Zeitungsartikel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fischer timesheet.md"
+                "file": "WIR/Wirtschaft/Zeitungsartikel.md"
               }
             }
           },
@@ -170,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fischer timesheet.md"
+                "file": "WIR/Wirtschaft/Zeitungsartikel.md"
               }
             }
           },
@@ -196,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fischer timesheet.md",
+                "file": "WIR/Wirtschaft/Zeitungsartikel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fischer timesheet.md",
+                "file": "WIR/Wirtschaft/Zeitungsartikel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,38 +214,47 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "82e867976177a0c1",
+  "active": "92dc73fddbe7b3b5",
   "lastOpenFiles": [
     "Backlog_0124.md",
+    "Z_Obsidian-Help/Help-Page.md",
+    "WIR/Wirtschaft/Zeitungsartikel.md",
+    "WIR/Wirtschaft/Gewinnermittlung_Kap2.md",
+    "Backlog_1023.md",
+    "WIR/Zeitungsartikel.md",
+    "WIR/Wirtschaft/Wirtschaft-Test Vorbereitung.md",
+    "WIR/Wirtschaft/Wirtschaftssubjekte.md",
+    "WIR/Wirtschaft/Wirtschaftsordnung.md",
+    "WIR/Wirtschaft/Wirtschaft.pdf",
+    "WIR/Wirtschaft/WIR Testvorbereitung 11.1.23.md",
+    "WIR/Wirtschaft/Unternehmensarten.md",
+    "WIR/Wirtschaft/SkriptSteuerlehre.pdf",
+    "WIR/Recht/Recht.pdf",
+    "WIR/Recht/Recht.zip",
+    "WIR/Recht/Recht von Seite 27 bis 40.docx",
+    "WIR/~$cht von Seite 27 bis 40.docx",
+    "WIR/Recht/Recht Test-Vorbereitung.md",
+    "WIR/Wirtschaft/Erhebungsform der Einkommensteuer.md",
+    "WIR/Wirtschaft/Einstieg Wirtschaft.md",
+    "WIR/Wirtschaft/Aufzeichnung der E+A Rechnung.md",
+    "WIR/Recht",
+    "WIR/Neuer Ordner",
+    "WIR/Wirtschaft",
     "Fischer timesheet.md",
     "SYT/Arduino-Code.zip",
     "Attachments/2000_Yard_Stare.jpg",
-    "Attachments/2000_Yard_Stare.jpg.crdownload",
     "SEW-Theorie/Singleton (Pattern).md",
     "ITP/Theorie/Projektmanagement.md",
     "ITP/Theorie/YUH/README.md",
     "ITP/Theorie/Netzplan.md",
-    "ITP/Theorie/YUH/projekte-leicht-gemacht.de-Crashkurs Netzplantechnik Grundbegriffe und Übungsbeispiel.pdf",
-    "ITP/Theorie/YUH/NetzplanUndGanttUebung02.pdf",
-    "ITP/Theorie/YUH",
-    "ITP/Theorie/Neuer Ordner/projekte-leicht-gemacht.de-Crashkurs Netzplantechnik Grundbegriffe und Übungsbeispiel.pdf",
-    "ITP/Theorie/Neuer Ordner/NetzplanUndGanttUebung02.pdf",
     "ITP/Theorie/Neuer Ordner/README.md",
-    "ITP/Theorie/Neuer Ordner",
-    "Untitled",
     "INSY/Projekt/Datenbank-Projekt.md",
     "DE/Muendliche Pruefung Vorb.md",
     "NWT/Minecraft Server Task.md",
     "DE/Textinterpretation Eis.md",
     "INSY/Stolli github/Datenbankdesign.md",
-    "NWT/DonkeyKong Lvl22 Bug.md",
     "Attachments/Pasted image 20231215133302.png",
     "Attachments/Pasted image 20240121210234.png",
-    "DE/Muendliche Pruefung Vorb.pdf",
-    "INSY/PSQL/PSQL-Aufgabe1.md",
-    "INSY/PSQL/PSQL-Aufgabe-1.md",
-    "INSY/INSY-Jahresstoff.md",
-    "INSY/PSQL.md",
     "DE/DeutschMuendlich/WhatsApp Image 2024-01-19 at 12.13.18 (1).jpeg",
     "DE/DeutschMuendlich/Textinterpretation/Seite39.jpeg",
     "DE/DeutschMuendlich/Textinterpretation/Seite38.jpeg",
@@ -292,14 +262,6 @@
     "DE/DeutschMuendlich/Textanalyse/WhatsApp Image 2024-01-19 at 12.12.49.jpeg",
     "DE/DeutschMuendlich/Textanalyse/Seite23.jpeg",
     "DE/DeutschMuendlich/Textanalyse/Analyse von literarischen Texten.jpeg",
-    "EN/Leaflet Work & study in the EU.md",
-    "DE/DasBrot.md",
-    "NW/NW Testvorbereitung 19.1.23.md",
-    "NW/Zusammenfassung Extreme NW.md",
-    "conflict-files-obsidian-git.md",
-    "WIR/Erhebungsform der Einkommensteuer.md",
-    "MEDT/Aufgabe Usability Tests.md",
-    "Backlog_1223.md",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
