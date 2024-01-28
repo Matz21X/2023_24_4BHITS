@@ -1,14 +1,14 @@
 # Docker Übungsaufgabe
 #INSY 
 
-**Neuen Ubuntu Container starten:**
+### 1. Neuen Ubuntu Container herunterladen:
 ```bash
 docker pull ubuntu
 ```
 
 ![[Pasted image 20240128163454.png]]
 
-**Container starten:**
+### 2. Container starten:
 ```bash
 docker run -ti ubuntu /bin/bash
 ```
@@ -17,6 +17,18 @@ docker run -ti ubuntu /bin/bash
 (Startet container im interactive modus)
 
 
-**Paketmanager aktualisieren und tree herunterladen:**
+### 3. Paketmanager aktualisieren und tree herunterladen:
 ```bash
+apt update
+apt upgrade
+apt install tree
 ```
+
+![[Pasted image 20240128164328.png]]
+
+### 4. Tree Befehl ausführen:
+```bash
+tree
+```
+
+![[Pasted image 20240128164439.png]]Tree zeigt die Ordnerstruktur an. Es wird verwendet um Strukturen zu visualisieren.

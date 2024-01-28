@@ -211,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5,
-    "collapsed": true
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,6 +229,9 @@
   },
   "active": "f3233d0b63368761",
   "lastOpenFiles": [
+    "INSY/Docker Übungsaufgabe.pdf",
+    "Attachments/Pasted image 20240128164439.png",
+    "Attachments/Pasted image 20240128164328.png",
     "Attachments/Pasted image 20240128163853.png",
     "Attachments/Pasted image 20240128163454.png",
     "WIR/Wirtschaft/Zeitungsartikel.md",
@@ -273,9 +275,6 @@
     "DE/DeutschMuendlich/WhatsApp Image 2024-01-19 at 12.13.18 (1).jpeg",
     "DE/DeutschMuendlich/Textinterpretation/Seite39.jpeg",
     "DE/DeutschMuendlich/Textinterpretation/Seite38.jpeg",
-    "DE/DeutschMuendlich/Textanalyse/WhatsApp Image 2024-01-19 at 12.12.51 (1).jpeg",
-    "DE/DeutschMuendlich/Textanalyse/WhatsApp Image 2024-01-19 at 12.12.49.jpeg",
-    "DE/DeutschMuendlich/Textanalyse/Seite23.jpeg",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
