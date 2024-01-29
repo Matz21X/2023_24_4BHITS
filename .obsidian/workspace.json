@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIR/Wirtschaft/Zeitungsartikel.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -132,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "WIR/Wirtschaft/Zeitungsartikel.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIR/Wirtschaft/Zeitungsartikel.md",
+                "file": "Backlog_0124.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WIR/Wirtschaft/Zeitungsartikel.md",
+                "file": "Backlog_0124.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,11 +213,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "38c5734b3fca2a14",
+  "active": "f586103e388b7ca2",
   "lastOpenFiles": [
+    "WIR/Wirtschaft/Zeitungsartikel.md",
     "Backlog_0124.md",
     "INSY/Docker Übungsaufgabe.pdf",
-    "WIR/Wirtschaft/Zeitungsartikel.md",
     "INSY/Docker Übungsaufgabe.md",
     "Attachments/Pasted image 20240128164439.png",
     "Attachments/Pasted image 20240128164328.png",

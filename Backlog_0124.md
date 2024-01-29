@@ -69,7 +69,9 @@
 | -    | #SEW    | [[Singleton (Pattern)]] ENUM                                              |                 |
 | -    | #NW     | Mündliche Prüfungen [[2000_Yard_Stare.jpg]]                               |                 |
 | -    | #ITP    | [[Netzplan]] Siehe "YUH"                                                  |                 |
-| -     | #NWT         | Notenbasar                                                                          |                 |
+| -    | #NWT    | Notenbasar                                                                |                 |
+| 29.1 | #NWT    | DonkeyKong Bugfix                                                         |                 |
+| -     | #GGP        |                                                                           |                 |
 
 Nächster GGP Test ab
 Zettel 5 1.3
