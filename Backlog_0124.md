@@ -71,7 +71,8 @@
 | -    | #ITP    | [[Netzplan]] Siehe "YUH"                                                  |                 |
 | -    | #NWT    | Notenbasar                                                                |                 |
 | 29.1 | #NWT    | DonkeyKong Bugfix                                                         |                 |
-| -     | #GGP        |                                                                           |                 |
+| -    | #GGP    | [[6. Geldwesen_Schüler.pdf]] [[5. Wirtschaftspolitk_Schüler.pdf]]         |                 |
+| -     | #EN        |                                                                           |                 |
 
 Nächster GGP Test ab
 Zettel 5 1.3
