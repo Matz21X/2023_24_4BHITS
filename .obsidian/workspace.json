@@ -35,7 +35,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "WIR/Wirtschaft/Zeitungsartikel.md"
               }
             }
           },
@@ -131,7 +132,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "WIR/Wirtschaft/Zeitungsartikel.md"
               }
             }
           },
@@ -157,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "WIR/Wirtschaft/Zeitungsartikel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "WIR/Wirtschaft/Zeitungsartikel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,13 +214,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f586103e388b7ca2",
+  "active": "38c5734b3fca2a14",
   "lastOpenFiles": [
+    "Backlog_0124.md",
+    "WIR/Wirtschaft/~$Zeitungsartikel.pptx",
     "REL/PDFs/7_Endzeit.pdf",
     "REL/PDFs/7_Serj_Tankian.pdf",
     "GGP/6. Geldwesen_Schüler.pdf",
     "WIR/Wirtschaft/Zeitungsartikel.md",
-    "Backlog_0124.md",
     "INSY/Docker Übungsaufgabe.pdf",
     "INSY/Docker Übungsaufgabe.md",
     "Attachments/Pasted image 20240128164439.png",
@@ -227,7 +229,6 @@
     "Attachments/Pasted image 20240128163853.png",
     "Attachments/Pasted image 20240128163454.png",
     "WIR/Wirtschaft/Zeitungsartikel.pptx",
-    "WIR/Wirtschaft/~$Zeitungsartikel.pptx",
     "Z_Obsidian-Help/Help-Page.md",
     "WIR/Wirtschaft/Gewinnermittlung_Kap2.md",
     "Backlog_1023.md",
@@ -241,7 +242,6 @@
     "WIR/Wirtschaft/SkriptSteuerlehre.pdf",
     "WIR/Recht/Recht.pdf",
     "WIR/Recht/Recht.zip",
-    "WIR/Recht/Recht von Seite 27 bis 40.docx",
     "WIR/Recht/Recht Test-Vorbereitung.md",
     "WIR/Wirtschaft/Erhebungsform der Einkommensteuer.md",
     "WIR/Wirtschaft/Einstieg Wirtschaft.md",
