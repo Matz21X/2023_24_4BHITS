@@ -11,3 +11,5 @@ Gruppe: Hrbek, Thienel
 	1. "China und die mit Taiwan verbündeten USA um Einfluss in der pazifischen Region ringen..."
 3. Was macht China mit allen Staaten die mit Taiwan im Vertag stehen?
 	1. "übt Druck auf alle Staaten aus, die Kontakte zur der Inselrepublik vor dem chinesischen Festland unterhalten."
+
+![[Pasted image 20240130201642.png]]
