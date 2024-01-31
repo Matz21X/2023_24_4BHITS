@@ -10,16 +10,6 @@ const char* password = "hollabrunn";
 
 WebServer server(80);
 
-void handleRoot() {
-  float tempBoard1 = getTemperatureFromBoard1();
-  float tempBoard2 = getTemperatureFromBoard2();
-
-  String tempData = "Temperatur von Board 1: " + String(tempBoard1) + "°C\n";
-  tempData += "Temperatur von Board 2: " + String(tempBoard2) + "°C";
-
-  server.send(200, "text/plain", tempData);
-}
-
 void setup() {
   Serial.begin(9600);
 
@@ -65,4 +55,14 @@ float requestTemperatureFromBoard2() {
     Serial.println("Fehler beim Verbinden mit Board 2");
     return -1.0; // Fehlerwert
   }
+}
+
+void handleRoot() {
+  float tempBoard1 = getTemperatureFromBoard1();
+  float tempBoard2 = getTemperatureFromBoard2();
+
+  String tempData = "Temperatur von Board 1: " + String(tempBoard1) + "°C\n";
+  tempData += "Temperatur von Board 2: " + String(tempBoard2) + "°C";
+
+  server.send(200, "text/plain", tempData);
 }

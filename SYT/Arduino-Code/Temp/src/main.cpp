@@ -28,6 +28,6 @@ void loop() {
   dp.setCursor(20, 8);
   dp.println(currentTemp);
   dp.display();
-  delay(500);
+  // delay(500);
 }
 
