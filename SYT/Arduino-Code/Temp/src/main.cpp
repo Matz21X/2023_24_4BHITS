@@ -22,7 +22,7 @@ void handleRoot()
   ts.requestTemperatures();
   currentTemp = ts.getTempCByIndex(0);
   String tempString = String(currentTemp);
-  String html = "<html><body><h1>Temperatur: <span id='temp'>" + tempString + "</span> &deg;C</h1><script>setTimeout(updateTemperature, 1000);function updateTemperature(){var xhttp = new XMLHttpRequest(); xhttp.onreadystatechange = function() {if (this.readyState == 4 && this.status == 200) {document.getElementById('temp').innerHTML = this.responseText;}}; xhttp.open('GET', '/temperature', true); xhttp.send();}</script></body></html>";
+  String html = "<html><body><h1>Temperatur: <span id='temp'>" + tempString + "</span> &deg;C</h1><script>setTimeout(updateTemperature, 200);function updateTemperature(){var xhttp = new XMLHttpRequest(); xhttp.onreadystatechange = function() {if (this.readyState == 4 && this.status == 200) {document.getElementById('temp').innerHTML = this.responseText;}}; xhttp.open('GET', '/temperature', true); xhttp.send();}</script></body></html>";
   myWebServer.send(200, "text/html", html);
 }
 
@@ -67,5 +67,5 @@ void loop()
   dp.setCursor(20, 8);
   dp.println(currentTemp);
   dp.display();
-  // delay(1000); // Kurze Verzögerung für die Aktualisierung der Anzeige
+  delay(200); // Kurze Verzögerung für die Aktualisierung der Anzeige
 }
