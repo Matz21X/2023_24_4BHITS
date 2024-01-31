@@ -75,7 +75,7 @@
 | - | #EN | Page 77-78 Genetic modifications |  |
 | - | #RK | [[7_Serj_Tankian.pdf]] |  |
 | 30.1 | - | FH St.Pölten Security Day |  |
-| 31.1 | #SYT  |  |  |
+| 31.1 | #SYT  | NIX, BLADA FISCHA |  |
 
 Nächster GGP Test ab
 Zettel 5 1.3
