@@ -35,7 +35,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "WIR/Wirtschaft/Zeitungsartikel_Info.md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "WIR/Wirtschaft/Zeitungsartikel_Info.md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "WIR/Wirtschaft/Zeitungsartikel_Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "WIR/Wirtschaft/Zeitungsartikel_Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,12 +213,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f586103e388b7ca2",
+  "active": "3aea59aa27801837",
   "lastOpenFiles": [
+    "Backlog_0124.md",
     "WIR/Wirtschaft/Zeitungsartikel_Info.md",
     "WIR/Wirtschaft/Zeitungsartikel_Info.pdf",
     "Attachments/Pasted image 20240130201642.png",
-    "Backlog_0124.md",
     "WIR/Wirtschaft/SkriptSteuerlehre.pdf",
     "WIR/Wirtschaft/~$Zeitungsartikel.pptx",
     "REL/PDFs/7_Endzeit.pdf",
