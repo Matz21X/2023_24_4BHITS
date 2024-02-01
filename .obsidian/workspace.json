@@ -34,19 +34,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3aea59aa27801837",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIR/Wirtschaft/Zeitungsartikel_Info.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -228,9 +215,9 @@
   },
   "active": "cef1b3102c4cd038",
   "lastOpenFiles": [
-    "Backlog_0124.md",
-    "MEDT/Docker Networking.md",
     "WIR/Wirtschaft/Zeitungsartikel_Info.md",
+    "MEDT/Docker Networking.md",
+    "Backlog_0124.md",
     "WIR/Wirtschaft/Zeitungsartikel_Info.pdf",
     "Attachments/Pasted image 20240130201642.png",
     "WIR/Wirtschaft/SkriptSteuerlehre.pdf",
