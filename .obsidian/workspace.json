@@ -36,6 +36,19 @@
             }
           },
           {
+            "id": "5bec6303939e92e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITP/Theorie/Vorwärtsterminuierung.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cef1b3102c4cd038",
             "type": "leaf",
             "state": {
@@ -62,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0224.md"
+                "file": "ITP/Theorie/Vorwärtsterminuierung.md"
               }
             }
           },
@@ -157,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0224.md"
+                "file": "ITP/Theorie/Vorwärtsterminuierung.md"
               }
             }
           },
@@ -183,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0224.md",
+                "file": "ITP/Theorie/Vorwärtsterminuierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0224.md",
+                "file": "ITP/Theorie/Vorwärtsterminuierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,14 +252,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "24a6291d51fdc4a6",
+  "active": "5bec6303939e92e1",
   "lastOpenFiles": [
-    "Backlog_0124.md",
+    "Attachments/WhatsApp Bild 2024-02-02 um 12.00.18_551ef9b6.jpg",
     "Backlog_0224.md",
+    "ITP/Theorie/Vorwärtsterminuierung.md",
+    "ITP/Theorie/~$Uebung-Netzplantechnik-Aufgabenstellung.pptx",
+    "Backlog_0124.md",
     "ITP/Theorie/Netzplan.md",
     "ITP/Theorie/pptEFD4.tmp",
     "ITP/Theorie/ppt2212.tmp",
-    "ITP/Theorie/~$Uebung-Netzplantechnik-Aufgabenstellung.pptx",
     "ITP/Theorie/Netzplan_Gantt.pdf",
     "MEDT/Docker Networking.md",
     "WIR/Wirtschaft/Zeitungsartikel_Info.md",
@@ -281,8 +296,6 @@
     "ITP/Theorie/Projektmanagement.md",
     "ITP/Theorie/YUH/README.md",
     "ITP/Theorie/Neuer Ordner/README.md",
-    "INSY/Projekt/Datenbank-Projekt.md",
-    "DE/Muendliche Pruefung Vorb.md",
     "Attachments/Pasted image 20231215133302.png",
     "Attachments/Pasted image 20240121210234.png",
     "DE/DeutschMuendlich/WhatsApp Image 2024-01-19 at 12.13.18 (1).jpeg",
