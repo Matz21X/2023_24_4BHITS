@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "24a6291d51fdc4a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backlog_0224.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cef1b3102c4cd038",
             "type": "leaf",
             "state": {
@@ -49,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP/Theorie/Netzplan.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -144,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP/Theorie/Netzplan.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -170,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/Theorie/Netzplan.md",
+                "file": "Backlog_0224.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP/Theorie/Netzplan.md",
+                "file": "Backlog_0224.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,13 +239,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0b502bb43c61ba93",
+  "active": "24a6291d51fdc4a6",
   "lastOpenFiles": [
+    "Backlog_0124.md",
+    "Backlog_0224.md",
+    "ITP/Theorie/Netzplan.md",
     "ITP/Theorie/pptEFD4.tmp",
     "ITP/Theorie/ppt2212.tmp",
     "ITP/Theorie/~$Uebung-Netzplantechnik-Aufgabenstellung.pptx",
     "ITP/Theorie/Netzplan_Gantt.pdf",
-    "Backlog_0124.md",
     "MEDT/Docker Networking.md",
     "WIR/Wirtschaft/Zeitungsartikel_Info.md",
     "WIR/Wirtschaft/Zeitungsartikel_Info.pdf",
@@ -242,7 +257,6 @@
     "REL/PDFs/7_Endzeit.pdf",
     "REL/PDFs/7_Serj_Tankian.pdf",
     "GGP/6. Geldwesen_Schüler.pdf",
-    "INSY/Docker Übungsaufgabe.pdf",
     "INSY/Docker Übungsaufgabe.md",
     "Attachments/Pasted image 20240128164439.png",
     "Attachments/Pasted image 20240128164328.png",
@@ -266,7 +280,6 @@
     "SEW-Theorie/Singleton (Pattern).md",
     "ITP/Theorie/Projektmanagement.md",
     "ITP/Theorie/YUH/README.md",
-    "ITP/Theorie/Netzplan.md",
     "ITP/Theorie/Neuer Ordner/README.md",
     "INSY/Projekt/Datenbank-Projekt.md",
     "DE/Muendliche Pruefung Vorb.md",
