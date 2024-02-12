@@ -9,3 +9,5 @@
 > - Keine strukturelle Gewalt
 > - Friedliche Kompromisse
 > - Mitbestimmungsrecht in Politik und Gesellschaft
+
+
