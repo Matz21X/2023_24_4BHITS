@@ -11,6 +11,12 @@
 > - Mitbestimmungsrecht in Politik und Gesellschaft
 
 
-****
+**Bemühungen der Religionen für den Frieden:**
+- Friedenstreffen in Assisi: "Gemeinsame Verpflichtung für den Frieden"
 
+- Ablehnung von Gewalt und Terror
+- Gegenseitiger Respekt
+- Dialog und Verständnis 
+- Irrtümer der Vergangenheit verzeihen
+- Einstehen für eine Welt in Solidarität und Frieden
 

@@ -8,23 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f586103e388b7ca2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backlog_0124.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "24a6291d51fdc4a6",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -100,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REL/Februar.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -196,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "REL/Februar.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -222,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REL/Februar.md",
+                "file": "Backlog_0224.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REL/Februar.md",
+                "file": "Backlog_0224.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,11 +264,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3152cf960f13475e",
+  "active": "24a6291d51fdc4a6",
   "lastOpenFiles": [
-    "NWT/UDP.md",
-    "REL/Februar.md",
     "Backlog_0124.md",
+    "REL/Februar.md",
+    "NWT/UDP.md",
     "Backlog_0224.md",
     "Untitled.md",
     "ITP/Theorie/Vorwärtsterminuierung.md",
