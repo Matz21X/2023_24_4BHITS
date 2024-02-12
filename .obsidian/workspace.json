@@ -49,6 +49,19 @@
             }
           },
           {
+            "id": "3152cf960f13475e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REL/Februar.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5bec6303939e92e1",
             "type": "leaf",
             "state": {
@@ -88,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NWT/UDP.md"
+                "file": "REL/Februar.md"
               }
             }
           },
@@ -184,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NWT/UDP.md"
+                "file": "REL/Februar.md"
               }
             }
           },
@@ -210,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NWT/UDP.md",
+                "file": "REL/Februar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NWT/UDP.md",
+                "file": "REL/Februar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,11 +278,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "58d96ac81fc95ac0",
+  "active": "3152cf960f13475e",
   "lastOpenFiles": [
+    "NWT/UDP.md",
+    "REL/Februar.md",
     "Backlog_0124.md",
     "Backlog_0224.md",
-    "NWT/UDP.md",
     "Untitled.md",
     "ITP/Theorie/Vorwärtsterminuierung.md",
     "Attachments/WhatsApp Bild 2024-02-02 um 12.00.18_551ef9b6.jpg",
@@ -310,7 +323,6 @@
     "Attachments/2000_Yard_Stare.jpg",
     "SEW-Theorie/Singleton (Pattern).md",
     "ITP/Theorie/Projektmanagement.md",
-    "ITP/Theorie/YUH/README.md",
     "Attachments/Pasted image 20231215133302.png",
     "Attachments/Pasted image 20240121210234.png",
     "DE/DeutschMuendlich/WhatsApp Image 2024-01-19 at 12.13.18 (1).jpeg",
