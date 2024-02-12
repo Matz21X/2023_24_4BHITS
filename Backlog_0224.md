@@ -3,4 +3,5 @@
 
 | Date | Subject | Material | Additional info |
 | ---- | ---- | ---- | ---- |
-| 2.2 | #AM  | Uhhh |  |
+| 2.2 | #AM | Uhhh |  |
+| 12.2 |  |  |  |

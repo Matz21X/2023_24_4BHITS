@@ -74,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP/Theorie/Vorwärtsterminuierung.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -170,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP/Theorie/Vorwärtsterminuierung.md"
+                "file": "Backlog_0124.md"
               }
             }
           },
@@ -196,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/Theorie/Vorwärtsterminuierung.md",
+                "file": "Backlog_0124.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP/Theorie/Vorwärtsterminuierung.md",
+                "file": "Backlog_0124.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,13 +251,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5bec6303939e92e1",
+  "active": "f586103e388b7ca2",
   "lastOpenFiles": [
-    "Attachments/WhatsApp Bild 2024-02-02 um 12.00.18_551ef9b6.jpg",
     "Backlog_0224.md",
-    "ITP/Theorie/Vorwärtsterminuierung.md",
-    "ITP/Theorie/~$Uebung-Netzplantechnik-Aufgabenstellung.pptx",
     "Backlog_0124.md",
+    "Untitled.md",
+    "ITP/Theorie/Vorwärtsterminuierung.md",
+    "Attachments/WhatsApp Bild 2024-02-02 um 12.00.18_551ef9b6.jpg",
+    "ITP/Theorie/~$Uebung-Netzplantechnik-Aufgabenstellung.pptx",
     "ITP/Theorie/Netzplan.md",
     "ITP/Theorie/pptEFD4.tmp",
     "ITP/Theorie/ppt2212.tmp",
@@ -299,7 +299,6 @@
     "Attachments/Pasted image 20231215133302.png",
     "Attachments/Pasted image 20240121210234.png",
     "DE/DeutschMuendlich/WhatsApp Image 2024-01-19 at 12.13.18 (1).jpeg",
-    "DE/DeutschMuendlich/Textinterpretation/Seite39.jpeg",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
