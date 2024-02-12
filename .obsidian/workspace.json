@@ -74,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -169,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -195,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "Backlog_0224.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "Backlog_0224.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,10 +252,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f586103e388b7ca2",
+  "active": "24a6291d51fdc4a6",
   "lastOpenFiles": [
-    "Backlog_0224.md",
     "Backlog_0124.md",
+    "Backlog_0224.md",
     "Untitled.md",
     "ITP/Theorie/Vorwärtsterminuierung.md",
     "Attachments/WhatsApp Bild 2024-02-02 um 12.00.18_551ef9b6.jpg",
