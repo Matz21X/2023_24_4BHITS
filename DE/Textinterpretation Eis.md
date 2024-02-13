@@ -37,3 +37,6 @@ Der Text regt dazu an, über voreilige Urteile nachzudenken und die Wirkung von 
 **Schlussteil:**
 
 Insgesamt zeigt der Text "Eis" von Helga M. Novak, wie Vorurteile und oberflächliche Einschätzungen zwischen Menschen entstehen können. Die Konfrontation zwischen den Charakteren spiegelt wider, wie wichtig es ist, sich von festgefahrenen Meinungen zu lösen und den Menschen in seiner ganzen Komplexität zu verstehen. Die Wirkung auf den Leser besteht darin, zum Nachdenken über eigene Vorurteile und vorschnelle Urteile angeregt zu werden.
+
+
+Inhaltlich aufgebaut:
