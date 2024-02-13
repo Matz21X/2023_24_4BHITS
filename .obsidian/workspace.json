@@ -21,87 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "58d96ac81fc95ac0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NWT/UDP.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3152cf960f13475e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REL/Februar.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bec6303939e92e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITP/Theorie/Vorwärtsterminuierung.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cef1b3102c4cd038",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MEDT/Docker Networking.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b502bb43c61ba93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITP/Theorie/Netzplan.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8eafd93b07c47b2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INSY/Docker Übungsaufgabe.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -179,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/Docker Übungsaufgabe.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -197,7 +117,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/Docker Übungsaufgabe.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -223,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/Docker Übungsaufgabe.md",
+                "file": "Backlog_0224.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/Docker Übungsaufgabe.md",
+                "file": "Backlog_0224.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,22 +200,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8eafd93b07c47b2c",
+  "active": "24a6291d51fdc4a6",
   "lastOpenFiles": [
-    "DE/Textinterpretation Eis.md",
+    "MEDT/Docker Networking.md",
+    "ITP/Theorie/Netzplan.md",
     "Backlog_0224.md",
+    "ITP/Theorie/Vorwärtsterminuierung.md",
+    "NWT/UDP.md",
+    "INSY/Docker Übungsaufgabe.md",
+    "DE/Textinterpretation Eis.md",
     "Backlog_0124.md",
     "REL/Februar.md",
-    "NWT/UDP.md",
     "Untitled.md",
-    "ITP/Theorie/Vorwärtsterminuierung.md",
     "Attachments/WhatsApp Bild 2024-02-02 um 12.00.18_551ef9b6.jpg",
     "ITP/Theorie/~$Uebung-Netzplantechnik-Aufgabenstellung.pptx",
-    "ITP/Theorie/Netzplan.md",
     "ITP/Theorie/pptEFD4.tmp",
     "ITP/Theorie/ppt2212.tmp",
     "ITP/Theorie/Netzplan_Gantt.pdf",
-    "MEDT/Docker Networking.md",
     "WIR/Wirtschaft/Zeitungsartikel_Info.md",
     "WIR/Wirtschaft/Zeitungsartikel_Info.pdf",
     "Attachments/Pasted image 20240130201642.png",
@@ -304,7 +225,6 @@
     "REL/PDFs/7_Endzeit.pdf",
     "REL/PDFs/7_Serj_Tankian.pdf",
     "GGP/6. Geldwesen_Schüler.pdf",
-    "INSY/Docker Übungsaufgabe.md",
     "Attachments/Pasted image 20240128164439.png",
     "Attachments/Pasted image 20240128164328.png",
     "Attachments/Pasted image 20240128163853.png",
