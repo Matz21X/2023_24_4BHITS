@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DE/Textinterpretation Eis.md",
+                "file": "INSY/Docker Übungsaufgabe.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DE/Textinterpretation Eis.md"
+                "file": "INSY/Docker Übungsaufgabe.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DE/Textinterpretation Eis.md"
+                "file": "INSY/Docker Übungsaufgabe.md"
               }
             }
           },
@@ -223,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DE/Textinterpretation Eis.md",
+                "file": "INSY/Docker Übungsaufgabe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DE/Textinterpretation Eis.md",
+                "file": "INSY/Docker Übungsaufgabe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,6 +282,7 @@
   },
   "active": "8eafd93b07c47b2c",
   "lastOpenFiles": [
+    "DE/Textinterpretation Eis.md",
     "Backlog_0224.md",
     "Backlog_0124.md",
     "REL/Februar.md",
@@ -324,7 +325,6 @@
     "Fischer timesheet.md",
     "Attachments/2000_Yard_Stare.jpg",
     "SEW-Theorie/Singleton (Pattern).md",
-    "ITP/Theorie/Projektmanagement.md",
     "Attachments/Pasted image 20231215133302.png",
     "Attachments/Pasted image 20240121210234.png",
     "DE/DeutschMuendlich/WhatsApp Image 2024-01-19 at 12.13.18 (1).jpeg",
