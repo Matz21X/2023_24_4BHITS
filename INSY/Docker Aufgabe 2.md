@@ -50,3 +50,4 @@ docker exec -it <container_ID> /bin/bash
 
 ## Aufgabe 3:
 
+![[Pasted image 20240214161811.png]]
