@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"de5feebcd7a3a380","x":-360,"y":-180,"width":480,"height":320,"type":"text","text":"# Bilanz \n"},
+		{"id":"c47829727b7cfad8","x":220,"y":-240,"width":400,"height":400,"type":"file","file":"SYT/MQTT.md"}
+	],
+	"edges":[
+		{"id":"a8b10909bb2384c0","fromNode":"c47829727b7cfad8","fromSide":"left","toNode":"de5feebcd7a3a380","toSide":"right"}
+	]
+}

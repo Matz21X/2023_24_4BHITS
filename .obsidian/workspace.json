@@ -47,9 +47,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5259d6fe7b061638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIR/Wirtschaft/Doppelte Buchhaltung.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fischer timesheet.md"
+                "file": "WIR/Wirtschaft/Doppelte Buchhaltung.md"
               }
             }
           },
@@ -144,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fischer timesheet.md"
+                "file": "WIR/Wirtschaft/Doppelte Buchhaltung.md"
               }
             }
           },
@@ -170,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fischer timesheet.md",
+                "file": "WIR/Wirtschaft/Doppelte Buchhaltung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fischer timesheet.md",
+                "file": "WIR/Wirtschaft/Doppelte Buchhaltung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,8 +240,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7cda59eba14d8bb7",
+  "active": "5259d6fe7b061638",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "WIR/Wirtschaft/Doppelte Buchhaltung.md",
+    "Fischer timesheet.md",
     "Backlog_0224.md",
     "SYT/MQTT.md",
     "WIR/Wirtschaft/~$Zeitungsartikel.pptx",
@@ -241,9 +257,7 @@
     "SYT/Arduino-Code/MQTT/include/README",
     "SYT/Arduino-Code/MQTT/include",
     "SYT/Arduino-Code/MQTT/src",
-    "Fischer timesheet.md",
     "README.md",
-    "Untitled.md",
     "MEDT/Docker Networking.md",
     "ITP/Theorie/Netzplan.md",
     "ITP/Theorie/Vorwärtsterminuierung.md",
