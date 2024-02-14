@@ -5,8 +5,8 @@ const char* ssid = "HTLIoT";
 const char* password = "hollabrunn";
 const char* mqttServer = "broker.hivemq.com";
 const int mqttPort = 1883;
-const char* mqttUser = "mqtt";
-const char* mqttPassword = "???";
+const char* mqttUser = "";
+const char* mqttPassword = "";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
@@ -17,9 +17,9 @@ void setup() {
   while (WiFi.status() != WL_CONNECTED) {
     delay(500);
     Serial.println("Connecting to WiFi..");
-    Serial.println(WiFi.localIP());
   }
   Serial.println("Connected to the WiFi network");
+  Serial.println(WiFi.localIP());
   
   client.setServer(mqttServer, mqttPort);
   while (!client.connected()) {
@@ -33,6 +33,7 @@ void setup() {
     }
   }
   client.publish("DONPOLLO/ohio/temp", "Hello from ESP32");
+  Serial.println("PUBLISHED");
 }
 
 void loop() {
