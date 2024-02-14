@@ -47,35 +47,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "58018a8cb20b3d7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SYT/MQTT.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c465423a14f9e59b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INSY/Docker Aufgabe 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/Docker Aufgabe 2.md"
+                "file": "Fischer timesheet.md"
               }
             }
           },
@@ -171,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/Docker Aufgabe 2.md"
+                "file": "Fischer timesheet.md"
               }
             }
           },
@@ -197,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/Docker Aufgabe 2.md",
+                "file": "Fischer timesheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/Docker Aufgabe 2.md",
+                "file": "Fischer timesheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5,
-    "collapsed": true
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,15 +227,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c465423a14f9e59b",
+  "active": "7cda59eba14d8bb7",
   "lastOpenFiles": [
+    "SYT/MQTT.md",
+    "INSY/Docker Aufgabe 2.md",
+    "INSY/Docker Aufgabe 2.pdf",
+    "Attachments/Pasted image 20240214184856.png",
     "Attachments/Pasted image 20240214161811.png",
     "Attachments/Pasted image 20240214161346.png",
     "Attachments/Pasted image 20240214161004.png",
     "Attachments/Pasted image 20240214154956.png",
     "Attachments/Pasted image 20240214154628.png",
-    "INSY/Docker Aufgabe 2.md",
-    "SYT/MQTT.md",
     "Backlog_0224.md",
     "MEDT/HOEF/OpenAPI.zip",
     "MEDT/HOEF/Nodejs-Quiz - Microsoft Forms.pdf",
@@ -277,7 +252,6 @@
     "MEDT/HOEF/pptx/05-OpenAPI.pdf",
     "MEDT/HOEF/pptx/04-REST.pdf",
     "MEDT/HOEF/pptx/03-Nodejs.pdf",
-    "MEDT/HOEF/pptx",
     "MEDT/HOEF/aufgabe1/node_modules/send/node_modules/ms/readme.md",
     "MEDT/HOEF/aufgabe1/node_modules/send/node_modules/ms/license.md",
     "MEDT/HOEF/aufgabe1/node_modules/web-streams-polyfill/README.md",
@@ -301,8 +275,6 @@
     "Attachments/GuV.svg",
     "Untitled.canvas",
     "Attachments/WhatsApp Bild 2024-02-02 um 12.00.18_551ef9b6.jpg",
-    "Attachments/Pasted image 20240130201642.png",
-    "Attachments/Pasted image 20240128164439.png",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"

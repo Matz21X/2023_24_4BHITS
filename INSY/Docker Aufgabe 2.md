@@ -35,7 +35,7 @@ docker run --rm -it small-node
 ![[Pasted image 20240214154956.png]]
 
 
-# Aufgabe 2
+# Aufgabe 2:
 
 ```
 docker pull node
@@ -48,7 +48,10 @@ docker exec -it <container_ID> /bin/bash
 ![[Pasted image 20240214161346.png]]
 
 
+
+
 ## Aufgabe 3:
 
 ![[Pasted image 20240214161811.png]]
 
+![[Pasted image 20240214184856.png]]
