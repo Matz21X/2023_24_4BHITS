@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SYT/MQTT.md",
+                "file": "WIR/Wirtschaft/Doppelte Buchhaltung.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,22 +47,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5259d6fe7b061638",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIR/Wirtschaft/Doppelte Buchhaltung.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,13 +227,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5259d6fe7b061638",
+  "active": "d2172b41f9759771",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "WIR/Wirtschaft/Doppelte Buchhaltung.md",
-    "Fischer timesheet.md",
-    "Backlog_0224.md",
+    "Attachments/WhatsApp Bild 2024-02-14 um 10.36.18_45dc15d1.jpg",
+    "Attachments/WhatsApp Bild 2024-02-14 um 10.36.18_4d742382.jpg",
     "SYT/MQTT.md",
+    "Fischer timesheet.md",
+    "Backlog_1123.md",
+    "WIR/Wirtschaft/Doppelte Buchhaltung.md",
+    "Attachments/GuV.svg",
+    "Untitled.canvas",
+    "Backlog_0224.md",
     "WIR/Wirtschaft/~$Zeitungsartikel.pptx",
     "WIR/Wirtschaft/ppt378.tmp",
     "SYT/Arduino-Code/MQTT/src/main.cpp",
@@ -283,11 +274,8 @@
     "WIR/Wirtschaft/WIR Testvorbereitung 11.1.23.md",
     "WIR/Wirtschaft/Unternehmensarten.md",
     "WIR/Recht/Recht Test-Vorbereitung.md",
-    "WIR/Wirtschaft/Erhebungsform der Einkommensteuer.md",
     "Attachments/2000_Yard_Stare.jpg",
     "Attachments/Pasted image 20231215133302.png",
-    "Attachments/Pasted image 20240121210234.png",
-    "DE/DeutschMuendlich/WhatsApp Image 2024-01-19 at 12.13.18 (1).jpeg",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
