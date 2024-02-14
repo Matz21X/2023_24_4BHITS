@@ -47,9 +47,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "58018a8cb20b3d7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SYT/MQTT.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c465423a14f9e59b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INSY/Docker Aufgabe 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -99,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIR/Wirtschaft/Doppelte Buchhaltung.md"
+                "file": "INSY/Docker Aufgabe 2.md"
               }
             }
           },
@@ -144,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "WIR/Wirtschaft/Doppelte Buchhaltung.md"
+                "file": "INSY/Docker Aufgabe 2.md"
               }
             }
           },
@@ -170,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIR/Wirtschaft/Doppelte Buchhaltung.md",
+                "file": "INSY/Docker Aufgabe 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WIR/Wirtschaft/Doppelte Buchhaltung.md",
+                "file": "INSY/Docker Aufgabe 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,8 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5,
-    "collapsed": true
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,55 +253,55 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d2172b41f9759771",
+  "active": "c465423a14f9e59b",
   "lastOpenFiles": [
+    "INSY/Docker Aufgabe 2.md",
+    "SYT/MQTT.md",
+    "Backlog_0224.md",
+    "MEDT/HOEF/OpenAPI.zip",
+    "MEDT/HOEF/Nodejs-Quiz - Microsoft Forms.pdf",
+    "MEDT/HOEF/nodejs_basics.zip",
+    "MEDT/HOEF/NodeJS Testvorbereitung.md",
+    "MEDT/HOEF/MEDT-Jahresstoff.md",
+    "MEDT/HOEF/MEDT_test_gruppe1.pdf",
+    "MEDT/HOEF/Docker Networking.md",
+    "MEDT/HOEF/Aufgabe Usability Tests.md",
+    "MEDT/HOEF/4xHITS-MEDT-Nodejs-Exoplanets.zip",
+    "MEDT/HOEF/pptx/06-Docker.pdf",
+    "MEDT/HOEF/pptx/05-OpenAPI.pdf",
+    "MEDT/HOEF/pptx/04-REST.pdf",
+    "MEDT/HOEF/pptx/03-Nodejs.pdf",
+    "MEDT/HOEF/pptx",
+    "MEDT/HOEF/aufgabe1/node_modules/send/node_modules/ms/readme.md",
+    "MEDT/HOEF/aufgabe1/node_modules/send/node_modules/ms/license.md",
+    "MEDT/HOEF/aufgabe1/node_modules/web-streams-polyfill/README.md",
+    "MEDT/HOEF/aufgabe1/node_modules/vary/README.md",
+    "MEDT/HOEF/aufgabe1/node_modules/vary/HISTORY.md",
+    "MEDT/HOEF/aufgabe1/node_modules/utils-merge/README.md",
+    "MEDT/HOEF/aufgabe1/node_modules/unpipe/README.md",
+    "MEDT/HOEF/aufgabe1/node_modules/unpipe/HISTORY.md",
+    "MEDT/HOEF/aufgabe1/node_modules/type-is/README.md",
+    "MEDT/HOEF/aufgabe1/node_modules/type-is/HISTORY.md",
+    "MEDT/HOEF/aufgabe1/node_modules/toidentifier/README.md",
+    "MEDT/HOEF/aufgabe1/node_modules/toidentifier/HISTORY.md",
+    "MEDT/HOEF/aufgabe1/node_modules/statuses/README.md",
+    "MEDT/HOEF/aufgabe1/node_modules/statuses/HISTORY.md",
+    "MEDT/HOEF/aufgabe1/node_modules/side-channel/README.md",
+    "MEDT/HOEF/aufgabe1/node_modules/side-channel/CHANGELOG.md",
+    "MEDT/HOEF/aufgabe1/node_modules/setprototypeof/README.md",
+    "MEDT/HOEF/aufgabe1/node_modules/serve-static/README.md",
+    "MEDT/HOEF/aufgabe1/node_modules/serve-static/HISTORY.md",
     "Attachments/WhatsApp Bild 2024-02-14 um 10.36.18_45dc15d1.jpg",
     "Attachments/WhatsApp Bild 2024-02-14 um 10.36.18_4d742382.jpg",
-    "SYT/MQTT.md",
-    "Fischer timesheet.md",
-    "Backlog_1123.md",
-    "WIR/Wirtschaft/Doppelte Buchhaltung.md",
     "Attachments/GuV.svg",
     "Untitled.canvas",
-    "Backlog_0224.md",
-    "WIR/Wirtschaft/~$Zeitungsartikel.pptx",
-    "WIR/Wirtschaft/ppt378.tmp",
-    "SYT/Arduino-Code/MQTT/src/main.cpp",
-    "SYT/Arduino-Code/MQTT/test/README",
-    "SYT/Arduino-Code/MQTT/test",
-    "SYT/Arduino-Code/MQTT/lib/README",
-    "SYT/Arduino-Code/MQTT/lib",
-    "SYT/Arduino-Code/MQTT/include/README",
-    "SYT/Arduino-Code/MQTT/include",
-    "SYT/Arduino-Code/MQTT/src",
-    "README.md",
-    "MEDT/Docker Networking.md",
-    "ITP/Theorie/Netzplan.md",
-    "ITP/Theorie/Vorwärtsterminuierung.md",
-    "NWT/UDP.md",
-    "INSY/Docker Übungsaufgabe.md",
-    "DE/Textinterpretation Eis.md",
-    "Backlog_0124.md",
-    "REL/Februar.md",
     "Attachments/WhatsApp Bild 2024-02-02 um 12.00.18_551ef9b6.jpg",
-    "WIR/Wirtschaft/Zeitungsartikel_Info.md",
     "Attachments/Pasted image 20240130201642.png",
     "Attachments/Pasted image 20240128164439.png",
     "Attachments/Pasted image 20240128164328.png",
     "Attachments/Pasted image 20240128163853.png",
     "Attachments/Pasted image 20240128163454.png",
-    "Z_Obsidian-Help/Help-Page.md",
-    "WIR/Wirtschaft/Gewinnermittlung_Kap2.md",
-    "Backlog_1023.md",
-    "WIR/Zeitungsartikel.md",
-    "WIR/Wirtschaft/Wirtschaft-Test Vorbereitung.md",
-    "WIR/Wirtschaft/Wirtschaftssubjekte.md",
-    "WIR/Wirtschaft/Wirtschaftsordnung.md",
-    "WIR/Wirtschaft/WIR Testvorbereitung 11.1.23.md",
-    "WIR/Wirtschaft/Unternehmensarten.md",
-    "WIR/Recht/Recht Test-Vorbereitung.md",
     "Attachments/2000_Yard_Stare.jpg",
-    "Attachments/Pasted image 20231215133302.png",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"

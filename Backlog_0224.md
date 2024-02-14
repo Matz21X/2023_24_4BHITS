@@ -11,4 +11,6 @@
 |  | #DE | [[Textinterpretation Eis]] |  |
 |  | #BSP | Kein [[Gasig.jpg]] 😢 |  |
 |  | #INSY | Docker 🤡 |  |
-| 14 | #SYT  | [[MQTT]] |  |
+| 14 | #SYT | [[MQTT]] |  |
+|  | #WIR | [[Doppelte Buchhaltung]] |  |
+|  | #MEDT  | [[09-Adobe Xd.pdf]] |  |

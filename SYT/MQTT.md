@@ -70,3 +70,14 @@ SUBSCRIBE topic: "sensors/#" QoS: 0
 - [MQTT.org](http://mqtt.org/)
 - Eclipse Paho
 - [HiveMQ](https://www.hivemq.com/)
+
+
+## Commands
+
+```powershell
+# Erstellen & Listen
+PS C:\Users\matth> .\mosquitto_sub.exe -h broker.hivemq.com -p 1883 -t DONPOLLO/ohio/temp   
+
+# Posten
+PS C:\Users\matth> .\mosquitto_pub.exe -h broker.hivemq.com -p 1883 -t DONPOLLO/ohio/temp -m "YUH"
+```
