@@ -35,4 +35,8 @@ docker run --rm -it small-node
 ![[Pasted image 20240214154956.png]]
 
 
-#
+# Aufgabe 2
+
+```
+docker pull node
+```
