@@ -11,4 +11,4 @@
 |  | #DE | [[Textinterpretation Eis]] |  |
 |  | #BSP | Kein [[Gasig.jpg]] 😢 |  |
 |  | #INSY | Docker 🤡 |  |
-| 14 | #SYT  |  |  |
+| 14 | #SYT  | [[MQTT]] |  |
