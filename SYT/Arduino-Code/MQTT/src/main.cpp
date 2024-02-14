@@ -1,18 +1,40 @@
-#include <Arduino.h>
+#include <WiFi.h>
+#include <PubSubClient.h>
 
-// put function declarations here:
-int myFunction(int, int);
+const char* ssid = "HTLIoT";
+const char* password = "hollabrunn";
+const char* mqttServer = "broker.hivemq.com";
+const int mqttPort = 1883;
+const char* mqttUser = "mqtt";
+const char* mqttPassword = "???";
+
+WiFiClient espClient;
+PubSubClient client(espClient);
 
 void setup() {
-  // put your setup code here, to run once:
-  int result = myFunction(2, 3);
+  Serial.begin(9600);
+  WiFi.begin(ssid, password);
+  while (WiFi.status() != WL_CONNECTED) {
+    delay(500);
+    Serial.println("Connecting to WiFi..");
+    Serial.println(WiFi.localIP());
+  }
+  Serial.println("Connected to the WiFi network");
+  
+  client.setServer(mqttServer, mqttPort);
+  while (!client.connected()) {
+    Serial.println("Connecting to MQTT...");
+    if (client.connect("ESP32Client", mqttUser, mqttPassword )) {
+      Serial.println("connected");
+    } else {
+      Serial.print("failed with state ");
+      Serial.print(client.state());
+      delay(2000);
+    }
+  }
+  client.publish("DONPOLLO/ohio/temp", "Hello from ESP32");
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-}
-
-// put function definitions here:
-int myFunction(int x, int y) {
-  return x + y;
+  client.loop();
 }
