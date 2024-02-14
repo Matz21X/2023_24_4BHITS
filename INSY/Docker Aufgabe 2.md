@@ -26,3 +26,13 @@
 docker pull node:alpine
 docker image tag node:alpine small-node
 ```
+
+**Container erstellen und nach dem schließen löschen:**
+
+```
+docker run --rm -it small-node
+```
+![[Pasted image 20240214154956.png]]
+
+
+#
