@@ -23,19 +23,6 @@
             }
           },
           {
-            "id": "d2172b41f9759771",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIR/Wirtschaft/Doppelte Buchhaltung.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7cda59eba14d8bb7",
             "type": "leaf",
             "state": {
@@ -48,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fischer timesheet.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -145,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fischer timesheet.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -171,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fischer timesheet.md",
+                "file": "Backlog_0224.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fischer timesheet.md",
+                "file": "Backlog_0224.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,8 +213,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7cda59eba14d8bb7",
+  "active": "24a6291d51fdc4a6",
   "lastOpenFiles": [
+    "WIR/Wirtschaft/Doppelte Buchhaltung.md",
+    "Fischer timesheet.md",
     "SYT/MQTT.md",
     "INSY/Docker Aufgabe 2.md",
     "INSY/Docker Aufgabe 2.pdf",
@@ -269,7 +257,6 @@
     "MEDT/HOEF/aufgabe1/node_modules/side-channel/README.md",
     "MEDT/HOEF/aufgabe1/node_modules/side-channel/CHANGELOG.md",
     "MEDT/HOEF/aufgabe1/node_modules/setprototypeof/README.md",
-    "MEDT/HOEF/aufgabe1/node_modules/serve-static/README.md",
     "Attachments/WhatsApp Bild 2024-02-14 um 10.36.18_45dc15d1.jpg",
     "Attachments/WhatsApp Bild 2024-02-14 um 10.36.18_4d742382.jpg",
     "Attachments/GuV.svg",
