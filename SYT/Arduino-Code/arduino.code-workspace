@@ -46,6 +46,10 @@
 		{
 			"name": "MQTT",
 			"path": "MQTT"
+		},
+		{
+			"name": "LoRaWANDemo",
+			"path": "../../ITP/Projekte/WIH/LoRaWANDemo"
 		}
 	],
 	"settings": {}
