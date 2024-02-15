@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ea22ffd277569ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REL/Februar.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIR/Wirtschaft/Doppelte Buchhaltung.md"
+                "file": "REL/Februar.md"
               }
             }
           },
@@ -131,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "WIR/Wirtschaft/Doppelte Buchhaltung.md"
+                "file": "REL/Februar.md"
               }
             }
           },
@@ -157,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIR/Wirtschaft/Doppelte Buchhaltung.md",
+                "file": "REL/Februar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WIR/Wirtschaft/Doppelte Buchhaltung.md",
+                "file": "REL/Februar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,11 +226,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cc75109bd42fbce2",
+  "active": "0ea22ffd277569ae",
   "lastOpenFiles": [
-    "Fischer timesheet.md",
     "Backlog_0224.md",
     "WIR/Wirtschaft/Doppelte Buchhaltung.md",
+    "Fischer timesheet.md",
     "Attachments/Pasted image 20240215091018.png",
     "Attachments/Pasted image 20240215090901.png",
     "EN/~$afletGreenSightseeing.docx",
