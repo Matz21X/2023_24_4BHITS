@@ -57,3 +57,4 @@ receiver.bind(('localhost', 12345))
 data, sender_address = receiver.recvfrom(1024)
 print(f"Received message: {data.decode()} from {sender_address}")
 receiver.close()
+```
