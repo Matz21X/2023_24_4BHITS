@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SYT/MQTT.md",
+                "file": "NWT/UDP.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SYT/MQTT.md"
+                "file": "NWT/UDP.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SYT/MQTT.md"
+                "file": "NWT/UDP.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SYT/MQTT.md",
+                "file": "NWT/UDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SYT/MQTT.md",
+                "file": "NWT/UDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,6 +238,8 @@
   },
   "active": "34dc7eb5ee3258d6",
   "lastOpenFiles": [
+    "NWT/UDP.pdf",
+    "SYT/MQTT.md",
     "ITP/Projekte/WIH/LoRaWANDemo/src/main.cpp",
     "ITP/Projekte/WIH/LoRaWANDemo/test/README",
     "ITP/Projekte/WIH/LoRaWANDemo/test",
@@ -248,14 +250,12 @@
     "ITP/Projekte/WIH/LoRaWANDemo/src",
     "ITP/Projekte/WIH/LoRaWANDemo/platformio.ini",
     "ITP/Projekte/WIH/LoRaWANDemo",
-    "ITP/Projekte/WIH",
     "Backlog_0224.md",
     "REL/Februar.md",
     "WIR/Wirtschaft/Doppelte Buchhaltung.md",
     "Fischer timesheet.md",
     "Attachments/Pasted image 20240215091018.png",
     "Attachments/Pasted image 20240215090901.png",
-    "SYT/MQTT.md",
     "INSY/Docker Aufgabe 2.md",
     "Attachments/Pasted image 20240214184856.png",
     "Attachments/Pasted image 20240214161811.png",
