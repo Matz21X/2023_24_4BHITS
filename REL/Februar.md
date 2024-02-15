@@ -2,6 +2,7 @@
 #REL #SCHM 
 
 
+
 ## Definition Frieden
 
 > Friede ist:
@@ -20,3 +21,18 @@
 - Irrtümer der Vergangenheit verzeihen
 - Einstehen für eine Welt in Solidarität und Frieden
 
+### Aggression
+
+**Subtile Aggression:** unterschwellig, ohne Körperinsatz
+**Autoaggression:** Gegen die eigene Person
+
+**3 Entstehungstheorien von Aggression:*
+- Trieb und Instinkttheorie (Konrad Lorenz)
+	- Dem Modell zufolge besteht ein Zusammenhang zwischen Reaktionsstärke einerseits und der Stärke der Reize und inneren Faktoren andererseits: **Je stärker ein Reiz ist, umso stärker fällt die Reaktion aus.** **Je stärker der innere Antrieb (die Motivation) ist, umso stärker fällt die Reaktion aus**.
+	- Bsp: Rache
+- Frustrations-Aggressions-Hypothese (John Dollard)
+	- Aggression ist ein Resultat von Frustration
+	- Bsp: Ritzen, Suizid
+- Lerntheorie (Albert Bandura)
+	- Menschen lernen von ihren Vorbildern
+	- Vorbild aggressiv => Mensch aggressiv

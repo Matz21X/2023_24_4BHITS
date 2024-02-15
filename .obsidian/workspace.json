@@ -23,19 +23,6 @@
             }
           },
           {
-            "id": "cc75109bd42fbce2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIR/Wirtschaft/Doppelte Buchhaltung.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0ea22ffd277569ae",
             "type": "leaf",
             "state": {
@@ -47,9 +34,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69ab6689d1c8b6ad",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,6 +224,7 @@
   "active": "0ea22ffd277569ae",
   "lastOpenFiles": [
     "Backlog_0224.md",
+    "REL/Februar.md",
     "WIR/Wirtschaft/Doppelte Buchhaltung.md",
     "Fischer timesheet.md",
     "Attachments/Pasted image 20240215091018.png",
