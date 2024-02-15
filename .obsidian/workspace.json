@@ -43,8 +43,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REL/Februar.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -139,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "REL/Februar.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -165,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REL/Februar.md",
+                "file": "Backlog_0224.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REL/Februar.md",
+                "file": "Backlog_0224.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,12 +220,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0ea22ffd277569ae",
+  "active": "24a6291d51fdc4a6",
   "lastOpenFiles": [
+    "REL/Februar.md",
+    "NW/~WRL0004.tmp",
+    "NW/~WRD0003.tmp",
+    "NW/~WRD0002.tmp",
     "NW/~$ysikHA4_2.docx",
     "NW/~$ysikHA4_1.docx",
     "Backlog_0224.md",
-    "REL/Februar.md",
     "WIR/Wirtschaft/Doppelte Buchhaltung.md",
     "Fischer timesheet.md",
     "Attachments/Pasted image 20240215091018.png",
@@ -244,12 +246,8 @@
     "Attachments/Pasted image 20240214161004.png",
     "Attachments/Pasted image 20240214154956.png",
     "Attachments/Pasted image 20240214154628.png",
-    "MEDT/HOEF/OpenAPI.zip",
-    "MEDT/HOEF/Nodejs-Quiz - Microsoft Forms.pdf",
-    "MEDT/HOEF/nodejs_basics.zip",
     "MEDT/HOEF/NodeJS Testvorbereitung.md",
     "MEDT/HOEF/MEDT-Jahresstoff.md",
-    "MEDT/HOEF/MEDT_test_gruppe1.pdf",
     "MEDT/HOEF/Docker Networking.md",
     "MEDT/HOEF/Aufgabe Usability Tests.md",
     "MEDT/HOEF/aufgabe1/node_modules/send/node_modules/ms/readme.md",
