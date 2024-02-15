@@ -1,18 +1,24 @@
 #include <Arduino.h>
+#include <TheThingsNetwork.h>
 
-// put function declarations here:
-int myFunction(int, int);
+#define loraSerial Serial1
+#define debugSerial Serial
+#define freqPlan TTN_FP_EU868
+
+TheThingsNetwork ttn(loraSerial, debugSerial, freqPlan);
+
 
 void setup() {
-  // put your setup code here, to run once:
-  int result = myFunction(2, 3);
+  debugSerial.begin(9600);
+  loraSerial.begin(57600);
+
+  while (!debugSerial) {}
+
+  debugSerial.println("-- STATUS");
+  ttn.showStatus();
+
 }
 
 void loop() {
   // put your main code here, to run repeatedly:
-}
-
-// put function definitions here:
-int myFunction(int x, int y) {
-  return x + y;
 }
