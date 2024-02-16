@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fischer timesheet.md"
+                "file": "FischerNet.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fischer timesheet.md"
+                "file": "FischerNet.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fischer timesheet.md",
+                "file": "FischerNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fischer timesheet.md",
+                "file": "FischerNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,8 +239,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "860f3b23a420307c",
+  "active": "66048476ea9a9c46",
   "lastOpenFiles": [
+    "Fischer timesheet.md",
     "FischerNet.md",
     "fischer.md",
     "NWT/UDP.md",
@@ -256,7 +257,6 @@
     "Attachments/Pasted image 20240216091822.png",
     "Attachments/Pasted image 20240216091810.png",
     "ITP/Theorie/Netzplan_Gantt.pdf",
-    "Fischer timesheet.md",
     "Fischer Internet oasch sheet.md",
     "REL/Februar.md",
     "NWT/UDP.pdf",

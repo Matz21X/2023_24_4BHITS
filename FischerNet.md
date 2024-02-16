@@ -1,4 +1,4 @@
-# Internet oasch
+# Internet
 #FIMI 
 
 - Ping fehlgeschlagen um 2024-02-16 08:45:15
