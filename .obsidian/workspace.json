@@ -34,35 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "34dc7eb5ee3258d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fischer timesheet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6965312176ebe05d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fischer Internet oasch sheet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fischer Internet oasch sheet.md"
+                "file": "NWT/UDP.md"
               }
             }
           },
@@ -157,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fischer Internet oasch sheet.md"
+                "file": "NWT/UDP.md"
               }
             }
           },
@@ -183,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fischer Internet oasch sheet.md",
+                "file": "NWT/UDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fischer Internet oasch sheet.md",
+                "file": "NWT/UDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,13 +213,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6965312176ebe05d",
+  "active": "63717170714eb906",
   "lastOpenFiles": [
+    "FischerNet.md",
     "NWT/UDP.md",
+    "Fischer timesheet.md",
+    "Fischer Internet oasch sheet.md",
     "Backlog_0224.md",
     "REL/Februar.md",
-    "Fischer Internet oasch sheet.md",
-    "Fischer timesheet.md",
     "NWT/UDP.pdf",
     "SYT/MQTT.md",
     "ITP/Projekte/WIH/LoRaWANDemo/src/main.cpp",
@@ -284,7 +259,6 @@
     "MEDT/HOEF/aufgabe1/node_modules/toidentifier/README.md",
     "MEDT/HOEF/aufgabe1/node_modules/toidentifier/HISTORY.md",
     "MEDT/HOEF/aufgabe1/node_modules/statuses/README.md",
-    "MEDT/HOEF/aufgabe1/node_modules/statuses/HISTORY.md",
     "Attachments/WhatsApp Bild 2024-02-14 um 10.36.18_45dc15d1.jpg",
     "Attachments/WhatsApp Bild 2024-02-14 um 10.36.18_4d742382.jpg",
     "Untitled.canvas",
