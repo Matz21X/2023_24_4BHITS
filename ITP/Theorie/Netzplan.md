@@ -36,5 +36,9 @@
 - Rede, Kochen
 - ![[Pasted image 20240216091915.png]]
 
+**Sprungfolge:**
+- Anfang-Ende Beziehung
+- Das alte CRM kann erst außer Betrieb genommen werden, wenn das neue CRM läuft.
+- ![[Pasted image 20240216092024.png]]
 
 
