@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FischerNet.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -144,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "FischerNet.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FischerNet.md",
+                "file": "Backlog_0224.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FischerNet.md",
+                "file": "Backlog_0224.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,16 +225,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "66048476ea9a9c46",
+  "active": "24a6291d51fdc4a6",
   "lastOpenFiles": [
+    "ITP/Theorie/Netzplan.md",
+    "Backlog_0224.md",
+    "FischerNet.md",
     "DE/KL22_PT3_DEU_1.1_AU.pdf",
     "ITP/Theorie/Ausschreibung_EDV_Netzplan_tmp0.pod",
     "ITP/Theorie/Ausschreibung_EDV_Netzplan.pod",
-    "ITP/Theorie/Netzplan.md",
-    "FischerNet.md",
     "ITP/Theorie/~$Uebung-Netzplantechnik-Aufgabenstellung.pptx",
     "NW/~$ysikHA4_2.docx",
-    "Backlog_0224.md",
     "Attachments/Pasted image 20240216092024.png",
     "Attachments/Pasted image 20240216091915.png",
     "Attachments/Pasted image 20240216091822.png",
@@ -250,7 +249,6 @@
     "ITP/Projekte/WIH/LoRaWANDemo/src/main.cpp",
     "ITP/Projekte/WIH/LoRaWANDemo/test/README",
     "ITP/Projekte/WIH/LoRaWANDemo/test",
-    "ITP/Projekte/WIH/LoRaWANDemo/lib/README",
     "WIR/Wirtschaft/Doppelte Buchhaltung.md",
     "Attachments/Pasted image 20240215091018.png",
     "Attachments/Pasted image 20240215090901.png",
