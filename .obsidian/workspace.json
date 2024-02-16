@@ -28,14 +28,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FischerNet.md",
+                "file": "ITP/Theorie/Netzplan.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0224.md"
+                "file": "ITP/Theorie/Netzplan.md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0224.md"
+                "file": "ITP/Theorie/Netzplan.md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0224.md",
+                "file": "ITP/Theorie/Netzplan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0224.md",
+                "file": "ITP/Theorie/Netzplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,10 +213,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "24a6291d51fdc4a6",
+  "active": "63717170714eb906",
   "lastOpenFiles": [
-    "FischerNet.md",
+    "Attachments/Pasted image 20240216091915.png",
+    "Attachments/Pasted image 20240216091822.png",
+    "Attachments/Pasted image 20240216091810.png",
+    "ITP/Theorie/Netzplan_Gantt.pdf",
     "Backlog_0224.md",
+    "ITP/Theorie/Netzplan.md",
+    "FischerNet.md",
     "NWT/UDP.md",
     "Fischer timesheet.md",
     "Fischer Internet oasch sheet.md",
@@ -230,7 +236,6 @@
     "ITP/Projekte/WIH/LoRaWANDemo/include/README",
     "ITP/Projekte/WIH/LoRaWANDemo/include",
     "ITP/Projekte/WIH/LoRaWANDemo/src",
-    "ITP/Projekte/WIH/LoRaWANDemo/platformio.ini",
     "WIR/Wirtschaft/Doppelte Buchhaltung.md",
     "Attachments/Pasted image 20240215091018.png",
     "Attachments/Pasted image 20240215090901.png",
@@ -256,10 +261,6 @@
     "MEDT/HOEF/aufgabe1/node_modules/type-is/README.md",
     "MEDT/HOEF/aufgabe1/node_modules/type-is/HISTORY.md",
     "MEDT/HOEF/aufgabe1/node_modules/toidentifier/README.md",
-    "MEDT/HOEF/aufgabe1/node_modules/toidentifier/HISTORY.md",
-    "MEDT/HOEF/aufgabe1/node_modules/statuses/README.md",
-    "Attachments/WhatsApp Bild 2024-02-14 um 10.36.18_45dc15d1.jpg",
-    "Attachments/WhatsApp Bild 2024-02-14 um 10.36.18_4d742382.jpg",
     "Untitled.canvas",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",

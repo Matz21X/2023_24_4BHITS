@@ -16,3 +16,25 @@
 #---o---->|  |
           +--+
 ```
+
+
+### Beziehungen
+
+**Normalfolge:**
+- Ende-Anfang Beziehung (EA)
+- Nudeln gekocht - > Nudeln absieben
+- Point to Point
+- ![[Pasted image 20240216091810.png]]
+
+**Anfangsfolge:**
+- Anfangs-Anfangs Beziehung (AA)
+- Livestream, Eventstart
+- ![[Pasted image 20240216091822.png]]
+
+**Endfolge:**
+- Ende-Ende Beziehung (EE)
+- Rede, Kochen
+- ![[Pasted image 20240216091915.png]]
+
+
+
