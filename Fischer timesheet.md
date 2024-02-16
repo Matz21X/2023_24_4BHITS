@@ -15,3 +15,9 @@
 	- Mochma Pause?:
 	- Thema: [[MQTT]]
 
+- 16.2
+	- Soll: 14:00
+	- Tat: 14:22
+	- Anfang: 
+	- Mochma Pause?:
+	- Thema: [[MQTT]]

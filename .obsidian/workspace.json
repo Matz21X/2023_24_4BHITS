@@ -47,9 +47,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "860f3b23a420307c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fischer timesheet.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NWT/UDP.md"
+                "file": "Fischer timesheet.md"
               }
             }
           },
@@ -144,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NWT/UDP.md"
+                "file": "Fischer timesheet.md"
               }
             }
           },
@@ -170,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NWT/UDP.md",
+                "file": "Fischer timesheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NWT/UDP.md",
+                "file": "Fischer timesheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,11 +239,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "63717170714eb906",
+  "active": "860f3b23a420307c",
   "lastOpenFiles": [
-    "ITP/Theorie/Netzplan.md",
     "FischerNet.md",
+    "fischer.md",
+    "NWT/UDP.md",
     "Backlog_0224.md",
+    "ITP/Theorie/Netzplan.md",
     "DE/KL22_PT3_DEU_1.1_AU.pdf",
     "ITP/Theorie/Ausschreibung_EDV_Netzplan_tmp0.pod",
     "ITP/Theorie/Ausschreibung_EDV_Netzplan.pod",
@@ -241,7 +256,6 @@
     "Attachments/Pasted image 20240216091822.png",
     "Attachments/Pasted image 20240216091810.png",
     "ITP/Theorie/Netzplan_Gantt.pdf",
-    "NWT/UDP.md",
     "Fischer timesheet.md",
     "Fischer Internet oasch sheet.md",
     "REL/Februar.md",
