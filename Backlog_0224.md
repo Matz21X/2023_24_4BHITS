@@ -27,4 +27,4 @@
 | 17 | #NWT | TCP |  |
 |  | #GGP | [[6. Geldwesen_Schüler.pdf]] [[Warenkorb2023.pdf]] |  |
 |  | #EN  | Biohacking |  |
-|  | #RK  |  |  |
+|  | #RK  | [[Februar#Beispiele für strukturelle Gewalt]] |  |

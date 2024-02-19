@@ -74,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REL/Februar.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -170,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "REL/Februar.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -196,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REL/Februar.md",
+                "file": "Backlog_0224.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REL/Februar.md",
+                "file": "Backlog_0224.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,8 +251,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "22d275a3769ab492",
+  "active": "24a6291d51fdc4a6",
   "lastOpenFiles": [
+    "REL/Februar.md",
     "Attachments/Pasted image 20240219120718.png",
     "Backlog_0224.md",
     "FischerNet.md",
@@ -276,7 +276,6 @@
     "Attachments/Pasted image 20240216091810.png",
     "ITP/Theorie/Netzplan_Gantt.pdf",
     "Fischer Internet oasch sheet.md",
-    "REL/Februar.md",
     "SYT/MQTT.md",
     "WIR/Wirtschaft/Doppelte Buchhaltung.md",
     "Attachments/Pasted image 20240215091018.png",
@@ -285,7 +284,6 @@
     "Attachments/Pasted image 20240214184856.png",
     "Attachments/Pasted image 20240214161811.png",
     "Attachments/Pasted image 20240214161346.png",
-    "Attachments/Pasted image 20240214161004.png",
     "MEDT/HOEF/NodeJS Testvorbereitung.md",
     "MEDT/HOEF/MEDT-Jahresstoff.md",
     "MEDT/HOEF/Docker Networking.md",
