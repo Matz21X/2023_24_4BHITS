@@ -38,3 +38,5 @@
 	- Vorbild aggressiv => Mensch aggressiv
 
 
+### Beispiele für strukturelle Gewalt
+- Gender-Pay-Gap (Ös)
