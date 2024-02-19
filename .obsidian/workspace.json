@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0224.md"
+                "file": "FischerNet.md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0224.md"
+                "file": "FischerNet.md"
               }
             }
           },
@@ -182,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0224.md",
+                "file": "FischerNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0224.md",
+                "file": "FischerNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,8 +239,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "24a6291d51fdc4a6",
+  "active": "66048476ea9a9c46",
   "lastOpenFiles": [
+    "NWT/UDP.md",
+    "Backlog_0224.md",
     "FischerNet.md",
     "Allgemein/~$rlage_mit_Stempel.docx",
     "Allgemein/~$orlage.docx",
@@ -247,8 +250,6 @@
     "GGP/Warenkorb2023.pdf.crdownload",
     "Fischer timesheet.md",
     "fischer.md",
-    "NWT/UDP.md",
-    "Backlog_0224.md",
     "ITP/Theorie/Netzplan.md",
     "DE/KL22_PT3_DEU_1.1_AU.pdf",
     "ITP/Theorie/Ausschreibung_EDV_Netzplan_tmp0.pod",
