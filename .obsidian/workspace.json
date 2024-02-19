@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FischerNet.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "FischerNet.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FischerNet.md",
+                "file": "Backlog_0224.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FischerNet.md",
+                "file": "Backlog_0224.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,11 +238,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "66048476ea9a9c46",
+  "active": "24a6291d51fdc4a6",
   "lastOpenFiles": [
+    "FischerNet.md",
     "NWT/UDP.md",
     "Backlog_0224.md",
-    "FischerNet.md",
     "Allgemein/~$rlage_mit_Stempel.docx",
     "Allgemein/~$orlage.docx",
     "GGP/Warenkorb2023.pdf",
