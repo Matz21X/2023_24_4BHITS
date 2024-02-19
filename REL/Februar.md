@@ -36,3 +36,5 @@
 - Lerntheorie (Albert Bandura)
 	- Menschen lernen von ihren Vorbildern
 	- Vorbild aggressiv => Mensch aggressiv
+
+

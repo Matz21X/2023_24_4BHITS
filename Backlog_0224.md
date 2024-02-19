@@ -26,5 +26,5 @@
 |  | #ITP | [[Netzplan#Beziehungen]] |  |
 | 17 | #NWT | TCP |  |
 |  | #GGP | [[6. Geldwesen_Schüler.pdf]] [[Warenkorb2023.pdf]] |  |
-|  | #EN  |  |  |
-|  |  |  |  |
+|  | #EN  | Biohacking |  |
+|  | #RK  |  |  |
