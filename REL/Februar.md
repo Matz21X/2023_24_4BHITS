@@ -43,3 +43,5 @@
 - Zugang zu Bildung (USA)
 - Meinungseinschränkung (Arabie, Russland, Nordkorea)
 - (Social Media)
+
+![[Pasted image 20240219120718.png]]
