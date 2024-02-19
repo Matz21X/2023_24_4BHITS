@@ -39,4 +39,7 @@
 
 
 ### Beispiele für strukturelle Gewalt
-- Gender-Pay-Gap (Ös)
+- Gender-Pay-Gap (Österreich)
+- Zugang zu Bildung (USA)
+- Meinungseinschränkung (Arabie, Russland, Nordkorea)
+- (Social Media)
