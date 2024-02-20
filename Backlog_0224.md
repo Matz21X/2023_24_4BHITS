@@ -24,7 +24,11 @@
 |  | #ITP | Einführung LoRaWAN |  |
 | 16 | #AM | Schularbeit besprochen |  |
 |  | #ITP | [[Netzplan#Beziehungen]] |  |
-| 17 | #NWT | TCP |  |
+| 19 | #NWT | TCP |  |
 |  | #GGP | [[6. Geldwesen_Schüler.pdf]] [[Warenkorb2023.pdf]] |  |
-|  | #EN  | Biohacking |  |
-|  | #RK  | [[Februar#Beispiele für strukturelle Gewalt]] |  |
+|  | #EN | Biohacking |  |
+|  | #RK | [[Februar#Beispiele für strukturelle Gewalt]] |  |
+| 20 | #WIR | Recht -> Vertäge |  |
+|  | #DE | [[Deutungshypothese Ausländer]] |  |
+|  | #BSP | GASIG KRAFTIG [[Gasig.jpg]] |  |
+|  | #INSY | Datenbankarten |  |
