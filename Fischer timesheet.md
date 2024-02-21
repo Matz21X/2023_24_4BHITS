@@ -21,3 +21,10 @@
 	- Anfang: 
 	- Mochma Pause?:
 	- Thema: [[MQTT]]
+	
+- 21.2
+	- Soll: 7:50
+	- Tat: 8:11
+	- Anfang: 
+	- Mochma Pause?:
+	- Thema: [[MQTT]]
