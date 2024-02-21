@@ -23,19 +23,6 @@
             }
           },
           {
-            "id": "f972662bbe90dd07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DE/Deutungshypothese Ausländer.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "63717170714eb906",
             "type": "leaf",
             "state": {
@@ -67,20 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fischer timesheet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22d275a3769ab492",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REL/Februar.md",
+                "file": "SYT/MQTT.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DE/Deutungshypothese Ausländer.md"
+                "file": "SYT/MQTT.md"
               }
             }
           },
@@ -183,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DE/Deutungshypothese Ausländer.md"
+                "file": "SYT/MQTT.md"
               }
             }
           },
@@ -209,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DE/Deutungshypothese Ausländer.md",
+                "file": "SYT/MQTT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DE/Deutungshypothese Ausländer.md",
+                "file": "SYT/MQTT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,20 +239,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f972662bbe90dd07",
+  "active": "860f3b23a420307c",
   "lastOpenFiles": [
+    "Backlog_0224.md",
+    "SYT/MQTT.md",
+    "Fischer timesheet.md",
+    "REL/Februar.md",
+    "DE/Deutungshypothese Ausländer.md",
+    "conflict-files-obsidian-git.md",
     "NWT/UDP.md",
     "FischerNet.md",
-    "DE/Deutungshypothese Ausländer.md",
-    "Backlog_0224.md",
     "DE/KL23_PT1_DEU_1.1_AU.pdf",
-    "REL/Februar.md",
     "Attachments/Pasted image 20240219120718.png",
     "Allgemein/~$rlage_mit_Stempel.docx",
     "Allgemein/~$orlage.docx",
     "GGP/Warenkorb2023.pdf",
     "GGP/Warenkorb2023.pdf.crdownload",
-    "Fischer timesheet.md",
     "fischer.md",
     "ITP/Theorie/Netzplan.md",
     "DE/KL22_PT3_DEU_1.1_AU.pdf",
@@ -291,7 +267,6 @@
     "Attachments/Pasted image 20240216091822.png",
     "Attachments/Pasted image 20240216091810.png",
     "Fischer Internet oasch sheet.md",
-    "SYT/MQTT.md",
     "WIR/Wirtschaft/Doppelte Buchhaltung.md",
     "Attachments/Pasted image 20240215091018.png",
     "Attachments/Pasted image 20240215090901.png",
@@ -312,7 +287,6 @@
     "MEDT/HOEF/aufgabe1/node_modules/unpipe/README.md",
     "MEDT/HOEF/aufgabe1/node_modules/unpipe/HISTORY.md",
     "MEDT/HOEF/aufgabe1/node_modules/type-is/README.md",
-    "MEDT/HOEF/aufgabe1/node_modules/type-is/HISTORY.md",
     "Untitled.canvas",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
