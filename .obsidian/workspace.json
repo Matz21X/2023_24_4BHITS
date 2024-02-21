@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fischer timesheet.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fischer timesheet.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fischer timesheet.md",
+                "file": "Backlog_0224.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fischer timesheet.md",
+                "file": "Backlog_0224.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,11 +238,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "860f3b23a420307c",
+  "active": "24a6291d51fdc4a6",
   "lastOpenFiles": [
+    "Fischer timesheet.md",
     "SYT/MQTT.md",
     "Backlog_0224.md",
-    "Fischer timesheet.md",
     "REL/Februar.md",
     "DE/Deutungshypothese Ausländer.md",
     "conflict-files-obsidian-git.md",
