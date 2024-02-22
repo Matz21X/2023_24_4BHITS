@@ -31,7 +31,7 @@ void loop() {
   // Prepare array of 1 byte to indicate LED status
   byte data[2];
   data[0] = 0x01;
-  data[1] = 0xAA;
+  data[1] = 0xAB;
 
   // Send it off
   ttn.sendBytes(data, sizeof(data));
