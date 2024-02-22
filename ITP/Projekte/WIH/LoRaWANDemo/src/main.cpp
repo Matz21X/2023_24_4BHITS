@@ -11,6 +11,8 @@ TheThingsNetwork ttn(loraSerial, debugSerial, freqPlan);
 const char *appEui = "0000000000000000";
 const char *appKey = "1454124B034A6A582A0F0566075792A0";
 
+// put function declarations here:
+void message(const uint8_t *payload, size_t size, port_t port );
 
 void setup() {
   debugSerial.begin(9600);
@@ -23,6 +25,9 @@ void setup() {
 
   debugSerial.println("-- JOIN");
   ttn.join(appEui, appKey);
+
+  // Set callback for incoming messages
+  ttn.onMessage(message);
 }
 
 void loop() {
@@ -37,4 +42,15 @@ void loop() {
   ttn.sendBytes(data, sizeof(data));
 
   delay(10000);
+}
+
+void message(const uint8_t *payload, size_t size, port_t port ){
+  debugSerial.print("-- MESSAGE RECEIVED --");
+  for (unsigned int i = 0; i < size; i++)
+  {
+    debugSerial.print(payload[i]);
+    debugSerial.print("");
+  }
+  debugSerial.println();
+  
 }
