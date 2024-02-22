@@ -40,20 +40,17 @@ public class App implements MqttCallback {
     }
 
     @Override
-
     public void connectionLost(Throwable cause) {
         //TODO Auto -generated method stub
 
     }
 
     @Override
-
     public void messageArrived(String topic, MqttMessage message) throws Exception {
         System.out.println(message);
     }
 
     @Override
-
     public void deliveryComplete(IMqttDeliveryToken token) {
 
         // TODO Auto -generated method stub

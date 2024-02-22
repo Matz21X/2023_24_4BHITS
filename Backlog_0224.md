@@ -41,4 +41,4 @@
 |      | #SEW    | Mathe SA Vorbereitung                                 |                 |
 |      | #AM     | SA                                                    |                 |
 |      | #NW     | Einführung                                            |                 |
-|      | #ITP         | LoRaWan joa                                                      |                 |
+|      | #ITP         | LoRaWan Projekt anfang                                                      |                 |
