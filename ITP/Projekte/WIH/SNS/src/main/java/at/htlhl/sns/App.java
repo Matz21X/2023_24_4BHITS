@@ -7,19 +7,19 @@ import org.eclipse.paho.client.mqttv3.MqttException;
 import org.eclipse.paho.client.mqttv3.MqttMessage;
 import org.eclipse.paho.client.mqttv3.MqttConnectOptions;
 
-public class Access implements MqttCallback {
+public class App implements MqttCallback {
     MqttClient client;
 
-    public Access() {
+    public App() {
     }
 
     public static void main(String[] args) {
-        new Access().doDemo();
+        new App().doDemo();
     }
 
     public void doDemo() {
         try {
-            String username = "matthias.hrbek@it.htlhl.at";
+            String username = "itp-project-2@ttn";
             String password = "Donpollo69";
             String serverurl = "tcp://eu1.cloud.thethings.network:1883";
             String clientId = MqttClient.generateClientId();
