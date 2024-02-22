@@ -20,7 +20,7 @@ public class App implements MqttCallback {
     public void doDemo() {
         try {
             String username = "itp-project-2@ttn";
-            String password = "Donpollo69";
+            String password = "NNSXS.H6J4LIWM7SUADHQGWEK5SJED6T5742OAZWUFZZI.RJZB43B3LI4J6WZFZLCYBQU4LQFUIATFNZYQROQWCEH6BWG2ALSA";
             String serverurl = "tcp://eu1.cloud.thethings.network:1883";
             String clientId = MqttClient.generateClientId();
 
@@ -33,7 +33,7 @@ public class App implements MqttCallback {
             client.connect(options);
 
             client.setCallback(this);
-            client.subscribe("#");
+            client.subscribe("fortnight/building/control");
         } catch (MqttException e) {
             e.printStackTrace();
         }
