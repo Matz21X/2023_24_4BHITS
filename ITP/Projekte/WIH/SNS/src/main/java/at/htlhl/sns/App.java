@@ -33,7 +33,7 @@ public class App implements MqttCallback {
             client.connect(options);
 
             client.setCallback(this);
-            client.subscribe("fortnight/building/control");
+            client.subscribe("#");
         } catch (MqttException e) {
             e.printStackTrace();
         }
