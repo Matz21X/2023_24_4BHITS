@@ -36,4 +36,9 @@
 |      | #WIR    | NIX NIX [[2000_Yard_Stare.jpg]]                       |                 |
 |      | #MEDT   | FICI joa okay                                         |                 |
 |      | #INSY   | NIX NIX [[2000_Yard_Stare.jpg]]                       |                 |
-|      | #SEW    | GenericsDemo                                                      |                 |
+|      | #SEW    | GenericsDemo                                          |                 |
+| 22   | #EN     | Discrimination at work                                |                 |
+|      | #SEW    | Mathe SA Vorbereitung                                 |                 |
+|      | #AM     | SA                                                    |                 |
+|      | #NW     | Einführung                                            |                 |
+|      | #ITP         | LoRaWan joa                                                      |                 |

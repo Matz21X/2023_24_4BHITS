@@ -10,7 +10,7 @@ while($true) {
     if ($pingResult) {
 	    echo "Hell yea B) $currentTime"
     } else {
-	    echo "Oasch $currentTime"
+	    echo "Oasch $currentTimes"
     }
 	Start-Sleep -Seconds 5
 }

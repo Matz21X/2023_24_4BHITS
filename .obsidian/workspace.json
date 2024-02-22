@@ -23,19 +23,6 @@
             }
           },
           {
-            "id": "63717170714eb906",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NWT/UDP.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "66048476ea9a9c46",
             "type": "leaf",
             "state": {
@@ -240,13 +227,13 @@
   },
   "active": "24a6291d51fdc4a6",
   "lastOpenFiles": [
+    "NWT/UDP.md",
+    "Backlog_0224.md",
     "Fischer timesheet.md",
     "SYT/MQTT.md",
-    "Backlog_0224.md",
     "REL/Februar.md",
     "DE/Deutungshypothese Ausländer.md",
     "conflict-files-obsidian-git.md",
-    "NWT/UDP.md",
     "FischerNet.md",
     "DE/KL23_PT1_DEU_1.1_AU.pdf",
     "Attachments/Pasted image 20240219120718.png",
