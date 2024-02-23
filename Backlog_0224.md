@@ -47,4 +47,4 @@
 |  | #NW | Astronomie |  |
 |  | #ITP | ProjectLibre EDV Projekt |  |
 |  | #DE  | Neue Klassenlektüre:  Friedrich Torberg, Der Schüler Gerber |  |
-|  |  |  |  |
+|  | #NWT | Goofy ahh broken PacketTracer |  |

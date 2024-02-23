@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fischer timesheet.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -144,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fischer timesheet.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fischer timesheet.md",
+                "file": "Backlog_0224.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fischer timesheet.md",
+                "file": "Backlog_0224.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,10 +225,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "860f3b23a420307c",
+  "active": "24a6291d51fdc4a6",
   "lastOpenFiles": [
-    "Backlog_0224.md",
     "Fischer timesheet.md",
+    "Backlog_0224.md",
     "ITP/Theorie/Netzplan.md",
     "FischerNet.md",
     "ITP/Theorie/Ausschreibung_EDV_Netzplan_tmp0.pod",
