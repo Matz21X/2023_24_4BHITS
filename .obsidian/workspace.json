@@ -47,8 +47,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fcd49425ac01aced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITP/Theorie/Netzplan.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0224.md"
+                "file": "ITP/Theorie/Netzplan.md"
               }
             }
           },
@@ -143,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0224.md"
+                "file": "ITP/Theorie/Netzplan.md"
               }
             }
           },
@@ -169,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0224.md",
+                "file": "ITP/Theorie/Netzplan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0224.md",
+                "file": "ITP/Theorie/Netzplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,8 +239,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "24a6291d51fdc4a6",
+  "active": "fcd49425ac01aced",
   "lastOpenFiles": [
+    "Backlog_0224.md",
     "ITP/Theorie/Balkendiagramm.png",
     "ITP/Theorie/EDV_Netzplan.jpg",
     "ITP/Theorie/AusschreibungEDV.drawio",
@@ -240,7 +255,6 @@
     "Allgemein/~$rlage_mit_Stempel.docx",
     "ITP/Projekte/WIH/SNS/src/main/java/at/htlhl/sns/App.java",
     "NWT/UDP.md",
-    "Backlog_0224.md",
     "Fischer timesheet.md",
     "SYT/MQTT.md",
     "REL/Februar.md",
@@ -260,7 +274,6 @@
     "Attachments/Pasted image 20240215090901.png",
     "INSY/Docker Aufgabe 2.md",
     "Attachments/Pasted image 20240214184856.png",
-    "Attachments/Pasted image 20240214161811.png",
     "MEDT/HOEF/NodeJS Testvorbereitung.md",
     "MEDT/HOEF/MEDT-Jahresstoff.md",
     "MEDT/HOEF/Docker Networking.md",
