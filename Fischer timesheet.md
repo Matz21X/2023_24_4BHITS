@@ -28,3 +28,10 @@
 	- Anfang: 
 	- Mochma Pause?:
 	- Thema: [[MQTT]]
+	- 
+- 23.2
+	- Soll: 14:00
+	- Tat: 14:11 Ebermann
+	- Anfang: 
+	- Mochma Pause?:
+	- Thema: [[MQTT]]
