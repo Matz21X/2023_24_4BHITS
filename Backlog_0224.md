@@ -43,3 +43,8 @@
 |  | #NW | Einführung |  |
 |  | #ITP | LoRaWan Projekt anfang |  |
 | 23 | #AM | Einführung Statistik |  |
+|  | #ITP | Organisatorisches |  |
+|  | #NW | Astronomie |  |
+|  | #ITP | ProjectLibre EDV Projekt |  |
+|  | #DE  | Neue Klassenlektüre:  Friedrich Torberg, Der Schüler Gerber |  |
+|  |  |  |  |
