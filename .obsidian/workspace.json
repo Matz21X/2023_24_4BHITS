@@ -23,6 +23,16 @@
             }
           },
           {
+            "id": "b0a39f65d5f89a44",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
             "id": "860f3b23a420307c",
             "type": "leaf",
             "state": {
@@ -48,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,7 +236,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "24a6291d51fdc4a6",
+  "active": "b0a39f65d5f89a44",
   "lastOpenFiles": [
     "Fischer timesheet.md",
     "Backlog_0224.md",
