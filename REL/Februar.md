@@ -47,5 +47,6 @@
 ![[Pasted image 20240219120718.png]]
 
 
-### Fundamentalismus
+### Fundamentalismus S. 137
 
+> Eine Ideologie, die strikt an Traditionen und Werten festhält (Unbefehlbarkeit der hl. Schrift)
