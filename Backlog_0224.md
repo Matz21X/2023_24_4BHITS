@@ -50,5 +50,6 @@
 |      | #NWT    | Goofy ahh broken PacketTracer                               |                 |
 | 26   | #NWT    | TCP/UDP                                                     |                 |
 |      | #GGP    | [[6. Geldwesen_Schüler.pdf]]                                |                 |
+|      | #EN     | Speaking (Biological enhancements)                          |                 |
 Kap 5 ab 1.3 Austrokenyanismus
 Gesamtes Kap 6
