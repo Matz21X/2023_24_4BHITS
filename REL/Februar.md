@@ -45,3 +45,7 @@
 - (Social Media)
 
 ![[Pasted image 20240219120718.png]]
+
+
+### Fundamentalismus
+
