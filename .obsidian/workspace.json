@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,11 +235,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b0a39f65d5f89a44",
+  "active": "24a6291d51fdc4a6",
   "lastOpenFiles": [
+    "ITP/Theorie/Netzplan.md",
     "Fischer timesheet.md",
     "Backlog_0224.md",
-    "ITP/Theorie/Netzplan.md",
     "FischerNet.md",
     "ITP/Theorie/Ausschreibung_EDV_Netzplan_tmp0.pod",
     "ITP/Theorie/Balkendiagramm.png",
