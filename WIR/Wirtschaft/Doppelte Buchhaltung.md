@@ -27,3 +27,5 @@
 ## Bestandskonten - Unterkonten
 Seite 53
 ![[Pasted image 20240215091018.png]]
+
+![[Pasted image 20240226201833.png]]
