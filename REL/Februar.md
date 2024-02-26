@@ -58,3 +58,7 @@
 
 **Auswirkungen von 9/11:**
 - Strengere Sicherheitsvorschriften auf Flughäfen
+- War on Terror 
+- Kriegsverbrechen
+- Spannungen gegenüber dem Nahen Osten
+	- Irak und Afghanistankrieg
