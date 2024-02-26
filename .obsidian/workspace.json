@@ -70,9 +70,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ddd5d2553cc986ae",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -249,7 +259,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6321a2df9f2717de",
+  "active": "ddd5d2553cc986ae",
   "lastOpenFiles": [
     "Backlog_0224.md",
     "ITP/Theorie/Netzplan.md",
