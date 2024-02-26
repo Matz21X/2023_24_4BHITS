@@ -50,3 +50,11 @@
 ### Fundamentalismus S. 137
 
 > Eine Ideologie, die strikt an Traditionen und Werten festhält (Unbefehlbarkeit der hl. Schrift)
+
+
+**Pluralismus:**
+>Eine Gesellschaft mit vielfältigen (pluralen) Werten, Ansichten, Ideologien
+
+
+**Auswirkungen von 9/11:**
+- Strengere Sicherheitsvorschriften auf Flughäfen
