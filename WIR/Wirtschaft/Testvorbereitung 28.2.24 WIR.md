@@ -57,3 +57,10 @@ Umsätze sind nur steuerbar wenn:
 - Erhalt der Lieferung oder Leistung
 - Vorliegen einer dem UStG entsprechenden Rechnung
 - Lieferung oder Leistung **muss** für den **Unternehmensbereich** bestimmt sein
+
+
+## Vorsteueranzug
+
+![[Pasted image 20240227194855.png]]
+
+
