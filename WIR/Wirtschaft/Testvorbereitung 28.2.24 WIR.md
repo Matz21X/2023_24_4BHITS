@@ -59,8 +59,8 @@ Umsätze sind nur steuerbar wenn:
 - Lieferung oder Leistung **muss** für den **Unternehmensbereich** bestimmt sein
 
 
-## Vorsteueranzug
+## Vorsteuerabzug
 
 ![[Pasted image 20240227194855.png]]
-
+![[Pasted image 20240227195307.png]]
 
