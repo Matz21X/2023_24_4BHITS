@@ -48,3 +48,12 @@ Umsätze sind nur steuerbar wenn:
 ![[Pasted image 20240227191644.png]]
 
 ### Vorsteuerabzug
+
+>Auch bei Geschäften zwischen Unternehmen fällt Umsatzsteuer an. Damit es nicht zu einer Mehrfachbesteuerung kommt, erhalten Unternehmen die Umsatzsteuer, die sie an ihre Lieferanten bezahlt haben, vom Finanzamt zurück.+
+ 
+ ![[Pasted image 20240227192353.png]]
+
+**Voraussetzungen für den Vorsteuerabzug:**
+- Erhalt der Lieferung oder Leistung
+- Vorliegen einer dem UStG entsprechenden Rechnung
+- Lieferung oder Leistung **muss** für den **Unternehmensbereich** bestimmt sein
