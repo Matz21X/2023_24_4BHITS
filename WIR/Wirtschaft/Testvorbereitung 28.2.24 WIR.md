@@ -26,3 +26,6 @@ Zeigt was ein Unternehmen besitzt und wie diese Gegenstände finanziert wurden.
 **Kalte Progression:**
 Kalte Progression bezeichnet das Phänomen, bei dem Lohnerhöhungen durch steigende Einkommensteuersätze trotz gleichbleibender Kaufkraft real weniger Nettoeinkommen bedeuten.
 
+
+<span style="color:#00b050">Körperschaftssteuer:</span> ist eine Steuer, die auf die Gewinne von Unternehmen erhoben wird
+Unternehmen muss Körperschaftssteuer zahlen --> Gesellschafter muss noch dazu Kapitalertragssteue
