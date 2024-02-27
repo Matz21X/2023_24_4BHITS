@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0224.md"
+                "file": "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md"
               }
             }
           },
@@ -143,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0224.md"
+                "file": "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md"
               }
             }
           },
@@ -169,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0224.md",
+                "file": "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0224.md",
+                "file": "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,13 +226,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "24a6291d51fdc4a6",
+  "active": "a1bcce77fa3cf505",
   "lastOpenFiles": [
-    "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md",
-    "Attachments/Pasted image 20240226202558.png",
     "WIR/Wirtschaft/Doppelte Buchhaltung.md",
-    "Attachments/Pasted image 20240226201833.png",
+    "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md",
     "Backlog_0224.md",
+    "Attachments/Pasted image 20240226202558.png",
+    "Attachments/Pasted image 20240226201833.png",
     "REL/Februar.md",
     "ITP/Theorie/Netzplan.md",
     "Fischer timesheet.md",
