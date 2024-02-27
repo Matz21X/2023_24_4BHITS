@@ -53,5 +53,6 @@
 |      | #EN     | Speaking (Biological enhancements)                          |                 |
 |      | #RK     | [[Februar#Fundamentalismus S. 137]]                         |                 |
 | 27   | #WIR    | Recht Seite 63-72                                           |                 |
+|      | #DE     | Lesestunde                                                  |                 |
 Kap 5 ab 1.3 Austrokenyanismus
 Gesamtes Kap 6
