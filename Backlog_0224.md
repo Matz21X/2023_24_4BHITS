@@ -52,5 +52,6 @@
 |      | #GGP    | [[6. Geldwesen_Schüler.pdf]]                                |                 |
 |      | #EN     | Speaking (Biological enhancements)                          |                 |
 |      | #RK     | [[Februar#Fundamentalismus S. 137]]                         |                 |
+| 27   | #WIR    | Recht Seite 63-72                                           |                 |
 Kap 5 ab 1.3 Austrokenyanismus
 Gesamtes Kap 6

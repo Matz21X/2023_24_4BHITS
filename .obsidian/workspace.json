@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -144,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md",
+                "file": "Backlog_0224.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md",
+                "file": "Backlog_0224.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,11 +225,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a1bcce77fa3cf505",
+  "active": "24a6291d51fdc4a6",
   "lastOpenFiles": [
+    "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md",
     "Attachments/Pasted image 20240226202558.png",
     "WIR/Wirtschaft/Doppelte Buchhaltung.md",
-    "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md",
     "Attachments/Pasted image 20240226201833.png",
     "Backlog_0224.md",
     "REL/Februar.md",
@@ -261,7 +260,6 @@
     "Attachments/Pasted image 20240216091810.png",
     "Fischer Internet oasch sheet.md",
     "Attachments/Pasted image 20240215091018.png",
-    "Attachments/Pasted image 20240215090901.png",
     "INSY/Docker Aufgabe 2.md",
     "MEDT/HOEF/NodeJS Testvorbereitung.md",
     "MEDT/HOEF/MEDT-Jahresstoff.md",
