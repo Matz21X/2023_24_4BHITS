@@ -23,4 +23,6 @@ Zeigt was ein Unternehmen besitzt und wie diese Gegenstände finanziert wurden.
 ![[Pasted image 20240227170814.png]]
 
 
+**Kalte Progression:**
+Kalte Progression bezeichnet das Phänomen, bei dem Lohnerhöhungen durch steigende Einkommensteuersätze trotz gleichbleibender Kaufkraft real weniger Nettoeinkommen bedeuten.
 
