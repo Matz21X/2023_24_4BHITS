@@ -14,3 +14,6 @@ Zeigt was ein Unternehmen besitzt und wie diese Gegenstände finanziert wurden.
 **Zinsen und Spareinlagen = KESt 25%**
 **Alles andere = KESt 27,5%**
 
+**Immobilien (ImmoESt) = 30% auf die Different vom ursprünglichen Kaufpreis und jetzigen Verkaufspreises**
+
+<span style="color:#00b050">Veranlagte Einkommensteuer:</span> Einkommenspflichtige müssen jährlich bis zum 30. Juni eine Steuererklärung einreichen.
