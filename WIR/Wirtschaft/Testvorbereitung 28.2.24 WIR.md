@@ -28,4 +28,15 @@ Kalte Progression bezeichnet das Phänomen, bei dem Lohnerhöhungen durch steige
 
 
 <span style="color:#00b050">Körperschaftssteuer:</span> ist eine Steuer, die auf die Gewinne von Unternehmen erhoben wird
-Unternehmen muss Körperschaftssteuer zahlen --> Gesellschafter muss noch dazu Kapitalertragssteue
+Unternehmen muss Körperschaftssteuer zahlen --> Gesellschafter muss noch dazu Kapitalertragssteuer zahlen
+
+![[Pasted image 20240227184101.png]]
+
+
+## Umsatzsteuer
+
+>Idee dahinter ist den Konsum von Privatpersonen im Inland zu besteuern. Gehört zu den ertragreichsten Steuern für den Staat.
+
+![[Pasted image 20240227184630.png]]
+
+
