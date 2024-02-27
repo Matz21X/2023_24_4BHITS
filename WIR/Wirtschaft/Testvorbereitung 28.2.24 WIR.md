@@ -40,3 +40,8 @@ Unternehmen muss Körperschaftssteuer zahlen --> Gesellschafter muss noch dazu K
 ![[Pasted image 20240227184630.png]]
 
 
+Umsätze sind nur steuerbar wenn:
+
+![[Pasted image 20240227185951.png]]
+
+
