@@ -45,3 +45,6 @@ Umsätze sind nur steuerbar wenn:
 ![[Pasted image 20240227185951.png]]
 ![[Pasted image 20240227191026.png]]
 
+![[Pasted image 20240227191644.png]]
+
+### Vorsteuerabzug
