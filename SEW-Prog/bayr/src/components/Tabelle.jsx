@@ -3,6 +3,7 @@ import axios from 'axios';
 
 function Tabelle() {
 
+    // Hook
     const [personen, setPersonen] = useState([]);
 
     useEffect(() => {
@@ -22,10 +23,10 @@ function Tabelle() {
 
     return (
         <>
-            <h2 className="text-center">Personenverwaltung</h2>
+            <h2 >Personenverwaltung</h2>
             <br></br>
-            <table className="table table-striped table-bordered">
-                <thead className="thead-dark">
+            <table >
+                <thead >
                 <tr>
                     <th>PersonID</th>
                     <th>Vorname</th>
@@ -50,6 +51,10 @@ function Tabelle() {
                 ))}
                 </tbody>
             </table>
+            <div >
+                <br></br>
+                <a href="/add" role="button">Neue Person anlegen</a>
+            </div>
         </>
     );
 }
