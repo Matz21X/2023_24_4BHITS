@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIR/Wirtschaft/Doppelte Buchhaltung.md",
+                "file": "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md",
+                "file": "SYT/MQTT.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,11 +228,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a1bcce77fa3cf505",
+  "active": "f7814523540eea87",
   "lastOpenFiles": [
     "WIR/Wirtschaft/Doppelte Buchhaltung.md",
-    "Backlog_0224.md",
+    "SYT/MQTT.md",
     "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md",
+    "Backlog_0224.md",
     "Attachments/Pasted image 20240227195307.png",
     "Attachments/Pasted image 20240227194855.png",
     "Attachments/Pasted image 20240227192430.png",
@@ -258,7 +259,6 @@
     "ITP/Projekte/WIH/SNS/src/main/java/at/htlhl/sns/App.java~",
     "Allgemein/~$rlage_ausgefüllt.docx",
     "NWT/UDP.md",
-    "SYT/MQTT.md",
     "DE/Deutungshypothese Ausländer.md",
     "conflict-files-obsidian-git.md",
     "fischer.md",

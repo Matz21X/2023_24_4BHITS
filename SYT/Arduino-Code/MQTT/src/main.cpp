@@ -12,8 +12,8 @@
 //#define MQTT_SERVER "test.mosquitto.org"
  
 #define MQTT_PORT 1883
-//#define TEMPERATURE_TOPIC "DONPOLLO/ohio/temp"
-#define TEMPERATURE_TOPIC "HTLHL/4BHITS/temperature"
+#define TEMPERATURE_TOPIC "DONPOLLO/ohio/temp"
+//#define TEMPERATURE_TOPIC "HTLHL/4BHITS/temperature"
  
 // Webserver
 WebServer myWebServer(80);
