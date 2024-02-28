@@ -11,6 +11,9 @@ TheThingsNetwork ttn(loraSerial, debugSerial, freqPlan);
 const char *appEui = "0000000000000000";
 const char *appKey = "1454124B034A6A582A0F0566075792A0";
 
+// Set the desired port number
+const port_t myPort = 1;
+
 // put function declarations here:
 void message(const uint8_t *payload, size_t size, port_t port );
 
@@ -38,19 +41,20 @@ void loop() {
   data[0] = 0x01;
   data[1] = 0xAB;
 
-  // Send it off
-  ttn.sendBytes(data, sizeof(data));
+  // Send it off with the specified port
+  ttn.sendBytes(data, sizeof(data), myPort);
 
   delay(10000);
 }
 
 void message(const uint8_t *payload, size_t size, port_t port ){
-  debugSerial.print("-- MESSAGE RECEIVED --");
+  debugSerial.print("-- MESSAGE RECEIVED on port ");
+  debugSerial.print(port);
+  debugSerial.print(": ");
   for (unsigned int i = 0; i < size; i++)
   {
-    debugSerial.print(payload[i]);
-    debugSerial.print("");
+    debugSerial.print(payload[i], HEX); // Print payload as hexadecimal
+    debugSerial.print(" ");
   }
   debugSerial.println();
-  
 }
