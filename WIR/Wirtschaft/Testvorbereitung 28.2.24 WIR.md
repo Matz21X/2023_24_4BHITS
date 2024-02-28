@@ -37,7 +37,7 @@ Unternehmen muss Körperschaftssteuer zahlen --> Gesellschafter muss noch dazu K
 
 >Idee dahinter ist den Konsum von Privatpersonen im Inland zu besteuern. Gehört zu den ertragreichsten Steuern für den Staat.
 
-![[Pasted image 20240227184630.png]]
+	![[Pasted image 20240227184630.png]]
 
 
 Umsätze sind nur steuerbar wenn:
