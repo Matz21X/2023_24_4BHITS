@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REL/Februar.md",
+                "file": "REL/Oktober.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REL/Februar.md"
+                "file": "REL/Oktober.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "REL/Februar.md"
+                "file": "REL/Oktober.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REL/Februar.md",
+                "file": "REL/Oktober.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REL/Februar.md",
+                "file": "REL/Oktober.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,6 +254,7 @@
   },
   "active": "6c45f7bf2ed4f60a",
   "lastOpenFiles": [
+    "REL/Februar.md",
     "NW/~$ysikHA4_3.docx",
     "Backlog_0224.md",
     "EN/City Planning 1.md",
@@ -269,7 +270,6 @@
     "SEW-Prog/bayr/src/components",
     "SEW-Prog/bayr/src/App.test.js",
     "SEW-Prog/bayr/src/App.js",
-    "SEW-Prog/bayr/public/robots.txt",
     "SEW-Prog/bayr/public/logo512.png",
     "SEW-Prog/bayr/public/logo192.png",
     "SEW-Prog/bayr/README.md",
@@ -280,7 +280,6 @@
     "Attachments/Pasted image 20240227191644.png",
     "Attachments/Pasted image 20240227191026.png",
     "Attachments/Pasted image 20240227185951.png",
-    "REL/Februar.md",
     "ITP/Theorie/Netzplan.md",
     "Fischer timesheet.md",
     "FischerNet.md",
