@@ -33,7 +33,9 @@ public class App implements MqttCallback {
             client.connect(options);
 
             client.setCallback(this);
+
             client.subscribe("#");
+            sendMessage("topic", "Hallo Konrad");
         } catch (MqttException e) {
             e.printStackTrace();
         }
@@ -56,5 +58,15 @@ public class App implements MqttCallback {
 
         // TODO Auto -generated method stub
 
+    }
+
+    public void sendMessage(String topic, String payload) {
+        try {
+            MqttMessage message = new MqttMessage(payload.getBytes());
+            client.publish(topic, message);
+            System.out.println("Message published: " + payload);
+        } catch (MqttException e) {
+            e.printStackTrace();
+        }
     }
 }
