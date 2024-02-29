@@ -27,6 +27,9 @@ European cities: Focused on pedestrians
 - Suburbs are space inefficient
 - MURICAA 🦅🦅🦅🦅
 
-
 **Special commute:**
-- Extra 
+- Extra trains for suburbians
+
+**Culture of individualism**
+- Nobody likes the bus
+
