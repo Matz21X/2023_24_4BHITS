@@ -21,61 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "9b81e3a65c3fa21a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EN/City Planning 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7814523540eea87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIR/Wirtschaft/Doppelte Buchhaltung.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1bcce77fa3cf505",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c45f7bf2ed4f60a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REL/Oktober.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REL/Oktober.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -170,7 +117,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "REL/Oktober.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -196,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REL/Oktober.md",
+                "file": "Backlog_0224.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REL/Oktober.md",
+                "file": "Backlog_0224.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,12 +199,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6c45f7bf2ed4f60a",
+  "active": "24a6291d51fdc4a6",
   "lastOpenFiles": [
+    "EN/City Planning 1.md",
+    "REL/Oktober.md",
     "REL/Februar.md",
     "NW/~$ysikHA4_3.docx",
     "Backlog_0224.md",
-    "EN/City Planning 1.md",
     "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md",
     "WIR/Wirtschaft/Doppelte Buchhaltung.md",
     "SEW-Prog/bayr/src/components/Tabelle.jsx",
