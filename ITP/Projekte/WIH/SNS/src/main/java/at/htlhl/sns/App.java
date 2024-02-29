@@ -6,9 +6,12 @@ import org.eclipse.paho.client.mqttv3.MqttClient;
 import org.eclipse.paho.client.mqttv3.MqttException;
 import org.eclipse.paho.client.mqttv3.MqttMessage;
 import org.eclipse.paho.client.mqttv3.MqttConnectOptions;
+import org.json.JSONException;
 import org.json.JSONObject;
 
+import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
+import java.util.Base64;
 import java.util.List;
 
 public class App implements MqttCallback {
@@ -18,23 +21,24 @@ public class App implements MqttCallback {
     public App() {
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws JSONException {
         new App().doDemo();
     }
 
-    public void doDemo() {
+    public void doDemo() throws JSONException {
 
         String myTopic = "v3/";
-        myTopic += username;
-        myTopic += ("/devices/" + devId + "/down/push”);
+        myTopic += "itp-project-2@ttn";
+        myTopic += ("/devices/" + "uno-0004a30b001bcc84" + "/down/push");
+        byte[] payload = {9};
         List sList = new ArrayList();
         JSONObject jsonmsg = new JSONObject();
         JSONObject jdownlinks = new JSONObject();
-        jdownlinks.put("f_port”, 1);
-        jdownlinks.put("frm_payload”, Base64.getEncoder().encodeToString(payload));
-        jdownlinks.put("priority”, "NORMAL");
+        jdownlinks.put("f_port", 1);
+        jdownlinks.put("frm_payload", Base64.getEncoder().encodeToString(payload));
+        jdownlinks.put("priority", "NORMAL");
         sList.add(jdownlinks);
-        jsonmsg.put("downlinks”,sList);
+        jsonmsg.put("downlinks",sList);
         System.out.print("sendDownlink ");
         System.out.println(jsonmsg);
         try {
@@ -54,9 +58,15 @@ public class App implements MqttCallback {
 
             client.setCallback(this);
             client.subscribe("#");
-            client.publish("#", "112".getBytes(), 0, false);
+
+            client.publish(myTopic, jsonmsg.toString().getBytes("utf-8"), 0, false);
+
+
+
         } catch (MqttException e) {
             e.printStackTrace();
+        } catch (UnsupportedEncodingException e) {
+            throw new RuntimeException(e);
         }
     }
 
