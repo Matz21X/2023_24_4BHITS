@@ -6,6 +6,10 @@ import org.eclipse.paho.client.mqttv3.MqttClient;
 import org.eclipse.paho.client.mqttv3.MqttException;
 import org.eclipse.paho.client.mqttv3.MqttMessage;
 import org.eclipse.paho.client.mqttv3.MqttConnectOptions;
+import org.json.JSONObject;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class App implements MqttCallback {
     MqttClient client;
@@ -19,6 +23,20 @@ public class App implements MqttCallback {
     }
 
     public void doDemo() {
+
+        String myTopic = "v3/";
+        myTopic += username;
+        myTopic += ("/devices/" + devId + "/down/push”);
+        List sList = new ArrayList();
+        JSONObject jsonmsg = new JSONObject();
+        JSONObject jdownlinks = new JSONObject();
+        jdownlinks.put("f_port”, 1);
+        jdownlinks.put("frm_payload”, Base64.getEncoder().encodeToString(payload));
+        jdownlinks.put("priority”, "NORMAL");
+        sList.add(jdownlinks);
+        jsonmsg.put("downlinks”,sList);
+        System.out.print("sendDownlink ");
+        System.out.println(jsonmsg);
         try {
             String username = "itp-project-2@ttn";
             String password = "NNSXS.H6J4LIWM7SUADHQGWEK5SJED6T5742OAZWUFZZI.RJZB43B3LI4J6WZFZLCYBQU4LQFUIATFNZYQROQWCEH6BWG2ALSA";
@@ -33,9 +51,10 @@ public class App implements MqttCallback {
             client = new MqttClient(serverurl, clientId, null);
             client.connect(options);
 
-            
+
             client.setCallback(this);
             client.subscribe("#");
+            client.publish("#", "112".getBytes(), 0, false);
         } catch (MqttException e) {
             e.printStackTrace();
         }
