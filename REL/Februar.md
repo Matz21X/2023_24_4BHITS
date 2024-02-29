@@ -66,3 +66,13 @@
 ### Uno (Vereinte Nationen)
 
 >Zusammenschuss von 193 Staaten zur Sicherheit von Weltfrieden, Völkerrecht und Förderungen von internationaler Zusammenarbeit
+
+**Aktuelle UNO-Themen:**
+- Krieg/Humanitäre Hilfe in Gaza
+- Klimawandel
+- Russischer Überfall auf die Ukraine
+- Ermordung von Nawalny
+- SDGs - Sustainable Development Goals
+
+**ÖBH Aufgaben:**
+- Landesverteidigung, Katastrophen- und Zivilschutz, Auslandseinsätze
