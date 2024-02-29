@@ -56,5 +56,8 @@
 |      | #DE     | Lesestunde                                                  |                 |
 |      | #BSP    | GASIG KRAFTIG [[Gasig.jpg]]                                 |                 |
 |      | #INSY   | SEW Projekt weitergemacht                                   |                 |
+| 28   | #SYT    | [[MQTT]] Arduino                                            |                 |
+|      | #WIR    | Test☠️☠️☠️                                                  |                 |
+|      |         |                                                             |                 |
 Kap 5 ab 1.3 Austrokenyanismus
 Gesamtes Kap 6
