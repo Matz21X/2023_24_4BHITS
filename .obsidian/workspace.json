@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "City Planning 1.md",
+                "file": "EN/City Planning 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "City Planning 1.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "City Planning 1.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "City Planning 1.md",
+                "file": "Backlog_0224.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "City Planning 1.md",
+                "file": "Backlog_0224.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,11 +238,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9b81e3a65c3fa21a",
+  "active": "24a6291d51fdc4a6",
   "lastOpenFiles": [
-    "Backlog_0224.md",
-    "City Planning 1.md",
+    "EN/City Planning 1.md",
     "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md",
+    "WIR/Wirtschaft/Doppelte Buchhaltung.md",
+    "Backlog_0224.md",
     "SEW-Prog/bayr/src/components/Tabelle.jsx",
     "SEW-Prog/bayr/src/components/Add.jsx",
     "SEW-Prog/bayr/src/reportWebVitals.js",
@@ -258,7 +258,6 @@
     "SEW-Prog/bayr/public/logo512.png",
     "SEW-Prog/bayr/public/logo192.png",
     "SEW-Prog/bayr/README.md",
-    "WIR/Wirtschaft/Doppelte Buchhaltung.md",
     "Attachments/Pasted image 20240227195307.png",
     "Attachments/Pasted image 20240227194855.png",
     "Attachments/Pasted image 20240227192430.png",

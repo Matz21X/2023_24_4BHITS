@@ -62,5 +62,6 @@
 |      | #INSY   | MonogoDB install                                            |                 |
 |      | #SEW    | NIX NIX [[2000_Yard_Stare.jpg]]                             |                 |
 | 29   | #EN     | [[City Planning 1]]                                         |                 |
+|      | #WIR    | Präsentation Arthur, Simet, Test zurückbekommen             |                 |
 Kap 5 ab 1.3 Austrokenyanismus
 Gesamtes Kap 6
