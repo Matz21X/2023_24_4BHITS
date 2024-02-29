@@ -77,4 +77,6 @@
 **ÖBH Aufgaben:**
 - Landesverteidigung, Katastrophen- und Zivilschutz, Auslandseinsätze
 
-**Probleme bei der Fi**
+**Probleme bei der Friedenssicherung:**
+- Entwicklung privater Gewaltakteure
+- Finanziert durch organisierte Kriminalität, Drogen- und Waffenhandel, Menschenhandel
