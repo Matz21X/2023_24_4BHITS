@@ -7,11 +7,11 @@ import org.eclipse.paho.client.mqttv3.MqttException;
 import org.eclipse.paho.client.mqttv3.MqttMessage;
 import org.eclipse.paho.client.mqttv3.MqttConnectOptions;
 
-public class App implements MqttCallback {
+public class Yuh implements MqttCallback {
     MqttClient client;
 
 
-    public App() {
+    public Yuh() {
     }
 
     public static void main(String[] args) {
@@ -32,9 +32,9 @@ public class App implements MqttCallback {
 
             client = new MqttClient(serverurl, clientId, null);
             client.connect(options);
-
-            client.setCallback(this);
-            client.subscribe("#");
+            sendMessage("topic", "YUH");
+            //client.setCallback(this);
+            //client.subscribe("#");
         } catch (MqttException e) {
             e.printStackTrace();
         }
