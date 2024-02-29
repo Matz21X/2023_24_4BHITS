@@ -33,6 +33,7 @@ public class App implements MqttCallback {
             client = new MqttClient(serverurl, clientId, null);
             client.connect(options);
 
+            
             client.setCallback(this);
             client.subscribe("#");
         } catch (MqttException e) {
