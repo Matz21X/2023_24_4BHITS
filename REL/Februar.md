@@ -62,3 +62,7 @@
 - Kriegsverbrechen
 - Spannungen gegenüber dem Nahen Osten
 	- Irak und Afghanistankrieg
+
+### Uno (Vereinte Nationen)
+
+>Zusammenschuss von 193 Staaten zur Sicherheit von Weltfrieden, Völkerrecht und Förderungen von internationaler Zusammenarbeit
