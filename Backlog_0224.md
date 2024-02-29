@@ -58,6 +58,9 @@
 |      | #INSY   | SEW Projekt weitergemacht                                   |                 |
 | 28   | #SYT    | [[MQTT]] Arduino                                            |                 |
 |      | #WIR    | Test☠️☠️☠️                                                  |                 |
-|      |         |                                                             |                 |
+|      | #MEDT   | Dreh Sevilla video                                          |                 |
+|      | #INSY   | MonogoDB install                                            |                 |
+|      | #SEW    | NIX NIX [[2000_Yard_Stare.jpg]]                             |                 |
+| 29   | #EN     | [[City Planning 1]]                                         |                 |
 Kap 5 ab 1.3 Austrokenyanismus
 Gesamtes Kap 6
