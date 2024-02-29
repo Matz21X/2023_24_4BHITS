@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DE",
+                "query": "tag:#Emilia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -108,12 +108,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -224,8 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 212.5
   },
   "left-ribbon": {
     "hiddenItems": {
