@@ -15,7 +15,7 @@ public class App implements MqttCallback {
     }
 
     public static void main(String[] args) {
-        new Yuh().doDemo();
+        new App().doDemo();
     }
 
     public void doDemo() {

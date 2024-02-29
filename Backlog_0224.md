@@ -65,5 +65,6 @@
 |      | #WIR    | Präsentation Arthur, Simet, Test zurückbekommen             |                 |
 |      | #RK     | [[Februar#Uno (Vereinte Nationen)]]                         |                 |
 |      | #ITP    |                                                             |                 |
+|      |         |                                                             |                 |
 Kap 5 ab 1.3 Austrokenyanismus
 Gesamtes Kap 6
