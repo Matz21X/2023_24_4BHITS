@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -145,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md",
+                "file": "Backlog_0224.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md",
+                "file": "Backlog_0224.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,8 +227,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a1bcce77fa3cf505",
+  "active": "24a6291d51fdc4a6",
   "lastOpenFiles": [
+    "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md",
     "SEW-Prog/bayr/src/components/Tabelle.jsx",
     "SEW-Prog/bayr/src/components/Add.jsx",
     "SEW-Prog/bayr/src/reportWebVitals.js",
@@ -241,13 +241,11 @@
     "SEW-Prog/bayr/src/App.test.js",
     "SEW-Prog/bayr/src/App.js",
     "SEW-Prog/bayr/public/robots.txt",
-    "SEW-Prog/bayr/src/App.css",
     "SEW-Prog/bayr/public/logo512.png",
     "SEW-Prog/bayr/public/logo192.png",
     "SEW-Prog/bayr/README.md",
     "WIR/Wirtschaft/Doppelte Buchhaltung.md",
     "Backlog_0224.md",
-    "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md",
     "Attachments/Pasted image 20240227195307.png",
     "Attachments/Pasted image 20240227194855.png",
     "Attachments/Pasted image 20240227192430.png",
