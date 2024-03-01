@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "67c73e53d7f5b0d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backlog_0324.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8cd61dc8edf26373",
             "type": "leaf",
             "state": {
@@ -35,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0224.md"
+                "file": "Backlog_0324.md"
               }
             }
           },
@@ -130,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0224.md"
+                "file": "Backlog_0324.md"
               }
             }
           },
@@ -156,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0224.md",
+                "file": "Backlog_0324.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0224.md",
+                "file": "Backlog_0324.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,15 +226,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "24a6291d51fdc4a6",
+  "active": "67c73e53d7f5b0d4",
   "lastOpenFiles": [
+    "Backlog_0224.md",
+    "Backlog_0324.md",
+    "ITP/Theorie/Maschinenwartung_tmp0.pod",
     "SYT/MQTT.md",
     "ITP/Projekte/WIH/SNS/target/classes/at/htlhl/sns/App.class",
     "ITP/Projekte/WIH/SNS/target/classes/at/htlhl/sns",
     "ITP/Projekte/WIH/SNS/target/classes/at/htlhl",
     "ITP/Projekte/WIH/SNS/target/classes/at",
     "ITP/Projekte/WIH/SNS/src/main/java/at/htlhl/sns/App.java~",
-    "Backlog_0224.md",
     "ITP/Projekte/WIH/SNS/target/classes/at/htlhl/sns/Yuh.class",
     "ITP/Projekte/WIH/SNS/src/main/java/at/htlhl/sns/Yuh.java",
     "EN/City Planning 1.md",
@@ -230,7 +246,6 @@
     "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md",
     "WIR/Wirtschaft/Doppelte Buchhaltung.md",
     "SEW-Prog/bayr/src/components/Tabelle.jsx",
-    "SEW-Prog/bayr/src/components/Add.jsx",
     "SEW-Prog/bayr/src/logo.svg",
     "SEW-Prog/bayr/public/logo512.png",
     "SEW-Prog/bayr/public/logo192.png",
