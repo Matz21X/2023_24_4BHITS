@@ -55,9 +55,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0466e877d79c52ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backlog_0224.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fischer timesheet.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -152,7 +165,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fischer timesheet.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -178,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fischer timesheet.md",
+                "file": "Backlog_0224.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fischer timesheet.md",
+                "file": "Backlog_0224.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,9 +247,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9598a3f8bdf13829",
+  "active": "0466e877d79c52ea",
   "lastOpenFiles": [
     "Backlog_0324.md",
+    "Fischer timesheet.md",
     "SEW-Theorie/Singleton (Pattern).md",
     "SEW-Prog/SingletonDemo/src/main/java/at/htlhl/singletondemo/ConfigAccessSingleton.java~",
     "SEW-Prog/SingletonDemo/src/main/java/at/htlhl/singletondemo/ConfigAccessSingleton.java",
@@ -267,7 +281,6 @@
     "Attachments/Pasted image 20240227191026.png",
     "Attachments/Pasted image 20240227185951.png",
     "ITP/Theorie/Netzplan.md",
-    "Fischer timesheet.md",
     "FischerNet.md",
     "NWT/UDP.md",
     "DE/Deutungshypothese Ausländer.md",
