@@ -8,23 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "24a6291d51fdc4a6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backlog_0224.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "67c73e53d7f5b0d4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,7 +18,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -47,9 +34,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31db43315dbead22",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Backlog_0324.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Backlog_0324.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,7 +161,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0324.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +177,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0324.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,10 +215,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "67c73e53d7f5b0d4",
+  "active": "31db43315dbead22",
   "lastOpenFiles": [
-    "Backlog_0224.md",
     "Backlog_0324.md",
+    "Backlog_0224.md",
     "ITP/Theorie/Maschinenwartung_tmp0.pod",
     "SYT/MQTT.md",
     "ITP/Projekte/WIH/SNS/target/classes/at/htlhl/sns/App.class",
