@@ -16,12 +16,21 @@ public class ConfigAccessSingleton {
 
     }
 
+
+    /**
+     * Create (once) and return the singleton instance
+     *
+     * Note the keywords static and synchronized (needed for thread safety)
+     * @return
+     */
     private static synchronized ConfigAccessSingleton getInsance() {
         if (instance == null){
             instance = new ConfigAccessSingleton();
         }
         return instance;
     }
+
+    // Example methods to access methods in an image configuration file
 
 
 }
