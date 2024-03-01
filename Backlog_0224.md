@@ -64,7 +64,6 @@
 | 29   | #EN     | [[City Planning 1]]                                         |                 |
 |      | #WIR    | Präsentation Arthur, Simet, Test zurückbekommen             |                 |
 |      | #RK     | [[Februar#Uno (Vereinte Nationen)]]                         |                 |
-|      | #ITP    |                                                             |                 |
-|      |         |                                                             |                 |
+|      | #ITP    | SNS                                                         |                 |
 Kap 5 ab 1.3 Austrokenyanismus
 Gesamtes Kap 6

@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SYT/MQTT.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -131,7 +130,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SYT/MQTT.md"
+                "file": "Backlog_0224.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SYT/MQTT.md",
+                "file": "Backlog_0224.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SYT/MQTT.md",
+                "file": "Backlog_0224.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,8 +212,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8cd61dc8edf26373",
+  "active": "24a6291d51fdc4a6",
   "lastOpenFiles": [
+    "SYT/MQTT.md",
     "ITP/Projekte/WIH/SNS/target/classes/at/htlhl/sns/App.class",
     "ITP/Projekte/WIH/SNS/target/classes/at/htlhl/sns",
     "ITP/Projekte/WIH/SNS/target/classes/at/htlhl",
@@ -231,7 +231,6 @@
     "WIR/Wirtschaft/Doppelte Buchhaltung.md",
     "SEW-Prog/bayr/src/components/Tabelle.jsx",
     "SEW-Prog/bayr/src/components/Add.jsx",
-    "SEW-Prog/bayr/src/reportWebVitals.js",
     "SEW-Prog/bayr/src/logo.svg",
     "SEW-Prog/bayr/public/logo512.png",
     "SEW-Prog/bayr/public/logo192.png",
@@ -247,7 +246,6 @@
     "Fischer timesheet.md",
     "FischerNet.md",
     "NWT/UDP.md",
-    "SYT/MQTT.md",
     "DE/Deutungshypothese Ausländer.md",
     "conflict-files-obsidian-git.md",
     "fischer.md",
