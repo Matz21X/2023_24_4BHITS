@@ -236,6 +236,8 @@
   },
   "active": "952d3fff87754294",
   "lastOpenFiles": [
+    "SEW-Prog/SingletonDemo/src/main/java/at/htlhl/singletondemo/ConfigAccessSingleton.java~",
+    "SEW-Prog/SingletonDemo/src/main/java/at/htlhl/singletondemo/ConfigAccessSingleton.java",
     "SEW-Prog/SingletonDemo/src/test/java",
     "SEW-Prog/SingletonDemo/src/test",
     "SEW-Prog/SingletonDemo/src/main/resources",
@@ -245,8 +247,6 @@
     "SEW-Prog/SingletonDemo/src/main/java/at/htlhl",
     "SEW-Prog/SingletonDemo/src/main/java/at",
     "SEW-Prog/SingletonDemo/src/main/java",
-    "SEW-Prog/SingletonDemo/src/main",
-    "SEW-Prog/SingletonDemo/src",
     "Backlog_0324.md",
     "Backlog_0224.md",
     "SYT/MQTT.md",
