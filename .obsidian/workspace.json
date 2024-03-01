@@ -42,9 +42,22 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "9598a3f8bdf13829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fischer timesheet.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fischer timesheet.md"
+              }
             }
           },
           {
@@ -136,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Fischer timesheet.md"
+              }
             }
           },
           {
@@ -161,6 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fischer timesheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,6 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fischer timesheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,8 +234,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "31db43315dbead22",
+  "active": "9598a3f8bdf13829",
   "lastOpenFiles": [
+    "Backlog_0324.md",
     "SEW-Theorie/Singleton (Pattern).md",
     "SEW-Prog/SingletonDemo/src/main/java/at/htlhl/singletondemo/ConfigAccessSingleton.java~",
     "SEW-Prog/SingletonDemo/src/main/java/at/htlhl/singletondemo/ConfigAccessSingleton.java",
@@ -228,7 +248,6 @@
     "SEW-Prog/SingletonDemo/src/main/java/at/htlhl/singletondemo",
     "SEW-Prog/SingletonDemo/src/main/java/at/htlhl",
     "SEW-Prog/SingletonDemo/src/main/java/at",
-    "Backlog_0324.md",
     "Backlog_0224.md",
     "SYT/MQTT.md",
     "EN/City Planning 1.md",

@@ -35,3 +35,10 @@
 	- Anfang:  14:15
 	- Mochma Pause?:
 	- Thema: 
+
+- 1.3
+	- Soll: 14:00
+	- Tat: 14:24
+	- Anfang:  14:40
+	- Mochma Pause?:
+	- Thema: 
