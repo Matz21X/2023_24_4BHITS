@@ -75,3 +75,38 @@ $$Arbeitslosenquote = \frac{Arbeitslose}{Erwerbstätige + Arbeitslose}*100 $$
 	- Auf 6 Monate beschränkt (bestimmte Voraussetzungen auf 24 Monate erweiterbar)
 
 ![[Pasted image 20240303163040.png]]
+
+
+# Geld und Geldwesen
+
+**Formen des Geldes:**
+- Metallgeld (Münzen)
+- Banknoten
+- Buchgeld (Giralgeld)
+
+**Funktionen des Geldes:**
+- Zahlungsmittelfunktion
+- Wertaufbewahrungsfunktion
+- Rechenfunktion
+- ;Machtmittel
+- Investmentmittel
+
+## Geldarten
+
+**Natural-, Waren- oder Nutzgeld:**
+- Muschelgeld (2000 v. Christus, Abschaffung 1923 Afrika, Indien, Asien)
+- Kakaogeld
+- Gold (In kleinen Münzen, Edelmetalle)
+- Zigaretten (USSR)
+
+**Bargeld:**
+- Münzen
+- Scheine
+
+**Buch- bzw. Giralgeld:**
+- Girokonto
+- Sparbuch
+
+**Plastikgeld (für bargeldlose Zahlungen):**
+- Bankomatkarte "pay now"
+- Kreditkat
