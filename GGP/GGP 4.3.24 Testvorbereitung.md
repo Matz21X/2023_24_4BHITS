@@ -148,5 +148,31 @@ Zentralbanken, im Euroraum die EZB, haben folgende Instrumente zur Verfügung, u
 - Geld soll seinen Wert über längere Zeit behalten
 - Hauptaufgabe der EZB
 - VPI = Verbraucherpreisindex  (Aktuell: **122.4%**)
-- 
+
 >Inflation ist die jährliche prozentuelle Veränderung des Verbraucherpreises (VPI)
+
+
+## Verbraucherpreisindex (VPI)
+
+**Relative Preisänderung = VPI**
+- Ausgangspunkt: Warenkorb des österreichischen Durchschnittshaushalts
+
+## Inflation
+
+>**Definition:**
+>*"mit Geldentwertung und Preissteigerungen verbundene, beträchtliche Erhöhung des Geldumlaufs im Verhältnis zur Produktion"*
+
+![[Pasted image 20240303172533.png]]
+
+**Inflation als Konjunkturmotor:**
+< 2%: **Niedrig**, > 5%: **Problematisch**, 3%: **Ideal**
+
+**Hyperinflation**
+
+>Eine Hyperinflation ist ein schneller Anstieg der Preise, der in der Regel mindestens 50 Prozent pro Monat beträgt. Einige Definitionen bezeichnen Hyperinflation als „außer Kontrolle geratenen“ Preisanstieg. In einem hyperinflationären Umfeld könntest Du 4 Euro am Vormittag und 5 Euro am Nachmittag für die gleiche Tasse Kaffee bezahlen.
+
+**Maßnahmen zur Inflationsbekämpfung:**
+- <span style="color:#00b050">Bei steigender Infl.</span>
+	- Zinsen erhöhen -> Geld wird knapper, Kredite teurer
+- <span style="color:#00b050">Bei fallender Infl.</span>
+	- 
