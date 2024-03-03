@@ -38,6 +38,25 @@ Cashcow für den Staat
 - Strukturelle AL
 	- Durch dauerhafte Veränderungen in der Wirtschaft, wie Technologiewandel
 - Saisonale AL
+	- Durch Jahreszeiten beeinflusst (Maurer, Landwirt)
 - Friktionelle AL
+	- AL zwischen Jobs
 - Verstecke AL
+	-  Wird nicht in Statistiken über Arbeitslosigkeit erfasst
 - Wohlstands AL
+	- Muss nimma arbeiten
+
+## Messung der Arbeitslosigkeit
+
+$$Arbeitslosenquote = \frac{Arbeitslose}{Erwerbstätige + Arbeitslose}*100 $$
+
+**Arten der Berechnung**
+
+<span style="color:#00b050">Int. Methode (Eurostat)</span>
+- wenn man 1 Stunde pro Monat arbeitet, zählt man NICHT als arbeitslos
+- Erwerbstätige = Selbstständigen + Unselbstständige
+
+<span style="color:#00b050">Nationale Methode (AMS)</span>
+- in Österreich gibt es zur AL Zuverdienstgrenzen 
+  (Geringfügige Beschäftigung 1.1.2024: € _________)
+- Erwerbstätige = Unselbständige
