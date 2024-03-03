@@ -58,5 +58,20 @@ $$Arbeitslosenquote = \frac{Arbeitslose}{Erwerbstätige + Arbeitslose}*100 $$
 
 <span style="color:#00b050">Nationale Methode (AMS)</span>
 - in Österreich gibt es zur AL Zuverdienstgrenzen 
-  (Geringfügige Beschäftigung 1.1.2024: € _________)
+  (Geringfügige Beschäftigung 1.1.2024: € **518,44**  )
 - Erwerbstätige = Unselbständige
+
+**Aktuelle Zahl: 5,6%**
+  
+![[Pasted image 20240303162156.png]]
+
+## Verringerung der Arbeitslosigkeit
+
+- **Qualifikationsoffensive für Arbeitskräfte**
+- **Arbeitszeitflexibilisierung**
+	- Freie Wahl der Arbeitszeiten
+- **Kurzarbeit**
+	- Dient zur Überbrückung von wirtschaftlichen Störungen (z.B. Coronavirus)
+	- Auf 6 Monate beschränkt (bestimmte Voraussetzungen auf 24 Monate erweiterbar)
+
+![[Pasted image 20240303163040.png]]
