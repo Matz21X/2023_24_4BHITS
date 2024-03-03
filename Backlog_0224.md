@@ -32,10 +32,10 @@ w## Backlog Februar
 |      | #DE     | [[Deutungshypothese Ausländer]]                             |                 |
 |      | #BSP    | GASIG KRAFTIG [[Gasig.jpg]]                                 |                 |
 |      | #INSY   | Datenbankarten                                              |                 |
-| 21   | #SYT    | NIX NIX [[2000_Yard_Stare.jpg]]                             |                 |
-|      | #WIR    | NIX NIX [[2000_Yard_Stare.jpg]]                             |                 |
+| 21   | #SYT    | NIX NIX [[☠️.jpg]]                             |                 |
+|      | #WIR    | NIX NIX [[☠️.jpg]]                             |                 |
 |      | #MEDT   | FICI joa okay                                               |                 |
-|      | #INSY   | NIX NIX [[2000_Yard_Stare.jpg]]                             |                 |
+|      | #INSY   | NIX NIX [[☠️.jpg]]                             |                 |
 |      | #SEW    | GenericsDemo                                                |                 |
 | 22   | #EN     | Discrimination at work                                      |                 |
 |      | #SEW    | Mathe SA Vorbereitung                                       |                 |
@@ -60,10 +60,10 @@ w## Backlog Februar
 |      | #WIR    | Test☠️☠️☠️                                                  |                 |
 |      | #MEDT   | Dreh Sevilla video                                          |                 |
 |      | #INSY   | MonogoDB install                                            |                 |
-|      | #SEW    | NIX NIX [[2000_Yard_Stare.jpg]]                             |                 |
+|      | #SEW    | NIX NIX [[☠️.jpg]]                             |                 |
 | 29   | #EN     | [[City Planning 1]]                                         |                 |
 |      | #WIR    | Präsentation Arthur, Simet, Test zurückbekommen             |                 |
 |      | #RK     | [[Februar#Uno (Vereinte Nationen)]]                         |                 |
 |      | #ITP    | SNS                                                         |                 |
-Kap 5 ab 1.3 Austrokenyanismus
+Kap 5 ab 1.3 Austrokeynesianismus
 Gesamtes Kap 6

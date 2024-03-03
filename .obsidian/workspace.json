@@ -23,40 +23,6 @@
             }
           },
           {
-            "id": "8cd61dc8edf26373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SYT/MQTT.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31db43315dbead22",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "9598a3f8bdf13829",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fischer timesheet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0466e877d79c52ea",
             "type": "leaf",
             "state": {
@@ -68,9 +34,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1175e78a037ac22d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GGP/GGP 4.3.24 Testvorbereitung.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef58933377f81c4a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "GGP/Zusatzblätter.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0224.md"
+                "file": "GGP/Zusatzblätter.pdf"
               }
             }
           },
@@ -165,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0224.md"
+                "file": "GGP/Zusatzblätter.pdf"
               }
             }
           },
@@ -191,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0224.md",
+                "file": "GGP/Zusatzblätter.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0224.md",
+                "file": "GGP/Zusatzblätter.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,9 +236,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0466e877d79c52ea",
+  "active": "ef58933377f81c4a",
   "lastOpenFiles": [
+    "GGP/GGP 4.3.24 Testvorbereitung.md",
     "Backlog_0324.md",
+    "Backlog_0224.md",
+    "GGP/GGP Testvorbereitung 15.1.23.md",
+    "SYT/MQTT.md",
     "Fischer timesheet.md",
     "SEW-Theorie/Singleton (Pattern).md",
     "SEW-Prog/SingletonDemo/src/main/java/at/htlhl/singletondemo/ConfigAccessSingleton.java~",
@@ -262,8 +255,6 @@
     "SEW-Prog/SingletonDemo/src/main/java/at/htlhl/singletondemo",
     "SEW-Prog/SingletonDemo/src/main/java/at/htlhl",
     "SEW-Prog/SingletonDemo/src/main/java/at",
-    "Backlog_0224.md",
-    "SYT/MQTT.md",
     "EN/City Planning 1.md",
     "REL/Oktober.md",
     "REL/Februar.md",
@@ -293,8 +284,6 @@
     "MEDT/HOEF/Docker Networking.md",
     "MEDT/HOEF/Aufgabe Usability Tests.md",
     "MEDT/HOEF/aufgabe1/node_modules/send/node_modules/ms/readme.md",
-    "MEDT/HOEF/aufgabe1/node_modules/send/node_modules/ms/license.md",
-    "MEDT/HOEF/aufgabe1/node_modules/web-streams-polyfill/README.md",
     "Untitled.canvas",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
