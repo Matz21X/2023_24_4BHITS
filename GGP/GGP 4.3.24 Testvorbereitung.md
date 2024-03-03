@@ -122,3 +122,18 @@ $$Arbeitslosenquote = \frac{Arbeitslose}{Erwerbstätige + Arbeitslose}*100 $$
 
 
 ## Geldschöpfung und -vernichtung
+
+Zentralbanken, im Euroraum die EZB, haben folgende Instrumente zur Verfügung, um die Geldmenge zu steuern:
+
+**Leitzinssatz (Aktuell 4,5%)**
+>Der Leitzinssatz ist der Zinssatz, zu dem Geschäftsbanken sich Geld von der Zentralbank leihen können. Er wird von der Zentralbank festgelegt und beeinflusst die gesamte Wirtschaft, indem er die Kosten für Kredite und damit die Geldmenge im Umlauf steuert.
+
+**Offenmarktpolitik**
+>Kauf und Verkauf von Wertpapieren und ausländischen Währungen
+>Kauft -> Erhöht Geldmenge
+>Verkauft -> Verringert Geldmenge
+
+**Mindestreservesatz**
+>
+
+
