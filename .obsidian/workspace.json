@@ -226,45 +226,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "floating": {
-    "id": "8e57a6fbc8e2a4fa",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2865b7493ce260b9",
-        "type": "window",
-        "children": [
-          {
-            "id": "098b660dd8562f71",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "75d093422176928d",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "GGP/Zusatzblätter.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1091,
-        "y": 20,
-        "width": 600,
-        "height": 600,
-        "maximize": true,
-        "zoom": 1
-      }
-    ]
-  },
   "active": "1175e78a037ac22d",
   "lastOpenFiles": [
-    "GGP/Zusatzblätter.pdf",
+    "GGP/Untitled.md",
     "GGP/GGP 4.3.24 Testvorbereitung.md",
+    "Backlog_0224.md",
+    "GGP/Zusatzblätter.pdf",
     "textgenerator/templates/default/getParagraph.md",
     "textgenerator/templates/trash/default/summarizeLarge.md",
     "textgenerator/templates/trash/default/summarize.md",
@@ -293,7 +260,6 @@
     "textgenerator/templates",
     "textgenerator",
     "Backlog_0324.md",
-    "Backlog_0224.md",
     "SEW-Prog/SingletonDemo/src/main/java/at/htlhl/singletondemo/ConfigAccessSingleton.java~",
     "SEW-Prog/SingletonDemo/src/main/java/at/htlhl/singletondemo/ConfigAccessSingleton.java",
     "SEW-Prog/SingletonDemo/src/test/java",

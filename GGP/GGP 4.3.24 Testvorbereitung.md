@@ -21,3 +21,23 @@ Cashcow für den Staat
 - voestalpine
 - Böhler-Uddeholm AG
 - Austria Metall AG (AMAG)
+
+
+## Arbeitsmarkpolitik
+
+<span style="color:#00b050">Vollbeschäftigung (4% Arbeitslos)</span>
+
+- Anteil der Selbstständigen sinkt (Rückgang der Bauern und des Kleingewerbes)
+- Anteil der Unselbstständigen steigt
+- Erwerbstätigkeit der Frauen steigt (durch Teilzeitarbeit)
+- Länge der AL ist gestiegen (Durchschnitt der AL =193 Tage)
+
+**Arten der Arbeitslosigkeit:**
+- Konjunkturelle AL
+	- Richtet sich nach der gesamten Wirtschaft
+- Strukturelle AL
+	- Durch dauerhafte Veränderungen in der Wirtschaft, wie Technologiewandel
+- Saisonale AL
+- Friktionelle AL
+- Verstecke AL
+- Wohlstands AL
