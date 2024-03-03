@@ -134,6 +134,19 @@ Zentralbanken, im Euroraum die EZB, haben folgende Instrumente zur Verfügung, u
 >Verkauft -> Verringert Geldmenge
 
 **Mindestreservesatz**
->
+>Kreditinstitute sind Verpflichtet einen Teil ihrer Einlagen als Reserve bei den nationalen Zentralbanken zu hinterlegen-
+>Höherer Satz -> Banken können weniger Kredite geben -> weniger Geld im Kreislauf 
 
 
+<span style="color:#00b050">Giralgeldschöpfung</span>
+>Giralgeldschöpfung ist der Prozess, bei dem Banken Geld durch Kreditvergabe erzeugen, indem sie Guthaben auf den Konten ihrer Kunden schaffen.
+
+![[Pasted image 20240303171756.png]]
+
+## Geldwertstabilität
+
+- Geld soll seinen Wert über längere Zeit behalten
+- Hauptaufgabe der EZB
+- VPI = Verbraucherpreisindex  (Aktuell: **122.4%**)
+- 
+>Inflation ist die jährliche prozentuelle Veränderung des Verbraucherpreises (VPI)
