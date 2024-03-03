@@ -49,7 +49,7 @@
             }
           },
           {
-            "id": "ef58933377f81c4a",
+            "id": "75d093422176928d",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GGP/Zusatzblätter.pdf"
+                "file": "GGP/GGP 4.3.24 Testvorbereitung.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "GGP/Zusatzblätter.pdf"
+                "file": "GGP/GGP 4.3.24 Testvorbereitung.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GGP/Zusatzblätter.pdf",
+                "file": "GGP/GGP 4.3.24 Testvorbereitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GGP/Zusatzblätter.pdf",
+                "file": "GGP/GGP 4.3.24 Testvorbereitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,34 +236,46 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ef58933377f81c4a",
+  "active": "1175e78a037ac22d",
   "lastOpenFiles": [
+    "GGP/Zusatzblätter.pdf",
     "GGP/GGP 4.3.24 Testvorbereitung.md",
+    "textgenerator/templates/default/getParagraph.md",
+    "textgenerator/templates/trash/default/summarizeLarge.md",
+    "textgenerator/templates/trash/default/summarize.md",
+    "textgenerator/templates/trash/default/simplify.md",
+    "textgenerator/templates/trash/default/rewrite.md",
+    "textgenerator/templates/trash/default/getTitles.md",
+    "textgenerator/templates/trash/default/getTags.md",
+    "textgenerator/templates/trash/default/getParagraph.md",
+    "textgenerator/templates/trash/default/getOutline.md",
+    "textgenerator/templates/trash/default/getIdeas.md",
+    "textgenerator/templates/trash/default/getEmailPos.md",
+    "textgenerator/templates/trash/default/getEmailNeg.md",
+    "textgenerator/templates/trash/default",
+    "textgenerator/templates/trash",
+    "textgenerator/templates/default/getTags.md",
+    "textgenerator/templates/default/getTitles.md",
+    "textgenerator/templates/default/getEmailNeg.md",
+    "textgenerator/templates/default/summarize.md",
+    "textgenerator/templates/default/getIdeas.md",
+    "textgenerator/templates/default/getEmailPos.md",
+    "textgenerator/templates/default/summarizeLarge.md",
+    "textgenerator/templates/default/simplify.md",
+    "textgenerator/templates/default/rewrite.md",
+    "textgenerator/templates/default/getOutline.md",
+    "textgenerator/templates/default",
+    "textgenerator/templates",
+    "textgenerator",
     "Backlog_0324.md",
     "Backlog_0224.md",
-    "GGP/GGP Testvorbereitung 15.1.23.md",
-    "SYT/MQTT.md",
-    "Fischer timesheet.md",
-    "SEW-Theorie/Singleton (Pattern).md",
     "SEW-Prog/SingletonDemo/src/main/java/at/htlhl/singletondemo/ConfigAccessSingleton.java~",
     "SEW-Prog/SingletonDemo/src/main/java/at/htlhl/singletondemo/ConfigAccessSingleton.java",
     "SEW-Prog/SingletonDemo/src/test/java",
     "SEW-Prog/SingletonDemo/src/test",
-    "SEW-Prog/SingletonDemo/src/main/resources",
-    "SEW-Prog/SingletonDemo/pom.xml",
-    "SEW-Prog/SingletonDemo/src/main/java/at/htlhl/singletondemo/Main.java",
-    "SEW-Prog/SingletonDemo/src/main/java/at/htlhl/singletondemo",
-    "SEW-Prog/SingletonDemo/src/main/java/at/htlhl",
-    "SEW-Prog/SingletonDemo/src/main/java/at",
-    "EN/City Planning 1.md",
-    "REL/Oktober.md",
-    "REL/Februar.md",
-    "WIR/Wirtschaft/Testvorbereitung 28.2.24 WIR.md",
-    "WIR/Wirtschaft/Doppelte Buchhaltung.md",
     "SEW-Prog/bayr/src/logo.svg",
     "SEW-Prog/bayr/public/logo512.png",
     "SEW-Prog/bayr/public/logo192.png",
-    "SEW-Prog/bayr/README.md",
     "Attachments/Pasted image 20240227195307.png",
     "Attachments/Pasted image 20240227194855.png",
     "Attachments/Pasted image 20240227192430.png",
@@ -271,19 +283,6 @@
     "Attachments/Pasted image 20240227191644.png",
     "Attachments/Pasted image 20240227191026.png",
     "Attachments/Pasted image 20240227185951.png",
-    "ITP/Theorie/Netzplan.md",
-    "FischerNet.md",
-    "NWT/UDP.md",
-    "DE/Deutungshypothese Ausländer.md",
-    "conflict-files-obsidian-git.md",
-    "fischer.md",
-    "Fischer Internet oasch sheet.md",
-    "INSY/Docker Aufgabe 2.md",
-    "MEDT/HOEF/NodeJS Testvorbereitung.md",
-    "MEDT/HOEF/MEDT-Jahresstoff.md",
-    "MEDT/HOEF/Docker Networking.md",
-    "MEDT/HOEF/Aufgabe Usability Tests.md",
-    "MEDT/HOEF/aufgabe1/node_modules/send/node_modules/ms/readme.md",
     "Untitled.canvas",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
