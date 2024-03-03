@@ -109,4 +109,16 @@ $$Arbeitslosenquote = \frac{Arbeitslose}{Erwerbstätige + Arbeitslose}*100 $$
 
 **Plastikgeld (für bargeldlose Zahlungen):**
 - Bankomatkarte "pay now"
-- Kreditkat
+- Kreditkarte "pay later"
+
+**Elektronisches Geld:**
+- Überweisung von Konto zu Konto  --> Telebanking
+
+**Internetwährungen, Kryptowährungen, Digitale Währung**
+- V-Bucks
+- Bitcoin, Ethereum 
+	- Vorteile: Limitierte Anzahl, Dezentralisiert
+	- Nachteile: Spekulativ, Hohe Verkaufskosten, Betrug
+
+
+## Geldschöpfung und -vernichtung

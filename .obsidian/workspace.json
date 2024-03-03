@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "1175e78a037ac22d",
+            "id": "ac93bd44a858e90a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -226,14 +226,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1175e78a037ac22d",
+  "active": "ac93bd44a858e90a",
   "lastOpenFiles": [
+    "GGP/GGP 4.3.24 Testvorbereitung.md",
+    "Backlog_0224.md",
     "GGP/GGP 4.3.24 TestvorbereitungPT1.pdf",
     "Attachments/Pasted image 20240303163040.png",
     "Attachments/Pasted image 20240303162156.png",
     "GGP/Untitled.md",
-    "GGP/GGP 4.3.24 Testvorbereitung.md",
-    "Backlog_0224.md",
     "GGP/Zusatzblätter.pdf",
     "textgenerator/templates/default/getParagraph.md",
     "textgenerator/templates/trash/default/summarizeLarge.md",
@@ -265,7 +265,6 @@
     "SEW-Prog/SingletonDemo/src/main/java/at/htlhl/singletondemo/ConfigAccessSingleton.java~",
     "SEW-Prog/SingletonDemo/src/main/java/at/htlhl/singletondemo/ConfigAccessSingleton.java",
     "SEW-Prog/SingletonDemo/src/test/java",
-    "SEW-Prog/SingletonDemo/src/test",
     "SEW-Prog/bayr/src/logo.svg",
     "SEW-Prog/bayr/public/logo512.png",
     "SEW-Prog/bayr/public/logo192.png",
