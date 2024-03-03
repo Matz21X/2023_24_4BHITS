@@ -88,7 +88,7 @@ $$Arbeitslosenquote = \frac{Arbeitslose}{Erwerbstätige + Arbeitslose}*100 $$
 - Zahlungsmittelfunktion
 - Wertaufbewahrungsfunktion
 - Rechenfunktion
-- ;Machtmittel
+- Machtmittel
 - Investmentmittel
 
 ## Geldarten
@@ -174,5 +174,22 @@ Zentralbanken, im Euroraum die EZB, haben folgende Instrumente zur Verfügung, u
 **Maßnahmen zur Inflationsbekämpfung:**
 - <span style="color:#00b050">Bei steigender Infl.</span>
 	- Zinsen erhöhen -> Geld wird knapper, Kredite teurer
-- <span style="color:#00b050">Bei fallender Infl.</span>
-	- 
+
+## Deflation 
+
+>**Definition:**
+>*"Abnahme des Preisniveaus"*
+
+**VIEL SCHLIMMER ALS INFLATION (KONJUNKTUR BRICHT ZUSAMMEN)**
+
+
+## Der Staat und seine Rolle bei der Bekämpfung von Inflation
+
+**Steuererhöhungen**
+- Unternehmen und Haushalte haben weniger Geld zur Verfügung
+
+**Verringert Staatsaufträge**
+- Es werden keine Amtsgebäude oder Schulen gebaut...
+
+**Als Gesetzgeber das Wirtschafrecht ändern**
+- Erleichterung von Unternehmensgründung... 
