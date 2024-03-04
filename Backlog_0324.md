@@ -12,4 +12,5 @@
 |      | #NWT    | NIX NIX [[☠️.jpg]]                                                 |                 |
 | 4    | #NWT    | OSPF Übung                                                         |                 |
 |      | #GGP    | Test / [[7. Außenwirtschaft_Schüler.pdf]]                          |                 |
-|      | #EN     |                                                                    |                 |
+|      | #EN     | YUH                                                                |                 |
+|      | #RK     |                                                                    |                 |
