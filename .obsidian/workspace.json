@@ -34,9 +34,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28a5b87f9f32a4f8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "GGP/7. Außenwirtschaft_Schüler.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GGP/GGP 4.3.24 Testvorbereitung.md"
+                "file": "GGP/7. Außenwirtschaft_Schüler.pdf"
               }
             }
           },
@@ -131,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "GGP/GGP 4.3.24 Testvorbereitung.md"
+                "file": "GGP/7. Außenwirtschaft_Schüler.pdf"
               }
             }
           },
@@ -157,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GGP/GGP 4.3.24 Testvorbereitung.md",
+                "file": "GGP/7. Außenwirtschaft_Schüler.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GGP/GGP 4.3.24 Testvorbereitung.md",
+                "file": "GGP/7. Außenwirtschaft_Schüler.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +223,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5ee01428afc2bcb1",
+  "active": "28a5b87f9f32a4f8",
   "lastOpenFiles": [
     "Backlog_0324.md",
     "GGP/GGP 4.3.24 Testvorbereitung.md",

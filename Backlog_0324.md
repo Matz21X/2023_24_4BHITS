@@ -9,4 +9,6 @@
 |      | #NW     | Entstehung von Sternen https://www.youtube.com/watch?v=AguyNozwDh8 |                 |
 |      | #ITP    | Zottl Projektvorstellung                                           |                 |
 |      | #DE     | Lesen                                                              |                 |
-|      | #NWT    | NIX NIX [[☠️.jpg]]                                    |                 |
+|      | #NWT    | NIX NIX [[☠️.jpg]]                                                 |                 |
+| 4    | #NWT    | OSPF Übung                                                         |                 |
+|      | #GGP    | Test / [[7. Außenwirtschaft_Schüler.pdf]]                          |                 |
