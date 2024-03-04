@@ -45,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GGP/7. Außenwirtschaft_Schüler.pdf"
+                "file": "Backlog_0324.md"
               }
             }
           },
@@ -141,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "GGP/7. Außenwirtschaft_Schüler.pdf"
+                "file": "Backlog_0324.md"
               }
             }
           },
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GGP/7. Außenwirtschaft_Schüler.pdf",
+                "file": "Backlog_0324.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GGP/7. Außenwirtschaft_Schüler.pdf",
+                "file": "Backlog_0324.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,8 +222,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "28a5b87f9f32a4f8",
+  "active": "67c73e53d7f5b0d4",
   "lastOpenFiles": [
+    "GGP/7. Außenwirtschaft_Schüler.pdf",
     "Backlog_0324.md",
     "GGP/GGP 4.3.24 Testvorbereitung.md",
     "Backlog_0224.md",
@@ -259,7 +259,6 @@
     "textgenerator/templates/default/getEmailPos.md",
     "textgenerator/templates/default/summarizeLarge.md",
     "textgenerator/templates/default/simplify.md",
-    "textgenerator/templates/default/rewrite.md",
     "textgenerator/templates/default",
     "textgenerator/templates",
     "textgenerator",
