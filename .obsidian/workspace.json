@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/PSQL.md"
+                "file": "Backlog_0324.md"
               }
             }
           },
@@ -131,7 +130,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/PSQL.md"
+                "file": "Backlog_0324.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/PSQL.md",
+                "file": "Backlog_0324.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/PSQL.md",
+                "file": "Backlog_0324.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,8 +212,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1d2b200d555b3f6c",
+  "active": "67c73e53d7f5b0d4",
   "lastOpenFiles": [
+    "INSY/PSQL.md",
     "Backlog_0324.md",
     "REL/Februar.md",
     "REL/März.md",
@@ -250,7 +250,6 @@
     "textgenerator/templates/default/getEmailNeg.md",
     "textgenerator/templates/default/summarize.md",
     "textgenerator/templates/default/getIdeas.md",
-    "textgenerator/templates/default/getEmailPos.md",
     "textgenerator/templates/default",
     "textgenerator/templates",
     "textgenerator",

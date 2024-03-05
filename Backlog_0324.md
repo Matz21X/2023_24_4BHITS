@@ -14,3 +14,7 @@
 |      | #GGP    | Test / [[7. Außenwirtschaft_Schüler.pdf]]                          |                 |
 |      | #EN     | YUH                                                                |                 |
 |      | #RK     | [[März]]                                                           |                 |
+|      | #WIR    | Recht AHHHHHHHHHh [[☠️.jpg]]                                       |                 |
+| 5    | #DE     | Lesen                                                              |                 |
+|      | #BSP    | GASIG KRAFTIG SALUS [[Gasig.jpg]]                                  |                 |
+|      | #INSY   |                                                                    |                 |
