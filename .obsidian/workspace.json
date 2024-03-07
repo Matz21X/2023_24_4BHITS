@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "33cc6b680c0483dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EN/Vocabulary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1d2b200d555b3f6c",
             "type": "leaf",
             "state": {
@@ -35,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Emilia",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -112,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0324.md"
+                "file": "EN/Vocabulary.md"
               }
             }
           },
@@ -130,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0324.md"
+                "file": "EN/Vocabulary.md"
               }
             }
           },
@@ -156,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0324.md",
+                "file": "EN/Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0324.md",
+                "file": "EN/Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,10 +226,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "67c73e53d7f5b0d4",
+  "active": "33cc6b680c0483dc",
   "lastOpenFiles": [
-    "INSY/PSQL.md",
     "Backlog_0324.md",
+    "INSY/PSQL.md",
     "REL/Februar.md",
     "REL/März.md",
     "EN/City Planning 1.md",

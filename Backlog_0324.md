@@ -18,5 +18,8 @@
 | 5    | #DE     | Lesen                                                              |                 |
 |      | #BSP    | GASIG KRAFTIG SALUS [[Gasig.jpg]]                                  |                 |
 |      | #INSY   | NIX NIX [[☠️.jpg]]                                                 |                 |
+| 6    |         | Flughafen                                                          |                 |
+| 7    | #EN     |                                                                    |                 |
+|      |         |                                                                    |                 |
 Employment discrimination
 Biohacking
