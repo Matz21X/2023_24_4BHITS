@@ -1,60 +1,79 @@
 #include <Arduino.h>
-#include <TheThingsNetwork.h>
+#include <TheThingsMessage.h>
 
 #define loraSerial Serial1
 #define debugSerial Serial
+
+#define CLIENTID d05372d36dab4c00b41a76c8a2aee2fb
+
 #define freqPlan TTN_FP_EU868
+
+const int digitalPin = 2;
+const int ledPin = 13;
+
+void message(const uint8_t *payload, size_t size, port_t port);
+void led(const uint8_t *payload);
+
+const char *appEui = "0000000000000000";
+const char *appKey = "FE2A36A86EA525DE92B29D9B284D0635";
 
 TheThingsNetwork ttn(loraSerial, debugSerial, freqPlan);
 
-// Set your AppEUI and AppKey
-const char *appEui = "0000000000000000";
-const char *appKey = "1454124B034A6A582A0F0566075792A0";
-
-// Set the desired port number
-const port_t myPort = 1;
-
-// put function declarations here:
-void message(const uint8_t *payload, size_t size, port_t port );
-
 void setup() {
-  debugSerial.begin(9600);
-  loraSerial.begin(57600);
+  // Setup pins in Input or output mode
+  pinMode(digitalPin, INPUT);
+  pinMode(LED_BUILTIN, OUTPUT);
 
-  while (!debugSerial) {}
+  loraSerial.begin(57600);
+  debugSerial.begin(9600);
+
+  while (not debugSerial) {}
 
   debugSerial.println("-- STATUS");
   ttn.showStatus();
 
-  debugSerial.println("-- JOIN");
-  ttn.join(appEui, appKey);
+  debugSerial.println("-- JOIN TTN Application");
+  ttn.join(appEui,appKey);
 
-  // Set callback for incoming messages
+  // check for messages  
   ttn.onMessage(message);
 }
 
+
 void loop() {
-  debugSerial.println("-- SEND DATA");
+  if (digitalRead(digitalPin) == 1) {
+    // send "Notfall" to ttn mqtt server
+    byte data[2];
+    data[0] = 0x11;
+    data[1] = 0x4e;
 
-  // Prepare array of 1 byte to indicate LED status
-  byte data[2];
-  data[0] = 0x01;
-  data[1] = 0xAB;
+    ttn.sendBytes(data, sizeof(data));
+  } else if (digitalRead(digitalPin) == 0) {
+    // send "OK" to ttn mqtt server
+    byte data[2];
+    data[0] = 0x11;
+    data[1] = 0x4F;
 
-  // Send it off with the specified port
-  ttn.sendBytes(data, sizeof(data), myPort);
-
-  delay(10000);
+    ttn.sendBytes(data, sizeof(data));
+  }
 }
 
-void message(const uint8_t *payload, size_t size, port_t port ){
-  debugSerial.print("-- MESSAGE RECEIVED on port ");
-  debugSerial.print(port);
-  debugSerial.print(": ");
-  for (unsigned int i = 0; i < size; i++)
-  {
-    debugSerial.print(payload[i], HEX); // Print payload as hexadecimal
+void message(const uint8_t *payload, size_t size, port_t port) {
+  debugSerial.print("-- MESSAGE received: ");
+  for(int i = 0; i < size; i++) {
+    // print out payload
+    debugSerial.print(payload[i]);
     debugSerial.print(" ");
   }
   debugSerial.println();
+  led(payload);
+}
+
+void led(const uint8_t *payload) {
+  if (payload[1] == 1) {
+    digitalWrite(LED_BUILTIN, HIGH); 
+  } else {
+    // stop led from blinking or being lit
+    digitalWrite(LED_BUILTIN, LOW);
+  }
 }
