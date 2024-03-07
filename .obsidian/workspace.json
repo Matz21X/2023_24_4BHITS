@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EN/Vocabulary.md"
+                "file": "Backlog_0324.md"
               }
             }
           },
@@ -131,7 +130,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "EN/Vocabulary.md"
+                "file": "Backlog_0324.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EN/Vocabulary.md",
+                "file": "Backlog_0324.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EN/Vocabulary.md",
+                "file": "Backlog_0324.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,8 +212,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "33cc6b680c0483dc",
+  "active": "67c73e53d7f5b0d4",
   "lastOpenFiles": [
+    "EN/Vocabulary.md",
     "Backlog_0324.md",
     "INSY/PSQL.md",
     "REL/Februar.md",
@@ -250,7 +250,6 @@
     "textgenerator/templates/default/getTitles.md",
     "textgenerator/templates/default/getEmailNeg.md",
     "textgenerator/templates/default/summarize.md",
-    "textgenerator/templates/default/getIdeas.md",
     "textgenerator/templates/default",
     "textgenerator/templates",
     "textgenerator",
