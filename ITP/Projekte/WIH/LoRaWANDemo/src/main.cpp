@@ -59,7 +59,8 @@ void loop() {
 }
 
 void message(const uint8_t *payload, size_t size, port_t port) {
-  debugSerial.print("-- MESSAGE received: ");
+  debugSerial.println("-- MESSAGE received: ");
+  debugSerial.print("SIZE:" +size);
   for(int i = 0; i < size; i++) {
     // print out payload
     debugSerial.print(payload[i]);
