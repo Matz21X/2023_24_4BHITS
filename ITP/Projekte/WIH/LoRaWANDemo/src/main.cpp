@@ -1,11 +1,8 @@
 #include <Arduino.h>
 #include <TheThingsMessage.h>
 
-#define loraSerial Serial1
 #define debugSerial Serial
-
-#define CLIENTID d05372d36dab4c00b41a76c8a2aee2fb
-
+#define loraSerial Serial1
 #define freqPlan TTN_FP_EU868
 
 const int digitalPin = 2;
@@ -20,7 +17,6 @@ const char *appKey = "1454124B034A6A582A0F0566075792A0";
 TheThingsNetwork ttn(loraSerial, debugSerial, freqPlan);
 
 void setup() {
-  // Setup pins in Input or output mode
   pinMode(digitalPin, INPUT);
   pinMode(LED_BUILTIN, OUTPUT);
 
@@ -35,21 +31,21 @@ void setup() {
   debugSerial.println("-- JOIN TTN Application");
   ttn.join(appEui,appKey);
 
-  // check for messages  
+  // check if message  
   ttn.onMessage(message);
 }
 
 
 void loop() {
   if (digitalRead(digitalPin) == 1) {
-    // send "Notfall" to ttn mqtt server
+    // send Notfall message
     byte data[2];
     data[0] = 0x11;
     data[1] = 0x4e;
 
     ttn.sendBytes(data, sizeof(data));
   } else if (digitalRead(digitalPin) == 0) {
-    // send "OK" to ttn mqtt server
+    // send Ok message
     byte data[2];
     data[0] = 0x11;
     data[1] = 0x4F;
@@ -62,7 +58,6 @@ void message(const uint8_t *payload, size_t size, port_t port) {
   debugSerial.println("-- MESSAGE received: ");
   debugSerial.print("SIZE:" +size);
   for(int i = 0; i < size; i++) {
-    // print out payload
     debugSerial.print(payload[i]);
     debugSerial.print(" ");
   }
@@ -74,7 +69,6 @@ void led(const uint8_t *payload) {
   if (payload[1] == 1) {
     digitalWrite(LED_BUILTIN, HIGH); 
   } else {
-    // stop led from blinking or being lit
     digitalWrite(LED_BUILTIN, LOW);
   }
 }
