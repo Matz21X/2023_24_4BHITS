@@ -22,24 +22,9 @@ public class Client {
     String resTopic = "v3/itp-project-2@ttn/devices/uno-0004a30b001bcc84/down/push";
 
     // Output Strings
-    final String notfall = """
-            ███╗   ██╗ ██████╗ ████████╗███████╗ █████╗ ██╗     ██╗    \s
-            ████╗  ██║██╔═══██╗╚══██╔══╝██╔════╝██╔══██╗██║     ██║    \s
-            ██╔██╗ ██║██║   ██║   ██║   █████╗  ███████║██║     ██║    \s
-            ██║╚██╗██║██║   ██║   ██║   ██╔══╝  ██╔══██║██║     ██║    \s
-            ██║ ╚████║╚██████╔╝   ██║   ██║     ██║  ██║███████╗███████╗
-            ╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝
-            """;
+    final String notfall = "NOTFALL";
 
-    final String ok = """
-             ██████╗ ██╗  ██╗
-            ██╔═══██╗██║ ██╔╝
-            ██║   ██║█████╔╝\s
-            ██║   ██║██╔═██╗\s
-            ╚██████╔╝██║  ██╗
-             ╚═════╝ ╚═╝  ╚═╝
-                            \s
-            """;
+    final String ok = "OK";
 
     // Reset
     public static final String RESET = "\033[0m";  // Text Reset
