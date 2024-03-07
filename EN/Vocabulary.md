@@ -24,6 +24,8 @@
 | hassle                     | nerfige Situation                                                                             |
 |                            |                                                                                               |
 | prejudice                  | to influence someone in an unfair way so that they have a bad opinion of someone or something |
+| vocational                 | berufsbezogen                                                                                 |
+| pledge                     | promise                                                                                       |
 
 
 

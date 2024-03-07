@@ -34,19 +34,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1d2b200d555b3f6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INSY/PSQL.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
