@@ -12,14 +12,14 @@ public class Client {
     String clientId = "TestClientID";
 
     //login data
-    String username = "itp-project-1@ttn";
-    String password = "NNSXS.7FYSGXPXGD3KHCKUTGIDUSLNG7OMMY2D7LGIS6Y.SIDOXV3NJHDPX3SF5OMHRO52JFQE56JPRSKPB5N7HC6HVKE6P2QA";
+    String username = "itp-project-2@ttn";
+    String password = "NNSXS.25O2IET5XBGRY2YWHSZYOKDKRT45BUBSVWJYXUA.OVABVZW5BJ2OZ5YVPPMOPSVYZ77FD74RILH5VYNG6VHZBTCO364Q";
 
     //topic on which to subscribe
-    String subTopic = "v3/itp-project-1@ttn/devices/uno-0004a30b001c1b03/up";
+    String subTopic = "v3/itp-project-2@ttn/devices/uno-0004a30b001bcc84/up";
 
     //topic on which to respond
-    String resTopic = "v3/itp-project-1@ttn/devices/uno-0004a30b001c1b03/down/push";
+    String resTopic = "v3/itp-project-2@ttn/devices/uno-0004a30b001bcc84/down/push";
 
     // Output Strings
     final String notfall = """
