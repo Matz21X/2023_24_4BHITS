@@ -22,5 +22,7 @@
 | 7    | #EN     |                                                                    |                 |
 |      | #WIR    |                                                                    |                 |
 |      | #RK     | Brandy Lesterstunde                                                |                 |
+|      | #AM     | Schularbeit zurückbekommen                                         |                 |
+|      | #NW     |                                                                    |                 |
 Employment discrimination
 Biohacking
