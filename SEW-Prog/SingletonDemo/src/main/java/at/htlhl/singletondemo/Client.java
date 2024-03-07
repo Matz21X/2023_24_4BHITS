@@ -97,8 +97,10 @@ public class Client {
 
                 if (response.equals("\"notfall\"")) {
                     System.out.println(RED + notfall + RESET);
+                    respond(1);
                 } else if (response.equals("\"ok\"")) {
                     System.out.println(GREEN + ok + RESET);
+                    respond(0);
                 }
             }
 

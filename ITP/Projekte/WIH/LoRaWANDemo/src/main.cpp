@@ -15,7 +15,7 @@ void message(const uint8_t *payload, size_t size, port_t port);
 void led(const uint8_t *payload);
 
 const char *appEui = "0000000000000000";
-const char *appKey = "FE2A36A86EA525DE92B29D9B284D0635";
+const char *appKey = "1454124B034A6A582A0F0566075792A0";
 
 TheThingsNetwork ttn(loraSerial, debugSerial, freqPlan);
 
