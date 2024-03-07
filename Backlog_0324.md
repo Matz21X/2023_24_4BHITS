@@ -17,4 +17,4 @@
 |      | #WIR    | Recht AHHHHHHHHHh [[☠️.jpg]]                                       |                 |
 | 5    | #DE     | Lesen                                                              |                 |
 |      | #BSP    | GASIG KRAFTIG SALUS [[Gasig.jpg]]                                  |                 |
-|      | #INSY   |                                                                    |                 |
+|      | #INSY   | NIX NIX [[☠️.jpg]]                                                 |                 |
