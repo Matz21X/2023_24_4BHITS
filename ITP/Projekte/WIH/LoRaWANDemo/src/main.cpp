@@ -31,7 +31,7 @@ void setup() {
   debugSerial.println("-- JOIN TTN Application");
   ttn.join(appEui,appKey);
 
-  // check if message  
+  // register callback function  
   ttn.onMessage(message);
 }
 
@@ -56,7 +56,6 @@ void loop() {
 
 void message(const uint8_t *payload, size_t size, port_t port) {
   debugSerial.println("-- MESSAGE received: ");
-  debugSerial.print("SIZE:" +size);
   for(int i = 0; i < size; i++) {
     debugSerial.print(payload[i]);
     debugSerial.print(" ");

@@ -94,7 +94,7 @@ public class Client {
                 String json = new String((message.getPayload()));
                 JsonNode jsonNode = objectMapper.readTree(json);
                 String response = (((jsonNode.get("uplink_message")).get("decoded_payload")).get("value")).toPrettyString();
-
+                System.out.println("RESPONSE: " + response);
                 if (response.equals("\"notfall\"")) {
                     System.out.println(RED + notfall + RESET);
                 } else if (response.equals("\"ok\"")) {
