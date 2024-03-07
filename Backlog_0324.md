@@ -20,6 +20,7 @@
 |      | #INSY   | NIX NIX [[☠️.jpg]]                                                 |                 |
 | 6    |         | Flughafen                                                          |                 |
 | 7    | #EN     |                                                                    |                 |
-|      |         |                                                                    |                 |
+|      | #WIR    |                                                                    |                 |
+|      | #RK     | Brandy Lesterstunde                                                |                 |
 Employment discrimination
 Biohacking
