@@ -18,3 +18,5 @@
 | 5    | #DE     | Lesen                                                              |                 |
 |      | #BSP    | GASIG KRAFTIG SALUS [[Gasig.jpg]]                                  |                 |
 |      | #INSY   | NIX NIX [[☠️.jpg]]                                                 |                 |
+Employment discrimination
+Biohacking
