@@ -19,10 +19,12 @@
 |      | #BSP    | GASIG KRAFTIG SALUS [[Gasig.jpg]]                                  |                 |
 |      | #INSY   | NIX NIX [[☠️.jpg]]                                                 |                 |
 | 6    |         | Flughafen                                                          |                 |
-| 7    | #EN     |                                                                    |                 |
-|      | #WIR    |                                                                    |                 |
+| 7    | #EN     | Amelia Text lesen, Workplace discrimination                        |                 |
+|      | #WIR    | Ich kann das alles nicht mehr                                      |                 |
 |      | #RK     | Brandy Lesterstunde                                                |                 |
 |      | #AM     | Schularbeit zurückbekommen                                         |                 |
-|      | #NW     |                                                                    |                 |
+|      | #NW     | Bergi lestert über Frauen / Matura                                 |                 |
+|      | #ITP    | LoRaWan Projekt fertiggemacht                                      |                 |
+| 8    | #AM     | Statistik / Excel                                                  |                 |
 Employment discrimination
 Biohacking
