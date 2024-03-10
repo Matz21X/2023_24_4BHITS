@@ -26,6 +26,10 @@
 |      | #NW     | Bergi lestert über Frauen / Matura                                 |                 |
 |      | #ITP    | LoRaWan Projekt fertiggemacht                                      |                 |
 | 8    | #AM     | Statistik / Excel                                                  |                 |
-|      | #ITP    |                                                                    |                 |
+|      | #ITP    | Wiederholung                                                       |                 |
+|      | #NW     | Video 😴                                                           |                 |
+|      | #SEW    | Goanix                                                             |                 |
+|      | #ITP    | Organisatorisches                                                  |                 |
+|      | #NWT    | Ospf Übung                                                         |                 |
 Employment discrimination
 Biohacking
