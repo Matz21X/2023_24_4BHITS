@@ -3,6 +3,10 @@
 
 TTIP (Transatlantic Trade and Investment Partnership) und CETA (Comprehensive Economic and Trade Agreement) sind beide Handelsabkommen, die zwischen verschiedenen Ländern verhandelt wurden. Hier sind jeweils 10 Vorteile und Nachteile für beide Abkommen:
 
+Nachteil: Gentechnik muss nicht mehr in Europa gekennzeichnet sein, Chlorhünchen, Rindfleisch verseucht mir Antibiotika
+Vorteil: Günstigere Produkte, Österreichische Betriebe können nicht mithalten
+
+
 **Vorteile von TTIP:**
 
 1. **Wirtschaftswachstum:** Durch die Schaffung eines größeren gemeinsamen Marktes zwischen den USA und der EU könnten die Handelsaktivitäten und damit das Wirtschaftswachstum gesteigert werden.
