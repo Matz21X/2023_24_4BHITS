@@ -31,5 +31,6 @@
 |      | #SEW    | Goanix                                                             |                 |
 |      | #ITP    | Organisatorisches                                                  |                 |
 |      | #NWT    | Ospf Übung                                                         |                 |
-Employment discrimination
-Biohacking
+| 11   | #EN     | Schularbeit                                                        |                 |
+|      | #GGP    | [[7. Außenwirtschaft_Schüler.pdf]]                                 |                 |
+|      |         |                                                                    |                 |
