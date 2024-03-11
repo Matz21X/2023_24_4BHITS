@@ -6,6 +6,9 @@ TTIP (Transatlantic Trade and Investment Partnership) und CETA (Comprehensive Ec
 Nachteil: Gentechnik muss nicht mehr in Europa gekennzeichnet sein, Chlorhünchen, Rindfleisch verseucht mir Antibiotika
 Vorteil: Günstigere Produkte, Österreichische Betriebe können nicht mithalten
 
+Nachteil: Sicherheitsstandards bei Autos
+Vorteil: Günstiger
+
 
 **Vorteile von TTIP:**
 
