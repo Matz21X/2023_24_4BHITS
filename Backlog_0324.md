@@ -33,4 +33,7 @@
 |      | #NWT    | Ospf Übung                                                         |                 |
 | 11   | #EN     | Schularbeit                                                        |                 |
 |      | #GGP    | [[7. Außenwirtschaft_Schüler.pdf]] [[TTIP X CETA]]                 |                 |
+|      | #RK     | LGBTQ+                                                             |                 |
+| 12   |         | Rehehehehe                                                         |                 |
+| 13   |         |                                                                    |                 |
 |      |         |                                                                    |                 |
