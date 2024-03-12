@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EN/Vocabulary.md"
+                "file": "Backlog_0324.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "EN/Vocabulary.md"
+                "file": "Backlog_0324.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EN/Vocabulary.md",
+                "file": "Backlog_0324.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EN/Vocabulary.md",
+                "file": "Backlog_0324.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,7 +226,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "33cc6b680c0483dc",
+  "active": "38083c4526031a57",
   "lastOpenFiles": [
     "INSY/MongoDB.md",
     "Backlog_0324.md",
