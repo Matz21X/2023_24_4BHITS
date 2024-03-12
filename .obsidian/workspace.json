@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0324.md"
+                "file": "EN/Vocabulary.md"
               }
             }
           },
@@ -143,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0324.md"
+                "file": "EN/Vocabulary.md"
               }
             }
           },
@@ -169,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0324.md",
+                "file": "EN/Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0324.md",
+                "file": "EN/Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,16 +221,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": true,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:Create new drawing": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67c73e53d7f5b0d4",
+  "active": "33cc6b680c0483dc",
   "lastOpenFiles": [
     "INSY/MongoDB.md",
-    "INSY/MongoDB.pdf",
     "Backlog_0324.md",
+    "INSY/MongoDB.pdf",
     "EN/Vocabulary.md",
     "REL/März.md",
     "REL/PDFs/Vielfalt.pdf",
