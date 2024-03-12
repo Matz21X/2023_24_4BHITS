@@ -23,33 +23,15 @@
             }
           },
           {
-            "id": "d206f696c2b6183f",
+            "id": "46f52ef18adf2e7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INSY/MongoDB.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33cc6b680c0483dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EN/Vocabulary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,12 +208,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38083c4526031a57",
+  "active": "46f52ef18adf2e7a",
   "lastOpenFiles": [
-    "INSY/MongoDB.md",
     "Backlog_0324.md",
-    "INSY/MongoDB.pdf",
+    "INSY/MongoDB.md",
     "EN/Vocabulary.md",
+    "INSY/MongoDB.pdf",
     "REL/März.md",
     "REL/PDFs/Vielfalt.pdf",
     "REL/Vielfalt.pdf",
