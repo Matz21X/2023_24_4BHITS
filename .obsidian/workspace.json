@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/MongoDB.md"
+                "file": "Backlog_0324.md"
               }
             }
           },
@@ -144,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/MongoDB.md"
+                "file": "Backlog_0324.md"
               }
             }
           },
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/MongoDB.md",
+                "file": "Backlog_0324.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/MongoDB.md",
+                "file": "Backlog_0324.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,11 +225,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d206f696c2b6183f",
+  "active": "67c73e53d7f5b0d4",
   "lastOpenFiles": [
+    "INSY/MongoDB.md",
     "INSY/MongoDB.pdf",
     "Backlog_0324.md",
-    "INSY/MongoDB.md",
     "EN/Vocabulary.md",
     "REL/März.md",
     "REL/PDFs/Vielfalt.pdf",
@@ -252,7 +251,6 @@
     "SEW-Prog/SingletonDemo/target/classes/at/htlhl/singletondemo/Client.class",
     "SEW-Prog/SingletonDemo/target/classes/at/htlhl/singletondemo/Client$1.class",
     "SEW-Prog/SingletonDemo/target/classes/at/htlhl/singletondemo/Main.class",
-    "SEW-Prog/SingletonDemo/target/classes/at/htlhl/singletondemo",
     "INSY/PSQL.md",
     "REL/Februar.md",
     "GGP/GGP 4.3.24 Testvorbereitung.md",
