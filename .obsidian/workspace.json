@@ -228,6 +228,7 @@
   },
   "active": "d206f696c2b6183f",
   "lastOpenFiles": [
+    "INSY/MongoDB.pdf",
     "Backlog_0324.md",
     "INSY/MongoDB.md",
     "EN/Vocabulary.md",
@@ -267,7 +268,6 @@
     "textgenerator/templates/trash/default/summarize.md",
     "textgenerator/templates/trash/default/simplify.md",
     "textgenerator/templates/trash/default/rewrite.md",
-    "textgenerator/templates/trash/default/getTitles.md",
     "SEW-Prog/bayr/src/logo.svg",
     "SEW-Prog/bayr/public/logo512.png",
     "SEW-Prog/bayr/public/logo192.png",
