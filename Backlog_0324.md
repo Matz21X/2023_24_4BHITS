@@ -35,6 +35,6 @@
 |      | #GGP    | [[7. Außenwirtschaft_Schüler.pdf]] [[TTIP X CETA]]                 |                 |
 |      | #RK     | LGBTQ+                                                             |                 |
 | 12   |         | Rehehehehe                                                         |                 |
-| 13   |         |                                                                    |                 |
-|      |         |                                                                    |                 |
-test
+| 13   | #SYT    | NIX NIX [[☠️.jpg]]                                                 |                 |
+|      | #WIR    | Bookie                                                             |                 |
+|      | #MEDT   | NIX NIX [[☠️.jpg]]                                                 |                 |
