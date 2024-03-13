@@ -36,4 +36,5 @@
 |      | #RK     | LGBTQ+                                                             |                 |
 | 12   |         | Rehehehehe                                                         |                 |
 | 13   | #SYT    | NIX NIX [[☠️.jpg]]                                                 |                 |
-|      | #WIR    |                                                                    |                 |
+|      | #WIR    | Bookie                                                             |                 |
+|      | #MEDT   |                                                                    |                 |
