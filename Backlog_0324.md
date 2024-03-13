@@ -37,4 +37,4 @@
 | 12   |         | Rehehehehe                                                         |                 |
 | 13   | #SYT    | NIX NIX [[☠️.jpg]]                                                 |                 |
 |      | #WIR    | Bookie                                                             |                 |
-|      | #MEDT   |                                                                    |                 |
+|      | #MEDT   | NIX NIX [[☠️.jpg]]                                                 |                 |
