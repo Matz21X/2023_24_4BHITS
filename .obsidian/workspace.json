@@ -30,8 +30,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,8 +207,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "46f52ef18adf2e7a",
+  "active": "67c73e53d7f5b0d4",
   "lastOpenFiles": [
+    "WIR/Wirtschaft/~$Zeitungsartikel.pptx",
     "Backlog_0324.md",
     "INSY/MongoDB.md",
     "EN/Vocabulary.md",
