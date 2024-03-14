@@ -38,3 +38,6 @@
 | 13   | #SYT    | NIX NIX [[☠️.jpg]]                                                 |                 |
 |      | #WIR    | Bookie                                                             |                 |
 |      | #MEDT   | NIX NIX [[☠️.jpg]]                                                 |                 |
+|      | #SEW    | NIX NIX [[☠️.jpg]]                                                 |                 |
+| 15   | #EN     | Sevilla pptx fertigmachen [[Zach_Thienel_Hrbek.pptx]]              |                 |
+|      | #WIR    |                                                                    |                 |

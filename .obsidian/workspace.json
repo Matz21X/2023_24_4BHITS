@@ -43,8 +43,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/O-AUTH.md"
+                "file": "Backlog_0324.md"
               }
             }
           },
@@ -139,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/O-AUTH.md"
+                "file": "Backlog_0324.md"
               }
             }
           },
@@ -165,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/O-AUTH.md",
+                "file": "Backlog_0324.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/O-AUTH.md",
+                "file": "Backlog_0324.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,11 +220,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9247932f17de690a",
+  "active": "67c73e53d7f5b0d4",
   "lastOpenFiles": [
+    "SEW-Theorie/O-AUTH.md",
     "Attachments/0AUTH.svg",
     "Backlog_0324.md",
-    "SEW-Theorie/O-AUTH.md",
     "WIR/Wirtschaft/~$Zeitungsartikel.pptx",
     "INSY/MongoDB.md",
     "EN/Vocabulary.md",
@@ -268,7 +267,6 @@
     "SEW-Prog/bayr/public/logo192.png",
     "Attachments/Pasted image 20240227195307.png",
     "Attachments/Pasted image 20240227194855.png",
-    "Attachments/Pasted image 20240227192430.png",
     "Untitled.canvas",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
