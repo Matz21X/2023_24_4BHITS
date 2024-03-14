@@ -2,6 +2,6 @@
 #RK #SCHM 
 
 
-Julius: Trans???, Haarausfall
+Julius: Trans???, Haarausfall, doch schwul
 Florian: Gay, Angst vor Beleidigungen
-Ingelis: Lesbisch, übergewicht
+Ingelis: Lesbisch, Übergewicht
