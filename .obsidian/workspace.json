@@ -42,8 +42,22 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "76a7824e595ded10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REL/März.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0324.md"
+                "file": "REL/März.md"
               }
             }
           },
@@ -138,7 +152,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0324.md"
+                "file": "REL/März.md"
               }
             }
           },
@@ -164,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0324.md",
+                "file": "REL/März.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0324.md",
+                "file": "REL/März.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,11 +234,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67c73e53d7f5b0d4",
+  "active": "76a7824e595ded10",
   "lastOpenFiles": [
+    "Backlog_0324.md",
     "SEW-Theorie/O-AUTH.md",
     "Attachments/0AUTH.svg",
-    "Backlog_0324.md",
     "WIR/Wirtschaft/~$Zeitungsartikel.pptx",
     "INSY/MongoDB.md",
     "EN/Vocabulary.md",
