@@ -47,4 +47,4 @@
 | 16   | #AM     | Suppliert                                                          |                 |
 |      | #ITP    | Sevilla Besprechung                                                |                 |
 |      | #SEW    | [[Datenstrukturen]]                                                |                 |
-|      | #NW     |                                                                    |                 |
+|      | #NW     | Video Nachbesprechung                                              |                 |
