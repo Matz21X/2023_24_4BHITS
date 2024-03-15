@@ -275,18 +275,20 @@ var import_obsidian3 = require("obsidian");
 var path3 = __toESM(require("path"));
 
 // src/config.ts
-var ATTACHMENT_URL_REGEXP = /!\[\[((.*?)\.(\w+))\]\]/g;
+var ATTACHMENT_URL_REGEXP = /!\[\[((.*?)\.(\w+))(?:\s*\|\s*(\d+)\s*(?:\*\s*(\d+))?)?\]\]/g;
 var MARKDOWN_ATTACHMENT_URL_REGEXP = /!\[(.*?)\]\(((.*?)\.(\w+))\)/g;
 var EMBED_URL_REGEXP = /!\[\[(.*?)\]\]/g;
 var GFM_IMAGE_FORMAT = "![]({0})";
 var DEFAULT_SETTINGS = {
   output: "output",
   attachment: "attachment",
-  GFM: true
+  GFM: true,
+  fileNameEncode: true
 };
 
 // src/utils.ts
 var path2 = __toESM(require("path"));
+var fs = __toESM(require("fs"));
 var import_md5 = __toESM(require_md5());
 var import_obsidian2 = require("obsidian");
 
@@ -359,18 +361,58 @@ async function tryRun(plugin, file, outputFormat = "markdown") {
     }
   }
 }
-async function tryCreateFolder(plugin, path4) {
+function getResourceOsPath(plugin, resouorce) {
+  if (resouorce === null) {
+    return ".";
+  }
+  const appPath = plugin.app.vault.getResourcePath(resouorce);
+  const match = appPath.match(/app:\/\/(.*?)\//);
+  if (match) {
+    const hash = match[1];
+    const result = appPath.replace(`app://${hash}/`, process.platform === "win32" ? "" : "/").split("?")[0];
+    return decodeURIComponent(result);
+  }
+  return ".";
+}
+function getClickSubRoute(p, sep = "/") {
+  if (p === ".") {
+    return "";
+  }
+  const parentLevels = p.split(sep).length;
+  const parentRoute = ".." + sep;
+  return parentRoute.repeat(parentLevels);
+}
+function fileExists(path4) {
   try {
-    await plugin.app.vault.createFolder(path4);
+    return fs.statSync(path4).isFile();
+  } catch (error) {
+    if (error.code === "ENOENT") {
+      return false;
+    } else {
+      throw error;
+    }
+  }
+}
+async function tryCreateFolder(plugin, p) {
+  try {
+    if (p.startsWith("/") || path2.win32.isAbsolute(p)) {
+      fs.mkdirSync(p, { recursive: true });
+    } else {
+      await plugin.app.vault.createFolder(p);
+    }
   } catch (error) {
     if (!error.message.contains("Folder already exists")) {
       throw error;
     }
   }
 }
-async function tryCreate(plugin, path4, data) {
+async function tryCreate(plugin, p, data) {
   try {
-    await plugin.app.vault.create(path4, data);
+    if (p.startsWith("/") || path2.win32.isAbsolute(p)) {
+      fs.writeFileSync(p, data);
+    } else {
+      await plugin.app.vault.create(p, data);
+    }
   } catch (error) {
     if (!error.message.contains("file already exists")) {
       throw error;
@@ -382,20 +424,32 @@ async function tryCopyImage(plugin, contentPath) {
     await plugin.app.vault.adapter.read(contentPath).then(async (content) => {
       const imageLinks = await getImageLinks(content);
       for (const index in imageLinks) {
-        const urlEncodedImageLink = imageLinks[index][imageLinks[index].length - 3];
-        const imageLink = decodeURI(urlEncodedImageLink);
-        const imageLinkMd5 = (0, import_md5.default)(imageLink);
+        const urlEncodedImageLink = imageLinks[index][7 - imageLinks[index].length];
+        let imageLink = decodeURI(urlEncodedImageLink).replace(/\.\.\//g, "");
+        if (imageLink.contains("|")) {
+          imageLink = imageLink.split("|")[0];
+        }
+        const fileName = path2.parse(path2.basename(imageLink)).name;
+        const imageLinkMd5 = plugin.settings.fileNameEncode ? (0, import_md5.default)(imageLink) : fileName;
         const imageExt = path2.extname(imageLink);
         const ifile = plugin.app.metadataCache.getFirstLinkpathDest(imageLink, contentPath);
         const filePath = ifile !== null ? ifile.path : path2.join(path2.dirname(contentPath), imageLink);
         if (urlEncodedImageLink.startsWith("http")) {
           continue;
         }
-        plugin.app.vault.adapter.copy(filePath, path2.join(plugin.settings.output, plugin.settings.attachment, imageLinkMd5.concat(imageExt))).catch((error) => {
-          if (!error.message.contains("file already exists")) {
-            throw error;
+        const targetPath = path2.join(plugin.settings.output, plugin.settings.attachment, imageLinkMd5.concat(imageExt)).replace(/\\/g, "/");
+        try {
+          if (!fileExists(targetPath)) {
+            if (plugin.settings.output.startsWith("/") || path2.win32.isAbsolute(plugin.settings.output)) {
+              const resourceOsPath = getResourceOsPath(plugin, ifile);
+              fs.copyFileSync(resourceOsPath, targetPath);
+            } else {
+              await plugin.app.vault.adapter.copy(filePath, targetPath);
+            }
           }
-        });
+        } catch (error) {
+          console.error(`Failed to copy file from ${filePath} to ${targetPath}: ${error.message}`);
+        }
       }
     });
   } catch (error) {
@@ -424,11 +478,16 @@ async function tryCopyMarkdownByRead(plugin, { file, outputFormat, outputSubPath
       const imageLinks = await getImageLinks(content);
       for (const index in imageLinks) {
         const rawImageLink = imageLinks[index][0];
-        const urlEncodedImageLink = imageLinks[index][imageLinks[index].length - 3];
-        const imageLink = decodeURI(urlEncodedImageLink);
-        const imageLinkMd5 = (0, import_md5.default)(imageLink);
+        const urlEncodedImageLink = imageLinks[index][7 - imageLinks[index].length];
+        let imageLink = decodeURI(urlEncodedImageLink).replace(/\.\.\//g, "");
+        if (imageLink.contains("|")) {
+          imageLink = imageLink.split("|")[0];
+        }
+        const fileName = path2.parse(path2.basename(imageLink)).name;
+        const imageLinkMd5 = plugin.settings.fileNameEncode ? (0, import_md5.default)(imageLink) : encodeURI(fileName);
         const imageExt = path2.extname(imageLink);
-        const hashLink = path2.join(plugin.settings.attachment, imageLinkMd5.concat(imageExt)).replace("\\", "/");
+        const clickSubRoute = getClickSubRoute(outputSubPath);
+        const hashLink = path2.join(clickSubRoute, plugin.settings.attachment, imageLinkMd5.concat(imageExt)).replace(/\\/g, "/");
         if (urlEncodedImageLink.startsWith("http")) {
           continue;
         }
@@ -532,12 +591,16 @@ var MarkdownExportSettingTab = class extends import_obsidian3.PluginSettingTab {
       this.plugin.settings.output = value;
       await this.plugin.saveSettings();
     }));
-    new import_obsidian3.Setting(containerEl).setName("Custom attachment path(optional)").setDesc("attachment path").addText((text) => text.setPlaceholder("Enter attachment path").setValue(this.plugin.settings.attachment).onChange(async (value) => {
+    new import_obsidian3.Setting(containerEl).setName("Custom attachment path(optional)").setDesc("attachment path, relative to the output path").addText((text) => text.setPlaceholder("Enter attachment path").setValue(this.plugin.settings.attachment).onChange(async (value) => {
       this.plugin.settings.attachment = value;
       await this.plugin.saveSettings();
     }));
     new import_obsidian3.Setting(containerEl).setName("Use GitHub Flavored Markdown Format").setDesc("The format of markdown is more inclined to choose Github Flavored Markdown").addToggle((toggle) => toggle.setValue(this.plugin.settings.GFM).onChange(async (value) => {
       this.plugin.settings.GFM = value;
+      await this.plugin.saveSettings();
+    }));
+    new import_obsidian3.Setting(containerEl).setName("Encode file name").setDesc("true default, if you want to keep the original file name, set this to false").addToggle((toggle) => toggle.setValue(this.plugin.settings.fileNameEncode).onChange(async (value) => {
+      this.plugin.settings.fileNameEncode = value;
       await this.plugin.saveSettings();
     }));
   }
