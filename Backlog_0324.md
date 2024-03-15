@@ -46,4 +46,5 @@
 |      | #ITP    | Kein Höfermeyer ☠️                                                 |                 |
 | 16   | #AM     | Suppliert                                                          |                 |
 |      | #ITP    | Sevilla Besprechung                                                |                 |
-|      | #SEW    |                                                                    |                 |
+|      | #SEW    | [[Datenstrukturen]]                                                |                 |
+|      | #NW     |                                                                    |                 |
