@@ -49,4 +49,4 @@
 |      | #SEW    | [[Datenstrukturen]]                                                         |                 |
 |      | #NW     | Video Nachbesprechung                                                       |                 |
 |      | #ITP    | [[Systemplanung und Projektentwicklung.pdf]] S.154 / 157 Projektcontrolling |                 |
-|      | #DE     |                                                                             |                 |
+|      | #DE     | Rappen                                                                      |                 |
