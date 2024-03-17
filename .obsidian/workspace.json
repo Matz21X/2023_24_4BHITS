@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "257f80b04b14bfb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DE/Textinterpretation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5c555c7be215ee49",
             "type": "leaf",
             "state": {
@@ -48,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0324.md"
+                "file": "DE/Textinterpretation.md"
               }
             }
           },
@@ -143,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0324.md"
+                "file": "DE/Textinterpretation.md"
               }
             }
           },
@@ -169,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0324.md",
+                "file": "DE/Textinterpretation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0324.md",
+                "file": "DE/Textinterpretation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,11 +239,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "67c73e53d7f5b0d4",
+  "active": "257f80b04b14bfb6",
   "lastOpenFiles": [
+    "Backlog_0324.md",
+    "DE/Textinterpretation.md",
     "ITP/Theorie/Maschinenwartung_tmp0.pod",
     "Fischer timesheet.md",
-    "Backlog_0324.md",
     "SEW-Theorie/Datenstrukturen.md",
     "SEW-Theorie/O-AUTH.md",
     "REL/März.md",
@@ -255,7 +270,6 @@
     "EN/Letter of application.md",
     "EN/City Planning 1.md",
     "SEW-Prog/SingletonDemo/target/classes/at/htlhl/singletondemo/Client.class",
-    "SEW-Prog/SingletonDemo/target/classes/at/htlhl/singletondemo/Client$1.class",
     "INSY/PSQL.md",
     "REL/Februar.md",
     "GGP/GGP 4.3.24 Testvorbereitung.md",
