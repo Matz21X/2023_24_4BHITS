@@ -13,4 +13,14 @@ Ingelis: Lesbisch, Übergewicht
 - Welche Bedeutung hat sie für Menschen? Welche Bedeutung hat die kirchliche Ehe vor Gott?
 	- Die Ehe steht für Liebe und Engagement zwischen Partnern, während die kirchliche Ehe vor Gott als heiliges Sakrament die Einheit und Treue im Glauben betont.
 - Wie läuft das Sakrament der Ehe ab?
-	- JA und JA Bussi bussi 
+	- Eheversprechung, Ringe (Zeichen für ewige Liebe)
+
+**Eherecht**
+
+- Einer katholisch, der andere nicht - funktioniert das?
+	- Was ist, wenn mein Partner ausgetreten ist?
+		- Geht
+	- Was ist, wenn beide ausgetreten sind?
+		- NUH UH
+	- Was ist, wenn einer evangelisch und einer katholisch ist?
+		- Geht
