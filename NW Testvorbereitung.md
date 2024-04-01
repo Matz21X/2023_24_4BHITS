@@ -57,3 +57,6 @@ Aus den Grundgrößen lassen sich andere Beobachtungsgrößen ableiten:
 - Rotationsgeschwindigkeit
 - Magnetfeld
 - usw... 
+
+Zwischen der Masse eines Sterns und seiner Leuchtkraft besteht eine enge Korrelation („Masse-Leuchtkraft-Beziehung“):
+![[Pasted image 20240401164621.png]]
