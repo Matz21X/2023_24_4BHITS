@@ -33,3 +33,27 @@ Es gibt 82 offizielle Sternbilder
 **Angabe der Helligkeit:**
 - scheinbare (relative) Hellig. "**m**" - <span style="color:#00b0f0">Vom Beobachter aus gemessen</span>
 - Absolute Helligkeit "**M**" - <span style="color:#00b0f0">10pc vom Objekt aus gemessen</span>
+- `Es gilt:  M = m + 5 – 5lg(r)  mit r = Abstand in pc`
+
+Der hellste Stern (Sirius) hat ca. -1,7<sup>m</sup>
+****
+
+### Beobachtungsdaten und Zustandsgrößen von Sternen
+
+Zustand eines Gases wird durch drei Größen beschrieben:
+- <span style="color:#00b0f0">Druck</span>
+- <span style="color:#00b0f0">Volumen</span>
+- <span style="color:#00b0f0">Temperatur</span>
+
+Sterne sind nichts anderes als große **Gasbälle**
+
+Aus den Grundgrößen lassen sich andere Beobachtungsgrößen ableiten:
+- Masse
+- Radius
+- Oberflächentemperatur
+- Spektralklasse ("Farbe")
+- Chemische Zusammensetzung
+- Strahlungsleistung ("Leuchtkraft")
+- Rotationsgeschwindigkeit
+- Magnetfeld
+- usw... 
