@@ -26,3 +26,4 @@ Die Erzählung endet mit einem Blick auf die menschliche Fähigkeit, das Univers
 
 ![[Pasted image 20240401155045.png]]
 
+![[Pasted image 20240401160541.png]]
