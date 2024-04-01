@@ -6,7 +6,7 @@ Die Erzählung bietet einen faszinierenden Einblick in die Entstehung und Entwic
 
 ## Urknall und kosmische Inflation
 
-Der Urknall kennzeichnet den Moment, als Raum, Zeit und Materie entstanden sind. Dieser Beginn des Universums war von einer enormen Energiemenge geprägt, die sich in einer winzigen Singularität konzentrierte. Unmittelbar nach dem Urknall dehnte sich das Universum in einem exponentiellen Tempo aus, ein Phänomen, das als kosmische Inflation bekannt ist. Diese rasche Expansion führte zu einer Gleichförmigkeit in der Verteilung von Materie im gesamten Raum.
+Der Urknall kennzeichnet den Moment, als Raum, Zeit und Materie entstanden sind. Dieser Beginn des Universums war von einer enormen Energiemenge geprägt, die sich in einer winzigen Singularität konzentrierte. Unmittelbar nach dem Urknall dehnte sich das Universum in einem exponentiellen Tempo aus (Überlichtgeschwindigkeit), ein Phänomen, das als kosmische Inflation bekannt ist. Diese rasche Expansion führte zu einer Gleichförmigkeit in der Verteilung von Materie im gesamten Raum.
 
 ## Kosmische Hintergrundstrahlung
 
@@ -25,3 +25,4 @@ Verschiedene Beobachtungen und Messungen unterstützen die Theorie des Urknalls.
 Die Erzählung endet mit einem Blick auf die menschliche Fähigkeit, das Universum zu verstehen und seine Geheimnisse zu enträtseln. Trotz der Komplexität und des Ausmaßes des Universums haben Wissenschaftler enorme Fortschritte gemacht, um seine Entstehung und Entwicklung zu erforschen. Die Geschichte des Universums ist ein faszinierendes Kapitel in der Menschheitsgeschichte und bietet Einblicke in die Naturgesetze und Kräfte, die unser Universum prägen.
 
 ![[Pasted image 20240401155045.png]]
+
