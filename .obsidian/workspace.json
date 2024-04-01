@@ -46,6 +46,19 @@
             }
           },
           {
+            "id": "c18bfeee40f58e68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5c555c7be215ee49",
             "type": "leaf",
             "state": {
@@ -72,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DE/Textinterpretation.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -167,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DE/Textinterpretation.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -193,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DE/Textinterpretation.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DE/Textinterpretation.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,8 +262,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4c4a2d25d70c71dc",
+  "active": "c18bfeee40f58e68",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "DE/~$xinterpretatioGeschEinesGenies.docx",
     "DE/~WRL0001.tmp",
     "DE/~WRD0000.tmp",
@@ -272,7 +286,6 @@
     "REL/3_Vielfalt.pdf",
     "GGP/TTIP X CETA.md",
     "EN/Leaflet Work & study in the EU.md",
-    "EN/~WRL0001.tmp",
     "EN/Report youth unemployment.md",
     "EN/USA v Austria.md",
     "EN/Survey pt3.md",
