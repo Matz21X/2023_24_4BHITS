@@ -24,3 +24,4 @@ Verschiedene Beobachtungen und Messungen unterstützen die Theorie des Urknalls.
 
 Die Erzählung endet mit einem Blick auf die menschliche Fähigkeit, das Universum zu verstehen und seine Geheimnisse zu enträtseln. Trotz der Komplexität und des Ausmaßes des Universums haben Wissenschaftler enorme Fortschritte gemacht, um seine Entstehung und Entwicklung zu erforschen. Die Geschichte des Universums ist ein faszinierendes Kapitel in der Menschheitsgeschichte und bietet Einblicke in die Naturgesetze und Kräfte, die unser Universum prägen.
 
+![[Pasted image 20240401155045.png]]
