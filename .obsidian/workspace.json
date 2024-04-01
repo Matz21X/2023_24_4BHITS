@@ -70,6 +70,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b6435aedf5e9e8e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NWT/Primitivwurzel.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -252,9 +265,10 @@
   },
   "active": "54ea9e7ebe6cfe6a",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20240401160827.png",
     "NW Video Zusammenfassung.md",
     "NW Testvorbereitung.md",
+    "NWT/Primitivwurzel.md",
+    "Attachments/Pasted image 20240401160827.png",
     "Attachments/Pasted image 20240401160541.png",
     "Attachments/Pasted image 20240401155045.png",
     "Fischer timesheet.md",
@@ -297,7 +311,6 @@
     "Attachments/Pasted image 20240303162156.png",
     "SEW-Prog/bayr/src/logo.svg",
     "SEW-Prog/bayr/public/logo512.png",
-    "SEW-Prog/bayr/public/logo192.png",
     "Untitled.canvas",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",

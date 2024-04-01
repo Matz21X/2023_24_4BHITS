@@ -26,4 +26,10 @@ Es gibt 82 offizielle Sternbilder
 - Universum - >100 Mrd. Galaxien
 - Abstand zwischen Galax. = mehrere Mio. Lichtjahre
 ****
-
+**Zur Kategorisierung ist die Helligkeit sehr wichtig**
+- Maßeinheit ist die Größenklasse mit dem Einheitszeichen **m**
+	- Bsp: L=5,3<sup>m</sup>
+****
+**Angabe der Helligkeit:**
+- scheinbare (relative) Hellig. "**m**" - <span style="color:#00b0f0">Vom Beobachter aus gemessen</span>
+- Absolute Helligkeit "**M**" - <span style="color:#00b0f0">10pc vom Objekt aus gemessen</span>
