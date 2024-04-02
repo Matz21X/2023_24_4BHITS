@@ -67,7 +67,7 @@
 | 27.1 | #AM | Yuh |  |
 | - | #ITP | [[Netzplan]] |  |
 | - | #SEW | [[Singleton (Pattern)]] ENUM |  |
-| - | #NW | Mündliche Prüfungen [[☠️.jpg]] |  |
+| - | #NW | Mündliche Prüfungen [[stare.jpg]] |  |
 | - | #ITP | [[Netzplan]] Siehe "YUH" |  |
 | - | #NWT | Notenbasar |  |
 | 29.1 | #NWT | DonkeyKong Bugfix |  |

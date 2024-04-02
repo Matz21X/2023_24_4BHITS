@@ -9,15 +9,15 @@
 |      | #NW     | Entstehung von Sternen https://www.youtube.com/watch?v=AguyNozwDh8          |                 |
 |      | #ITP    | Zottl Projektvorstellung                                                    |                 |
 |      | #DE     | Lesen                                                                       |                 |
-|      | #NWT    | NIX NIX [[☠️.jpg]]                                                          |                 |
+|      | #NWT    | NIX NIX [[stare.jpg]]                                                          |                 |
 | 4    | #NWT    | OSPF Übung                                                                  |                 |
 |      | #GGP    | Test / [[7. Außenwirtschaft_Schüler.pdf]]                                   |                 |
 |      | #EN     | YUH                                                                         |                 |
 |      | #RK     | [[März]]                                                                    |                 |
-|      | #WIR    | Recht AHHHHHHHHHh [[☠️.jpg]]                                                |                 |
+|      | #WIR    | Recht AHHHHHHHHHh [[stare.jpg]]                                                |                 |
 | 5    | #DE     | Lesen                                                                       |                 |
 |      | #BSP    | GASIG KRAFTIG SALUS [[Gasig.jpg]]                                           |                 |
-|      | #INSY   | NIX NIX [[☠️.jpg]]                                                          |                 |
+|      | #INSY   | NIX NIX [[stare.jpg]]                                                          |                 |
 | 6    |         | Flughafen                                                                   |                 |
 | 7    | #EN     | Amelia Text lesen, Workplace discrimination                                 |                 |
 |      | #WIR    | Ich kann das alles nicht mehr                                               |                 |
@@ -35,10 +35,10 @@
 |      | #GGP    | [[7. Außenwirtschaft_Schüler.pdf]] [[TTIP X CETA]]                          |                 |
 |      | #RK     | LGBTQ+                                                                      |                 |
 | 12   |         | Rehehehehe                                                                  |                 |
-| 13   | #SYT    | NIX NIX [[☠️.jpg]]                                                          |                 |
+| 13   | #SYT    | NIX NIX [[stare.jpg]]                                                          |                 |
 |      | #WIR    | Bookie                                                                      |                 |
-|      | #MEDT   | NIX NIX [[☠️.jpg]]                                                          |                 |
-|      | #SEW    | NIX NIX [[☠️.jpg]]                                                          |                 |
+|      | #MEDT   | NIX NIX [[stare.jpg]]                                                          |                 |
+|      | #SEW    | NIX NIX [[stare.jpg]]                                                          |                 |
 | 15   | #EN     | Sevilla pptx fertigmachen [[Zach_Thienel_Hrbek.pptx]]                       |                 |
 |      | #WIR    | Ich höre aktiv nicht zu                                                     |                 |
 |      | #RK     | [[März]] Gay ahh leute                                                      |                 |

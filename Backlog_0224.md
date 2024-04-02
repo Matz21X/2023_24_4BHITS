@@ -32,10 +32,10 @@ w## Backlog Februar
 |      | #DE     | [[Deutungshypothese Ausländer]]                             |                 |
 |      | #BSP    | GASIG KRAFTIG [[Gasig.jpg]]                                 |                 |
 |      | #INSY   | Datenbankarten                                              |                 |
-| 21   | #SYT    | NIX NIX [[☠️.jpg]]                             |                 |
-|      | #WIR    | NIX NIX [[☠️.jpg]]                             |                 |
+| 21   | #SYT    | NIX NIX [[stare.jpg]]                             |                 |
+|      | #WIR    | NIX NIX [[stare.jpg]]                             |                 |
 |      | #MEDT   | FICI joa okay                                               |                 |
-|      | #INSY   | NIX NIX [[☠️.jpg]]                             |                 |
+|      | #INSY   | NIX NIX [[stare.jpg]]                             |                 |
 |      | #SEW    | GenericsDemo                                                |                 |
 | 22   | #EN     | Discrimination at work                                      |                 |
 |      | #SEW    | Mathe SA Vorbereitung                                       |                 |
@@ -60,7 +60,7 @@ w## Backlog Februar
 |      | #WIR    | Test☠️☠️☠️                                                  |                 |
 |      | #MEDT   | Dreh Sevilla video                                          |                 |
 |      | #INSY   | MonogoDB install                                            |                 |
-|      | #SEW    | NIX NIX [[☠️.jpg]]                             |                 |
+|      | #SEW    | NIX NIX [[stare.jpg]]                             |                 |
 | 29   | #EN     | [[City Planning 1]]                                         |                 |
 |      | #WIR    | Präsentation Arthur, Simet, Test zurückbekommen             |                 |
 |      | #RK     | [[Februar#Uno (Vereinte Nationen)]]                         |                 |

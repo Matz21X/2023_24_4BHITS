@@ -6,7 +6,7 @@
 	- Tat: 13:32
 	- Anfang: Ebermann 13:35
 	- Mochma Pause?: 14:32-15:05
-	- Thema: NIX NIX NIX [[☠️.jpg]]
+	- Thema: NIX NIX NIX [[stare.jpg]]
 
 - 14.2
 	- Soll: 7:50
