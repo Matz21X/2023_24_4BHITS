@@ -23,19 +23,6 @@
             }
           },
           {
-            "id": "8a3364cbbcebbdfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backlog_0424.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e08f7e40b5300543",
             "type": "leaf",
             "state": {
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,16 +217,16 @@
   },
   "active": "e08f7e40b5300543",
   "lastOpenFiles": [
-    "INSY/MongoDB Aufgabe.md",
+    "Backlog_0324.md",
+    "Backlog_0424.md",
     "INSY/MongoDB.md",
+    "INSY/MongoDB Aufgabe.md",
     "README.md",
     "NW/NW Video Zusammenfassung.md",
-    "Backlog_0424.md",
     "NWT/Primitivwurzel.md",
     "NW/NW Testvorbereitung.md",
     "DE/Textinterpretation.md",
     "Attachments/stare.jpg",
-    "Backlog_0324.md",
     "Attachments/Pasted image 20240401164621.png",
     "Attachments/Pasted image 20240401160827.png",
     "Attachments/Pasted image 20240401160541.png",
