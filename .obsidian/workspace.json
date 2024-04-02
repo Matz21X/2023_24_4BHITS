@@ -36,6 +36,16 @@
             }
           },
           {
+            "id": "673bf5d7ad2a6ff7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "4c4a2d25d70c71dc",
             "type": "leaf",
             "state": {
@@ -85,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,7 +273,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "257f80b04b14bfb6",
+  "active": "673bf5d7ad2a6ff7",
   "lastOpenFiles": [
     "NW Video Zusammenfassung.md",
     "NW Testvorbereitung.md",
