@@ -210,12 +210,12 @@
       "command-palette:Open command palette": true,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "47ce735fb3a0e6de",
   "lastOpenFiles": [
+    "Attachments/NW Testvorbereitung-20240403193826600.webp",
     "Attachments/Pasted image 20240403192840.png",
     "Attachments/Pasted image 20240403192308.png",
     "NW/NW Test Vorbereitung.md",
@@ -261,7 +261,6 @@
     "EN/Speaking_Task_S20_6.md",
     "Attachments/Pasted image 20240303172533.png",
     "Attachments/Pasted image 20240303171756.png",
-    "Attachments/Pasted image 20240303163040.png",
     "Untitled.canvas",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",

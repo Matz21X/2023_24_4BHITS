@@ -10,7 +10,6 @@ Astrologie - Sternschwurbler (Deutung)
 
 Es gibt 82 offizielle Sternbilder
 
-
 ### Einheiten (Allgemeines)
 
 **Astronomische Einheit (AE)** - ist die mittlere Entfernung zwischen Erde und Sonne und beträgt ca. 150 Mio km (1,496.1011m)
@@ -59,13 +58,13 @@ Aus den Grundgrößen lassen sich andere Beobachtungsgrößen ableiten:
 - usw... 
 
 Zwischen der Masse eines Sterns und seiner Leuchtkraft besteht eine enge Korrelation („Masse-Leuchtkraft-Beziehung“):
-![[Pasted image 20240401164621.png]]
+![[Pasted image 20240401164621.png|405]]
 ****
 
 **Spektralanalyse**
 - Schwarze Linien entstehen durch Elemente die im Stern enthalten sind (z.B. Helium, Wasserstoff)
 
-![[Pasted image 20240403192308.png]]
+![[Pasted image 20240403192308.png|331]]
 ****
 **Arten von Sternen**
 - Weiße Zwerge
@@ -79,5 +78,16 @@ Zwischen der Masse eines Sterns und seiner Leuchtkraft besteht eine enge Korrela
 
 ### Hertzsprung - Russel - Diagramm
 
-![[Pasted image 20240403192840.png]]
+![[Pasted image 20240403192840.png|307]]
 
+> "Rote Riesen" (rechts oben)   -> Hohe Strahlungsleistung, Niedrige Dichte
+> "Weiße Zwerge" (links unten) -> Niedrige Strahlungsleistung, Hohe Temperatur
+> 
+> <span style="color:#00b050">Meisten Sterne liegen auf der Hauptreihe</span>
+
+Die Leistung des HRD liegt <span style="color:#00b050">nicht allein in der Katalogisierung der Sterne</span>, sondern vielmehr in der Möglichkeit die <span style="color:#00b050">zeitliche Entwicklung</span> eines Sterns nachzuvollziehen bzw. vorherzusagen. Je nachdem welche Masse ein Stern bei seiner „Geburt“ erhält, ist sein Weg im HRD und damit auch seine Lebensdauer vorgegeben. Grob gesagt leben massereiche Sterne kürzer und massearme Sterne länger. m
+
+
+
+
+![[NW Testvorbereitung-20240403193826600.webp|349]]
