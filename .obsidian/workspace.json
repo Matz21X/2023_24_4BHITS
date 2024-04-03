@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff55b257aef1f045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backlog_0424.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/MongoDB.md"
+                "file": "Backlog_0424.md"
               }
             }
           },
@@ -131,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/MongoDB.md"
+                "file": "Backlog_0424.md"
               }
             }
           },
@@ -157,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/MongoDB.md",
+                "file": "Backlog_0424.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/MongoDB.md",
+                "file": "Backlog_0424.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,8 +227,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "257f80b04b14bfb6",
+  "active": "ff55b257aef1f045",
   "lastOpenFiles": [
+    "Backlog_0324.md",
+    "INSY/MongoDB.md",
     "SYT/Arduino-Code/Interrupt/src/main.cpp",
     "SYT/Arduino-Code/Interrupt/test/README",
     "SYT/Arduino-Code/Interrupt/test",
@@ -231,7 +246,6 @@
     "NW/NW Video Zusammenfassung.md",
     "NW/NW Testvorbereitung.md",
     "INSY/MongoDB Aufgabe.md",
-    "INSY/Docker.docx",
     "INSY/Docker Handbuch.md",
     "Backlog_0424.md",
     "Attachments/stare.jpg",
@@ -243,12 +257,10 @@
     "Attachments/Pasted image 20240401155045.png",
     "Fischer timesheet.md",
     "conflict-files-obsidian-git.md",
-    "Backlog_0324.md",
     "SEW-Theorie/Datenstrukturen.md",
     "SEW-Theorie/O-AUTH.md",
     "REL/März.md",
     "Attachments/0AUTH.svg",
-    "INSY/MongoDB.md",
     "EN/Vocabulary.md",
     "GGP/TTIP X CETA.md",
     "EN/Leaflet Work & study in the EU.md",

@@ -7,3 +7,5 @@
 |      | #DE     | NIX NIX [[stare.jpg]]      |                 |
 |      | #BSP    | GASIG GYMMIG [[Gasig.jpg]] |                 |
 |      | #INSY   | NIX NIX Projekt herzeigen  |                 |
+| 3    | #SYT    | Reisinger interrupt        |                 |
+|      | #WIR    | Rückstellung S.77          |                 |
