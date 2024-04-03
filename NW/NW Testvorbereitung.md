@@ -1,4 +1,4 @@
-# Testvorbereitung 5.4
+# Testvorbereitung 5.4.24
 #NW #Vorbereitung 
 
 Astronomie - Wissenschaft der Himmelskörper 🌞
@@ -60,3 +60,6 @@ Aus den Grundgrößen lassen sich andere Beobachtungsgrößen ableiten:
 
 Zwischen der Masse eines Sterns und seiner Leuchtkraft besteht eine enge Korrelation („Masse-Leuchtkraft-Beziehung“):
 ![[Pasted image 20240401164621.png]]
+****
+
+**Spektralanalyse**
