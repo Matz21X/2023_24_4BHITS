@@ -63,3 +63,21 @@ Zwischen der Masse eines Sterns und seiner Leuchtkraft besteht eine enge Korrela
 ****
 
 **Spektralanalyse**
+- Schwarze Linien entstehen durch Elemente die im Stern enthalten sind (z.B. Helium, Wasserstoff)
+
+![[Pasted image 20240403192308.png]]
+****
+**Arten von Sternen**
+- Weiße Zwerge
+- Braune Zwerge
+- Gelbe Zwerge
+- Rote Riesen
+- Überriesen
+- Hautreihensterne
+- Veränderliche Sterne (Pulsare, Cepheiden)
+****
+
+### Hertzsprung - Russel - Diagramm
+
+![[Pasted image 20240403192840.png]]
+
