@@ -214,6 +214,8 @@
   },
   "active": "c4ad5c3c104c04b4",
   "lastOpenFiles": [
+    "NW/~WRL0003.tmp",
+    "NW/~WRD0002.tmp",
     "NW/~WRD0000.tmp",
     "Backlog_0424.md",
     "Attachments/Pasted image 20240303163040.png",
@@ -235,8 +237,6 @@
     "SYT/Arduino-Code/Interrupt/include/README",
     "SYT/Arduino-Code/Interrupt/include",
     "SYT/Arduino-Code/Interrupt/src",
-    "SYT/Arduino-Code/Interrupt/platformio.ini",
-    "SYT/Arduino-Code/Interrupt",
     "DE/Textinterpretation.md",
     "NWT/Primitivwurzel.md",
     "NW/NW Video Zusammenfassung.md",
