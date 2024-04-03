@@ -50,6 +50,10 @@
 		{
 			"name": "LoRaWANDemo",
 			"path": "../../ITP/Projekte/WIH/LoRaWANDemo"
+		},
+		{
+			"name": "Interrupt",
+			"path": "Interrupt"
 		}
 	],
 	"settings": {}
