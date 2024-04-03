@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "e08f7e40b5300543",
+            "id": "257f80b04b14bfb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,35 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "71b1979ec5cb12cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INSY/Docker Übungsaufgabe.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "785ed04dd4d6c725",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INSY/Docker Handbuch.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/Docker Handbuch.md"
+                "file": "INSY/MongoDB.md"
               }
             }
           },
@@ -157,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/Docker Handbuch.md"
+                "file": "INSY/MongoDB.md"
               }
             }
           },
@@ -183,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/Docker Handbuch.md",
+                "file": "INSY/MongoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/Docker Handbuch.md",
+                "file": "INSY/MongoDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,21 +214,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "785ed04dd4d6c725",
+  "active": "257f80b04b14bfb6",
   "lastOpenFiles": [
-    "INSY/Docker Übungsaufgabe.md",
-    "INSY/MongoDB.md",
-    "Backlog_0324.md",
-    "INSY/Docker Handbuch.md",
-    "Docker.md",
-    "Backlog_0424.md",
-    "INSY/MongoDB Aufgabe.md",
-    "README.md",
-    "NW/NW Video Zusammenfassung.md",
-    "NWT/Primitivwurzel.md",
-    "NW/NW Testvorbereitung.md",
     "DE/Textinterpretation.md",
+    "NWT/Primitivwurzel.md",
+    "NW/NW Video Zusammenfassung.md",
+    "NW/NW Testvorbereitung.md",
+    "INSY/MongoDB Aufgabe.md",
+    "INSY/Docker.docx",
+    "INSY/Docker Handbuch.md",
+    "Backlog_0424.md",
     "Attachments/stare.jpg",
+    "NW Video Zusammenfassung.md",
+    "NW Testvorbereitung.md",
     "Attachments/Pasted image 20240401164621.png",
     "Attachments/Pasted image 20240401160827.png",
     "Attachments/Pasted image 20240401160541.png",
@@ -265,17 +237,18 @@
     "DE/~WRL0001.tmp",
     "DE/~WRD0000.tmp",
     "DE/TexinterpretatioGeschEinesGenies.docx",
+    "Backlog_0324.md",
     "ITP/Theorie/Maschinenwartung_tmp0.pod",
     "SEW-Theorie/Datenstrukturen.md",
     "SEW-Theorie/O-AUTH.md",
     "REL/März.md",
     "Attachments/0AUTH.svg",
     "WIR/Wirtschaft/~$Zeitungsartikel.pptx",
+    "INSY/MongoDB.md",
     "EN/Vocabulary.md",
     "INSY/MongoDB.pdf",
     "REL/PDFs/Vielfalt.pdf",
     "REL/Vielfalt.pdf",
-    "REL/3_Vielfalt.pdf",
     "GGP/TTIP X CETA.md",
     "EN/Leaflet Work & study in the EU.md",
     "EN/Report youth unemployment.md",
@@ -284,6 +257,7 @@
     "EN/Speaking_Task_S20_6.md",
     "EN/Speaking Task Notes.md",
     "EN/Notes to Video.md",
+    "EN/Letter of application.md",
     "Attachments/Pasted image 20240303172533.png",
     "Attachments/Pasted image 20240303171756.png",
     "Attachments/Pasted image 20240303163040.png",
