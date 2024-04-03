@@ -1,7 +1,5 @@
 # Docker
 
-
-
 1. **docker run**: Startet einen Container aus einem Image.
    ```bash
    docker run -d --name my_container nginx
