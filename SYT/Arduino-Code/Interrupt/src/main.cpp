@@ -1,18 +1,31 @@
 #include <Arduino.h>
 
-// put function declarations here:
-int myFunction(int, int);
+// Pin, an dem der Schalter angeschlossen ist
+const int switchPin = 2;
+
+// Variable zur Zählung
+volatile int count = 0;
+
+void IRAM_ATTR handleInterrupt() {
+  // Interrupt-Routine: Schalter wurde betätigt
+  count++;
+}
+
 
 void setup() {
-  // put your setup code here, to run once:
-  int result = myFunction(2, 3);
+  Serial.begin(9600);
+  
+  // Initialisierung des Schalterpins
+  pinMode(switchPin, INPUT_PULLUP);
+  
+  // Attach Interrupt für den Schalter
+  attachInterrupt(digitalPinToInterrupt(switchPin), handleInterrupt, FALLING);
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-}
-
-// put function definitions here:
-int myFunction(int x, int y) {
-  return x + y;
+  // Ausgabe der aktuellen Zählung auf der Konsole
+  Serial.println("Count: " + String(count));
+  
+  // Kurze Verzögerung, um die Serielle Konsole nicht zu überlasten
+  delay(500);
 }
