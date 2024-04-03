@@ -75,7 +75,6 @@ Zwischen der Masse eines Sterns und seiner Leuchtkraft besteht eine enge Korrela
 - Hautreihensterne
 - Veränderliche Sterne (Pulsare, Cepheiden)
 ****
-
 ### Hertzsprung - Russel - Diagramm
 
 ![[Pasted image 20240403192840.png|307]]
@@ -85,9 +84,8 @@ Zwischen der Masse eines Sterns und seiner Leuchtkraft besteht eine enge Korrela
 > 
 > <span style="color:#00b050">Meisten Sterne liegen auf der Hauptreihe</span>
 
-Die Leistung des HRD liegt <span style="color:#00b050">nicht allein in der Katalogisierung der Sterne</span>, sondern vielmehr in der Möglichkeit die <span style="color:#00b050">zeitliche Entwicklung</span> eines Sterns nachzuvollziehen bzw. vorherzusagen. Je nachdem welche Masse ein Stern bei seiner „Geburt“ erhält, ist sein Weg im HRD und damit auch seine Lebensdauer vorgegeben. Grob gesagt leben massereiche Sterne kürzer und massearme Sterne länger. m
+Die Leistung des HRD liegt <span style="color:#00b050">nicht allein in der Katalogisierung der Sterne</span>, sondern vielmehr in der Möglichkeit die <span style="color:#00b050">zeitliche Entwicklung</span> eines Sterns nachzuvollziehen bzw. vorherzusagen. Je nachdem welche Masse ein Stern bei seiner „Geburt“ erhält, ist sein Weg im HRD und damit auch seine Lebensdauer vorgegeben. Grob gesagt leben massereiche Sterne kürzer und massearme Sterne länger. 
 
 
+### Sternentstehung
 
-
-![[NW Testvorbereitung-20240403193826600.webp|349]]
