@@ -20,7 +20,7 @@ Es gibt 82 offizielle Sternbilder
 
 ****
 **Milchstraße (Galaxie)** - Ansammlung gravitativ gebundener Sterne, Gas- und Staubmassen
-- Durchmesser von ca. 100000Lj
+- Durchmesser von ca. 100.000Lj
 - ca. 300 Mrd. Sterne
 - Universum - >100 Mrd. Galaxien
 - Abstand zwischen Galax. = mehrere Mio. Lichtjahre
