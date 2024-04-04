@@ -43,7 +43,14 @@ Underfunded - More school shootings
 Inconsistent / inequality
 funded by income tax within districts
 
-- Public School
+- Public school
 	- Paid for by state taxes
 	- Religious education is prohibited 
-	- 
+- Private school
+	- Expensive to attend due to lack of state funding
+	- More freedom 🦅🦅
+- Homeschooling:
+	- Parents of private tutors teach
+	- Weird ahh kids (sometimes)
+	- Religious beliefs
+- 
