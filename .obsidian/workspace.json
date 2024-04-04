@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "79f5c16cc4b9c8c6",
+            "id": "b58e4f93e40b27d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -225,15 +225,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "79f5c16cc4b9c8c6",
+  "active": "b58e4f93e40b27d4",
   "lastOpenFiles": [
+    "REL/April.md",
+    "NW/NW Testvorbereitung.md",
     "NW/~WRL0001.tmp",
     "NW/~WRD0000.tmp",
     "NW/~$ysikHA4_2.docx",
     "NW/NW Testvorbereitung.pdf",
     "Backlog_0424.md",
-    "REL/April.md",
-    "NW/NW Testvorbereitung.md",
     "NW/~$ysikHA4_3.docx",
     "NW/~$ysikHA4_1.docx",
     "EN/Amelia Yap.md",
@@ -252,7 +252,6 @@
     "SYT/Arduino-Code/Interrupt/src/main.cpp",
     "SYT/Arduino-Code/Interrupt/test/README",
     "SYT/Arduino-Code/Interrupt/test",
-    "SYT/Arduino-Code/Interrupt/lib/README",
     "DE/Textinterpretation.md",
     "NWT/Primitivwurzel.md",
     "INSY/MongoDB Aufgabe.md",

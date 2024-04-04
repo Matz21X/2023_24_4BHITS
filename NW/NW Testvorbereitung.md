@@ -145,7 +145,7 @@ Bei der Untersuchung von entfernten Galaxien durch E.P. Hubble stellte sich zu B
 
 ![[NW Testvorbereitung-20240403205117968.png|768]]
 
-Diese Entdeckung hat zum Modell des expandierenden Universums und letztlich auch zum Urknallmodell geführt, denn wenn man die Galaxien-Bewegung zurückrechnet, erkennt man, dass vor ca. 14 Mrd. Jahren das Universum in einem sehr kleinen Raumbereich konzentriert war und eine dramatische Expansion (keine „Explosion“!) stattgefunden haben muss.
+Diese Entdeckung hat zum Modell des expandierenden Universums und letztlich auch zum Urknallmodell geführt, denn wenn man die Galaxien-Bewegung zurück rechnet, erkennt man, dass vor ca. 14 Mrd. Jahren das Universum in einem sehr kleinen Raumbereich konzentriert war und eine dramatische Expansion (keine „Explosion“!) stattgefunden haben muss.
 
 Am Anfang der Zeit - vor **13,82 Milliarden Jahren** - war "alles" (Materie und Energie), sowie auch der Raum an sich, in einer **Singularität** vereint. Nach neuesten Erkenntnissen geht man davon aus, dass es "vor" dem Urknall nur **Quantenfluktuationen** gab, die sich gegenseitig aufhoben. Es existierte jedoch die geringe Wahrscheinlichkeit eines Zustandes, dessen Energie von Null verschieden war. Dies könnte der Beginn von Raum und Zeit gewesen sein. Es gab jedoch noch keine verschiedenen Naturkräfte, sondern nur eine "Superkraft", und Raum, Zeit und Energie waren nicht unterscheidbar. Als kürzeste Zeitspanne gilt die **Planck-Zeit** mit \(5,4 \times 10^{-44}\) Sekunden. Als erstes spaltete sich die **Gravitation** ab, und es blieb die **GUT (Grand Unified Theory)** übrig, die die Starke und Schwache Wechselwirkung sowie die Elektromagnetische Wechselwirkung beinhaltete.
 
