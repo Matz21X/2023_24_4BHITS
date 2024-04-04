@@ -1,5 +1,4 @@
 [
-  "obsidian-excalidraw-plugin",
   "colored-text",
   "global-search-and-replace",
   "table-editor-obsidian",
@@ -7,5 +6,6 @@
   "obsidian-git",
   "editor-width-slider",
   "obsidian-markdown-export-plugin",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "image-converter"
 ]

@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "attachmentFolderPath": "Attachments",
   "showInlineTitle": false,
   "trashOption": "local",

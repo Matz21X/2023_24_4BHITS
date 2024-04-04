@@ -36,6 +36,19 @@
             }
           },
           {
+            "id": "2142e79c41be791b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4c536a01ffd595f1",
             "type": "leaf",
             "state": {
@@ -46,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NW/NW Video Zusammenfassung.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -141,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NW/NW Video Zusammenfassung.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -167,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NW/NW Video Zusammenfassung.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NW/NW Video Zusammenfassung.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,8 +237,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "257f80b04b14bfb6",
+  "active": "2142e79c41be791b",
   "lastOpenFiles": [
+    "NW/NW Video Zusammenfassung.md",
+    "conflict-files-obsidian-git.md",
+    "Attachments/Pasted image 20240403192840.png",
+    "Attachments/Pasted image 20240403192308.png",
+    "Attachments/NW Testvorbereitung-20240403205117968.png",
+    "Attachments/NW Testvorbereitung-20240403195340131.png",
+    "Attachments/NW Testvorbereitung-20240403193826600.webp",
     "NW/NW Video Zusammenfassung.pdf",
     "INSY/Docker Handbuch.md",
     "INSY/MongoDB.md",
@@ -240,10 +260,8 @@
     "SYT/Arduino-Code/Interrupt/include",
     "SYT/Arduino-Code/Interrupt/src",
     "SYT/Arduino-Code/Interrupt/platformio.ini",
-    "SYT/Arduino-Code/Interrupt",
     "DE/Textinterpretation.md",
     "NWT/Primitivwurzel.md",
-    "NW/NW Video Zusammenfassung.md",
     "NW/NW Testvorbereitung.md",
     "INSY/MongoDB Aufgabe.md",
     "Attachments/stare.jpg",
@@ -254,11 +272,9 @@
     "Attachments/Pasted image 20240401160541.png",
     "Attachments/Pasted image 20240401155045.png",
     "Fischer timesheet.md",
-    "conflict-files-obsidian-git.md",
     "SEW-Theorie/Datenstrukturen.md",
     "SEW-Theorie/O-AUTH.md",
     "REL/März.md",
-    "Attachments/0AUTH.svg",
     "EN/Vocabulary.md",
     "GGP/TTIP X CETA.md",
     "EN/Leaflet Work & study in the EU.md",
@@ -268,10 +284,6 @@
     "EN/Speaking_Task_S20_6.md",
     "EN/Speaking Task Notes.md",
     "EN/Notes to Video.md",
-    "Attachments/Pasted image 20240303172533.png",
-    "Attachments/Pasted image 20240303171756.png",
-    "Attachments/Pasted image 20240303163040.png",
-    "Attachments/Pasted image 20240303162156.png",
     "Untitled.canvas",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
