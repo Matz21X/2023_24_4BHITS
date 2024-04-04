@@ -47,19 +47,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4c536a01ffd595f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NW/NW Testvorbereitung.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 2
@@ -241,12 +228,12 @@
   },
   "active": "b793acca55212eef",
   "lastOpenFiles": [
-    "Backlog_0424.md",
+    "NW/NW Testvorbereitung.md",
     "REL/April.md",
+    "Backlog_0424.md",
     "EN/Amelia Yap.md",
     "Attachments/Pasted image 20240404082020.png",
     "NW/NW Video Zusammenfassung.md",
-    "NW/NW Testvorbereitung.md",
     "conflict-files-obsidian-git.md",
     "Attachments/Pasted image 20240403192840.png",
     "Attachments/Pasted image 20240403192308.png",
