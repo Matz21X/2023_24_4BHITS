@@ -53,4 +53,16 @@ funded by income tax within districts
 	- Parents of private tutors teach
 	- Weird ahh kids (sometimes)
 	- Religious beliefs
-- 
+
+**K-12 grades**
+
+![[Pasted image 20240404082020.png|498]]
+
+
+**Common subjects**
+
+- Elementary school: reading, writing and basic math
+- Middle school: English, math, general science, history...
+- High school: English, math, history...
+	- Drama, band, art, and woodshop
+- High school students have some freedom in deciding their own schedule
