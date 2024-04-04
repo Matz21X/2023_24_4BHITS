@@ -66,3 +66,12 @@ funded by income tax within districts
 - High school: English, math, history...
 	- Drama, band, art, and woodshop
 - High school students have some freedom in deciding their own schedule
+
+
+**Grades and graduation**
+A-F system
+- A: 90%
+- B: 80-89%
+- C: 70-79%
+- D: 60-70%
+- F: <60%
