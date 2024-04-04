@@ -61,7 +61,7 @@ w## Backlog Februar
 |      | #MEDT   | Dreh Sevilla video                                          |                 |
 |      | #INSY   | MonogoDB install                                            |                 |
 |      | #SEW    | NIX NIX [[stare.jpg]]                             |                 |
-| 29   | #EN     | [[City Planning 1]]                                         |                 |
+| 29   | #EN     | [[Amelia Yap]]                                         |                 |
 |      | #WIR    | Präsentation Arthur, Simet, Test zurückbekommen             |                 |
 |      | #RK     | [[Februar#Uno (Vereinte Nationen)]]                         |                 |
 |      | #ITP    | SNS                                                         |                 |

@@ -1,4 +1,4 @@
-# City planning 1
+# Amelia Yap
 #EN #Amilia
 
 > Traffic, transport and walkability
@@ -35,3 +35,15 @@ stigmatized
 **Culture of individualism**
 - Nobody likes the bus
 
+
+### American school systems
+
+Underfunded - More school shootings
+
+Inconsistent / inequality
+funded by income tax within districts
+
+- Public School
+	- Paid for by state taxes
+	- Religious education is prohibited 
+	- 

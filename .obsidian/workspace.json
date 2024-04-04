@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NW/NW Video Zusammenfassung.md",
+                "file": "EN/Amelia Yap.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -52,14 +52,25 @@
             "id": "4c536a01ffd595f1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "NW/NW Testvorbereitung.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
+            }
+          },
+          {
+            "id": "a0b6ff56d6ca07da",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "EN/Amelia Yap.md"
               }
             }
           },
@@ -154,7 +165,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "EN/Amelia Yap.md"
               }
             }
           },
@@ -180,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "EN/Amelia Yap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "EN/Amelia Yap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,9 +248,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2142e79c41be791b",
+  "active": "257f80b04b14bfb6",
   "lastOpenFiles": [
+    "Backlog_0424.md",
+    "EN/Amelia Yap.md",
     "NW/NW Video Zusammenfassung.md",
+    "NW/NW Testvorbereitung.md",
     "conflict-files-obsidian-git.md",
     "Attachments/Pasted image 20240403192840.png",
     "Attachments/Pasted image 20240403192308.png",
@@ -249,7 +263,6 @@
     "NW/NW Video Zusammenfassung.pdf",
     "INSY/Docker Handbuch.md",
     "INSY/MongoDB.md",
-    "Backlog_0424.md",
     "Backlog_0324.md",
     "SYT/Arduino-Code/Interrupt/src/main.cpp",
     "SYT/Arduino-Code/Interrupt/test/README",
@@ -262,7 +275,6 @@
     "SYT/Arduino-Code/Interrupt/platformio.ini",
     "DE/Textinterpretation.md",
     "NWT/Primitivwurzel.md",
-    "NW/NW Testvorbereitung.md",
     "INSY/MongoDB Aufgabe.md",
     "Attachments/stare.jpg",
     "NW Video Zusammenfassung.md",
