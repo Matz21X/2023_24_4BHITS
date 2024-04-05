@@ -33,4 +33,5 @@ capitalCities.put("Austria", "Vienna");
 <span style="color:#00b050">Queue</span>
 - Realisierung von FIFO (first-in first-out) und LIFO (last-in first-out) Speicher
 
-## Daten
+## Datenstrukturen Konzepte
+
