@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NW/NW Testvorbereitung.md",
+                "file": "SEW-Theorie/Datenstrukturen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NW/NW Testvorbereitung.md"
+                "file": "SEW-Theorie/Datenstrukturen.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NW/NW Testvorbereitung.md"
+                "file": "SEW-Theorie/Datenstrukturen.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NW/NW Testvorbereitung.md",
+                "file": "SEW-Theorie/Datenstrukturen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NW/NW Testvorbereitung.md",
+                "file": "SEW-Theorie/Datenstrukturen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,9 +214,10 @@
   },
   "active": "061e6f107855bc18",
   "lastOpenFiles": [
+    "SEW-Theorie/O-AUTH.md",
+    "NW/NW Testvorbereitung.md",
     "Backlog_0424.md",
     "REL/April.md",
-    "NW/NW Testvorbereitung.md",
     "NW/~WRL0001.tmp",
     "NW/~WRD0000.tmp",
     "NW/~$ysikHA4_2.docx",
@@ -250,7 +251,6 @@
     "Attachments/Pasted image 20240401160541.png",
     "Fischer timesheet.md",
     "SEW-Theorie/Datenstrukturen.md",
-    "SEW-Theorie/O-AUTH.md",
     "REL/März.md",
     "EN/Vocabulary.md",
     "GGP/TTIP X CETA.md",
