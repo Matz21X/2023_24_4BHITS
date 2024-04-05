@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NW/NW Testvorbereitung.md"
+                "file": "SEW-Theorie/Datenstrukturen.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NW/NW Testvorbereitung.md"
+                "file": "SEW-Theorie/Datenstrukturen.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NW/NW Testvorbereitung.md",
+                "file": "SEW-Theorie/Datenstrukturen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NW/NW Testvorbereitung.md",
+                "file": "SEW-Theorie/Datenstrukturen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,11 +225,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3d40070b2e43a9b",
+  "active": "061e6f107855bc18",
   "lastOpenFiles": [
+    "Attachments/Datenstrukturen-20240405102814550.png",
+    "NW/NW Testvorbereitung.md",
     "SEW-Theorie/Datenstrukturen.md",
     "SEW-Theorie/O-AUTH.md",
-    "NW/NW Testvorbereitung.md",
     "Backlog_0424.md",
     "REL/April.md",
     "NW/~WRL0001.tmp",

@@ -35,3 +35,4 @@ capitalCities.put("Austria", "Vienna");
 
 ## Datenstrukturen Konzepte
 
+![[Datenstrukturen-20240405102814550.png]]
