@@ -23,20 +23,7 @@
             }
           },
           {
-            "id": "b793acca55212eef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REL/April.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b58e4f93e40b27d4",
+            "id": "061e6f107855bc18",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,15 +212,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b58e4f93e40b27d4",
+  "active": "061e6f107855bc18",
   "lastOpenFiles": [
+    "Backlog_0424.md",
     "REL/April.md",
     "NW/NW Testvorbereitung.md",
     "NW/~WRL0001.tmp",
     "NW/~WRD0000.tmp",
     "NW/~$ysikHA4_2.docx",
     "NW/NW Testvorbereitung.pdf",
-    "Backlog_0424.md",
     "NW/~$ysikHA4_3.docx",
     "NW/~$ysikHA4_1.docx",
     "EN/Amelia Yap.md",
