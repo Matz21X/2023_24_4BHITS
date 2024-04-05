@@ -99,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -210,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,8 +229,9 @@
   },
   "active": "a3d40070b2e43a9b",
   "lastOpenFiles": [
-    "NW/NW Testvorbereitung.md",
     "SEW-Theorie/Datenstrukturen.md",
+    "DE/Textinterpretation.md",
+    "NW/NW Testvorbereitung.md",
     "Attachments/Datenstrukturen-20240405102814550.png",
     "SEW-Theorie/O-AUTH.md",
     "Backlog_0424.md",
@@ -255,7 +258,6 @@
     "SYT/Arduino-Code/Interrupt/src/main.cpp",
     "SYT/Arduino-Code/Interrupt/test/README",
     "SYT/Arduino-Code/Interrupt/test",
-    "DE/Textinterpretation.md",
     "NWT/Primitivwurzel.md",
     "INSY/MongoDB Aufgabe.md",
     "Attachments/stare.jpg",
