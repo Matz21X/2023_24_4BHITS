@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NW/NW Testvorbereitung.md",
+                "file": "DE/Textinterpretation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NW/NW Testvorbereitung.md"
+                "file": "DE/Textinterpretation.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "NW/NW Testvorbereitung.md"
+                "file": "DE/Textinterpretation.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NW/NW Testvorbereitung.md",
+                "file": "DE/Textinterpretation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NW/NW Testvorbereitung.md",
+                "file": "DE/Textinterpretation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,9 +227,9 @@
   },
   "active": "a3d40070b2e43a9b",
   "lastOpenFiles": [
+    "NW/NW Testvorbereitung.md",
     "SEW-Theorie/Datenstrukturen.md",
     "Attachments/Datenstrukturen-20240405102814550.png",
-    "NW/NW Testvorbereitung.md",
     "SEW-Theorie/O-AUTH.md",
     "Backlog_0424.md",
     "REL/April.md",
