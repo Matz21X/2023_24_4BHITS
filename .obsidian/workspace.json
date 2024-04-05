@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md"
+                "file": "NW/NW Testvorbereitung.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md"
+                "file": "NW/NW Testvorbereitung.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md",
+                "file": "NW/NW Testvorbereitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md",
+                "file": "NW/NW Testvorbereitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,11 +225,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "061e6f107855bc18",
+  "active": "a3d40070b2e43a9b",
   "lastOpenFiles": [
+    "SEW-Theorie/Datenstrukturen.md",
     "Attachments/Datenstrukturen-20240405102814550.png",
     "NW/NW Testvorbereitung.md",
-    "SEW-Theorie/Datenstrukturen.md",
     "SEW-Theorie/O-AUTH.md",
     "Backlog_0424.md",
     "REL/April.md",
@@ -263,7 +263,6 @@
     "NW Testvorbereitung.md",
     "Attachments/Pasted image 20240401164621.png",
     "Attachments/Pasted image 20240401160827.png",
-    "Attachments/Pasted image 20240401160541.png",
     "Fischer timesheet.md",
     "REL/März.md",
     "EN/Vocabulary.md",
