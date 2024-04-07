@@ -67,3 +67,5 @@ Anschließend sollst du deine Deutungshypothese mit Stellen aus dem Werk belegen
 >[!INFO] **Tipps**
 >- Du sollst diese Punkte nie einfach nur aufzählen, sondern immer gleich **interpretieren**, also deuten.
 >- **Belege** deine Aussagen immer mit Zitaten oder Verweisen auf eine Textstelle! Zum Beispiel: „In Zeile 33 auf Seite 1… / In Vers 12 …“
+
+![[TextinterpretationMerkzettel-20240407165522835.png]]
