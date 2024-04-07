@@ -3,7 +3,8 @@
 **Aufbau:**
 
 1. **Einleitung**
-2. **Hauptteil**2.1 Inhaltsangabe  
+2. **Hauptteil**
+	2.1 Inhaltsangabe  
     2.2 Deutungshypothese  
     2.3 Interpretation  
             2.3.1 Analyse des Inhalts + Interpretation         
