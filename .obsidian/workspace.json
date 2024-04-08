@@ -36,19 +36,20 @@
             }
           },
           {
-            "id": "4c5056ef0a0f3dc9",
+            "id": "37a7548f70ff7204",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Obsidian-Help/Help-Page.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0424.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -144,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0424.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -170,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0424.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0424.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,19 +227,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff55b257aef1f045",
+  "active": "37a7548f70ff7204",
   "lastOpenFiles": [
-    "GGP/8. Globalisierung_Schüler.pdf",
     "DE/TextinterpretationMerkzettel.md",
+    "Untitled.md",
+    "Z_Obsidian-Help/Help-Page.md",
+    "Backlog_0424.md",
+    "GGP/8. Globalisierung_Schüler.pdf",
     "DE/~$xtinterpretation.docx",
     "DE/~WRL2289.tmp",
     "DE/~WRD2281.tmp",
     "DE/Textinterpretation.docx",
     "DE/GeschEinesGenies.pdf",
     "Attachments/TextinterpretationMerkzettel-20240407165522835.png",
-    "Z_Obsidian-Help/Help-Page.md",
     "Attachments/TextinterpretationMerkzettel-20240407164600792.png",
-    "Backlog_0424.md",
     "NWT/SLAAC Aufgabe 4.pdf",
     "MEDT/FICI/Aufgabenstellung HÜ 1 - Analyse CD und Scribble eigenes LOGO 2023_24.docx",
     "MEDT/FICI",
@@ -249,7 +251,6 @@
     "Attachments/Datenstrukturen-20240405102814550.png",
     "SEW-Theorie/O-AUTH.md",
     "REL/April.md",
-    "NW/~WRL0001.tmp",
     "EN/Amelia Yap.md",
     "Attachments/Pasted image 20240404082020.png",
     "NW/NW Video Zusammenfassung.md",
