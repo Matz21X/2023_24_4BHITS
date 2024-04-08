@@ -44,7 +44,7 @@
                 "file": "REL/April.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -229,6 +229,7 @@
   },
   "active": "37a7548f70ff7204",
   "lastOpenFiles": [
+    "REL/PDFs/1_Passion_Christi.pdf",
     "Untitled.md",
     "DE/TextinterpretationMerkzettel.md",
     "Z_Obsidian-Help/Help-Page.md",
@@ -274,7 +275,6 @@
     "GGP/TTIP X CETA.md",
     "EN/Leaflet Work & study in the EU.md",
     "EN/Report youth unemployment.md",
-    "EN/USA v Austria.md",
     "Untitled.canvas",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",

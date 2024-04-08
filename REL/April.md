@@ -17,3 +17,19 @@
 12. Jesus stirbt am Kreuz
 13. Jesus wird vom Kreuz abgenommen und seiner Mutter übergeben
 14. Jesus wird ins Grab gelegt
+
+
+Aufgaben:
+1. Halten Sie während des Filmes Ausschau nach wichtigen Stationen und Szenen aus dem Leben Jesu und notieren Sie diese.
+	- Der Verrat von Jesus durch Judas
+	- 
+1. Notieren Sie die Personen, die im Film vorkommen und welche Rolle diese in der Geschichte haben.
+	- Judas - Verräter
+	- Jesus - Jesus
+	- Teufel
+
+3. Machen Sie Notizen über positive und negative Eindrücke während des Films. (Was kommt Ihnen realistisch vor, was wirkt unrealistisch auf Sie, welche Szenen sind besonders erschütternd, was haben Sie sich ganz anders vorgestellt,…).
+
+4. Abschluss: Dieser Film war mehrfach Oscar-nominiert und erhielt verschiedene Filmpreise. Warum denken Sie, erhielt der Film so viel Aufmerksamkeit?
+
+5. Wie viele Sterne würden Sie diesem Film geben und warum?
