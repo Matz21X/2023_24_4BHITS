@@ -25,4 +25,4 @@
 |      | #ITP    | Trendanalysen [[Systemplanung und Projektentwicklung.pdf]] Seite 162 |                 |
 |      | #DE     | NIX NIX [[stare.jpg]]                                                |                 |
 |      | #NWT    | [[SLAAC Aufgabe 4.pdf]]                                              |                 |
-|      |         |                                                                      |                 |
+| 8    | #NWT    | SLAAC Wiederholung                                                   |                 |

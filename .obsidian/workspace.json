@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DE/TextinterpretationMerkzettel.md"
+                "file": "Backlog_0424.md"
               }
             }
           },
@@ -145,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DE/TextinterpretationMerkzettel.md"
+                "file": "Backlog_0424.md"
               }
             }
           },
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DE/TextinterpretationMerkzettel.md",
+                "file": "Backlog_0424.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DE/TextinterpretationMerkzettel.md",
+                "file": "Backlog_0424.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,8 +226,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e25e3a49ed42548",
+  "active": "ff55b257aef1f045",
   "lastOpenFiles": [
+    "DE/TextinterpretationMerkzettel.md",
     "DE/~$xtinterpretation.docx",
     "DE/~WRL2289.tmp",
     "DE/~WRD2281.tmp",
@@ -236,7 +236,6 @@
     "DE/GeschEinesGenies.pdf",
     "Attachments/TextinterpretationMerkzettel-20240407165522835.png",
     "Z_Obsidian-Help/Help-Page.md",
-    "DE/TextinterpretationMerkzettel.md",
     "Attachments/TextinterpretationMerkzettel-20240407164600792.png",
     "Backlog_0424.md",
     "NWT/SLAAC Aufgabe 4.pdf",
@@ -250,7 +249,6 @@
     "SEW-Theorie/O-AUTH.md",
     "REL/April.md",
     "NW/~WRL0001.tmp",
-    "NW/~WRD0000.tmp",
     "EN/Amelia Yap.md",
     "Attachments/Pasted image 20240404082020.png",
     "NW/NW Video Zusammenfassung.md",
