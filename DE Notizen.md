@@ -1,6 +1,4 @@
 
-
-
 Neutrale Erzählperspektive
 - Außenperspektive
 - Keine Figur der Geschichte
@@ -17,3 +15,5 @@ Ich-Erzählung
 - Sichtweise einer Figur in der Geschichte
 - Kann kommentieren und bewerten
 - Ich-Form
+
+
