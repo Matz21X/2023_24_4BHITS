@@ -29,7 +29,8 @@ Aufgaben:
 	- Teufel
 
 3. Machen Sie Notizen über positive und negative Eindrücke während des Films. (Was kommt Ihnen realistisch vor, was wirkt unrealistisch auf Sie, welche Szenen sind besonders erschütternd, was haben Sie sich ganz anders vorgestellt,…).
+	- 
 
-4. Abschluss: Dieser Film war mehrfach Oscar-nominiert und erhielt verschiedene Filmpreise. Warum denken Sie, erhielt der Film so viel Aufmerksamkeit?
+5. Abschluss: Dieser Film war mehrfach Oscar-nominiert und erhielt verschiedene Filmpreise. Warum denken Sie, erhielt der Film so viel Aufmerksamkeit?
 
-5. Wie viele Sterne würden Sie diesem Film geben und warum?
+6. Wie viele Sterne würden Sie diesem Film geben und warum?
