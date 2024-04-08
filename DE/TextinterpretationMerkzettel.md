@@ -70,3 +70,18 @@ Anschließend sollst du deine Deutungshypothese mit Stellen aus dem Werk belegen
 >- **Belege** deine Aussagen immer mit Zitaten oder Verweisen auf eine Textstelle! Zum Beispiel: „In Zeile 33 auf Seite 1… / In Vers 12 …“
 
 ![[TextinterpretationMerkzettel-20240407165522835.png]]
+
+
+Die Einleitung enthält:
+- Basisinformationen (Autor, Titel, Textsorte, Erscheinungsort und -datum)
+- Einordnung in die literarische Epoche (=Kontextuierung)
+- Thema des Textes
+Im Hauptteil:
+- fassen Sie den Inhalt des Textes zusammen
+- analysieren Sie Inhalt, Form und Sprache
+- gehen Sie auf die gestellten Arbeitsaufträge ein
+- entwickeln Sie eine Interpretationshypothese und interpretieren Sie den Text, indem Sie auf die Wirkung der Analysepunkte Bezug nehmen
+- überprüfen und belegen Sie Ihre Interpretationshypothese anhand von Textstellen
+- nehmen Sie kritisch Stellung (zur Position/Intention des Autors, zur Wirkung und zur Aktualität des Textes)
+Im Schlussteil:
+- fassen Sie Ihre Interpretationsergebnisse knapp zusammen und beschreiben dabei die Wirkung auf den Leser

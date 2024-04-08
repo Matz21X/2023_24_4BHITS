@@ -34,22 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "37a7548f70ff7204",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REL/April.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REL/April.md"
+                "file": "DE/TextinterpretationMerkzettel.md"
               }
             }
           },
@@ -145,7 +132,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "REL/April.md"
+                "file": "DE/TextinterpretationMerkzettel.md"
               }
             }
           },
@@ -171,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REL/April.md",
+                "file": "DE/TextinterpretationMerkzettel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REL/April.md",
+                "file": "DE/TextinterpretationMerkzettel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,13 +214,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37a7548f70ff7204",
+  "active": "9e25e3a49ed42548",
   "lastOpenFiles": [
+    "Backlog_0424.md",
+    "DE/TextinterpretationMerkzettel.md",
+    "REL/April.md",
     "REL/PDFs/1_Passion_Christi.pdf",
     "Untitled.md",
-    "DE/TextinterpretationMerkzettel.md",
     "Z_Obsidian-Help/Help-Page.md",
-    "Backlog_0424.md",
     "GGP/8. Globalisierung_Schüler.pdf",
     "DE/~$xtinterpretation.docx",
     "DE/~WRL2289.tmp",
@@ -245,13 +233,11 @@
     "NWT/SLAAC Aufgabe 4.pdf",
     "MEDT/FICI/Aufgabenstellung HÜ 1 - Analyse CD und Scribble eigenes LOGO 2023_24.docx",
     "MEDT/FICI",
-    "MEDT/Neuer Ordner",
     "SEW-Theorie/Datenstrukturen.md",
     "DE/Textinterpretation.md",
     "NW/NW Testvorbereitung.md",
     "Attachments/Datenstrukturen-20240405102814550.png",
     "SEW-Theorie/O-AUTH.md",
-    "REL/April.md",
     "EN/Amelia Yap.md",
     "Attachments/Pasted image 20240404082020.png",
     "NW/NW Video Zusammenfassung.md",

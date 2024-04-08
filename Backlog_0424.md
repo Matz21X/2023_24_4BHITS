@@ -26,3 +26,6 @@
 |      | #DE     | NIX NIX [[stare.jpg]]                                                |                 |
 |      | #NWT    | [[SLAAC Aufgabe 4.pdf]]                                              |                 |
 | 8    | #NWT    | SLAAC Wiederholung                                                   |                 |
+|      | #GGP    | [[8. Globalisierung_Schüler.pdf]]                                    |                 |
+|      | #EN     | Reading                                                              |                 |
+|      | #RK     | [[April#Film]]                                                       |                 |
