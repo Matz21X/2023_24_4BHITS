@@ -197,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,6 +214,7 @@
   },
   "active": "6f4fefd354355ee4",
   "lastOpenFiles": [
+    "WIR/Wirtschaft/~$Zeitungsartikel.pptx",
     "Backlog_0424.md",
     "INSY/insy-mongodb-project.zip",
     "INSY/insy-mongodb-project (2).zip",
