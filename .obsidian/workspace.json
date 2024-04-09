@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "6f4fefd354355ee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIR/Wirtschaft/Zeitungsartikel_Info.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0424.md"
+                "file": "WIR/Wirtschaft/Zeitungsartikel_Info.md"
               }
             }
           },
@@ -117,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0424.md"
+                "file": "WIR/Wirtschaft/Zeitungsartikel_Info.md"
               }
             }
           },
@@ -143,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0424.md",
+                "file": "WIR/Wirtschaft/Zeitungsartikel_Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0424.md",
+                "file": "WIR/Wirtschaft/Zeitungsartikel_Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,8 +213,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff55b257aef1f045",
+  "active": "6f4fefd354355ee4",
   "lastOpenFiles": [
+    "Backlog_0424.md",
     "INSY/insy-mongodb-project.zip",
     "INSY/insy-mongodb-project (2).zip",
     "INSY/insy-mongodb-project/README.md",
@@ -213,7 +228,6 @@
     "INSY/insy-mongodb-project/webservice/src/App.js",
     "INSY/insy-mongodb-project/webservice/src/components",
     "INSY/insy-mongodb-project/webservice/public/robots.txt",
-    "INSY/insy-mongodb-project/webservice/public/manifest.json",
     "INSY/insy-mongodb-project/webservice/public/maincar.png",
     "INSY/insy-mongodb-project/webservice/public/car.jpg",
     "INSY/insy-mongodb-project/webservice/README.md",
@@ -226,7 +240,6 @@
     "DE Notizen.md",
     "INSY/Docker Aufgabe 2.md",
     "DE/TextinterpretationMerkzettel.md",
-    "Backlog_0424.md",
     "REL/April.md",
     "Untitled.md",
     "Z_Obsidian-Help/Help-Page.md",
