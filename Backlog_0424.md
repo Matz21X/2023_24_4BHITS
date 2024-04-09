@@ -29,3 +29,7 @@
 |      | #GGP    | [[8. Globalisierung_Schüler.pdf]]                                    |                 |
 |      | #EN     | Reading                                                              |                 |
 |      | #RK     | [[April#Film]]                                                       |                 |
+| 9    | #WIR    | Recht: Seite 90                                                      |                 |
+|      | #DE     | Schularbeit                                                          |                 |
+|      | #INSY   | Datenbankgeschwindigkeiten testen                                    |                 |
+|      |         |                                                                      |                 |
