@@ -35,3 +35,4 @@
 | 10   | #SYT    | Joa machma bissl interrupt                                           |                 |
 |      | #WIR    | [[Zeitungsartikel_Info]] + Englische Wörter                          |                 |
 |      |         | GEMMA HAM!!!                                                         |                 |
+
