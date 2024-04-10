@@ -32,4 +32,6 @@
 | 9    | #WIR    | Recht: Seite 90                                                      |                 |
 |      | #DE     | Schularbeit                                                          |                 |
 |      | #INSY   | Datenbankgeschwindigkeiten testen                                    |                 |
-|      |         |                                                                      |                 |
+| 10   | #SYT    | Joa machma bissl interrupt                                           |                 |
+|      | #WIR    | [[Zeitungsartikel_Info]] + Englische Wörter                          |                 |
+|      |         | GEMMA HAM!!!                                                         |                 |

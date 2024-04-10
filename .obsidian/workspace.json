@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIR/Wirtschaft/Zeitungsartikel_Info.md"
+                "file": "Backlog_0424.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "WIR/Wirtschaft/Zeitungsartikel_Info.md"
+                "file": "Backlog_0424.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIR/Wirtschaft/Zeitungsartikel_Info.md",
+                "file": "Backlog_0424.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WIR/Wirtschaft/Zeitungsartikel_Info.md",
+                "file": "Backlog_0424.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,8 +212,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f4fefd354355ee4",
+  "active": "ff55b257aef1f045",
   "lastOpenFiles": [
+    "WIR/Wirtschaft/Zeitungsartikel_Info.md",
     "WIR/Wirtschaft/~$Zeitungsartikel.pptx",
     "Backlog_0424.md",
     "INSY/insy-mongodb-project.zip",
@@ -227,7 +228,6 @@
     "INSY/insy-mongodb-project/webservice/src/index.js",
     "INSY/insy-mongodb-project/webservice/src/App.js",
     "INSY/insy-mongodb-project/webservice/src/components",
-    "INSY/insy-mongodb-project/webservice/public/robots.txt",
     "INSY/insy-mongodb-project/webservice/public/maincar.png",
     "INSY/insy-mongodb-project/webservice/public/car.jpg",
     "INSY/insy-mongodb-project/webservice/README.md",
