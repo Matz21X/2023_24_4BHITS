@@ -83,4 +83,13 @@ A-F system
 - Proms
 - American football
 - Multiple choice test
-- School bus
+- School buses
+- Mascots
+
+**Racial/income inequality**
+- In the American South
+	- 1600s-1860s: most Black Americans were enslaved
+	- 1870s-1960s: slavery ended, but white Southerners established a set of white supremacist codes calles **Jim Crow** based on **racial segregation**
+	- Educational Segregation
+- In the American North
+	- Racism has historically been less legally official 
