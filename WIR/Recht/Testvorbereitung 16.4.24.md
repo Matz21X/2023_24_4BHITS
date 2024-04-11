@@ -40,11 +40,11 @@ Schuldner zahlt nicht --> Kreditgeber verwertet verpfändete Sache --> Versteige
 
 ### Dienstbarkeit
 
-> Sind <span style="color:#ffff00">beschränkte dingliche Nutzungsrechte</span> einer fremden Sache.
+>Sind <span style="color:#ffff00">beschränkte dingliche Nutzungsrechte</span> einer fremden Sache.
 
 ## Der Vertrag - 53
 
-
+>Sind <span style="color:#ffff00">Vereinbarungen zwischen Personen</span>, die Rechtsfolgen auslösen. An einem Vertrag sind <span style="color:#ffff00">mindestens zwei Personen</span> beteiligt. 
 
 
 
