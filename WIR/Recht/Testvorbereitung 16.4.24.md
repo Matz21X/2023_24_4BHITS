@@ -33,9 +33,23 @@ Schuldner zahlt nicht --> Kreditgeber verwertet verpfändete Sache --> Versteige
 | <span style="color:#00b0f0">Öffentlichkeitsprinzip</span> (Publizitätsprinzip) | Jeder kann sich im Grundbuch über Rechte an Liegenschaften informieren und gegen Bezahlung einen Ausdruck erhalten.                       |
 | <span style="color:#00b0f0">Prioritätsprinzip</span>                           | Wer zeitlich früher einen Grundbuchsantrag stellt, dessen Recht wird als Erstes eingetragen und ist stärker als die danach eingetragenen. |
 
+#### Hypothek
+
+>Ein <span style="color:#ffff00">Pfandrecht an einem Grundstück</span> wird <span style="color:#ffff00">Hypothek</span> genannt
+>Rechtsgrund (Vertrag) + Eintragung ins Grundbuch
+
+### Dienstbarkeit
+
+> Sind <span style="color:#ffff00">beschränkte dingliche Nutzungsrechte</span> einer fremden Sache.
+
+## Der Vertrag - 53
 
 
-## Der Vertrag
+
+
+
+
+
 
 ## Vertragserfüllung
 
