@@ -75,3 +75,12 @@ A-F system
 - C: 70-79%
 - D: 60-70%
 - F: <60%
+
+
+## Inequality in the school system
+
+- Yearbooks,
+- Proms
+- American football
+- Multiple choice test
+- School bus
