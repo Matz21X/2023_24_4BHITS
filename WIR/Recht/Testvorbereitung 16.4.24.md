@@ -12,6 +12,7 @@ Schuldner zahlt nicht --> Kreditgeber verwertet verpfändete Sache --> Versteige
 2. Schuld
 3. (Rest behält der Schuldner) -> Wenn was überbleibt
 
+****
 ## Das Grundbuch
 
 > Das Grundbuch ist ein öffentliches Verzeichnis, das vom zuständigen Bezirksgericht geführt wird.
@@ -21,11 +22,16 @@ Schuldner zahlt nicht --> Kreditgeber verwertet verpfändete Sache --> Versteige
 - Hauptbuch
 - Urkundensammlung
 
-<span style="color:#ffc000">Jeder</span> kann ohne Angabe von Gründen <span style="color:#ffc000">Einsicht nehmen</span>. Bei Notar, Gericht und Online für <span style="color:#ffc000">Gebühr </span>möglich.
+<span style="color:#ffff00">Jeder</span> kann ohne Angabe von Gründen <span style="color:#ffff00">Einsicht nehmen</span>. Bei Notar, Gericht und Online für <span style="color:#ffff00">Gebühr</span> möglich.
 
-**Wichtige Prinzipien des Grundbuchs:**
+#### Wichtige Prinzipien des Grundbuchrechts
 
-
+| **Prinzip**                                                                    | **Beschreibung**                                                                                                                          |
+| ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| <span style="color:#00b0f0">Eintragungsprinzip</span>                          | Rechte an Grundstücken werden durch Eintragung in das Grundbuch erworben                                                                  |
+| <span style="color:#00b0f0">Antragsprinzip</span>                              | Eintragungen im Grundbuch werden grundsätzlich nur auf Antrag der Berechtigten durchgeführt.                                              |
+| <span style="color:#00b0f0">Öffentlichkeitsprinzip</span> (Publizitätsprinzip) | Jeder kann sich im Grundbuch über Rechte an Liegenschaften informieren und gegen Bezahlung einen Ausdruck erhalten.                       |
+| <span style="color:#00b0f0">Prioritätsprinzip</span>                           | Wer zeitlich früher einen Grundbuchsantrag stellt, dessen Recht wird als Erstes eingetragen und ist stärker als die danach eingetragenen. |
 
 
 
