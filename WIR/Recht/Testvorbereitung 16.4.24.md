@@ -5,9 +5,29 @@ Seiten 46-72
 
 ## Pfand
 
+Wenn der Schuldner nicht zurückzahlen kann, kann der Gläubiger eine Sache des Schuldners verpfänden.
 
+Schuldner zahlt nicht --> Kreditgeber verwertet verpfändete Sache --> Versteigerungserlös zahlt:
+1. Verfahrenskosten
+2. Schuld
+3. (Rest behält der Schuldner) -> Wenn was überbleibt
 
 ## Das Grundbuch
+
+> Das Grundbuch ist ein öffentliches Verzeichnis, das vom zuständigen Bezirksgericht geführt wird.
+> Wird in Form einer **EDV-Datenbank** geführt
+
+**Besteht aus:**
+- Hauptbuch
+- Urkundensammlung
+
+<span style="color:#ffc000">Jeder</span> kann ohne Angabe von Gründen <span style="color:#ffc000">Einsicht nehmen</span>. Bei Notar, Gericht und Online für <span style="color:#ffc000">Gebühr </span>möglich.
+
+**Wichtige Prinzipien des Grundbuchs:**
+
+
+
+
 
 ## Der Vertrag
 
