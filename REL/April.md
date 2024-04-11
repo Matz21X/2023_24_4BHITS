@@ -19,7 +19,7 @@
 14. Jesus wird ins Grab gelegt
 
 
-### Film
+### Film - Passion Christi
 
 Aufgaben:
 1. Halten Sie während des Filmes Ausschau nach wichtigen Stationen und Szenen aus dem Leben Jesu und notieren Sie diese.

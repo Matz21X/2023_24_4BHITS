@@ -28,7 +28,7 @@
 | 8    | #NWT    | SLAAC Wiederholung                                                   |                 |
 |      | #GGP    | [[8. Globalisierung_Schüler.pdf]]                                    |                 |
 |      | #EN     | Reading                                                              |                 |
-|      | #RK     | [[April#Film]]                                                       |                 |
+|      | #RK     | [[April#Film - Passion Christi]]                                     |                 |
 | 9    | #WIR    | Recht: Seite 90                                                      |                 |
 |      | #DE     | Schularbeit                                                          |                 |
 |      | #INSY   | Datenbankgeschwindigkeiten testen                                    |                 |

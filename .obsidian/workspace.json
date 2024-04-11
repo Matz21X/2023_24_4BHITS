@@ -47,6 +47,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0568688f88d819ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REL/April.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -226,8 +239,9 @@
   },
   "active": "ff55b257aef1f045",
   "lastOpenFiles": [
-    "EN/Amelia Yap.md",
+    "REL/April.md",
     "Backlog_0424.md",
+    "EN/Amelia Yap.md",
     "WIR/Wirtschaft/Zeitungsartikel_Info.md",
     "WIR/Wirtschaft/~$Zeitungsartikel.pptx",
     "INSY/insy-mongodb-project.zip",
@@ -253,7 +267,6 @@
     "DE Notizen.md",
     "INSY/Docker Aufgabe 2.md",
     "DE/TextinterpretationMerkzettel.md",
-    "REL/April.md",
     "Untitled.md",
     "Z_Obsidian-Help/Help-Page.md",
     "Attachments/TextinterpretationMerkzettel-20240407165522835.png",
