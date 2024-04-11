@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EN/Amelia Yap.md"
+                "file": "Backlog_0424.md"
               }
             }
           },
@@ -144,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "EN/Amelia Yap.md"
+                "file": "Backlog_0424.md"
               }
             }
           },
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EN/Amelia Yap.md",
+                "file": "Backlog_0424.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EN/Amelia Yap.md",
+                "file": "Backlog_0424.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,8 +224,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a1c3237673bf84e6",
+  "active": "ff55b257aef1f045",
   "lastOpenFiles": [
+    "EN/Amelia Yap.md",
     "Backlog_0424.md",
     "WIR/Wirtschaft/Zeitungsartikel_Info.md",
     "WIR/Wirtschaft/~$Zeitungsartikel.pptx",
@@ -263,7 +263,6 @@
     "NW/NW Testvorbereitung.md",
     "Attachments/Datenstrukturen-20240405102814550.png",
     "SEW-Theorie/O-AUTH.md",
-    "EN/Amelia Yap.md",
     "Attachments/Pasted image 20240404082020.png",
     "NW/NW Video Zusammenfassung.md",
     "conflict-files-obsidian-git.md",

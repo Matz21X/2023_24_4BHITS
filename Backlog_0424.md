@@ -35,4 +35,6 @@
 | 10   | #SYT    | Joa machma bissl interrupt                                           |                 |
 |      | #WIR    | [[Zeitungsartikel_Info]] + Englische Wörter                          |                 |
 |      |         | GEMMA HAM!!!                                                         |                 |
+| 11   | #EN     | [[Amelia Yap#Inequality in the school system]]                       |                 |
+|      | #WIR    | Seite 87                                                             |                 |
 
