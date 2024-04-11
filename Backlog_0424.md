@@ -38,4 +38,7 @@
 | 11   | #EN     | [[Amelia Yap#Inequality in the school system]]                       |                 |
 |      | #WIR    | Seite 87                                                             |                 |
 |      | #RK     | [[April#Film - Passion Christi]]                                     |                 |
+|      | #AM     | Statistik                                                            |                 |
+|      | #NW     | Test zurück bekommen                                                 |                 |
+|      | #ITP    | [[stare.jpg]]                                                        |                 |
 
