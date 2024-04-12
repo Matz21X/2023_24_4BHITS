@@ -63,6 +63,13 @@ Schuldner zahlt nicht --> Kreditgeber verwertet verpfändete Sache --> Versteige
 - Welcher Preis
 - Zwischen wem
 
+#### Kostenvoranschlag
+
+>Der Unternehmer, der die Leistung erbringen soll, kann statt des Preises einen **Kostenvoranschlag** vorlegen
+>
+>- Benötigtes Material
+>- notwendige Arbeitszeit und die dafür anfallenden Kosten
+
 
 ## Vertragserfüllung
 
