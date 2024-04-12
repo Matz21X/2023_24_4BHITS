@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "c19f9cf682cf7dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITP/Chart.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a710293e93125dc3",
             "type": "leaf",
             "state": {
@@ -35,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0424.md"
+                "file": "ITP/Chart.md"
               }
             }
           },
@@ -130,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0424.md"
+                "file": "ITP/Chart.md"
               }
             }
           },
@@ -156,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0424.md",
+                "file": "ITP/Chart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0424.md",
+                "file": "ITP/Chart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,12 +225,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff55b257aef1f045",
+  "active": "c19f9cf682cf7dda",
   "lastOpenFiles": [
+    "Attachments/Chart-20240412093342033.png",
+    "Backlog_0424.md",
+    "ITP/Chart.md",
     "WIR/Recht/Testvorbereitung 16.4.24.md",
     "Attachments/Testvorbereitung 16.4.24-20240411202638474.png",
     "WIR/Recht/Recht Test-Vorbereitung.md",
-    "Backlog_0424.md",
     "WIR/Wirtschaft/Zeitungsartikel_Info.md",
     "REL/April.md",
     "EN/Amelia Yap.md",
@@ -257,7 +273,6 @@
     "conflict-files-obsidian-git.md",
     "INSY/Docker Handbuch.md",
     "INSY/MongoDB.md",
-    "Backlog_0324.md",
     "Untitled.canvas",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
