@@ -37,8 +37,11 @@ capitalCities.put("Austria", "Vienna");
 
 ![[Datenstrukturen-20240405102814550.png]]
 
-
+****
 ## Verkettete Liste
 
 >Eine Verkettete Liste ist eine dynamische Datenstruktur in der Datenelemente geordnet gespeichert sind.
 
+![[VerketteteListe.drawio.svg]]
+
+## Binäre Bäume
