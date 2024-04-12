@@ -45,4 +45,7 @@
 |      | #ITP    | [[Chart Aufgabe Seite 166]]                                           |                 |
 |      | #SEW    | [[Datenstrukturen#Verkettete Liste]] [[Datenstrukturen#Binäre Bäume]] |                 |
 |      | #NW     | https://youtu.be/lu7zdiuRUNk                                          |                 |
+|      | #ITP    | Earned Value Analyse S. 157                                           |                 |
+|      | #DE     | Buch Review                                                           |                 |
+|      | #NWT    | Zertifikat Hacking                                                    |                 |
 

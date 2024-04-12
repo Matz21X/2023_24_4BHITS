@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP/Chart Aufgabe Seite 166.md"
+                "file": "WIR/Recht/Testvorbereitung 16.4.24.md"
               }
             }
           },
@@ -152,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP/Chart Aufgabe Seite 166.md"
+                "file": "WIR/Recht/Testvorbereitung 16.4.24.md"
               }
             }
           },
@@ -178,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/Chart Aufgabe Seite 166.md",
+                "file": "WIR/Recht/Testvorbereitung 16.4.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP/Chart Aufgabe Seite 166.md",
+                "file": "WIR/Recht/Testvorbereitung 16.4.24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,15 +235,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a0f779972271ef3",
+  "active": "a710293e93125dc3",
   "lastOpenFiles": [
-    "NWT/Untitled.md",
+    "Attachments/Testvorbereitung 16.4.24-20240412194821916.png",
+    "Backlog_0424.md",
     "ITP/Chart Aufgabe Seite 166.md",
+    "NWT/Untitled.md",
     "NWT/OpenSSLTask/rootCACert.pem",
     "NWT/OpenSSLTask/key.key",
     "NWT/OpenSSLTask",
     "NWT/Neuer Ordner",
-    "Backlog_0424.md",
     "SEW-Theorie/Datenstrukturen.md",
     "Attachments/Baum.drawio.svg",
     "Attachments/VerketteteListe.drawio.svg",
@@ -280,7 +283,6 @@
     "NW/NW Video Zusammenfassung.md",
     "conflict-files-obsidian-git.md",
     "INSY/Docker Handbuch.md",
-    "INSY/MongoDB.md",
     "Untitled.canvas",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",

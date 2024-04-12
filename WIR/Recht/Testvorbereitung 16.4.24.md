@@ -46,9 +46,22 @@ Schuldner zahlt nicht --> Kreditgeber verwertet verpfändete Sache --> Versteige
 
 >Sind <span style="color:#ffff00">Vereinbarungen zwischen Personen</span>, die Rechtsfolgen auslösen. An einem Vertrag sind <span style="color:#ffff00">mindestens zwei Personen</span> beteiligt. 
 
-![[Testvorbereitung 16.4.24-20240411202638474.png|715]]
+![[Testvorbereitung 16.4.24-20240411202638474.png|715]]![[Testvorbereitung 16.4.24-20240412194821916.png]]
 
 
+
+#### Arten von Verträgen
+
+| **Vertagsart**                                                              | **Tauschmittel**                  |
+| --------------------------------------------------------------------------- | --------------------------------- |
+| <span style="color:#00b0f0">Kauf</span> <span style="color:#00b0f0"></span> | Sache --- Geld                    |
+| <span style="color:#00b0f0">Werksvertrag</span>                             | Herstellung eines Werkes --- Geld |
+| <span style="color:#00b0f0">Tausch</span>                                   | Sache --- Sache                   |
+| <span style="color:#00b0f0">Schenkung</span>                                | Sache --- Nix                     |
+<span style="color:#00b050">Inhalt eines Kaufvertrags (mindestens)</span>
+- Welche Ware
+- Welcher Preis
+- Zwischen wem
 
 
 ## Vertragserfüllung
