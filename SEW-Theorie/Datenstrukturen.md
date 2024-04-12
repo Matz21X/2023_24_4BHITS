@@ -41,3 +41,4 @@ capitalCities.put("Austria", "Vienna");
 ## Verkettete Liste
 
 >Eine Verkettete Liste ist eine dynamische Datenstruktur in der Datenelemente geordnet gespeichert sind.
+

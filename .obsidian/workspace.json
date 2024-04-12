@@ -23,19 +23,6 @@
             }
           },
           {
-            "id": "c19f9cf682cf7dda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a710293e93125dc3",
             "type": "leaf",
             "state": {
@@ -47,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "428e4234c3cf30f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SEW-Theorie/Datenstrukturen.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,12 +225,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c19f9cf682cf7dda",
+  "active": "428e4234c3cf30f7",
   "lastOpenFiles": [
+    "WIR/Recht/Testvorbereitung 16.4.24.md",
+    "SEW-Theorie/Datenstrukturen.md",
+    "Backlog_0424.md",
     "ITP/Chart Aufgabe Seite 166.md",
     "Attachments/Chart-20240412093342033.png",
-    "Backlog_0424.md",
-    "WIR/Recht/Testvorbereitung 16.4.24.md",
     "Attachments/Testvorbereitung 16.4.24-20240411202638474.png",
     "WIR/Recht/Recht Test-Vorbereitung.md",
     "WIR/Wirtschaft/Zeitungsartikel_Info.md",
@@ -264,7 +265,6 @@
     "Z_Obsidian-Help/Help-Page.md",
     "Attachments/TextinterpretationMerkzettel-20240407165522835.png",
     "Attachments/TextinterpretationMerkzettel-20240407164600792.png",
-    "SEW-Theorie/Datenstrukturen.md",
     "DE/Textinterpretation.md",
     "NW/NW Testvorbereitung.md",
     "SEW-Theorie/O-AUTH.md",
