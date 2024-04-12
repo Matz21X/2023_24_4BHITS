@@ -45,3 +45,6 @@ capitalCities.put("Austria", "Vienna");
 ![[VerketteteListe.drawio.svg]]
 
 ## Binäre Bäume
+ 
+
+![[Baum.drawio.svg]]
