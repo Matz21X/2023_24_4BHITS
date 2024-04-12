@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITP/Chart.md",
+                "file": "SEW-Theorie/Datenstrukturen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITP/Chart.md"
+                "file": "SEW-Theorie/Datenstrukturen.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ITP/Chart.md"
+                "file": "SEW-Theorie/Datenstrukturen.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/Chart.md",
+                "file": "SEW-Theorie/Datenstrukturen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITP/Chart.md",
+                "file": "SEW-Theorie/Datenstrukturen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,9 +227,9 @@
   },
   "active": "c19f9cf682cf7dda",
   "lastOpenFiles": [
+    "ITP/Chart Aufgabe Seite 166.md",
     "Attachments/Chart-20240412093342033.png",
     "Backlog_0424.md",
-    "ITP/Chart.md",
     "WIR/Recht/Testvorbereitung 16.4.24.md",
     "Attachments/Testvorbereitung 16.4.24-20240411202638474.png",
     "WIR/Recht/Recht Test-Vorbereitung.md",
@@ -267,7 +267,6 @@
     "SEW-Theorie/Datenstrukturen.md",
     "DE/Textinterpretation.md",
     "NW/NW Testvorbereitung.md",
-    "Attachments/Datenstrukturen-20240405102814550.png",
     "SEW-Theorie/O-AUTH.md",
     "NW/NW Video Zusammenfassung.md",
     "conflict-files-obsidian-git.md",
