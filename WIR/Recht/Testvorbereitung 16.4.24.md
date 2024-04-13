@@ -97,7 +97,23 @@ Der <span style="color:#ffff00">Vertragsinhalt</span> wird <span style="color:#f
 
 ![[Testvorbereitung 16.4.24-20240413123906790.png]]
 
+![[Testvorbereitung 16.4.24-20240413130246437.png|561]]
+
 Der Anbieter ist an sein Angebot gebunden, daher muss <span style="color:#ffff00">der Wille, sich zu binden</span> zum Ausdruck kommen.
+
+
+**Der Unternehmer muss folgende Infos vor dem Vertragsabschluss an den Kunden geben:**
+- wesentliche Eigenschaften der Ware
+- Identität des Unternehmens
+- Gesamtpreis
+- Zahlungs-, Liefer- und Leistungsbedingungen
+- Garantie
+- Vertragslaufzeit
+- Funktionsweise digitaler Inhalte
+
+**Diese Bedingunen gelten u. a. nicht für:**
+- Geschäfte des täglichen Lebens
+- Verträge über Finan
 
 
 ## Vertragserfüllung
