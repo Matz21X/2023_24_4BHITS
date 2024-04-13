@@ -45,6 +45,7 @@ Schuldner zahlt nicht --> Kreditgeber verwertet verpfändete Sache --> Versteige
 ## Der Vertrag - 53
 
 >Sind <span style="color:#ffff00">Vereinbarungen zwischen Personen</span>, die Rechtsfolgen auslösen. An einem Vertrag sind <span style="color:#ffff00">mindestens zwei Personen</span> beteiligt. 
+>Er gilt nur wenn alle Parteien zugestimmt haben.
 
 ![[Testvorbereitung 16.4.24-20240411202638474.png|715]]![[Testvorbereitung 16.4.24-20240412194821916.png]]
 
@@ -73,6 +74,21 @@ Schuldner zahlt nicht --> Kreditgeber verwertet verpfändete Sache --> Versteige
 
 ### Weitere Vertragsbestandteile
 
+Der <span style="color:#ffff00">Vertragsinhalt</span> wird <span style="color:#ffff00">vorrangig</span> durch den<span style="color:#ffff00"> Parteiwille</span> bestimmt, <span style="color:#ffff00">wenn nichts</span> vereinbart wurde kommen <span style="color:#ffff00">gesetzliche Bestimmungen</span> in Kraft.
+
+**Allgemeine Vertragsbedingungen** (vorformulierte, standardisierte Vertragstexte)
+- Soll den Geschäftsabschluss erleichtern
+- Zeit und Geld sparen
+- die eigenen Interessen besser durchsetzen
+**Typische Regelungen:**
+- Zeitpunkt der Lieferung
+- Ort der Warenübergabe
+- Tragen der Transportkosten...
+
+#### Form
+
+<span style="color:#00b050">Kaufvertäge können in:</span>
+- 
 
 
 
