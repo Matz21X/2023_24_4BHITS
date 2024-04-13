@@ -42,12 +42,14 @@ Schuldner zahlt nicht --> Kreditgeber verwertet verpfändete Sache --> Versteige
 
 >Sind <span style="color:#ffff00">beschränkte dingliche Nutzungsrechte</span> einer fremden Sache.
 
+****
 ## Der Vertrag - 53
 
 >Sind <span style="color:#ffff00">Vereinbarungen zwischen Personen</span>, die Rechtsfolgen auslösen. An einem Vertrag sind <span style="color:#ffff00">mindestens zwei Personen</span> beteiligt. 
 >Er gilt nur wenn alle Parteien zugestimmt haben.
 
-![[Testvorbereitung 16.4.24-20240411202638474.png|715]]![[Testvorbereitung 16.4.24-20240412194821916.png]]
+![[Testvorbereitung 16.4.24-20240411202638474.png|1138]] 
+![[Testvorbereitung 16.4.24-20240412194821916.png]]
 
 
 
@@ -110,10 +112,15 @@ Der Anbieter ist an sein Angebot gebunden, daher muss <span style="color:#ffff00
 - Garantie
 - Vertragslaufzeit
 - Funktionsweise digitaler Inhalte
+**Wenn nicht erfüllt:**
+- Verwaltungsstrafrecht bestraft werden
+- Verstoß gegen das Wettbewerbsrecht
 
 **Diese Bedingunen gelten u. a. nicht für:**
 - Geschäfte des täglichen Lebens
-- Verträge über Finan
+- Verträge über Finanzdienstleistungen oder Glücksspiele
+- Miete oder Erwerb von unbeweglichen Sachen
+- den Bau von Gebäuden
 
 
 ## Vertragserfüllung
