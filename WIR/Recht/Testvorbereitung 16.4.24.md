@@ -127,9 +127,10 @@ Der Anbieter ist an sein Angebot gebunden, daher muss <span style="color:#ffff00
 >Wenn der Käufer die Ware nicht prüfen oder leicht überrumpelt werden kann, gilt das FAGG
 
 
-<span style="color:#00b050">Kommt zur Anwendung wenn:</span>
+<span style="color:#00b050">Kommt zur Anwendung wenn ein Vertrag:</span>
 - zwischen Unternehmer und Konsument
-- ausßerhalb von 
+- außerhalb von Geschäftsräumen oder im Fernabsatz abgeschlossen wird.
 
+![[Testvorbereitung 16.4.24-20240413142521075.png|571]]
 ## Vertragserfüllung
 
