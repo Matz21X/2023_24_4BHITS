@@ -122,6 +122,14 @@ Der Anbieter ist an sein Angebot gebunden, daher muss <span style="color:#ffff00
 - Miete oder Erwerb von unbeweglichen Sachen
 - den Bau von Gebäuden
 
+### Fern- und Auswärtsgeschäftegesetz (FAGG)
+
+>Wenn der Käufer die Ware nicht prüfen oder leicht überrumpelt werden kann, gilt das FAGG
+
+
+<span style="color:#00b050">Kommt zur Anwendung wenn:</span>
+- zwischen Unternehmer und Konsument
+- ausßerhalb von 
 
 ## Vertragserfüllung
 
