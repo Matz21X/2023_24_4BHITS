@@ -93,7 +93,7 @@ Der <span style="color:#ffff00">Vertragsinhalt</span> wird <span style="color:#f
 - schlüssige Handlungen (konkludent)
 <span style="color:#00b050">abgeschlossen werden</span>
 
-
+![[Testvorbereitung 16.4.24-20240413123906790.png]]
 
 
 
