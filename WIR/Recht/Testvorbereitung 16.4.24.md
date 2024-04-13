@@ -88,7 +88,11 @@ Der <span style="color:#ffff00">Vertragsinhalt</span> wird <span style="color:#f
 #### Form
 
 <span style="color:#00b050">Kaufvertäge können in:</span>
-- 
+- schriftlicher
+- mündlicher
+- schlüssige Handlungen (konkludent)
+<span style="color:#00b050">abgeschlossen werden</span>
+
 
 
 
