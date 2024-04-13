@@ -71,6 +71,11 @@ Schuldner zahlt nicht --> Kreditgeber verwertet verpfändete Sache --> Versteige
 >- notwendige Arbeitszeit und die dafür anfallenden Kosten
 
 
+### Weitere Vertragsbestandteile
+
+
+
+
 
 ## Vertragserfüllung
 
