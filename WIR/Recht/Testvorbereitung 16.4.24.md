@@ -93,8 +93,11 @@ Der <span style="color:#ffff00">Vertragsinhalt</span> wird <span style="color:#f
 - schlüssige Handlungen (konkludent)
 <span style="color:#00b050">abgeschlossen werden</span>
 
+#### Angebot
+
 ![[Testvorbereitung 16.4.24-20240413123906790.png]]
 
+Der Anbieter ist an sein Angebot gebunden, daher muss <span style="color:#ffff00">der Wille, sich zu binden</span> zum Ausdruck kommen.
 
 
 ## Vertragserfüllung
