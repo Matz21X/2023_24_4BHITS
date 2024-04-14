@@ -172,3 +172,10 @@ Mit der Übergabe der gekauften Sache
 - Vereinbarung: Alles möglich
 - Gesetz: Käufer trägt kosten
 
+![[Testvorbereitung 16.4.24-20240414194625997.png]]
+
+Die Fälligkeit des Betrags <span style="color:#ffff00">tritt automatisch ein</span>, wenn der Unternehmer (Verkäufer) seine <span style="color:#ffff00">Leistung erbracht hat und der Käufer den Preis kennt.</span>
+
+**Erfüllungsort der Geldschulden:**
+- Vereinbarung: Jeder Ort möglich
+- 
