@@ -148,6 +148,27 @@ Unternehmen sind <span style="color:#ffff00">nicht verpflichtet</span> Rückgabe
 ![[Testvorbereitung 16.4.24-20240413142521075.png|571]]
 
 ![[Testvorbereitung 16.4.24-20240414190716953.png]]
+
+
 ## Vertragserfüllung
 
+>Vertag ist erfüllt wenn Verkäufer dem Käufer die Ware übergibt, und dieser dem Verkäufer das Geld 
+
+Mit der Übergabe der gekauften Sache
+- erhält der Käufer das Eigentum am Kaufgegenstand
+- trägt der Käufer die Gefahr, dass die Sache beschädigt wird
+
+**Fälligkeit der Leistungserbringung:**
+- <span style="color:#ffff00">Vereinbarung</span>: Jeder Termin möglich
+- <span style="color:#ffff00">Gesetz</span>: Zweck des Geschäftes, <span style="color:#ffff00">sofort</span>, ohne unnötigen Aufschub
+
+**Erfüllungsort:**
+- Vereinbarung: Alles möglich
+- Gesetz: Zweck des Geschäftes, Sitz des Schuldners
+
+![[Testvorbereitung 16.4.24-20240414193514209.png|670]]
+
+**Versandkosten:**
+- Vereinbarung: Alles möglich
+- Gesetz: Käufer trägt kosten
 
