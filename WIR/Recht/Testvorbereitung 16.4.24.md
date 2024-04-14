@@ -48,7 +48,7 @@ Schuldner zahlt nicht --> Kreditgeber verwertet verpfändete Sache --> Versteige
 >Sind <span style="color:#ffff00">Vereinbarungen zwischen Personen</span>, die Rechtsfolgen auslösen. An einem Vertrag sind <span style="color:#ffff00">mindestens zwei Personen</span> beteiligt. 
 >Er gilt nur wenn alle Parteien zugestimmt haben.
 
-![[Testvorbereitung 16.4.24-20240411202638474.png|1138]] 
+![[Testvorbereitung 16.4.24-20240411202638474.png|1070]] 
 ![[Testvorbereitung 16.4.24-20240412194821916.png]]
 
 
@@ -116,11 +116,19 @@ Der Anbieter ist an sein Angebot gebunden, daher muss <span style="color:#ffff00
 - Verwaltungsstrafrecht bestraft werden
 - Verstoß gegen das Wettbewerbsrecht
 
-**Diese Bedingunen gelten u. a. nicht für:**
+**Diese Bedingungen gelten u. a. nicht für:**
 - Geschäfte des täglichen Lebens
 - Verträge über Finanzdienstleistungen oder Glücksspiele
 - Miete oder Erwerb von unbeweglichen Sachen
 - den Bau von Gebäuden
+
+
+#### Rücktrittsrecht und Umtausch
+
+>Grundsätzlich gilt, dass jede Person zu ihrem Wort stehen muss.
+
+Unternehmen sind <span style="color:#ffff00">nicht verpflichtet</span> Rückgaben oder Umtausche zu gestatten. Es kann eine Stornogebühr <span style="color:#ffff00">(Reugeld)</span> geben
+
 
 ### Fern- und Auswärtsgeschäftegesetz (FAGG)
 
