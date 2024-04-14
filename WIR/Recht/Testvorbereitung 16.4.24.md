@@ -176,6 +176,10 @@ Mit der Übergabe der gekauften Sache
 
 Die Fälligkeit des Betrags <span style="color:#ffff00">tritt automatisch ein</span>, wenn der Unternehmer (Verkäufer) seine <span style="color:#ffff00">Leistung erbracht hat und der Käufer den Preis kennt.</span>
 
-**Erfüllungsort der Geldschulden:**
+**Erfüllungsort der Geldschulden: (Bringschulden)**
 - Vereinbarung: Jeder Ort möglich
-- 
+- Gesetz: Wohnsitz oder Sitz des Gläubigers
+
+
+![[Testvorbereitung 16.4.24-20240414194918456.png]]
+
