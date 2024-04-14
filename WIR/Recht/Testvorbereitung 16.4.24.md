@@ -135,10 +135,19 @@ Unternehmen sind <span style="color:#ffff00">nicht verpflichtet</span> Rückgabe
 >Wenn der Käufer die Ware nicht prüfen oder leicht überrumpelt werden kann, gilt das FAGG
 
 
+<span style="color:#00b050">Um einen Fernabsatzvertrag handelt es sich, wenn:</span>
+- sich die Vertragspartner nicht persönlich gegenüberstehen
+- das Unternehmen über ein für den Fernabsatz organisiertes Vertriebs- oder Dienstleistungssystem verfügt
+- der Vertrag ausschließlich unter der Verwendung von Fernkommunikationsmitteln (Telefon, Internet o. Ä.) abgeschlossen wird.
+
+
 <span style="color:#00b050">Kommt zur Anwendung wenn ein Vertrag:</span>
 - zwischen Unternehmer und Konsument
 - außerhalb von Geschäftsräumen oder im Fernabsatz abgeschlossen wird.
 
 ![[Testvorbereitung 16.4.24-20240413142521075.png|571]]
+
+![[Testvorbereitung 16.4.24-20240414190716953.png]]
 ## Vertragserfüllung
+
 
