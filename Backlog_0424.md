@@ -48,4 +48,7 @@
 |      | #ITP    | Earned Value Analyse S. 157                                           |                 |
 |      | #DE     | Buch Review                                                           |                 |
 |      | #NWT    | Zertifikat Hacking                                                    |                 |
+| 15   | #NWT    | Zertifikate Theorie, SHA256                                           |                 |
+|      | #GGP    | Globalisierung, EU, Schengenstaaten                                   |                 |
+|      | #EN     |                                                                       |                 |
 
