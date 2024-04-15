@@ -23,12 +23,15 @@
             }
           },
           {
-            "id": "a710293e93125dc3",
+            "id": "b4edfec56c89241d",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Recording 20240415192154.webm"
+                "file": "WIR/Recht/Testvorbereitung 16.4.24.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -110,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/Recording 20240415192154.webm"
+                "file": "WIR/Recht/Testvorbereitung 16.4.24.md"
               }
             }
           },
@@ -128,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Attachments/Recording 20240415192154.webm"
+                "file": "WIR/Recht/Testvorbereitung 16.4.24.md"
               }
             }
           },
@@ -154,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/Recording 20240415192154.webm",
+                "file": "WIR/Recht/Testvorbereitung 16.4.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/Recording 20240415192154.webm",
+                "file": "WIR/Recht/Testvorbereitung 16.4.24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,53 +212,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a710293e93125dc3",
+  "active": "b4edfec56c89241d",
   "lastOpenFiles": [
+    "Backlog_0424.md",
+    "ITP/Projekte/RAH/Präsentationen/Vorbereitung.md",
+    "ITP/Projekte/RAH/JavaScript.md",
+    "ITP/Projekte/RAH/JavaScriptES6Template.md",
+    "SEW-Theorie/HttpClient_in_Java.md",
+    "SEW-Theorie/Dependency Injection (Pattern).md",
+    "SEW-Theorie/Datenstrukturen.md",
+    "SEW-Theorie/BuilderPattern.md",
+    "SEW-Theorie/SpringBoot.md",
+    "SEW-Theorie/Socketing.md",
+    "SEW-Theorie/RESTful Webservices.md",
+    "SEW-Theorie/O-AUTH.md",
+    "output/attachment/c727f31fc51d015d0be1837f42eaef34.png",
     "WIR/Recht/Testvorbereitung 16.4.24.md",
+    "output/Testvorbereitung 16.4.24.html",
+    "output/attachment/e0e946d1496277854240a3f5279fe863.png",
+    "output/attachment/a1d78d97a2099dba7faa300376f638ca.png",
+    "output/attachment/ffc1ab5436cda1c43e0a09750d907fb3.png",
+    "output/attachment/a6ca21e7f281bd5146a541429c769a8b.png",
+    "output/attachment/c9235e9a0b69e16140a065b9e4e8c351.png",
+    "output/attachment/1bead16ab84363bf453a4a60d8187232.png",
+    "output/attachment/0232e5556f1b4976e24b724a64512011.png",
+    "output/attachment/11d25248642a24f51a9a5f3f9e142daf.png",
+    "output/attachment/b9de76ea19c7ee456bff3e5e3d5da51e.png",
+    "output/attachment",
+    "output",
     "Attachments/Recording 20240415192154.webm",
     "Excel 2024-04-15 19.20.40.sheet.md",
     "Allgemein/~$Timesheet.xlsx",
     "Excel 2024-04-15 19.18.44.sheet.md",
-    "Backlog_0424.md",
     "ITP/Chart Aufgabe Seite 166.md",
-    "SEW-Theorie/Datenstrukturen.md",
     "Allgemein/780F7000",
     "Allgemein/Timesheet.xlsx",
-    "SEW-Theorie/Dependency Injection (Pattern).md",
-    "SEW-Theorie/HttpClient_in_Java.md",
     "SEW-Theorie/Immutable Objects.md",
     "SEW-Theorie/Singleton (Pattern).md",
-    "Attachments/Testvorbereitung 16.4.24-20240415174545704.png",
-    "Attachments/Testvorbereitung 16.4.24-20240414194918456.png",
-    "Attachments/Testvorbereitung 16.4.24-20240414194625997.png",
     "WIR/Recht/Untitled.md",
-    "Attachments/Testvorbereitung 16.4.24-20240414193514209.png",
-    "Attachments/Testvorbereitung 16.4.24-20240414190716953.png",
-    "Attachments/Testvorbereitung 16.4.24-20240413142521075.png",
-    "Attachments/Testvorbereitung 16.4.24-20240413130246437.png",
-    "Attachments/Testvorbereitung 16.4.24-20240413123906790.png",
-    "Attachments/Testvorbereitung 16.4.24-20240412194821916.png",
     "NWT/Untitled.md",
     "NWT/OpenSSLTask/rootCACert.pem",
     "NWT/OpenSSLTask/key.key",
     "NWT/OpenSSLTask",
-    "NWT/Neuer Ordner",
-    "Attachments/Baum.drawio.svg",
     "WIR/Recht/Recht Test-Vorbereitung.md",
     "WIR/Wirtschaft/Zeitungsartikel_Info.md",
     "REL/April.md",
     "EN/Amelia Yap.md",
-    "WIR/Wirtschaft/~$Zeitungsartikel.pptx",
-    "INSY/insy-mongodb-project.zip",
     "INSY/insy-mongodb-project/README.md",
     "INSY/insy-mongodb-project/webservice/README.md",
-    "INSY/insy-mongodb-project/insy-mongodb-project/webservice/README.md",
-    "INSY/insy-mongodb-project/insy-mongodb-project/README.md",
-    "DE/Muendliche Pruefung Vorb.md",
-    "DE Notizen.md",
-    "INSY/Docker Aufgabe 2.md",
-    "DE/TextinterpretationMerkzettel.md",
-    "Untitled.md",
     "Untitled.canvas",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
