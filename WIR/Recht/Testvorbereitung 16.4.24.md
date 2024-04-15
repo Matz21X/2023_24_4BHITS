@@ -134,6 +134,8 @@ Unternehmen sind <span style="color:#ffff00">nicht verpflichtet</span> Rückgabe
 
 >Wenn der Käufer die Ware nicht prüfen oder leicht überrumpelt werden kann, gilt das FAGG
 
+![[Testvorbereitung 16.4.24-20240415202559379.png]]
+
 
 <span style="color:#00b050">Um einen Fernabsatzvertrag handelt es sich, wenn:</span>
 - sich die Vertragspartner nicht persönlich gegenüberstehen
