@@ -48,8 +48,8 @@ Schuldner zahlt nicht --> Kreditgeber verwertet verpfändete Sache --> Versteige
 >Sind <span style="color:#ffff00">Vereinbarungen zwischen Personen</span>, die Rechtsfolgen auslösen. An einem Vertrag sind <span style="color:#ffff00">mindestens zwei Personen</span> beteiligt. 
 >Er gilt nur wenn alle Parteien zugestimmt haben.
 
-![[Testvorbereitung 16.4.24-20240411202638474.png|882]] 
-![[Testvorbereitung 16.4.24-20240412194821916.png]]
+![[Testvorbereitung 16.4.24-20240411202638474.png|930]] 
+![[Testvorbereitung 16.4.24-20240412194821916.png|470]]
 
 
 
@@ -149,9 +149,9 @@ Unternehmen sind <span style="color:#ffff00">nicht verpflichtet</span> Rückgabe
 
 ![[Testvorbereitung 16.4.24-20240413142521075.png|571]]
 
-![[Testvorbereitung 16.4.24-20240414190716953.png]]
+![[Testvorbereitung 16.4.24-20240414190716953.png|516]]
 
-![[Testvorbereitung 16.4.24-20240415174545704.png]]
+![[Testvorbereitung 16.4.24-20240415174545704.png|510]]
 ## Vertragserfüllung
 
 >Vertag ist erfüllt wenn Verkäufer dem Käufer die Ware übergibt, und dieser dem Verkäufer das Geld 
@@ -168,13 +168,13 @@ Mit der Übergabe der gekauften Sache
 - Vereinbarung: Alles möglich
 - Gesetz: Zweck des Geschäftes, Sitz des Schuldners
 
-![[Testvorbereitung 16.4.24-20240414193514209.png|670]]
+![[Testvorbereitung 16.4.24-20240414193514209.png|559]]
 
 **Versandkosten:**
 - Vereinbarung: Alles möglich
 - Gesetz: Käufer trägt kosten
 
-![[Testvorbereitung 16.4.24-20240414194625997.png]]
+![[Testvorbereitung 16.4.24-20240414194625997.png|559]]
 
 Die Fälligkeit des Betrags <span style="color:#ffff00">tritt automatisch ein</span>, wenn der Unternehmer (Verkäufer) seine <span style="color:#ffff00">Leistung erbracht hat und der Käufer den Preis kennt.</span>
 
@@ -183,7 +183,7 @@ Die Fälligkeit des Betrags <span style="color:#ffff00">tritt automatisch ein</s
 - Gesetz: Wohnsitz oder Sitz des Gläubigers
 
 
-![[Testvorbereitung 16.4.24-20240414194918456.png]]
+![[Testvorbereitung 16.4.24-20240414194918456.png|537]]
 
 
 
