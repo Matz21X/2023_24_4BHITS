@@ -48,7 +48,7 @@ Schuldner zahlt nicht --> Kreditgeber verwertet verpfändete Sache --> Versteige
 >Sind <span style="color:#ffff00">Vereinbarungen zwischen Personen</span>, die Rechtsfolgen auslösen. An einem Vertrag sind <span style="color:#ffff00">mindestens zwei Personen</span> beteiligt. 
 >Er gilt nur wenn alle Parteien zugestimmt haben.
 
-![[Testvorbereitung 16.4.24-20240411202638474.png|1070]] 
+![[Testvorbereitung 16.4.24-20240411202638474.png|882]] 
 ![[Testvorbereitung 16.4.24-20240412194821916.png]]
 
 
