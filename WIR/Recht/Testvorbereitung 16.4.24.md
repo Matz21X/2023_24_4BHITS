@@ -149,7 +149,7 @@ Unternehmen sind <span style="color:#ffff00">nicht verpflichtet</span> Rückgabe
 
 ![[Testvorbereitung 16.4.24-20240414190716953.png]]
 
-
+![[Testvorbereitung 16.4.24-20240415174545704.png]]
 ## Vertragserfüllung
 
 >Vertag ist erfüllt wenn Verkäufer dem Käufer die Ware übergibt, und dieser dem Verkäufer das Geld 
