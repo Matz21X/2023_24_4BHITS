@@ -36,14 +36,6 @@
             }
           },
           {
-            "id": "428e4234c3cf30f7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "5a0f779972271ef3",
             "type": "leaf",
             "state": {
@@ -55,9 +47,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "60bd7c84280f7e89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SEW-Theorie/Datenstrukturen.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -135,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIR/Recht/Testvorbereitung 16.4.24.md"
+                "file": "SEW-Theorie/Datenstrukturen.md"
               }
             }
           },
@@ -153,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "WIR/Recht/Testvorbereitung 16.4.24.md"
+                "file": "SEW-Theorie/Datenstrukturen.md"
               }
             }
           },
@@ -179,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIR/Recht/Testvorbereitung 16.4.24.md",
+                "file": "SEW-Theorie/Datenstrukturen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WIR/Recht/Testvorbereitung 16.4.24.md",
+                "file": "SEW-Theorie/Datenstrukturen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,11 +238,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a710293e93125dc3",
+  "active": "60bd7c84280f7e89",
   "lastOpenFiles": [
+    "SEW-Theorie/Dependency Injection (Pattern).md",
+    "SEW-Theorie/HttpClient_in_Java.md",
+    "SEW-Theorie/Immutable Objects.md",
+    "SEW-Theorie/Singleton (Pattern).md",
+    "SEW-Theorie/Datenstrukturen.md",
+    "WIR/Recht/Testvorbereitung 16.4.24.md",
     "Attachments/Testvorbereitung 16.4.24-20240415174545704.png",
     "Backlog_0424.md",
-    "WIR/Recht/Testvorbereitung 16.4.24.md",
     "Attachments/Testvorbereitung 16.4.24-20240414194918456.png",
     "Attachments/Testvorbereitung 16.4.24-20240414194625997.png",
     "WIR/Recht/Untitled.md",
@@ -254,9 +263,7 @@
     "NWT/OpenSSLTask/key.key",
     "NWT/OpenSSLTask",
     "NWT/Neuer Ordner",
-    "SEW-Theorie/Datenstrukturen.md",
     "Attachments/Baum.drawio.svg",
-    "Attachments/VerketteteListe.drawio.svg",
     "WIR/Recht/Recht Test-Vorbereitung.md",
     "WIR/Wirtschaft/Zeitungsartikel_Info.md",
     "REL/April.md",
@@ -279,9 +286,6 @@
     "Z_Obsidian-Help/Help-Page.md",
     "DE/Textinterpretation.md",
     "NW/NW Testvorbereitung.md",
-    "SEW-Theorie/O-AUTH.md",
-    "NW/NW Video Zusammenfassung.md",
-    "conflict-files-obsidian-git.md",
     "Untitled.canvas",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
