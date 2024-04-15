@@ -49,6 +49,7 @@
 |      | #DE     | Buch Review                                                           |                 |
 |      | #NWT    | Zertifikat Hacking                                                    |                 |
 | 15   | #NWT    | Zertifikate Theorie, SHA256                                           |                 |
-|      | #GGP    | Globalisierung, EU, Schengenstaaten                                   |                 |
-|      | #EN     |                                                                       |                 |
+|      | #GGP    | [[8. Globalisierung_Schüler.pdf]], EU, Schengenstaaten                |                 |
+|      | #EN     | MEMPHIS CULT (Food deserts)                                           |                 |
+|      | #RK     | Film Nachbesprechung                                                  |                 |
 

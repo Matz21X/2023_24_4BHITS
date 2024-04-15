@@ -26,43 +26,14 @@
             "id": "a710293e93125dc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "video",
               "state": {
-                "file": "WIR/Recht/Testvorbereitung 16.4.24.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a0f779972271ef3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITP/Chart Aufgabe Seite 166.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60bd7c84280f7e89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Attachments/Recording 20240415192154.webm"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md"
+                "file": "Attachments/Recording 20240415192154.webm"
               }
             }
           },
@@ -157,7 +128,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md"
+                "file": "Attachments/Recording 20240415192154.webm"
               }
             }
           },
@@ -183,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md",
+                "file": "Attachments/Recording 20240415192154.webm",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md",
+                "file": "Attachments/Recording 20240415192154.webm",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,22 +209,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60bd7c84280f7e89",
+  "active": "a710293e93125dc3",
   "lastOpenFiles": [
+    "WIR/Recht/Testvorbereitung 16.4.24.md",
+    "Attachments/Recording 20240415192154.webm",
+    "Excel 2024-04-15 19.20.40.sheet.md",
+    "Allgemein/~$Timesheet.xlsx",
+    "Excel 2024-04-15 19.18.44.sheet.md",
+    "Backlog_0424.md",
+    "ITP/Chart Aufgabe Seite 166.md",
+    "SEW-Theorie/Datenstrukturen.md",
+    "Allgemein/780F7000",
+    "Allgemein/Timesheet.xlsx",
     "SEW-Theorie/Dependency Injection (Pattern).md",
     "SEW-Theorie/HttpClient_in_Java.md",
     "SEW-Theorie/Immutable Objects.md",
     "SEW-Theorie/Singleton (Pattern).md",
-    "SEW-Theorie/Datenstrukturen.md",
-    "WIR/Recht/Testvorbereitung 16.4.24.md",
     "Attachments/Testvorbereitung 16.4.24-20240415174545704.png",
-    "Backlog_0424.md",
     "Attachments/Testvorbereitung 16.4.24-20240414194918456.png",
     "Attachments/Testvorbereitung 16.4.24-20240414194625997.png",
     "WIR/Recht/Untitled.md",
     "Attachments/Testvorbereitung 16.4.24-20240414193514209.png",
     "Attachments/Testvorbereitung 16.4.24-20240414190716953.png",
-    "ITP/Chart Aufgabe Seite 166.md",
     "Attachments/Testvorbereitung 16.4.24-20240413142521075.png",
     "Attachments/Testvorbereitung 16.4.24-20240413130246437.png",
     "Attachments/Testvorbereitung 16.4.24-20240413123906790.png",
@@ -270,11 +247,7 @@
     "EN/Amelia Yap.md",
     "WIR/Wirtschaft/~$Zeitungsartikel.pptx",
     "INSY/insy-mongodb-project.zip",
-    "INSY/insy-mongodb-project (2).zip",
     "INSY/insy-mongodb-project/README.md",
-    "INSY/insy-mongodb-project/webservice/src/components/Homepage.jsx",
-    "INSY/insy-mongodb-project/webservice/src/components/DisplayTable.jsx",
-    "INSY/insy-mongodb-project/webservice/src/reportWebVitals.js",
     "INSY/insy-mongodb-project/webservice/README.md",
     "INSY/insy-mongodb-project/insy-mongodb-project/webservice/README.md",
     "INSY/insy-mongodb-project/insy-mongodb-project/README.md",
@@ -283,9 +256,6 @@
     "INSY/Docker Aufgabe 2.md",
     "DE/TextinterpretationMerkzettel.md",
     "Untitled.md",
-    "Z_Obsidian-Help/Help-Page.md",
-    "DE/Textinterpretation.md",
-    "NW/NW Testvorbereitung.md",
     "Untitled.canvas",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
