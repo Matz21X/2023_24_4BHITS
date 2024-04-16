@@ -49,7 +49,7 @@
             }
           },
           {
-            "id": "fcc1f7ecf2e95485",
+            "id": "a836e3a384be1ffb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -264,11 +264,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fcc1f7ecf2e95485",
+  "active": "a836e3a384be1ffb",
   "lastOpenFiles": [
     "SEW-Theorie/BuilderPattern.md",
-    "SEW-Theorie/Immutable Objects.md",
+    "Attachments/0AUTH.svg",
     "SEW-Theorie/O-AUTH.md",
+    "SEW-Theorie/Immutable Objects.md",
     "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern/Bike.class",
     "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern/Bike$BikeBuilder.class",
     "SEW-Theorie/Singleton (Pattern).md",
@@ -302,7 +303,6 @@
     "output/attachment/c9235e9a0b69e16140a065b9e4e8c351.png",
     "output/attachment/1bead16ab84363bf453a4a60d8187232.png",
     "output/attachment/0232e5556f1b4976e24b724a64512011.png",
-    "output/attachment/11d25248642a24f51a9a5f3f9e142daf.png",
     "Excel 2024-04-15 19.20.40.sheet.md",
     "Excel 2024-04-15 19.18.44.sheet.md",
     "ITP/Chart Aufgabe Seite 166.md",
