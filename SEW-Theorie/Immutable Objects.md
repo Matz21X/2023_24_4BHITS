@@ -1,10 +1,10 @@
 # Immutable Objects
 #SEW
 
->Der innere Zustand eines unveränderlichen Objekts bleibt immer konstant, nach dem es erzeugt wurde. Damit ist sichergestellt, dass sich unveränderliche Objekte über die gesamte Lebenszeit gleich verhalten.
+>Der<span style="color:#00b050"> innere Zustand</span> eines unveränderlichen Objekts bleibt<span style="color:#00b050"> immer konstant</span>, nach dem es erzeugt wurde. Damit ist sichergestellt, dass sich unveränderliche Objekte über die <span style="color:#00b050">gesamte Lebenszeit gleich verhalten</span>.
 
 ### Wie kann eine Unveränderlichkeit erreicht werden?
-- Keine setter Methoden in der API der Klasse zur Verfügung stellen
+- <span style="color:#00b050">Keine setter Methoden</span> in der API der Klasse zur Verfügung stellen
 - Alle Eigenschaften ``final`` und ``private`` setzen
 - Aberben verbieten (keine Subklassen), die Klasse als ``final`` deklarieren (``public final class user ...``)
 
@@ -16,9 +16,9 @@
 	- Local
 
 ### Vorteile
-- Unveränderliche Objekte sind einfach zu testen
-- Automatisch Threadsicher und keine Synchronisations-Probleme, da der innere Zustand nicht verändert werden kann, sehen alle Threads immer das gleiche
+- Unveränderliche Objekte sind <span style="color:#00b050">einfach zu testen</span>
+- <span style="color:#00b050">Automatisch Threadsicher</span> und <span style="color:#00b050">keine Synchronisations-Probleme</span>, da der innere Zustand nicht verändert werden kann, sehen alle Threads immer das gleiche
 - Default ``clone`` Methode funktioniert (Keine eigene Implementierung notwendig)
 
-Speziell in Multithread-Umgebungen, bieten Unveränderliche Objekte den entscheidenden Vorteil der Thread-Sicherheit. Webservices beispielsweise, sollten immer Threadsicher realisiert sein, da viele Clients gleichzeitig darauf zugreifen können
+Speziell in <span style="color:#00b050">Multithread-Umgebungen</span>, bieten Unveränderliche Objekte den <span style="color:#00b050">entscheidenden Vorteil</span> der Thread-Sicherheit. Webservices beispielsweise, sollten immer Threadsicher realisiert sein, da viele Clients gleichzeitig darauf zugreifen können
 
