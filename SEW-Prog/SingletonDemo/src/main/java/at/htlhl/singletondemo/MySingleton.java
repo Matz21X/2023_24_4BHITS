@@ -1,6 +1,6 @@
 package at.htlhl.singletondemo;
 
-public class MySingleton(){
+public class MySingleton{
     private static MySingleton instance;
     private MySingleton() {}
 
@@ -13,7 +13,5 @@ public class MySingleton(){
 
     // Other Methods
 
-    public int getValue(){
 
-    }
 }
