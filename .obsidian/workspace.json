@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md",
+                "file": "SEW-Theorie/Singleton (Pattern).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "synchroni",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -82,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md"
+                "file": "SEW-Theorie/Singleton (Pattern).md"
               }
             }
           },
@@ -131,7 +132,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md"
+                "file": "SEW-Theorie/Singleton (Pattern).md"
               }
             }
           },
@@ -157,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md",
+                "file": "SEW-Theorie/Singleton (Pattern).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md",
+                "file": "SEW-Theorie/Singleton (Pattern).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,9 +215,9 @@
   },
   "active": "81458f3eb9fdbee2",
   "lastOpenFiles": [
-    "SEW-Theorie/BuilderPattern.md",
-    "SEW-Theorie/Datenstrukturen.md",
     "SEW-Theorie/Immutable Objects.md",
+    "SEW-Theorie/Datenstrukturen.md",
+    "SEW-Theorie/BuilderPattern.md",
     "Backlog_0424.md",
     "WIR/Recht/Testvorbereitung 16.4.24.md",
     "WIR/Recht/Testvorbereitung 16.4.24.pdf",
