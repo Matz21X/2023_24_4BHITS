@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "81458f3eb9fdbee2",
+            "id": "63364c8eb38e98da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REL/April.md",
+                "file": "SEW-Theorie/Immutable Objects.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,12 +49,12 @@
             }
           },
           {
-            "id": "63364c8eb38e98da",
+            "id": "fcc1f7ecf2e95485",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEW-Theorie/Immutable Objects.md",
+                "file": "SEW-Theorie/O-AUTH.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,9 +73,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f304fb952bb1fbd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SEW-Theorie/Datenstrukturen.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md"
+                "file": "SEW-Theorie/Immutable Objects.md"
               }
             }
           },
@@ -170,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md"
+                "file": "SEW-Theorie/Immutable Objects.md"
               }
             }
           },
@@ -196,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md",
+                "file": "SEW-Theorie/Immutable Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md",
+                "file": "SEW-Theorie/Immutable Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,17 +264,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47c92c6efa7f66da",
+  "active": "63364c8eb38e98da",
   "lastOpenFiles": [
+    "SEW-Theorie/Singleton (Pattern).md",
+    "SEW-Theorie/O-AUTH.md",
     "SEW-Theorie/Immutable Objects.md",
     "SEW-Theorie/BuilderPattern.md",
-    "SEW-Theorie/Singleton (Pattern).md",
-    "SEW-Theorie/RESTful Webservices.md",
-    "SEW-Theorie/O-AUTH.md",
-    "SEW-Theorie/Dependency Injection (Pattern).md",
     "SEW-Theorie/Datenstrukturen.md",
     "Backlog_0424.md",
     "REL/April.md",
+    "SEW-Theorie/RESTful Webservices.md",
+    "SEW-Theorie/Dependency Injection (Pattern).md",
     "REL/Februar.md",
     "WIR/Recht/Testvorbereitung 16.4.24.md",
     "WIR/Recht/Testvorbereitung 16.4.24.pdf",
