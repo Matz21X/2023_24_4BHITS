@@ -28,6 +28,45 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "REL/April.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7f4ef080164f591",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SEW-Theorie/BuilderPattern.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63364c8eb38e98da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SEW-Theorie/Immutable Objects.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47c92c6efa7f66da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "SEW-Theorie/Singleton (Pattern).md",
                 "mode": "source",
                 "backlinks": false,
@@ -36,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -65,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "synchroni",
+                "query": "tag:#REL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -82,8 +121,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,12 +251,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81458f3eb9fdbee2",
+  "active": "47c92c6efa7f66da",
   "lastOpenFiles": [
     "SEW-Theorie/Immutable Objects.md",
-    "SEW-Theorie/Datenstrukturen.md",
     "SEW-Theorie/BuilderPattern.md",
+    "SEW-Theorie/Singleton (Pattern).md",
+    "SEW-Theorie/RESTful Webservices.md",
+    "SEW-Theorie/O-AUTH.md",
+    "SEW-Theorie/Dependency Injection (Pattern).md",
+    "SEW-Theorie/Datenstrukturen.md",
     "Backlog_0424.md",
+    "REL/April.md",
+    "REL/Februar.md",
     "WIR/Recht/Testvorbereitung 16.4.24.md",
     "WIR/Recht/Testvorbereitung 16.4.24.pdf",
     "Attachments/Testvorbereitung 16.4.24-20240415202559379.png",
@@ -226,11 +270,8 @@
     "ITP/Projekte/RAH/JavaScript.md",
     "ITP/Projekte/RAH/JavaScriptES6Template.md",
     "SEW-Theorie/HttpClient_in_Java.md",
-    "SEW-Theorie/Dependency Injection (Pattern).md",
     "SEW-Theorie/SpringBoot.md",
     "SEW-Theorie/Socketing.md",
-    "SEW-Theorie/RESTful Webservices.md",
-    "SEW-Theorie/O-AUTH.md",
     "output/attachment/c727f31fc51d015d0be1837f42eaef34.png",
     "output/Testvorbereitung 16.4.24.html",
     "output/attachment/e0e946d1496277854240a3f5279fe863.png",
@@ -250,14 +291,12 @@
     "ITP/Chart Aufgabe Seite 166.md",
     "Allgemein/780F7000",
     "Allgemein/Timesheet.xlsx",
-    "SEW-Theorie/Singleton (Pattern).md",
     "WIR/Recht/Untitled.md",
     "NWT/Untitled.md",
     "NWT/OpenSSLTask/rootCACert.pem",
     "NWT/OpenSSLTask/key.key",
     "WIR/Recht/Recht Test-Vorbereitung.md",
     "WIR/Wirtschaft/Zeitungsartikel_Info.md",
-    "REL/April.md",
     "EN/Amelia Yap.md",
     "INSY/insy-mongodb-project/README.md",
     "Untitled.canvas",

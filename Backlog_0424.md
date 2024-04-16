@@ -52,4 +52,8 @@
 |      | #GGP    | [[8. Globalisierung_Schüler.pdf]], EU, Schengenstaaten                |                 |
 |      | #EN     | MEMPHIS CULT (Food deserts)                                           |                 |
 |      | #RK     | Film Nachbesprechung                                                  |                 |
+| 16   | #WIR    | Recht Test so bissl                                                   |                 |
+|      | #DE     | Schularbeit zurückbekommen                                            |                 |
+|      | #BSP    | Sporthalle [[Gasig.jpg]]                                              |                 |
+|      | #INSY   | Twitch Streamer Stunde - NIX NIX [[stare.jpg]]                        |                 |
 
