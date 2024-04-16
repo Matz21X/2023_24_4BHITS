@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "b4edfec56c89241d",
+            "id": "81458f3eb9fdbee2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIR/Recht/Testvorbereitung 16.4.24.md",
+                "file": "SEW-Theorie/Immutable Objects.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIR/Recht/Testvorbereitung 16.4.24.md"
+                "file": "SEW-Theorie/Immutable Objects.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "WIR/Recht/Testvorbereitung 16.4.24.md"
+                "file": "SEW-Theorie/Immutable Objects.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIR/Recht/Testvorbereitung 16.4.24.md",
+                "file": "SEW-Theorie/Immutable Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WIR/Recht/Testvorbereitung 16.4.24.md",
+                "file": "SEW-Theorie/Immutable Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,24 +212,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b4edfec56c89241d",
+  "active": "81458f3eb9fdbee2",
   "lastOpenFiles": [
+    "SEW-Theorie/BuilderPattern.md",
+    "Backlog_0424.md",
+    "WIR/Recht/Testvorbereitung 16.4.24.md",
     "WIR/Recht/Testvorbereitung 16.4.24.pdf",
     "Attachments/Testvorbereitung 16.4.24-20240415202559379.png",
-    "Backlog_0424.md",
     "ITP/Projekte/RAH/Präsentationen/Vorbereitung.md",
     "ITP/Projekte/RAH/JavaScript.md",
     "ITP/Projekte/RAH/JavaScriptES6Template.md",
     "SEW-Theorie/HttpClient_in_Java.md",
     "SEW-Theorie/Dependency Injection (Pattern).md",
     "SEW-Theorie/Datenstrukturen.md",
-    "SEW-Theorie/BuilderPattern.md",
     "SEW-Theorie/SpringBoot.md",
     "SEW-Theorie/Socketing.md",
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/O-AUTH.md",
     "output/attachment/c727f31fc51d015d0be1837f42eaef34.png",
-    "WIR/Recht/Testvorbereitung 16.4.24.md",
     "output/Testvorbereitung 16.4.24.html",
     "output/attachment/e0e946d1496277854240a3f5279fe863.png",
     "output/attachment/a1d78d97a2099dba7faa300376f638ca.png",
@@ -254,7 +254,6 @@
     "NWT/Untitled.md",
     "NWT/OpenSSLTask/rootCACert.pem",
     "NWT/OpenSSLTask/key.key",
-    "NWT/OpenSSLTask",
     "WIR/Recht/Recht Test-Vorbereitung.md",
     "WIR/Wirtschaft/Zeitungsartikel_Info.md",
     "REL/April.md",
