@@ -6,11 +6,15 @@ Das Entwurfsmuster Singleton stellt sicher, dass es von einer Klasse genau **ein
 ```java
 public class mySingleton(){
 	private static MySingleton instance;
-	private MySingleton() {}
+	private String data;
+	
+	private MySingleton(String data) {
+		this.data = data;
+	}
 
-	public static synchronized MySingleton getInstance(){
+	public static synchronized MySingleton getInstance(String data){
 		if (instance == null){
-			instance = new Singleton()
+			instance = new Singleton(data)
 		}
 			return instance; 
 	}
