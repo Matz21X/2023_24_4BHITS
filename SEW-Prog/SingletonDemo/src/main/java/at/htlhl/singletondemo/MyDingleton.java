@@ -12,6 +12,8 @@ public class MyDingleton {
         if (instance==null){
             instance = new MyDingleton(geischi);
         }
+        List <String> stringList = new ArrayList<>();
         return instance;
     }
+
 }
