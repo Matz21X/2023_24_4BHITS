@@ -22,5 +22,10 @@ public class Example {
                 // no address
                 .build();
         System.out.println(user3);
+
+
+        Car car1 = new Car.CarBuilder("Ford", "Mustang")
+                .build();
+        System.out.println(car1);
     }
 }

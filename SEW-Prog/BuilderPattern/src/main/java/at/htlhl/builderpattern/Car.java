@@ -1,6 +1,6 @@
 package at.htlhl.builderpattern;
 
-private class Car {
+public class Car {
 
     private final String brand;
     private final String model;
@@ -15,7 +15,7 @@ private class Car {
     }
 
     public String getBrand(){
-        return this.brand;
+        return brand;
     }
 
     public String getModel() {
@@ -30,29 +30,43 @@ private class Car {
         return torque;
     }
 
-    private class CarBuilder{
+
+    @Override
+    public String toString() {
+        return "Car{" +
+                "brand='" + brand + '\'' +
+                ", model='" + model + '\'' +
+                ", hp=" + hp +
+                ", torque=" + torque +
+                '}';
+    }
+
+    public static class CarBuilder{
         private final String brand;
         private final String model;
         private int hp;
         private int torque;
 
 
-        private CarBuilder(String brand, String model){
+        public CarBuilder(String brand, String model){
             this.brand = brand;
             this.model = model;
         }
 
-        private CarBuilder hp(int hp){
+        public CarBuilder hp(int hp){
             this.hp = hp;
             return this;
         }
 
-        private CarBuilder torque(int torque){
+        public CarBuilder torque(int torque){
             this.torque = torque;
             return this;
         }
 
-        private CarBuilder
+        public Car build(){
+            Car car = new Car(this);
+            return car;
+        }
 
     }
 }
