@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/Immutable Objects.md"
+                "file": "SEW-Theorie/BuilderPattern.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/Immutable Objects.md"
+                "file": "SEW-Theorie/BuilderPattern.md"
               }
             }
           },
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/Immutable Objects.md",
+                "file": "SEW-Theorie/BuilderPattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/Immutable Objects.md",
+                "file": "SEW-Theorie/BuilderPattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,14 +264,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63364c8eb38e98da",
+  "active": "e7f4ef080164f591",
   "lastOpenFiles": [
+    "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern/User.class",
+    "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern/User$UserBuilder.class",
+    "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern/Example.class",
+    "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern",
+    "SEW-Prog/BuilderPattern/target/classes/at/htlhl",
+    "SEW-Prog/BuilderPattern/target/classes/at",
+    "SEW-Prog/BuilderPattern/target/generated-sources/annotations",
+    "SEW-Prog/BuilderPattern/target/generated-sources",
+    "SEW-Prog/BuilderPattern/target/classes",
+    "SEW-Prog/BuilderPattern/target",
+    "SEW-Theorie/Immutable Objects.md",
     "Backlog_0424.md",
     "SEW-Theorie/Datenstrukturen.md",
     "SEW-Theorie/Singleton (Pattern).md",
     "SEW-Theorie/O-AUTH.md",
     "SEW-Theorie/BuilderPattern.md",
-    "SEW-Theorie/Immutable Objects.md",
     "REL/April.md",
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/Dependency Injection (Pattern).md",
@@ -286,7 +296,6 @@
     "SEW-Theorie/SpringBoot.md",
     "SEW-Theorie/Socketing.md",
     "output/attachment/c727f31fc51d015d0be1837f42eaef34.png",
-    "output/Testvorbereitung 16.4.24.html",
     "output/attachment/e0e946d1496277854240a3f5279fe863.png",
     "output/attachment/a1d78d97a2099dba7faa300376f638ca.png",
     "output/attachment/ffc1ab5436cda1c43e0a09750d907fb3.png",
@@ -295,23 +304,14 @@
     "output/attachment/1bead16ab84363bf453a4a60d8187232.png",
     "output/attachment/0232e5556f1b4976e24b724a64512011.png",
     "output/attachment/11d25248642a24f51a9a5f3f9e142daf.png",
-    "output/attachment",
-    "output",
-    "Attachments/Recording 20240415192154.webm",
     "Excel 2024-04-15 19.20.40.sheet.md",
-    "Allgemein/~$Timesheet.xlsx",
     "Excel 2024-04-15 19.18.44.sheet.md",
     "ITP/Chart Aufgabe Seite 166.md",
-    "Allgemein/780F7000",
-    "Allgemein/Timesheet.xlsx",
     "WIR/Recht/Untitled.md",
     "NWT/Untitled.md",
-    "NWT/OpenSSLTask/rootCACert.pem",
-    "NWT/OpenSSLTask/key.key",
     "WIR/Recht/Recht Test-Vorbereitung.md",
     "WIR/Wirtschaft/Zeitungsartikel_Info.md",
     "EN/Amelia Yap.md",
-    "INSY/insy-mongodb-project/README.md",
     "Untitled.canvas",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
