@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/O-AUTH.md"
+                "file": "SEW-Theorie/Singleton (Pattern).md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/O-AUTH.md"
+                "file": "SEW-Theorie/Singleton (Pattern).md"
               }
             }
           },
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/O-AUTH.md",
+                "file": "SEW-Theorie/Singleton (Pattern).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/O-AUTH.md",
+                "file": "SEW-Theorie/Singleton (Pattern).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,15 +264,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a836e3a384be1ffb",
+  "active": "47c92c6efa7f66da",
   "lastOpenFiles": [
+    "SEW-Theorie/O-AUTH.md",
+    "SEW-Theorie/Singleton (Pattern).md",
     "SEW-Theorie/BuilderPattern.md",
     "Attachments/0AUTH.svg",
-    "SEW-Theorie/O-AUTH.md",
     "SEW-Theorie/Immutable Objects.md",
     "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern/Bike.class",
     "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern/Bike$BikeBuilder.class",
-    "SEW-Theorie/Singleton (Pattern).md",
     "SEW-Theorie/Datenstrukturen.md",
     "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern/Bike.java",
     "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern/Example.class",
