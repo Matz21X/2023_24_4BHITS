@@ -27,5 +27,9 @@ public class Example {
         Car car1 = new Car.CarBuilder("Ford", "Mustang")
                 .build();
         System.out.println(car1);
+
+        Bike bike1 = new Bike.BikeBuilder("Yamaha", "MT-07")
+                .build();
+        System.out.println(bike1);
     }
 }
