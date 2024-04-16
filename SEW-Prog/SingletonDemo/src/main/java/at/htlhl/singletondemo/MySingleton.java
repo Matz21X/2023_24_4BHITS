@@ -14,6 +14,6 @@ public class MySingleton(){
     // Other Methods
 
     public int getValue(){
-        
+
     }
 }

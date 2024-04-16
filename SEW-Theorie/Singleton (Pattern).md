@@ -4,7 +4,7 @@
 Das Entwurfsmuster Singleton stellt sicher, dass es von einer Klasse genau **ein** Objekt existiert
 
 ```java
-public class mySingleton(){
+public class MySingleton(){
 	private static MySingleton instance;
 	private String data;
 	

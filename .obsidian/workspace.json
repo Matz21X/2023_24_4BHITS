@@ -264,8 +264,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47c92c6efa7f66da",
+  "active": "38083c4526031a57",
   "lastOpenFiles": [
+    "SEW-Prog/SingletonDemo/src/main/java/at/htlhl/singletondemo/MyDingleton.java",
     "SEW-Prog/SingletonDemo/src/main/java/at/htlhl/singletondemo/MySingleton.java",
     "SEW-Theorie/Datenstrukturen.md",
     "SEW-Theorie/Singleton (Pattern).md",
@@ -282,7 +283,6 @@
     "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern/Car$CarBuilder.class",
     "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern/Car.java",
     "SEW-Theorie/Datenstrukturen.pdf",
-    "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern/User.class",
     "Backlog_0424.md",
     "REL/April.md",
     "SEW-Theorie/RESTful Webservices.md",
