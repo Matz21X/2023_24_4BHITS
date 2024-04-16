@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md"
+                "file": "SEW-Theorie/Datenstrukturen.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md"
+                "file": "SEW-Theorie/Datenstrukturen.md"
               }
             }
           },
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md",
+                "file": "SEW-Theorie/Datenstrukturen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md",
+                "file": "SEW-Theorie/Datenstrukturen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,12 +264,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38083c4526031a57",
+  "active": "f304fb952bb1fbd1",
   "lastOpenFiles": [
+    "SEW-Theorie/Singleton (Pattern).md",
     "SEW-Prog/SingletonDemo/src/main/java/at/htlhl/singletondemo/MyDingleton.java",
     "SEW-Prog/SingletonDemo/src/main/java/at/htlhl/singletondemo/MySingleton.java",
     "SEW-Theorie/Datenstrukturen.md",
-    "SEW-Theorie/Singleton (Pattern).md",
     "SEW-Prog/SingletonDemo/src/main/java/at/htlhl/singletondemo/ConfigAccessSingleton.java",
     "SEW-Theorie/O-AUTH.md",
     "SEW-Theorie/BuilderPattern.md",
@@ -282,7 +282,6 @@
     "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern/Car.class",
     "SEW-Prog/BuilderPattern/target/classes/at/htlhl/builderpattern/Car$CarBuilder.class",
     "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern/Car.java",
-    "SEW-Theorie/Datenstrukturen.pdf",
     "Backlog_0424.md",
     "REL/April.md",
     "SEW-Theorie/RESTful Webservices.md",
