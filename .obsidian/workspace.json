@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEW-Theorie/Immutable Objects.md",
+                "file": "SEW-Theorie/Datenstrukturen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/Immutable Objects.md"
+                "file": "SEW-Theorie/Datenstrukturen.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/Immutable Objects.md"
+                "file": "SEW-Theorie/Datenstrukturen.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/Immutable Objects.md",
+                "file": "SEW-Theorie/Datenstrukturen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/Immutable Objects.md",
+                "file": "SEW-Theorie/Datenstrukturen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,6 +215,8 @@
   "active": "81458f3eb9fdbee2",
   "lastOpenFiles": [
     "SEW-Theorie/BuilderPattern.md",
+    "SEW-Theorie/Datenstrukturen.md",
+    "SEW-Theorie/Immutable Objects.md",
     "Backlog_0424.md",
     "WIR/Recht/Testvorbereitung 16.4.24.md",
     "WIR/Recht/Testvorbereitung 16.4.24.pdf",
@@ -224,7 +226,6 @@
     "ITP/Projekte/RAH/JavaScriptES6Template.md",
     "SEW-Theorie/HttpClient_in_Java.md",
     "SEW-Theorie/Dependency Injection (Pattern).md",
-    "SEW-Theorie/Datenstrukturen.md",
     "SEW-Theorie/SpringBoot.md",
     "SEW-Theorie/Socketing.md",
     "SEW-Theorie/RESTful Webservices.md",
@@ -248,7 +249,6 @@
     "ITP/Chart Aufgabe Seite 166.md",
     "Allgemein/780F7000",
     "Allgemein/Timesheet.xlsx",
-    "SEW-Theorie/Immutable Objects.md",
     "SEW-Theorie/Singleton (Pattern).md",
     "WIR/Recht/Untitled.md",
     "NWT/Untitled.md",

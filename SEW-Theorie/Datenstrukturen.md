@@ -8,7 +8,7 @@ Datenstrukturen werden benötigt um Daten zu speichern, zu organisieren und zu v
 **Die wichtigsten Vertreter sind:**
 
 <span style="color:#00b050">List (z.B. ArrayList, LinkedList...)</span>
--  Doppelte Objekte erlaubt (können abgespeichet werden), Reihenfolge bleibt erhalten, komfortable Alternative zu Arrays
+-  Doppelte Objekte erlaubt (können abgespeichert werden), Reihenfolge bleibt erhalten, komfortable Alternative zu Arrays
 ```java
 List <String> stringList = new ArrayList<>();
 stringList.add("Bruh");
