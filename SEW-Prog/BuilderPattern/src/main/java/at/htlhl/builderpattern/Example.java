@@ -31,5 +31,10 @@ public class Example {
         Bike bike1 = new Bike.BikeBuilder("Yamaha", "MT-07")
                 .build();
         System.out.println(bike1);
+
+
+        Zylinderbau zylinder = new Zylinderbau.ZylinderBuilder(10f, 3f).build();
+
+
     }
 }
