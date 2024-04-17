@@ -57,4 +57,6 @@
 |      | #BSP    | Sporthalle [[Gasig.jpg]]                                              |                 |
 |      | #INSY   | Twitch Streamer Stunde - NIX NIX [[stare.jpg]]                        |                 |
 | 17   | #SYT    | [[Timing Arduino]]                                                    |                 |
+|      | #WIR    | [[Kennzahlen.canvas\|Kennzahlen]]                                     |                 |
+|      | #MEDT   |                                                                       |                 |
 
