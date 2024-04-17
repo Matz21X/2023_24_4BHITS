@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/BuilderPattern.md"
+                "file": "SEW-Theorie/Datenstrukturen.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/BuilderPattern.md"
+                "file": "SEW-Theorie/Datenstrukturen.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/BuilderPattern.md",
+                "file": "SEW-Theorie/Datenstrukturen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/BuilderPattern.md",
+                "file": "SEW-Theorie/Datenstrukturen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,8 +251,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38083c4526031a57",
+  "active": "f304fb952bb1fbd1",
   "lastOpenFiles": [
+    "SEW-Theorie/Singleton (Pattern).md",
+    "SEW-Theorie/O-AUTH.md",
+    "SEW-Theorie/BuilderPattern.md",
+    "SYT/Timing Arduino.md",
+    "Backlog_0424.md",
+    "Attachments/Whiteboard 17.04.2024.pdf",
     "SYT/Arduino-Code/timingLED/src/main.cpp",
     "SYT/Arduino-Code/timingLED/test/README",
     "SYT/Arduino-Code/timingLED/test",
@@ -262,15 +268,9 @@
     "SYT/Arduino-Code/timingLED/include",
     "SYT/Arduino-Code/timingLED/src",
     "SYT/Arduino-Code/timingLED/platformio.ini",
-    "SYT/Arduino-Code/timingLED",
     "SEW-Theorie/Immutable Objects.md",
     "SEW-Theorie/Datenstrukturen.md",
-    "SEW-Theorie/Singleton (Pattern).md",
-    "SEW-Theorie/O-AUTH.md",
-    "SEW-Theorie/BuilderPattern.md",
-    "SEW-Prog/SingletonDemo/target/classes/at/htlhl/singletondemo/ConfigAccessSingleton.class",
     "Attachments/0AUTH.svg",
-    "Backlog_0424.md",
     "REL/April.md",
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/Dependency Injection (Pattern).md",
@@ -298,7 +298,6 @@
     "NWT/Untitled.md",
     "WIR/Recht/Recht Test-Vorbereitung.md",
     "WIR/Wirtschaft/Zeitungsartikel_Info.md",
-    "EN/Amelia Yap.md",
     "Untitled.canvas",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
