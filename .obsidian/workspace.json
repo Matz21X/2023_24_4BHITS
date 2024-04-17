@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md"
+                "file": "SEW-Theorie/Immutable Objects.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md"
+                "file": "SEW-Theorie/Immutable Objects.md"
               }
             }
           },
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md",
+                "file": "SEW-Theorie/Immutable Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/Singleton (Pattern).md",
+                "file": "SEW-Theorie/Immutable Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,14 +264,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47c92c6efa7f66da",
+  "active": "a1a3473a39ed1893",
   "lastOpenFiles": [
-    "SEW-Theorie/O-AUTH.md",
-    "SEW-Theorie/Immutable Objects.md",
     "SEW-Theorie/BuilderPattern.md",
     "SEW-Theorie/Datenstrukturen.md",
-    "INSY/MongoDB.md",
     "SEW-Theorie/Singleton (Pattern).md",
+    "SEW-Theorie/O-AUTH.md",
+    "SEW-Theorie/Immutable Objects.md",
+    "INSY/MongoDB.md",
     "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern/Zylindersingleton.java",
     "Backlog_0424.md",
     "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern/Example.java~",

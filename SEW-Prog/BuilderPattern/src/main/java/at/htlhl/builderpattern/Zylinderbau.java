@@ -41,7 +41,7 @@ public class Zylinderbau {
     }
 
 
-    public static class ZylinderBuilder{
+    public static class ZylinderBuilder {
         private final float height;
         private final float diameter;
         private String bend;
@@ -63,8 +63,8 @@ public class Zylinderbau {
         }
 
         public Zylinderbau build(){
-            Zylinderbau zylinderbau1 = new Zylinderbau(this);
-            return zylinderbau1;
+            Zylinderbau zylinderbau = new Zylinderbau(this);
+            return zylinderbau;
         }
 
 
