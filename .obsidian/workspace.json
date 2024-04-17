@@ -65,12 +65,14 @@
             "id": "f304fb952bb1fbd1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Kennzahlen.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -152,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md"
+                "file": "Kennzahlen.canvas"
               }
             }
           },
@@ -170,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md"
+                "file": "Kennzahlen.canvas"
               }
             }
           },
@@ -196,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md",
+                "file": "Kennzahlen.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md",
+                "file": "Kennzahlen.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,6 +255,9 @@
   },
   "active": "f304fb952bb1fbd1",
   "lastOpenFiles": [
+    "SEW-Theorie/Datenstrukturen.md",
+    "Kennzahlen.canvas",
+    "SEW-Theorie/Untitled.md",
     "SEW-Theorie/Singleton (Pattern).md",
     "SEW-Theorie/O-AUTH.md",
     "SEW-Theorie/BuilderPattern.md",
@@ -269,7 +274,6 @@
     "SYT/Arduino-Code/timingLED/src",
     "SYT/Arduino-Code/timingLED/platformio.ini",
     "SEW-Theorie/Immutable Objects.md",
-    "SEW-Theorie/Datenstrukturen.md",
     "Attachments/0AUTH.svg",
     "REL/April.md",
     "SEW-Theorie/RESTful Webservices.md",
@@ -297,8 +301,6 @@
     "WIR/Recht/Untitled.md",
     "NWT/Untitled.md",
     "WIR/Recht/Recht Test-Vorbereitung.md",
-    "WIR/Wirtschaft/Zeitungsartikel_Info.md",
-    "Untitled.canvas",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
