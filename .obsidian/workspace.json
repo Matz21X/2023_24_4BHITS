@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0424.md"
+                "file": "SEW-Theorie/BuilderPattern.md"
               }
             }
           },
@@ -143,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0424.md"
+                "file": "SEW-Theorie/BuilderPattern.md"
               }
             }
           },
@@ -169,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0424.md",
+                "file": "SEW-Theorie/BuilderPattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0424.md",
+                "file": "SEW-Theorie/BuilderPattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,9 +225,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff55b257aef1f045",
+  "active": "e9225aba3651a45e",
   "lastOpenFiles": [
     "SEW-Theorie/Singleton (Pattern).md",
+    "Backlog_0424.md",
     "SEW-Theorie/BuilderPattern.md",
     "Attachments/0AUTH.svg",
     "SEW-Theorie/O-AUTH.md",
@@ -236,7 +238,6 @@
     "SEW-Theorie/Datenstrukturen.md",
     "SEW-Theorie/Untitled.md",
     "SYT/Timing Arduino.md",
-    "Backlog_0424.md",
     "Attachments/Whiteboard 17.04.2024.pdf",
     "SYT/Arduino-Code/timingLED/src/main.cpp",
     "SYT/Arduino-Code/timingLED/test/README",
