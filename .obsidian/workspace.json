@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/Immutable Objects.md"
+                "file": "SEW-Theorie/O-AUTH.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/Immutable Objects.md"
+                "file": "SEW-Theorie/O-AUTH.md"
               }
             }
           },
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/Immutable Objects.md",
+                "file": "SEW-Theorie/O-AUTH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/Immutable Objects.md",
+                "file": "SEW-Theorie/O-AUTH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,14 +264,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a1a3473a39ed1893",
+  "active": "843112dcb8a5b578",
   "lastOpenFiles": [
-    "SEW-Theorie/O-AUTH.md",
-    "SEW-Theorie/BuilderPattern.md",
-    "Backlog_0424.md",
     "SEW-Theorie/Immutable Objects.md",
+    "SEW-Theorie/BuilderPattern.md",
     "SEW-Theorie/Datenstrukturen.md",
     "SEW-Theorie/Singleton (Pattern).md",
+    "SEW-Theorie/O-AUTH.md",
+    "Backlog_0424.md",
     "Attachments/0AUTH.svg",
     "WIR/Wirtschaft/Kennzahlen.canvas",
     "Allgemein/~$rlage_ausgefüllt.docx",
