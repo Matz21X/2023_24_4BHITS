@@ -54,6 +54,10 @@
 		{
 			"name": "Interrupt",
 			"path": "Interrupt"
+		},
+		{
+			"name": "timingLED",
+			"path": "timingLED"
 		}
 	],
 	"settings": {}
