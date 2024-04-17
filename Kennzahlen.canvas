@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"871a0996edf9eadc","x":-380,"y":-260,"width":280,"height":140,"type":"text","text":"## Liquidität\n\n- \"flüssige Mittel\"\n\t- Bank + Kasse"},
-		{"id":"738a2359e394a6ff","x":-60,"y":-260,"width":249,"height":148,"type":"text","text":"## Rentabilität\n\n<span style=\"color:#00b050\">Ertragslage</span>"}
-	],
-	"edges":[]
-}
