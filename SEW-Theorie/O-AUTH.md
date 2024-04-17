@@ -5,4 +5,4 @@ Ist eine standardisierte, sichere API-Autorisierung für Desktop, Web und Mobile
 z.B: Einem Client wird der Zugriff auf den Resource-Server (REST-API) durch einen Authorisation-Server gewährt, ohne geheime Details seiner Zugangsdaten dem Resource-Server preiszugeben.
 
 
-![[0AUTH.svg|663]]
+![[0AUTH.svg|789]]
