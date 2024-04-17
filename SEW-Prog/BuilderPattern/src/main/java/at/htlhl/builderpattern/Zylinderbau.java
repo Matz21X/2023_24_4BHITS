@@ -6,7 +6,7 @@ public class Zylinderbau {
     private final String bend;
     private final int flowrate;
 
-
+x
     private Zylinderbau(ZylinderBuilder builder){
         this.height = builder.height;
         this.diameter = builder.diameter;
