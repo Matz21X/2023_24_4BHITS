@@ -36,6 +36,32 @@
             }
           },
           {
+            "id": "a1a3473a39ed1893",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SEW-Theorie/Immutable Objects.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "843112dcb8a5b578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SEW-Theorie/O-AUTH.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "47c92c6efa7f66da",
             "type": "leaf",
             "state": {
@@ -62,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md"
+                "file": "SEW-Theorie/BuilderPattern.md"
               }
             }
           },
@@ -157,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md"
+                "file": "SEW-Theorie/BuilderPattern.md"
               }
             }
           },
@@ -183,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md",
+                "file": "SEW-Theorie/BuilderPattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/Datenstrukturen.md",
+                "file": "SEW-Theorie/BuilderPattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,17 +264,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f1a37be071ace44a",
+  "active": "e9225aba3651a45e",
   "lastOpenFiles": [
-    "SEW-Theorie/Singleton (Pattern).md",
-    "SEW-Theorie/BuilderPattern.md",
     "Backlog_0424.md",
-    "Attachments/0AUTH.svg",
+    "SEW-Theorie/Immutable Objects.md",
     "SEW-Theorie/O-AUTH.md",
+    "SEW-Theorie/BuilderPattern.md",
+    "SEW-Theorie/Datenstrukturen.md",
+    "SEW-Theorie/Singleton (Pattern).md",
+    "Attachments/0AUTH.svg",
     "WIR/Wirtschaft/Kennzahlen.canvas",
     "Allgemein/~$rlage_ausgefüllt.docx",
     "Allgemein/~$rlage_mit_Stempel.docx",
-    "SEW-Theorie/Datenstrukturen.md",
     "SEW-Theorie/Untitled.md",
     "SYT/Timing Arduino.md",
     "Attachments/Whiteboard 17.04.2024.pdf",
@@ -259,7 +286,6 @@
     "SYT/Arduino-Code/timingLED/lib",
     "SYT/Arduino-Code/timingLED/include/README",
     "SYT/Arduino-Code/timingLED/include",
-    "SEW-Theorie/Immutable Objects.md",
     "REL/April.md",
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/Dependency Injection (Pattern).md",
