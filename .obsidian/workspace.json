@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EN/Amelia Yap.md"
+                "file": "Backlog_0424.md"
               }
             }
           },
@@ -131,7 +130,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "EN/Amelia Yap.md"
+                "file": "Backlog_0424.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EN/Amelia Yap.md",
+                "file": "Backlog_0424.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EN/Amelia Yap.md",
+                "file": "Backlog_0424.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,8 +211,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "176eaee9be4f4c8c",
+  "active": "ff55b257aef1f045",
   "lastOpenFiles": [
+    "EN/Amelia Yap.md",
     "Backlog_0424.md",
     "GGP/Untitled.md",
     "DE/DE Notizen.md",
@@ -260,7 +260,6 @@
     "Excel 2024-04-15 19.20.40.sheet.md",
     "Excel 2024-04-15 19.18.44.sheet.md",
     "ITP/Chart Aufgabe Seite 166.md",
-    "WIR/Recht/Untitled.md",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"

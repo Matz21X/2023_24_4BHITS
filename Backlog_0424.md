@@ -62,4 +62,6 @@
 |      | #INSY   | NIX NIX NIX SEW lernen [[stare.jpg]]                                  |                 |
 |      | #SEW    | Test                                                                  |                 |
 | 18   | #EN     | American dream text, WALTER WEIGHT                                    |                 |
+|      | #WIR    | Excel Kennzahlen                                                      |                 |
+|      |         |                                                                       |                 |
 
