@@ -29,6 +29,10 @@ Aufgaben:
 	- Judas - Verräter
 	- Jesus - Jesus
 	- Teufel
+	- Barabas
+	- Dismas
+	- Gestas
+	- 
 
 3. Machen Sie Notizen über positive und negative Eindrücke während des Films. (Was kommt Ihnen realistisch vor, was wirkt unrealistisch auf Sie, welche Szenen sind besonders erschütternd, was haben Sie sich ganz anders vorgestellt,…).
 	- 
