@@ -276,3 +276,19 @@ Dauer: 14950 Millisekunden
 ```
 
 Das Ergebnis zeigt, um alle Datensätze auszugeben ist die MySQL Datenbank erheblich schneller.
+
+### Nach spezifischen Daten suchen
+
+Ebenso wurde nach spezifischen Daten gesucht. In diesem Fall nach den Personen mit dem Nachnamen =='Tromp'==.
+
+```
+MySQL Performance:
+Anzahl der Datensätze: 2119
+Dauer: 799 Millisekunden
+
+MongoDB Performance:
+Anzahl der Datensätze: 2066
+Dauer: 841 Millisekunden
+```
+
+Obwohl in der My
