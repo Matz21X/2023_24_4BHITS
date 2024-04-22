@@ -308,4 +308,4 @@ Anzahl der Datensätze: 2119
 Dauer: 747 Millisekunden
 ```
 
-Nach dem indexieren ist die Mon
+Nach dem indexieren ist die MongoDB um **766ms** schneller.
