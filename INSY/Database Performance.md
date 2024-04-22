@@ -295,3 +295,17 @@ Obwohl in der MySQL Datenbank mehr Datensätze gefunden wurden, ist diese um 42m
 
 
 ### MongoDB indexieren
+
+Nach dem indexieren des Feldes `"owner.lastName": "Tromp"` sah das Ergebnis wie folgt aus:
+
+```
+MongoDB Performance:
+Anzahl der Datensätze: 2066
+Dauer: 75 Millisekunden
+
+MySQL Performance:
+Anzahl der Datensätze: 2119
+Dauer: 747 Millisekunden
+```
+
+Nach dem indexieren ist die Mon
