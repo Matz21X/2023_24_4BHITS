@@ -3,7 +3,6 @@
 
 >Getestete Datenbanksysteme: MongoDB, MySQL
 
-
 ## 1. Daten generieren
 
 #### MongoDB
@@ -291,7 +290,7 @@ Anzahl der Datensätze: 2066
 Dauer: 841 Millisekunden
 ```
 
-Obwohl in der MySQL Datenbank mehr Datensätze gefunden wurden, ist diese um 42ms schneller als MongoDB.
+Obwohl in der MySQL Datenbank mehr Datensätze gefunden wurden, ist diese um **42ms** schneller als MongoDB.
 
 
 ### MongoDB indexieren
