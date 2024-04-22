@@ -63,6 +63,9 @@
 |      | #SEW    | Test                                                                  |                 |
 | 18   | #EN     | American dream text, WALTER WEIGHT                                    |                 |
 |      | #WIR    | Excel Kennzahlen                                                      |                 |
-|      |         |                                                                       |                 |
+|      | #RK     | [[April#Film - Passion Christi]]                                      |                 |
+|      | #AM     | Hausübung 8. Letto                                                    |                 |
+|      | #NW     | Bergi redet                                                           |                 |
+|      | #ITP    | [[stare.jpg]]                                                         |                 |
 
 4. GGP Test 7,8,9
