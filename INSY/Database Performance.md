@@ -175,4 +175,90 @@ seedDB();
 ## 2. Perfomance testen
 
 
+Ein Skript wurde entworfen um die Geschwindigkeit der Datenbanken zu testen. Gemessen wird die Zeit die benötigt wird alle Datensätze auszugeben
 
+```js
+const MongoClient = require('mongodb').MongoClient;
+const mysql = require('mysql');
+
+// MongoDB Verbindung URI
+const mongoURI = "mongodb://localhost:27017/testdata";
+
+// MySQL Verbindungsdetails
+const mysqlConfig = {
+    host: 'localhost',
+    user: 'root',
+    password: 'admin',
+    database: 'testdata'
+};
+
+// Name der MongoDB-Sammlung und MySQL-Tabelle
+const collectionName = "data";
+const tableName = "data";
+
+// Funktion zur Messung der Performance für MongoDB
+async function measureMongoDBPerformance() {
+    try {
+        // Verbindung zur MongoDB herstellen
+        const client = await MongoClient.connect(mongoURI, { useNewUrlParser: true, useUnifiedTopology: true });
+        const db = client.db();
+
+        // Startzeit messen
+        const startTime = new Date();
+
+        // Alle Datensätze aus der MongoDB-Sammlung abrufen
+        const collection = db.collection(collectionName);
+        const documents = await collection.find({}).toArray();
+
+        // Endzeit messen
+        const endTime = new Date();
+        const elapsedTime = endTime - startTime; // Zeitdifferenz berechnen
+
+        // Ausgabe der Zeit
+        console.log("MongoDB Performance:");
+        console.log(`Anzahl der Datensätze: ${documents.length}`);
+        console.log(`Dauer: ${elapsedTime} Millisekunden`);
+        console.log();
+
+        // Verbindung schließen
+        await client.close();
+    } catch (error) {
+        console.error("Fehler beim Abrufen der MongoDB-Daten:", error);
+    }
+}
+
+// Funktion zur Messung der Performance für MySQL
+function measureMySQLPerformance() {
+    // Verbindung zur MySQL-Datenbank herstellen
+    const connection = mysql.createConnection(mysqlConfig);
+
+    // Startzeit messen
+    const startTime = new Date();
+
+    // Alle Datensätze aus der MySQL-Tabelle abrufen
+    connection.query(`SELECT * FROM ${tableName}`, (error, results) => {
+        if (error) {
+            console.error("Fehler beim Abrufen der MySQL-Daten:", error);
+            return;
+        }
+
+        // Endzeit messen
+        const endTime = new Date();
+        const elapsedTime = endTime - startTime; // Zeitdifferenz berechnen
+
+        // Ausgabe der Zeit
+        console.log("\nMySQL Performance:");
+        console.log(`Anzahl der Datensätze: ${results.length}`);
+        console.log(`Dauer: ${elapsedTime} Millisekunden`);
+        console.log();
+
+        // Verbindung schließen
+        connection.end();
+    });
+}
+
+// Funktionen aufrufen
+measureMongoDBPerformance();
+measureMySQLPerformance();
+
+```
