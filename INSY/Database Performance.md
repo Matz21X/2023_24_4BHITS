@@ -188,7 +188,7 @@ const mongoURI = "mongodb://localhost:27017/testdata";
 const mysqlConfig = {
     host: 'localhost',
     user: 'root',
-    password: 'admin',
+    password: 'XXXX',
     database: 'testdata'
 };
 
@@ -262,3 +262,17 @@ measureMongoDBPerformance();
 measureMySQLPerformance();
 
 ```
+
+**Ausgabe:**
+
+```
+MySQL Performance:
+Anzahl der Datensätze: 1000000
+Dauer: 4111 Millisekunden
+
+MongoDB Performance:
+Anzahl der Datensätze: 1000000
+Dauer: 14950 Millisekunden
+```
+
+Das Ergebnis zeigt, um alle Datensätze auszugeben ist die MySQL Datenbank erheblich schneller.
