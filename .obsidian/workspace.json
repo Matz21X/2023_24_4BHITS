@@ -23,32 +23,6 @@
             }
           },
           {
-            "id": "176eaee9be4f4c8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EN/Amelia Yap.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3da54671c2803eef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REL/April.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "871cb671535c97e7",
             "type": "leaf",
             "state": {
@@ -62,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,13 +214,14 @@
   },
   "active": "871cb671535c97e7",
   "lastOpenFiles": [
-    "EN/Amelia Yap.md",
-    "INSY/Database Performance.md",
     "Backlog_0424.md",
+    "REL/April.md",
+    "EN/Amelia Yap.md",
+    "Attachments/GasigTischTennis.jpg",
+    "INSY/Database Performance.md",
     "INSY/PDF EXPORTS/Database Performance.pdf",
     "INSY/PDF EXPORTS",
     "GGP/9. EU_Schüler.pdf",
-    "REL/April.md",
     "GGP/Untitled.md",
     "DE/DE Notizen.md",
     "SEW-Theorie/BuilderPattern.md",
@@ -284,7 +259,6 @@
     "output/attachment/a6ca21e7f281bd5146a541429c769a8b.png",
     "output/attachment/c9235e9a0b69e16140a065b9e4e8c351.png",
     "output/attachment/1bead16ab84363bf453a4a60d8187232.png",
-    "output/attachment/0232e5556f1b4976e24b724a64512011.png",
     "Excel 2024-04-15 19.20.40.sheet.md",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",

@@ -67,5 +67,13 @@
 |      | #AM     | Hausübung 8. Letto                                                    |                 |
 |      | #NW     | Bergi redet                                                           |                 |
 |      | #ITP    | [[stare.jpg]]                                                         |                 |
+| 22   | #NWT    | Assembler Basics                                                      |                 |
+|      | #GGP    | [[9. EU_Schüler.pdf]] Brexit                                          |                 |
+|      |         | Diskussionsrunde                                                      |                 |
+| 23   | #WIR    | Recht S. 96                                                           |                 |
+|      | #DE     | Lustige Videos                                                        |                 |
+|      | #BSP    | GASIG GASIG GAS [[GasigTischTennis.jpg]]                              |                 |
+|      | #INSY   | Wordpress so bissl                                                    |                 |
+|      |         |                                                                       |                 |
 
 4. GGP Test 7,8,9
