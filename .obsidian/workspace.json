@@ -23,7 +23,33 @@
             }
           },
           {
-            "id": "9c339eadbce3419d",
+            "id": "176eaee9be4f4c8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EN/Amelia Yap.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3da54671c2803eef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REL/April.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "871cb671535c97e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 225.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,16 +238,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c339eadbce3419d",
+  "active": "871cb671535c97e7",
   "lastOpenFiles": [
     "Backlog_0424.md",
-    "GGP/1.GrundlagenDerWirtschaft.md",
-    "GGP/9. EU_Schüler.pdf",
-    "INSY/Database Performance.md",
     "INSY/PDF EXPORTS/Database Performance.pdf",
     "INSY/PDF EXPORTS",
-    "INSY/Neuer Ordner",
-    "INSY/MongoDB.md",
+    "INSY/Database Performance.md",
+    "GGP/9. EU_Schüler.pdf",
     "REL/April.md",
     "EN/Amelia Yap.md",
     "GGP/Untitled.md",
@@ -231,6 +254,7 @@
     "SEW-Theorie/Singleton (Pattern).md",
     "SEW-Theorie/Immutable Objects.md",
     "SEW-Theorie/O-AUTH.md",
+    "INSY/MongoDB.md",
     "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern/Zylindersingleton.java",
     "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern/Example.java~",
     "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern/Zylinderbau.java",
@@ -241,6 +265,7 @@
     "SEW-Theorie/Untitled.md",
     "SYT/Timing Arduino.md",
     "Attachments/Whiteboard 17.04.2024.pdf",
+    "SYT/Arduino-Code/timingLED/src/main.cpp",
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/Dependency Injection (Pattern).md",
     "REL/Februar.md",
