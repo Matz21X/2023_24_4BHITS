@@ -4,4 +4,9 @@
 4. Groceries, insurance, gas
 5. Student loans are too high
 6. assets passed from one generation of a family to the next (Old money)
-7. tax
+7. reagonomics, taxes, corporations
+8. Requirements are getting higher and higher, graduating as a bachelor is almost the minimum
+9. Own a business, leave the US
+10. Americans having higher wages
+11. make YouTube videos teaching
+12. a side hustle can become a business
