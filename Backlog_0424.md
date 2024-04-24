@@ -76,6 +76,7 @@
 |      | #INSY   | Wordpress so bissl                                                    |                 |
 | 24   | #SYT    | [[stare.jpg]]                                                         |                 |
 |      | #SEW    | Test zurückbekommen 88/100                                            |                 |
-|      | #MEDT   |                                                                       |                 |
+|      | #MEDT   | Lightroom [[Lightroom Classic Workflow v_2.pdf]]                      |                 |
+| 25   |         |                                                                       |                 |
 
 4. GGP Test 7,8,9
