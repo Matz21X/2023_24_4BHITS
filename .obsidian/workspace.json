@@ -21,19 +21,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "871cb671535c97e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INSY/Database Performance.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -213,11 +200,22 @@
   },
   "active": "ff55b257aef1f045",
   "lastOpenFiles": [
+    "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8635.jpg",
+    "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8632.jpg",
+    "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8622.jpg",
+    "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8626.jpg",
+    "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8573 - Kopie.jpg",
+    "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8563 - Kopie.jpg",
+    "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8558 - Kopie.jpg",
+    "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8551 - Kopie.jpg",
+    "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8536 - Kopie.jpg",
+    "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8527 - Kopie.jpg",
+    "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8516 - Kopie.jpg",
+    "MEDT/FICI/Emerg Day 2023_10_10  ZIP",
     "INSY/Database Performance.md",
     "Backlog_0424.md",
     "REL/April.md",
     "EN/Amelia Yap.md",
-    "Attachments/GasigTischTennis.jpg",
     "INSY/PDF EXPORTS/Database Performance.pdf",
     "INSY/PDF EXPORTS",
     "GGP/9. EU_Schüler.pdf",
@@ -232,32 +230,22 @@
     "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern/Zylindersingleton.java",
     "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern/Example.java~",
     "SEW-Prog/BuilderPattern/src/main/java/at/htlhl/builderpattern/Zylinderbau.java",
-    "Attachments/0AUTH.svg",
     "WIR/Wirtschaft/Kennzahlen.canvas",
     "Allgemein/~$rlage_ausgefüllt.docx",
     "Allgemein/~$rlage_mit_Stempel.docx",
     "SEW-Theorie/Untitled.md",
     "SYT/Timing Arduino.md",
     "Attachments/Whiteboard 17.04.2024.pdf",
-    "SYT/Arduino-Code/timingLED/src/main.cpp",
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/Dependency Injection (Pattern).md",
     "REL/Februar.md",
     "WIR/Recht/Testvorbereitung 16.4.24.md",
-    "Attachments/Testvorbereitung 16.4.24-20240415202559379.png",
     "ITP/Projekte/RAH/Präsentationen/Vorbereitung.md",
     "ITP/Projekte/RAH/JavaScript.md",
     "ITP/Projekte/RAH/JavaScriptES6Template.md",
     "SEW-Theorie/HttpClient_in_Java.md",
     "SEW-Theorie/SpringBoot.md",
     "SEW-Theorie/Socketing.md",
-    "output/attachment/c727f31fc51d015d0be1837f42eaef34.png",
-    "output/attachment/e0e946d1496277854240a3f5279fe863.png",
-    "output/attachment/a1d78d97a2099dba7faa300376f638ca.png",
-    "output/attachment/ffc1ab5436cda1c43e0a09750d907fb3.png",
-    "output/attachment/a6ca21e7f281bd5146a541429c769a8b.png",
-    "output/attachment/c9235e9a0b69e16140a065b9e4e8c351.png",
-    "output/attachment/1bead16ab84363bf453a4a60d8187232.png",
     "Excel 2024-04-15 19.20.40.sheet.md",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",

@@ -75,7 +75,7 @@
 |      | #BSP    | GASIG GASIG GAS [[GasigTischTennis.jpg]]                              |                 |
 |      | #INSY   | Wordpress so bissl                                                    |                 |
 | 24   | #SYT    | [[stare.jpg]]                                                         |                 |
-|      | #SEW    | Test zurückbekommen                                                   |                 |
+|      | #SEW    | Test zurückbekommen 88/100                                            |                 |
 |      | #MEDT   |                                                                       |                 |
 
 4. GGP Test 7,8,9
