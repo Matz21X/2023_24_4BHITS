@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "87a7da8f42157a0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REL/April.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EN/American Dream Video Questions.md"
+                "file": "REL/April.md"
               }
             }
           },
@@ -131,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "EN/American Dream Video Questions.md"
+                "file": "REL/April.md"
               }
             }
           },
@@ -157,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EN/American Dream Video Questions.md",
+                "file": "REL/April.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EN/American Dream Video Questions.md",
+                "file": "REL/April.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,21 +225,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1dd666ee9748e067",
+  "active": "87a7da8f42157a0c",
   "lastOpenFiles": [
-    "A_Diplomarbeit/FlyerA4/KRAHULETZ_Logo - Kopie.png",
-    "A_Diplomarbeit/FlyerA4/KRAHULETZ_Logo - Kopie.tif",
+    "A_Diplomarbeit/~$DA_Zeitaufzeichnung_MEDT_Hrbek.xlsx",
+    "A_Diplomarbeit/DA_Zeitaufzeichnung_MEDT_Hrbek.xlsx",
+    "A_Diplomarbeit/FlyerA4/KRAHULETZ_Logo.png",
+    "NW/~$ysikHA4_2.docx",
     "Backlog_0424.md",
     "EN/American Dream Video Questions.md",
+    "REL/April.md",
+    "A_Diplomarbeit/~$Timesheet.xlsx",
+    "A_Diplomarbeit/FlyerA4/KRAHULETZ_Logo - Kopie.png",
+    "A_Diplomarbeit/FlyerA4/KRAHULETZ_Logo - Kopie.tif",
     "MEDT/FICI/Katalog/Katalog Previews.lrdata/previews.db-journal",
     "MEDT/FICI/Katalog/Katalog Previews.lrdata/root-pixels.db-journal",
     "MEDT/FICI/Katalog/Katalog Previews.lrdata/B/BA7B/BA7BD1A6-DBD4-474D-98DA-0DF2AFAEB66E-4b2516100925fff926a8f4ab026d690c.lrprev",
     "MEDT/FICI/Katalog/Katalog Previews.lrdata/5/59D9/59D9124C-8223-47F1-8E5F-5DE7EAD67659-4b2516100925fff926a8f4ab026d690c.lrprev",
     "MEDT/FICI/Katalog/Katalog Previews.lrdata/4/4E70/4E7012AE-B066-43ED-BD86-578C98323B48-4b2516100925fff926a8f4ab026d690c.lrprev",
     "MEDT/FICI/Katalog/Katalog Previews.lrdata/E/EE38/EE38B7EF-CDF6-415E-942A-7D6F10A64077-4b2516100925fff926a8f4ab026d690c.lrprev",
-    "MEDT/FICI/Katalog/Katalog Previews.lrdata/1/1094/10945E60-6A5B-440A-BDD5-15E5F752393F-4b2516100925fff926a8f4ab026d690c.lrprev",
-    "MEDT/FICI/Katalog/Katalog Previews.lrdata/B/BFFA/BFFAEAE3-96FE-495D-9E56-5BD579929F15-4b2516100925fff926a8f4ab026d690c.lrprev",
-    "MEDT/FICI/Katalog/Katalog Previews.lrdata/A/A819/A8197BA5-708A-41EA-93B7-FD5126898A92-4b2516100925fff926a8f4ab026d690c.lrprev",
     "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8635.jpg",
     "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8632.jpg",
     "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8622.jpg",
@@ -235,10 +251,7 @@
     "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8563 - Kopie.jpg",
     "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8558 - Kopie.jpg",
     "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8551 - Kopie.jpg",
-    "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8536 - Kopie.jpg",
-    "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8527 - Kopie.jpg",
     "INSY/Database Performance.md",
-    "REL/April.md",
     "EN/Amelia Yap.md",
     "GGP/Untitled.md",
     "DE/DE Notizen.md",

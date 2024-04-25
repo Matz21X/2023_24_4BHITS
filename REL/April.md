@@ -40,3 +40,21 @@ Aufgaben:
 5. Abschluss: Dieser Film war mehrfach Oscar-nominiert und erhielt verschiedene Filmpreise. Warum denken Sie, erhielt der Film so viel Aufmerksamkeit?
 
 6. Wie viele Sterne würden Sie diesem Film geben und warum?
+
+
+## Sünden
+
+**Schwere Sünde**
+- 7 Todessünden
+Eine schwere Sünde ist eine Handlung, die bewusst und absichtlich gegen ein fundamentales moralisches Gebot verstößt, wie etwa Mord oder Ehebruch.
+
+**Lässliche Sünde**
+Eine lässliche Sünde ist eine geringfügige Verletzung moralischer Regeln, die jedoch nicht die gleiche Schwere oder Absichtlichkeit wie eine schwere Sünde hat, wie beispielsweise kleine Lügen oder leichte Ungeduld.
+
+**Erbsünde**
+Erbsünde bezeichnet die theologische Lehre, dass alle Menschen aufgrund der Sünde Adams und Evas von Geburt an eine verderbte menschliche Natur erben, die zur Trennung von Gott führt.
+
+
+### Satanismus
+
+>Unter den Begriff Satanismus werden **verschiedene Bewegungen zusammengefasst, die sich positiv auf Satan bzw.** **auf das gesellschaftlich als das Böse angesehene beziehen**
