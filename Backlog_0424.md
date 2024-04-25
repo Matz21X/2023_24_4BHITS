@@ -77,6 +77,6 @@
 | 24   | #SYT    | [[stare.jpg]]                                                         |                 |
 |      | #SEW    | Test zurückbekommen 88/100                                            |                 |
 |      | #MEDT   | Lightroom [[Lightroom Classic Workflow v_2.pdf]]                      |                 |
-| 25   |         |                                                                       |                 |
+| 25   | #EN     | [[American Dream Video Questions]]                                    |                 |
 
 4. GGP Test 7,8,9
