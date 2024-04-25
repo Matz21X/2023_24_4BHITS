@@ -9,4 +9,4 @@
 9. Own a business, leave the US
 10. Americans having higher wages
 11. make YouTube videos teaching
-12. a side hustle can become a business
+12. a side hustle can become a business, attend community college

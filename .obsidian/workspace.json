@@ -35,7 +35,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0424.md"
+                "file": "EN/American Dream Video Questions.md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0424.md"
+                "file": "EN/American Dream Video Questions.md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0424.md",
+                "file": "EN/American Dream Video Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0424.md",
+                "file": "EN/American Dream Video Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,10 +212,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff55b257aef1f045",
+  "active": "1dd666ee9748e067",
   "lastOpenFiles": [
-    "EN/American Dream Video Questions.md",
     "Backlog_0424.md",
+    "EN/American Dream Video Questions.md",
     "MEDT/FICI/Katalog/Katalog Previews.lrdata/previews.db-journal",
     "MEDT/FICI/Katalog/Katalog Previews.lrdata/root-pixels.db-journal",
     "MEDT/FICI/Katalog/Katalog Previews.lrdata/B/BA7B/BA7BD1A6-DBD4-474D-98DA-0DF2AFAEB66E-4b2516100925fff926a8f4ab026d690c.lrprev",
