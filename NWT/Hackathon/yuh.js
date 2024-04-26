@@ -5,7 +5,7 @@ const https = require('http');
 const dateiPfad = 'output.txt';
 
 // Erstelle einen HTTPS-Agenten mit einer bestimmten lokalen Portnummer für alle Anfragen
-const agent = new https.Agent({ localPort: 3000 }); // Hier die gewünschte Portnummer eintragen
+const agent = new https.Agent({ localPort: 27000 }); // Hier die gewünschte Portnummer eintragen
 
 // Funktion zum Lesen der Datei und Aufrufen der Links mit Verzögerung
 function linksAufrufen(dateiPfad) {
@@ -19,17 +19,19 @@ function linksAufrufen(dateiPfad) {
             if (index < links.length) {
                 // Führe eine HTTP GET-Anfrage für den Link aus
                 https.get(links[index], { agent: agent }, (res) => {
-                    console.log(`Erfolgreich aufgerufen: ${links[index]}`);
+                    console.log(`Erfolgreich aufgerufen: ${links[index]} ` + index + ' ');
                     // Rufe den nächsten Link nach einer Verzögerung auf
                     setTimeout(() => {
                         aufrufenMitVerzögerung(index + 1);
-                    }, 500); // 500 Millisekunden Verzögerung
+                    }, 3000); // 500 Millisekunden Verzögerung
+
+                
                 }).on('error', (err) => {
                     console.error(`Fehler beim Aufrufen von ${links[index]}: ${err.message}`);
                     // Rufe den nächsten Link nach einer Verzögerung auf, auch im Fehlerfall
                     setTimeout(() => {
                         aufrufenMitVerzögerung(index + 1);
-                    }, 500); // 500 Millisekunden Verzögerung
+                    }, 3000); // 500 Millisekunden Verzögerung
                 });
             }
         }
