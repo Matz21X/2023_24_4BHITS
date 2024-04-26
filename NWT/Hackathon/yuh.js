@@ -32,7 +32,7 @@ function linksAufrufen(dateiPfad) {
                             // Rufe den nächsten Link nach einer Verzögerung auf
                             setTimeout(() => {
                                 aufrufenMitVerzögerung(index + 1);
-                            }, 500); // 500 Millisekunden Verzögerung
+                            }, 1000); // 500 Millisekunden Verzögerung
                         }
                     });
                 }).on('error', (err) => {
