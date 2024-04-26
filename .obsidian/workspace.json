@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "5d41a43efa81ef5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DE/Kommentar Q&A.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1dd666ee9748e067",
             "type": "leaf",
             "state": {
@@ -48,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0424.md"
+                "file": "DE/Kommentar Q&A.md"
               }
             }
           },
@@ -143,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0424.md"
+                "file": "DE/Kommentar Q&A.md"
               }
             }
           },
@@ -169,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0424.md",
+                "file": "DE/Kommentar Q&A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0424.md",
+                "file": "DE/Kommentar Q&A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,8 +238,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff55b257aef1f045",
+  "active": "5d41a43efa81ef5e",
   "lastOpenFiles": [
+    "Backlog_0424.md",
+    "DE/Kommentar Q&A.md",
     "ITP/Theorie/53AEF000",
     "ITP/Theorie/5B4EF000",
     "ITP/Theorie/~$K5_LE2_EVA.xlsx",
@@ -236,10 +252,8 @@
     "ITP/Theorie/Klassenliste.xlsx",
     "ITP/Theorie/45B64000",
     "ITP/Theorie/~$Klassenliste.xlsx",
-    "ITP/Theorie/Namen4BHITS.csv",
     "REL/April.md",
     "A_Diplomarbeit/FlyerA4/KRAHULETZ_Logo.png",
-    "Backlog_0424.md",
     "EN/American Dream Video Questions.md",
     "A_Diplomarbeit/FlyerA4/KRAHULETZ_Logo - Kopie.png",
     "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8635.jpg",
