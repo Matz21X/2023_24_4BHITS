@@ -83,6 +83,8 @@
 |      | #AM     | Ich höre chronisch nicht zu                                           |                 |
 |      | #NW     | Bergi redet                                                           |                 |
 |      | #ITP    | Plakat                                                                |                 |
-| 26   | #AM     |                                                                       |                 |
+| 26   | #AM     | Binomialverteilung                                                    |                 |
+|      | #ITP    | [[Klassenliste.xlsx]]                                                 |                 |
+|      | #SEW    | Test zurückbekommen                                                   |                 |
 
 4. GGP Test 7,8,9
