@@ -86,5 +86,6 @@
 | 26   | #AM     | Binomialverteilung                                                    |                 |     |
 |      | #ITP    | [[Klassenliste.xlsx]]                                                 |                 |     |
 |      | #SEW    | Test zurückbekommen                                                   |                 |     |
+|      | #NW     | fideo                                                                 |                 |     |
 
 4. GGP Test 7,8,9

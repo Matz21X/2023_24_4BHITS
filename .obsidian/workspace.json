@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DE/Kommentar Q&A.md"
+                "file": "Backlog_0424.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DE/Kommentar Q&A.md"
+                "file": "Backlog_0424.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DE/Kommentar Q&A.md",
+                "file": "Backlog_0424.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DE/Kommentar Q&A.md",
+                "file": "Backlog_0424.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,11 +237,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d41a43efa81ef5e",
+  "active": "ff55b257aef1f045",
   "lastOpenFiles": [
+    "DE/Kommentar Q&A.md",
     "DE/Kommentar Q&A.pdf",
     "Backlog_0424.md",
-    "DE/Kommentar Q&A.md",
     "ITP/Theorie/53AEF000",
     "ITP/Theorie/5B4EF000",
     "ITP/Theorie/~$K5_LE2_EVA.xlsx",
@@ -252,7 +251,6 @@
     "A_Diplomarbeit/~$DA_Zeitaufzeichnung_MEDT_Hrbek.xlsx",
     "ITP/Theorie/Klassenliste.xlsx",
     "ITP/Theorie/45B64000",
-    "ITP/Theorie/~$Klassenliste.xlsx",
     "REL/April.md",
     "A_Diplomarbeit/FlyerA4/KRAHULETZ_Logo.png",
     "EN/American Dream Video Questions.md",
