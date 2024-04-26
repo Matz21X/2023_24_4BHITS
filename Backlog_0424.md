@@ -80,8 +80,8 @@
 | 25   | #EN     | [[American Dream Video Questions]]                                    |                 |
 |      | #ITP    | Organisatorisches                                                     |                 |
 |      | #RK     | Schmidi haut mich weil ich nach ihrem alter gefragt habe              |                 |
-|      | #AM     |                                                                       |                 |
-|      | #NW     |                                                                       |                 |
-|      | #ITP    |                                                                       |                 |
+|      | #AM     | Ich höre chronisch nicht zu                                           |                 |
+|      | #NW     | Bergi redet                                                           |                 |
+|      | #ITP    | Plakat                                                                |                 |
 
 4. GGP Test 7,8,9
