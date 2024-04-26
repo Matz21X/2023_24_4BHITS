@@ -78,5 +78,10 @@
 |      | #SEW    | Test zurückbekommen 88/100                                            |                 |
 |      | #MEDT   | Lightroom [[Lightroom Classic Workflow v_2.pdf]]                      |                 |
 | 25   | #EN     | [[American Dream Video Questions]]                                    |                 |
+|      | #ITP    | Organisatorisches                                                     |                 |
+|      | #RK     | Schmidi haut mich weil ich nach ihrem alter gefragt habe              |                 |
+|      | #AM     |                                                                       |                 |
+|      | #NW     |                                                                       |                 |
+|      | #ITP    |                                                                       |                 |
 
 4. GGP Test 7,8,9
