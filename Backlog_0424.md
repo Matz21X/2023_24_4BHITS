@@ -87,5 +87,7 @@
 |      | #ITP    | [[Klassenliste.xlsx]]                                                 |                 |     |
 |      | #SEW    | Test zurückbekommen                                                   |                 |     |
 |      | #NW     | fideo                                                                 |                 |     |
+|      | #ITP    | [[Klassenliste.xlsx]]                                                 |                 |     |
+|      | #NWT    |                                                                       |                 |     |
 
 4. GGP Test 7,8,9
