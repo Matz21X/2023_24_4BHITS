@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "f8aedfe67aaf3200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INSY/Wordpress install.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5d41a43efa81ef5e",
             "type": "leaf",
             "state": {
@@ -61,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0424.md"
+                "file": "INSY/Wordpress install.md"
               }
             }
           },
@@ -156,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0424.md"
+                "file": "INSY/Wordpress install.md"
               }
             }
           },
@@ -182,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0424.md",
+                "file": "INSY/Wordpress install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0424.md",
+                "file": "INSY/Wordpress install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,8 +251,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff55b257aef1f045",
+  "active": "f8aedfe67aaf3200",
   "lastOpenFiles": [
+    "Backlog_0424.md",
+    "INSY/Wordpress install.md",
     "NWT/Hackathon/node_modules/http/README.md",
     "NWT/Hackathon/node_modules/http/package.json",
     "NWT/Hackathon/node_modules/http",
@@ -252,7 +268,6 @@
     "NWT/Hackathon/package-lock.json",
     "NWT/Hackathon/yuh.js",
     "DE/Kommentar Q&A.md",
-    "Backlog_0424.md",
     "REL/April.md",
     "A_Diplomarbeit/FlyerA4/KRAHULETZ_Logo.png",
     "EN/American Dream Video Questions.md",
@@ -285,7 +300,6 @@
     "ITP/Projekte/RAH/Präsentationen/Vorbereitung.md",
     "ITP/Projekte/RAH/JavaScript.md",
     "ITP/Projekte/RAH/JavaScriptES6Template.md",
-    "SEW-Theorie/HttpClient_in_Java.md",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
