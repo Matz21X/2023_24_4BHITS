@@ -93,5 +93,8 @@
 |      | #GGP    | [[9. EU_Schüler.pdf]]                                                 |                 |     |
 |      | #EN     | Listening mit da oiden Schachtel                                      |                 |     |
 | 28   | #WIR    | Haftung                                                               |                 |     |
+|      | #NWT    | [[stare.jpg]]                                                         |                 |     |
+|      | #MEDT   | [[stare.jpg]]                                                         |                 |     |
+|      | #INSY   |                                                                       |                 |     |
 
 4. GGP Test 7,8,9
