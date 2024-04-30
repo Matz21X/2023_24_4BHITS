@@ -92,5 +92,6 @@
 | 27   | #NWT    | AES                                                                   |                 |     |
 |      | #GGP    | [[9. EU_Schüler.pdf]]                                                 |                 |     |
 |      | #EN     | Listening mit da oiden Schachtel                                      |                 |     |
+| 28   | #WIR    | Haftung                                                               |                 |     |
 
 4. GGP Test 7,8,9
