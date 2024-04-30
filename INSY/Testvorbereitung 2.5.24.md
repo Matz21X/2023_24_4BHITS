@@ -20,4 +20,7 @@
 
 <span style="color:#00b050">Unternehmer die sich freiwillig eintragen lassen, können sich jederzeit löschen lassen</span>
 
-**Grundsä**
+**Grundsätze:**
+- Was eingetragen ist <span style="color:#00b050">GILT</span>
+- Wenn etwas <span style="color:#00b050">nicht eingetragen</span> ist, dann kann sich das Unternehmen <span style="color:#00b050">nicht darauf berufen.</span>
+- Wird
