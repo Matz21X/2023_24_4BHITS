@@ -48,5 +48,15 @@
 ****
 ## Wirtschaft
 
-### Kreditoren X Debitoren
+### Kreditoren X Debitoren S. 57
 
+![[Testvorbereitung 2.5.24-20240430194034566.png|501]]
+
+<span style="color:#00b050">Kreditor:</span>
+- Muss jemandem Geld bezahlen --> <span style="color:#00b0f0">Verbindlichkeit</span>
+
+<span style="color:#00b050">Debitor:</span>
+- Fordert von jemandem Geld --> <span style="color:#00b0f0">Forderung</span>
+
+
+### Erfolgskonten
