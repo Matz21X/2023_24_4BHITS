@@ -19,4 +19,7 @@ mysql -u username -p
 CREATE DATABASE Word;
 ```
 
-****
+**Weboberfläche aufrufen:**
+`localhost/wordpress`
+
+![[Wordpress install-20240430130610249.png]]
