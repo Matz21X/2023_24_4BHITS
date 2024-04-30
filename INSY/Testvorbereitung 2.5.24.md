@@ -6,6 +6,7 @@
 - 15 Englische Begriffe zum Kapitel Buchhaltung (PDF auf Teams)
 - Wirtschaftsbuch S. 57 - 97 
 	- (Kreditoren/ Debitoren, Forderungen/ Verbindlichkeiten, Erfolgskonten; Unterschied: Einzahlung, Auszahlung, Aufwand und Ertrag; Inventur, Bewertung: Niederstwertprinzip und Höchstwertprinzip; Abschlussbuchungen: Rechnungsabgrenzung, Rückstellungen, Rücklagen, latente Steuern; Gliederung der GuV, Kennzahlen)**
+- 57, 58, 59, <span style="color:#ff0000">60</span>, 61, 62, <span style="color:#ff0000">63</span>, 64, 65, 66, 67, 68, 69, 70, 71, 72,<span style="color:#ff0000"> 73</span>, 74, 75, 76, 77, 78, 79, 80, 81, 82, <span style="color:#ff0000">83</span>, 84, <span style="color:#ff0000">85</span>, 86, 87, 88, <span style="color:#ff0000">89</span>, 90, 91, 92, 93, 94, 95, 96, <span style="color:#ff0000">97</span>.
 
 ## Firmenbuch
 
@@ -44,6 +45,8 @@
 
 ==FN-Zahl (Fortnite Zahl) = Firmenbuchnummer==
 
+****
 ## Wirtschaft
 
-##
+### Kreditoren X Debitoren
+
