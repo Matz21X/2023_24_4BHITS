@@ -88,6 +88,9 @@
 |      | #SEW    | Test zurückbekommen                                                   |                 |     |
 |      | #NW     | fideo                                                                 |                 |     |
 |      | #ITP    | [[Klassenliste.xlsx]]                                                 |                 |     |
-|      | #NWT    |                                                                       |                 |     |
+|      | #NWT    | Komische Aufgabe da mit so links und so                               |                 |     |
+| 27   | #NWT    | AES                                                                   |                 |     |
+|      | #GGP    | [[9. EU_Schüler.pdf]]                                                 |                 |     |
+|      | #EN     | Listening mit da oiden Schachtel                                      |                 |     |
 
 4. GGP Test 7,8,9
