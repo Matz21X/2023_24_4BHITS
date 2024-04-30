@@ -36,38 +36,12 @@
             }
           },
           {
-            "id": "5d41a43efa81ef5e",
+            "id": "b276c10869f1a7a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DE/Kommentar Q&A.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1dd666ee9748e067",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EN/American Dream Video Questions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87a7da8f42157a0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REL/April.md",
+                "file": "INSY/Testvorbereitung 2.5.24.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/Wordpress install.md"
+                "file": "INSY/Testvorbereitung 2.5.24.md"
               }
             }
           },
@@ -170,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/Wordpress install.md"
+                "file": "INSY/Testvorbereitung 2.5.24.md"
               }
             }
           },
@@ -196,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/Wordpress install.md",
+                "file": "INSY/Testvorbereitung 2.5.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/Wordpress install.md",
+                "file": "INSY/Testvorbereitung 2.5.24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,11 +225,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f8aedfe67aaf3200",
+  "active": "b276c10869f1a7a6",
   "lastOpenFiles": [
+    "INSY/Wordpress install.md",
+    "INSY/Testvorbereitung 2.5.24.md",
+    "REL/April.md",
+    "DE/Kommentar Q&A.md",
     "Attachments/Wordpress install-20240430130610249.png",
     "Backlog_0424.md",
-    "INSY/Wordpress install.md",
     "NWT/Hackathon/node_modules/http/README.md",
     "NWT/Hackathon/node_modules/http/package.json",
     "NWT/Hackathon/node_modules/http",
@@ -268,8 +245,6 @@
     "NWT/Hackathon/package.json",
     "NWT/Hackathon/package-lock.json",
     "NWT/Hackathon/yuh.js",
-    "DE/Kommentar Q&A.md",
-    "REL/April.md",
     "A_Diplomarbeit/FlyerA4/KRAHULETZ_Logo.png",
     "EN/American Dream Video Questions.md",
     "A_Diplomarbeit/FlyerA4/KRAHULETZ_Logo - Kopie.png",
@@ -280,7 +255,6 @@
     "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8573 - Kopie.jpg",
     "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8563 - Kopie.jpg",
     "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8558 - Kopie.jpg",
-    "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8551 - Kopie.jpg",
     "INSY/Database Performance.md",
     "EN/Amelia Yap.md",
     "GGP/Untitled.md",
