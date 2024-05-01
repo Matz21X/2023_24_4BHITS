@@ -23,19 +23,6 @@
             }
           },
           {
-            "id": "f8aedfe67aaf3200",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INSY/Wordpress install.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b276c10869f1a7a6",
             "type": "leaf",
             "state": {
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,6 +214,8 @@
   },
   "active": "b276c10869f1a7a6",
   "lastOpenFiles": [
+    "Attachments/Testvorbereitung 2.5.24-20240501121117490.png",
+    "Attachments/Testvorbereitung 2.5.24-20240501121101339.png",
     "Attachments/Testvorbereitung 2.5.24-20240430194034566.png",
     "INSY/Untitled.md",
     "INSY/Testvorbereitung 2.5.24.md",
@@ -255,8 +244,6 @@
     "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8622.jpg",
     "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8626.jpg",
     "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8573 - Kopie.jpg",
-    "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8563 - Kopie.jpg",
-    "MEDT/FICI/Emerg Day 2023_10_10  ZIP/Emerg Day 2023_10_10 SMALL-8558 - Kopie.jpg",
     "INSY/Database Performance.md",
     "EN/Amelia Yap.md",
     "GGP/Untitled.md",

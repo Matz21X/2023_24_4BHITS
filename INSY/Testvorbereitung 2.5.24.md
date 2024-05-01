@@ -59,4 +59,6 @@
 - Fordert von jemandem Geld --> <span style="color:#00b0f0">Forderung</span>
 
 
-### Erfolgskonten
+![[Testvorbereitung 2.5.24-20240501121101339.png]]
+
+![[Testvorbereitung 2.5.24-20240501121117490.png]]
