@@ -8,35 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff55b257aef1f045",
+            "id": "51b640858d99fc1a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backlog_0424.md",
+                "file": "Backlog_0524.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "4843ad508d544362",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes Wahrscheinlichkeit.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes Wahrscheinlichkeit.md"
+                "file": "Backlog_0524.md"
               }
             }
           },
@@ -131,7 +117,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes Wahrscheinlichkeit.md"
+                "file": "Backlog_0524.md"
               }
             }
           },
@@ -157,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes Wahrscheinlichkeit.md",
+                "file": "Backlog_0524.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes Wahrscheinlichkeit.md",
+                "file": "Backlog_0524.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,11 +198,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4843ad508d544362",
+  "active": "51b640858d99fc1a",
   "lastOpenFiles": [
+    "Backlog_0424.md",
+    "Backlog_0524.md",
     "Notes Wahrscheinlichkeit.md",
     "AM/binomialverteilung_aufgaben.pdf",
-    "Backlog_0424.md",
     "INSY/Testvorbereitung 2.5.24.md",
     "WIR/Wirtschaft/~WRL0005.tmp",
     "WIR/Wirtschaft/~WRD0004.tmp",
@@ -260,7 +247,6 @@
     "SEW-Theorie/RESTful Webservices.md",
     "SEW-Theorie/Dependency Injection (Pattern).md",
     "REL/Februar.md",
-    "WIR/Recht/Testvorbereitung 16.4.24.md",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
