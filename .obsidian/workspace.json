@@ -26,8 +26,13 @@
             "id": "4843ad508d544362",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes Wahrscheinlichkeit.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes Wahrscheinlichkeit.md"
+              }
             }
           },
           {
@@ -123,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Notes Wahrscheinlichkeit.md"
+              }
             }
           },
           {
@@ -148,6 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes Wahrscheinlichkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,6 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes Wahrscheinlichkeit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,6 +214,7 @@
   },
   "active": "4843ad508d544362",
   "lastOpenFiles": [
+    "Notes Wahrscheinlichkeit.md",
     "AM/binomialverteilung_aufgaben.pdf",
     "Backlog_0424.md",
     "INSY/Testvorbereitung 2.5.24.md",
@@ -226,7 +238,6 @@
     "NWT/Hackathon/node_modules/https/package.json",
     "NWT/Hackathon/node_modules/https",
     "NWT/Hackathon/node_modules/fs/README.md",
-    "NWT/Hackathon/node_modules/fs/package.json",
     "A_Diplomarbeit/FlyerA4/KRAHULETZ_Logo.png",
     "EN/American Dream Video Questions.md",
     "A_Diplomarbeit/FlyerA4/KRAHULETZ_Logo - Kopie.png",
