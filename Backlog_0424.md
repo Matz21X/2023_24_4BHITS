@@ -95,6 +95,7 @@
 | 28   | #WIR    | Haftung                                                               |                 |     |
 |      | #NWT    | [[stare.jpg]]                                                         |                 |     |
 |      | #MEDT   | [[stare.jpg]]                                                         |                 |     |
-|      | #INSY   |                                                                       |                 |     |
+|      | #INSY   | [[Wordpress install]]                                                 |                 |     |
+| 29   |         |                                                                       |                 |     |
 
 4. GGP Test 7,8,9

@@ -23,16 +23,11 @@
             }
           },
           {
-            "id": "b276c10869f1a7a6",
+            "id": "4843ad508d544362",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INSY/Testvorbereitung 2.5.24.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -112,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "INSY/Testvorbereitung 2.5.24.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "INSY/Testvorbereitung 2.5.24.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,7 +148,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/Testvorbereitung 2.5.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +164,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/Testvorbereitung 2.5.24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,8 +201,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b276c10869f1a7a6",
+  "active": "4843ad508d544362",
   "lastOpenFiles": [
+    "AM/binomialverteilung_aufgaben.pdf",
+    "Backlog_0424.md",
+    "INSY/Testvorbereitung 2.5.24.md",
     "WIR/Wirtschaft/~WRL0005.tmp",
     "WIR/Wirtschaft/~WRD0004.tmp",
     "WIR/Wirtschaft/Solution_chapter4_accounting_termsanddefinitions.pdf",
@@ -224,12 +216,10 @@
     "Attachments/Testvorbereitung 2.5.24-20240501121101339.png",
     "Attachments/Testvorbereitung 2.5.24-20240430194034566.png",
     "INSY/Untitled.md",
-    "INSY/Testvorbereitung 2.5.24.md",
     "INSY/Wordpress install.md",
     "REL/April.md",
     "DE/Kommentar Q&A.md",
     "Attachments/Wordpress install-20240430130610249.png",
-    "Backlog_0424.md",
     "NWT/Hackathon/node_modules/http/README.md",
     "NWT/Hackathon/node_modules/http/package.json",
     "NWT/Hackathon/node_modules/http",
@@ -237,7 +227,6 @@
     "NWT/Hackathon/node_modules/https",
     "NWT/Hackathon/node_modules/fs/README.md",
     "NWT/Hackathon/node_modules/fs/package.json",
-    "NWT/Hackathon/node_modules/fs",
     "A_Diplomarbeit/FlyerA4/KRAHULETZ_Logo.png",
     "EN/American Dream Video Questions.md",
     "A_Diplomarbeit/FlyerA4/KRAHULETZ_Logo - Kopie.png",
