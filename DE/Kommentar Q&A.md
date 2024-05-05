@@ -1,6 +1,8 @@
 # Kommentar
 #DE #ELLM 
 
+By: Hrbek, Pollak, Thienel
+
 1. **Was ist ein Kommentar?** 
 	1. a) Eine kurze Nachricht
 	2. b) Eine persönliche Meinungsäußerung zu einem Thema 
