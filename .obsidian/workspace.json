@@ -21,8 +21,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "7a5cd0e43b353cd7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "GGP/9. EU_Schüler.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0524.md"
+                "file": "GGP/9. EU_Schüler.pdf"
               }
             }
           },
@@ -117,7 +128,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0524.md"
+                "file": "GGP/9. EU_Schüler.pdf"
               }
             }
           },
@@ -143,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0524.md",
+                "file": "GGP/9. EU_Schüler.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0524.md",
+                "file": "GGP/9. EU_Schüler.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,8 +209,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d3e1035321389423",
+  "active": "7a5cd0e43b353cd7",
   "lastOpenFiles": [
+    "Backlog_0524.md",
     "Backlog_0424.md",
     "INSY/Testvorbereitung 2.5.24.md",
     "WIR/Wirtschaft/~$020524.docx",
