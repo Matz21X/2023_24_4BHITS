@@ -8,35 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff55b257aef1f045",
+            "id": "d3e1035321389423",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backlog_0424.md",
+                "file": "Backlog_0524.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b276c10869f1a7a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INSY/Testvorbereitung 2.5.24.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/Testvorbereitung 2.5.24.md"
+                "file": "Backlog_0524.md"
               }
             }
           },
@@ -131,7 +117,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/Testvorbereitung 2.5.24.md"
+                "file": "Backlog_0524.md"
               }
             }
           },
@@ -157,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/Testvorbereitung 2.5.24.md",
+                "file": "Backlog_0524.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/Testvorbereitung 2.5.24.md",
+                "file": "Backlog_0524.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,8 +198,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b276c10869f1a7a6",
+  "active": "d3e1035321389423",
   "lastOpenFiles": [
+    "Backlog_0424.md",
+    "INSY/Testvorbereitung 2.5.24.md",
     "WIR/Wirtschaft/~$020524.docx",
     "WIR/Wirtschaft/~WRL0005.tmp",
     "WIR/Wirtschaft/~WRD0004.tmp",
@@ -224,12 +212,10 @@
     "Attachments/Testvorbereitung 2.5.24-20240501121101339.png",
     "Attachments/Testvorbereitung 2.5.24-20240430194034566.png",
     "INSY/Untitled.md",
-    "INSY/Testvorbereitung 2.5.24.md",
     "INSY/Wordpress install.md",
     "REL/April.md",
     "DE/Kommentar Q&A.md",
     "Attachments/Wordpress install-20240430130610249.png",
-    "Backlog_0424.md",
     "NWT/Hackathon/node_modules/http/README.md",
     "NWT/Hackathon/node_modules/http/package.json",
     "NWT/Hackathon/node_modules/http",
@@ -237,7 +223,6 @@
     "NWT/Hackathon/node_modules/https",
     "NWT/Hackathon/node_modules/fs/README.md",
     "NWT/Hackathon/node_modules/fs/package.json",
-    "NWT/Hackathon/node_modules/fs",
     "A_Diplomarbeit/FlyerA4/KRAHULETZ_Logo.png",
     "EN/American Dream Video Questions.md",
     "A_Diplomarbeit/FlyerA4/KRAHULETZ_Logo - Kopie.png",
