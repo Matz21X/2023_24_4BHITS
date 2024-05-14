@@ -8,7 +8,7 @@
 WebServer myWebServer( 80 );
 
 void handleRoot( ) {
-  myWebServer.send( 200, "text/html", "<form action=\"blupp.html\" method=\"POST\"><input name=\"ananas\" type=\"text\"><br><input type=\"submit\"></form>");
+  myWebServer.send( 200, "text/html", "<h1>Josh</h1>");
 }
 void handleBlupp( ) {
   Serial.println( myWebServer.arg( "ananas" ) );
