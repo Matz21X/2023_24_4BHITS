@@ -11,6 +11,7 @@ Zip-File entpacken in `C:\xampp\htdocs`
 ```bash
 mysql -u root
 CREATE USER 'username'@'localhost' IDENTIFIED BY 'password';
+# CREATE USER 'cms'@'localhost' IDENTIFIED BY 'w0rdpress';
 GRANT ALL PRIVILEGES ON . TO 'username'@'localhost';
 
 # Mit User anmelden
