@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INSY/Wordpress install.md",
+                "file": "ITP/Theorie/Netzplan.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/Wordpress install.md"
+                "file": "ITP/Theorie/Netzplan.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/Wordpress install.md"
+                "file": "ITP/Theorie/Netzplan.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/Wordpress install.md",
+                "file": "ITP/Theorie/Netzplan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/Wordpress install.md",
+                "file": "ITP/Theorie/Netzplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,6 +224,7 @@
   },
   "active": "4b9d7979e3e14b7d",
   "lastOpenFiles": [
+    "INSY/Wordpress install.md",
     "INSY/Wordpress install.pdf",
     "Backlog_0524.md",
     "GGP/9. EU_Schüler.pdf",
@@ -239,7 +240,6 @@
     "Attachments/Testvorbereitung 2.5.24-20240501121101339.png",
     "Attachments/Testvorbereitung 2.5.24-20240430194034566.png",
     "INSY/Untitled.md",
-    "INSY/Wordpress install.md",
     "REL/April.md",
     "DE/Kommentar Q&A.md",
     "Attachments/Wordpress install-20240430130610249.png",
@@ -247,7 +247,6 @@
     "NWT/Hackathon/node_modules/http/package.json",
     "NWT/Hackathon/node_modules/http",
     "NWT/Hackathon/node_modules/https/package.json",
-    "NWT/Hackathon/node_modules/https",
     "NWT/Hackathon/node_modules/fs/README.md",
     "A_Diplomarbeit/FlyerA4/KRAHULETZ_Logo.png",
     "EN/American Dream Video Questions.md",
