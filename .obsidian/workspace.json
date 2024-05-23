@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEW-Theorie/O-Notation.md",
+                "file": "ITP/Theorie/Netzplan.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/O-Notation.md"
+                "file": "ITP/Theorie/Netzplan.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SEW-Theorie/O-Notation.md"
+                "file": "ITP/Theorie/Netzplan.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/O-Notation.md",
+                "file": "ITP/Theorie/Netzplan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/O-Notation.md",
+                "file": "ITP/Theorie/Netzplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +239,9 @@
   },
   "active": "6e899a3266926611",
   "lastOpenFiles": [
+    "A_Diplomarbeit/D2F0D100",
     "SEW-Theorie/O-Notation.md",
+    "A_Diplomarbeit/~$DA_Zeitaufzeichnung_MEDT_Hrbek.xlsx",
     "ITP/Theorie/Netzplan.md",
     "ITP/Theorie/~$K5_LE2_EVA.xlsx",
     "INSY/Wordpress install.md",
@@ -263,7 +265,6 @@
     "Attachments/Wordpress install-20240430130610249.png",
     "NWT/Hackathon/node_modules/http/README.md",
     "NWT/Hackathon/node_modules/http/package.json",
-    "NWT/Hackathon/node_modules/http",
     "NWT/Hackathon/node_modules/fs/README.md",
     "A_Diplomarbeit/FlyerA4/KRAHULETZ_Logo.png",
     "EN/American Dream Video Questions.md",
@@ -285,7 +286,6 @@
     "SEW-Theorie/Untitled.md",
     "SYT/Timing Arduino.md",
     "SEW-Theorie/RESTful Webservices.md",
-    "SEW-Theorie/Dependency Injection (Pattern).md",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
     "Untitled(2).canvas"
