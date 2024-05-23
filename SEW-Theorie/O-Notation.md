@@ -16,4 +16,6 @@ Die Laufzeit bei diesen Algorithmen steigt linear (proportional) mit der Eingabe
 Die Laufzeit bei diesen Algorithmen steigt proportional mit einem Polynom das quadratische (m<sup>2</sup>), kubische (m<sup>3</sup>), usw... Glieder erhalten kann.
 
 **Algorithmen mit exponentieller Laufzeit O(k<sup>n</sup>)**
-Diese 
+Diese Algorithmen weisen die längsten Laufzeiten auf, da diese exponentiell mit der Eingabegröße steigen.
+
+### Anschauliche Beispiele zu diesem Thema finden Sie im Projekt
