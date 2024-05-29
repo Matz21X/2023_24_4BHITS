@@ -57,7 +57,7 @@ void reconnect() {
 }
 
 void setup() {
-  Serial.begin(115200);
+  Serial.begin(9600);
   setup_wifi();
   client.setServer(mqtt_server, mqtt_port);
   sensors.begin();
@@ -80,5 +80,5 @@ void loop() {
 
   client.publish(mqtt_topic, tempString);
   
-  delay(5000);  // Wartezeit zwischen den Messungen
+  delay(10000);  // Wartezeit zwischen den Messungen
 }
