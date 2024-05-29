@@ -87,6 +87,7 @@ void loop() {
   String tempStr = String(currentTemp);
   tempStr = "ESP-17;" + tempStr;
   mqttClient.publish(TEMPERATURE_TOPIC, tempStr.c_str());
+  Serial.println(tempStr.c_str());
  
   // Fetch and display temperature from the other Arduino
   delay(20000);
