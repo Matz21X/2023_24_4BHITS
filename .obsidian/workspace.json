@@ -71,8 +71,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/CMS-Website and CMS-PHP-Site.md"
+                "file": "Backlog_0524.md"
               }
             }
           },
@@ -168,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/CMS-Website and CMS-PHP-Site.md"
+                "file": "Backlog_0524.md"
               }
             }
           },
@@ -194,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/CMS-Website and CMS-PHP-Site.md",
+                "file": "Backlog_0524.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/CMS-Website and CMS-PHP-Site.md",
+                "file": "Backlog_0524.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,15 +249,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b768d3f47ed85bf7",
+  "active": "d3e1035321389423",
   "lastOpenFiles": [
+    "INSY/CMS-Website and CMS-PHP-Site.md",
     "Attachments/CMS-Website and CMS-PHP-Site-20240527190311721.png",
     "Attachments/CMS-Website and CMS-PHP-Site-20240527190112993.png",
     "Attachments/CMS-Website and CMS-PHP-Site-20240527185745109.png",
     "Attachments/CMS-Website and CMS-PHP-Site-20240527185250715.png",
     "Attachments/CMS-Website and CMS-PHP-Site-20240527184147490.png",
     "INSY/PDF EXPORTS/CMS-Website and CMS-PHP-Site.pdf",
-    "INSY/CMS-Website and CMS-PHP-Site.md",
     "ITP/Theorie/Netzplan.md",
     "A_Diplomarbeit/D2F0D100",
     "SEW-Theorie/O-Notation.md",
@@ -284,7 +283,6 @@
     "Attachments/Wordpress install-20240430130610249.png",
     "NWT/Hackathon/node_modules/http/README.md",
     "NWT/Hackathon/node_modules/fs/README.md",
-    "A_Diplomarbeit/FlyerA4/KRAHULETZ_Logo.png",
     "EN/American Dream Video Questions.md",
     "INSY/Database Performance.md",
     "EN/Amelia Yap.md",
