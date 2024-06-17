@@ -39,3 +39,28 @@ systemctl status mssql-server --no-pager
 
 
 6. **Wenn Sie eine Remoteverbindung planen, müssen Sie möglicherweise auch den SQL Server-TCP-Port (standardmäßig 1433) in Ihrer Firewall öffnen.**
+
+
+## 2. Client Applikationen
+
+### GUI Tools
+
+**Linux:**
+<span style="color:#00b050">DBeaver</span>
+![[MSSQL Projekt-20240617184729567.png]]
+
+**Windows:**
+<span style="color:#00b050">DataGrip</span>
+
+![[MSSQL Projekt-20240617184844059.png]]
+
+
+### CLI-Tools
+
+**Windows:** mssql-cli
+
+```bash
+python -m pip install mssql-cli
+```
+
+**Linux**
