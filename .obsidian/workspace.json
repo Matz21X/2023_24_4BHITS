@@ -70,9 +70,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e4e6cd320ca2067",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -250,7 +260,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "493f02d448b69681",
+  "active": "6e4e6cd320ca2067",
   "lastOpenFiles": [
     "Allgemein/1. Letzte Woche Montag Ausstellungs.txt",
     "SYT/MQTT.md",
