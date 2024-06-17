@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/MSSQL Projekt.md"
+                "file": "INSY/MSSQL Aufgabe.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/MSSQL Projekt.md"
+                "file": "INSY/MSSQL Aufgabe.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/MSSQL Projekt.md",
+                "file": "INSY/MSSQL Aufgabe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/MSSQL Projekt.md",
+                "file": "INSY/MSSQL Aufgabe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,10 +225,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e44b5ad24ef2e2ec",
+  "active": "ad9770c2d63afe9c",
   "lastOpenFiles": [
-    "INSY/MSSQL Aufgabe.md",
+    "INSY/PDF EXPORTS/MSSQLAufgaben.pdf",
     "INSY/MSSQL Projekt.md",
+    "INSY/PDF EXPORTS/MSSQLDokumentation.pdf",
+    "INSY/MSSQL Aufgabe.md",
+    "Attachments/MSSQL Projekt-20240617212501925.png",
+    "Attachments/MSSQL Projekt-20240617212302109.png",
+    "Attachments/MSSQL Projekt-20240617212245929.png",
     "Backlog_0524.md",
     "GGP/9. EU_Schüler.pdf",
     "Attachments/MSSQL Projekt-20240617184844059.png",
@@ -243,7 +248,6 @@
     "SYT/Arduino-Code/NodeRED/lib",
     "SYT/Arduino-Code/NodeRED/include/README",
     "SYT/Arduino-Code/NodeRED/include",
-    "SYT/Arduino-Code/NodeRED/src",
     "INSY/CMS-Website and CMS-PHP-Site.md",
     "Attachments/CMS-Website and CMS-PHP-Site-20240527190311721.png",
     "Attachments/CMS-Website and CMS-PHP-Site-20240527190112993.png",
@@ -255,9 +259,6 @@
     "INSY/Wordpress install.md",
     "Backlog_0424.md",
     "INSY/Testvorbereitung 2.5.24.md",
-    "Attachments/Testvorbereitung 2.5.24-20240501155233799.png",
-    "Attachments/Testvorbereitung 2.5.24-20240501121117490.png",
-    "Attachments/Testvorbereitung 2.5.24-20240501121101339.png",
     "REL/April.md",
     "DE/Kommentar Q&A.md",
     "NWT/Hackathon/node_modules/http/README.md",

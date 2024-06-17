@@ -47,7 +47,7 @@ systemctl status mssql-server --no-pager
 
 **Linux:**
 <span style="color:#00b050">DBeaver</span>
-![[MSSQL Projekt-20240617184729567.png]]
+![[MSSQL Projekt-20240617212302109.png]]
 
 **Windows:**
 <span style="color:#00b050">DataGrip</span>
@@ -68,9 +68,12 @@ python -m pip install mssql-cli
 
 ## 3. Konvertierung
 
-Ich bin gescheitert 😢😢😢
+(Es war ein Krampf)
 
-Ich habe versucht: 
-- https://www.sqlines.com/ SQL File Konvertierung
-- https://learn.microsoft.com/en-us/sql/sql-server/migrate/guides/mysql-to-sql-server?view=sql-server-ver16
-	- MySQL to MSSQL migration with (SSMA for MySQL)
+**SQL Migration Assistant for MySQL**
+
+![[MSSQL Projekt-20240617212501925.png]]
+
+- Daten in MySQL Datenbank hineingeladen
+- Mit Tool in MSSQL Datenbank migriert
+
