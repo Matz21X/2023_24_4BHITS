@@ -63,4 +63,14 @@ systemctl status mssql-server --no-pager
 python -m pip install mssql-cli
 ```
 
-**Linux**
+**Linux:** sqlcmd
+
+
+## 3. Konvertierung
+
+Ich bin gescheitert 😢😢😢
+
+Ich habe versucht: 
+- https://www.sqlines.com/ SQL File Konvertierung
+- https://learn.microsoft.com/en-us/sql/sql-server/migrate/guides/mysql-to-sql-server?view=sql-server-ver16
+	- MySQL to MSSQL migration with (SSMA for MySQL)
