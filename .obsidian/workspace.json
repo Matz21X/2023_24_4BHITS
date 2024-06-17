@@ -23,65 +23,6 @@
             }
           },
           {
-            "id": "7a5cd0e43b353cd7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "GGP/9. EU_Schüler.pdf"
-              }
-            }
-          },
-          {
-            "id": "4b9d7979e3e14b7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITP/Theorie/Netzplan.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e899a3266926611",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ITP/Theorie/Netzplan.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "493f02d448b69681",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A_Diplomarbeit/Fragenkatalog.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e4e6cd320ca2067",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
             "id": "e44b5ad24ef2e2ec",
             "type": "leaf",
             "state": {
@@ -108,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dace42f5e87bd3de",
@@ -289,6 +229,8 @@
   "lastOpenFiles": [
     "INSY/MSSQL Aufgabe.md",
     "INSY/MSSQL Projekt.md",
+    "Backlog_0524.md",
+    "GGP/9. EU_Schüler.pdf",
     "Attachments/MSSQL Projekt-20240617184844059.png",
     "Attachments/MSSQL Projekt-20240617184729567.png",
     "Allgemein/1. Letzte Woche Montag Ausstellungs.txt",
@@ -302,8 +244,6 @@
     "SYT/Arduino-Code/NodeRED/include/README",
     "SYT/Arduino-Code/NodeRED/include",
     "SYT/Arduino-Code/NodeRED/src",
-    "SYT/Arduino-Code/NodeRED/platformio.ini",
-    "Backlog_0524.md",
     "INSY/CMS-Website and CMS-PHP-Site.md",
     "Attachments/CMS-Website and CMS-PHP-Site-20240527190311721.png",
     "Attachments/CMS-Website and CMS-PHP-Site-20240527190112993.png",
