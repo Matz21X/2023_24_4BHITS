@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSY/MSSQL Aufgabe.md"
+                "file": "INSY/MSSQL Projekt.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "INSY/MSSQL Aufgabe.md"
+                "file": "INSY/MSSQL Projekt.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/MSSQL Aufgabe.md",
+                "file": "INSY/MSSQL Projekt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/MSSQL Aufgabe.md",
+                "file": "INSY/MSSQL Projekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,12 +225,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad9770c2d63afe9c",
+  "active": "e44b5ad24ef2e2ec",
   "lastOpenFiles": [
-    "INSY/PDF EXPORTS/MSSQLAufgaben.pdf",
-    "INSY/MSSQL Projekt.md",
-    "INSY/PDF EXPORTS/MSSQLDokumentation.pdf",
     "INSY/MSSQL Aufgabe.md",
+    "INSY/MSSQL Projekt.md",
+    "INSY/PDF EXPORTS/MSSQLAufgaben.pdf",
+    "INSY/PDF EXPORTS/MSSQLDokumentation.pdf",
     "Attachments/MSSQL Projekt-20240617212501925.png",
     "Attachments/MSSQL Projekt-20240617212302109.png",
     "Attachments/MSSQL Projekt-20240617212245929.png",
@@ -247,7 +247,6 @@
     "SYT/Arduino-Code/NodeRED/lib/README",
     "SYT/Arduino-Code/NodeRED/lib",
     "SYT/Arduino-Code/NodeRED/include/README",
-    "SYT/Arduino-Code/NodeRED/include",
     "INSY/CMS-Website and CMS-PHP-Site.md",
     "Attachments/CMS-Website and CMS-PHP-Site-20240527190311721.png",
     "Attachments/CMS-Website and CMS-PHP-Site-20240527190112993.png",
