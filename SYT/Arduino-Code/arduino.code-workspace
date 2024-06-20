@@ -62,6 +62,10 @@
 		{
 			"name": "NodeRED",
 			"path": "NodeRED"
+		},
+		{
+			"name": "WasserTemp",
+			"path": "../../../PlatformIO/Projects/WasserTemp"
 		}
 	],
 	"settings": {}
