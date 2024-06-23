@@ -66,6 +66,14 @@
 		{
 			"name": "WasserTemp",
 			"path": "../../../PlatformIO/Projects/WasserTemp"
+		},
+		{
+			"name": "WaterLevel",
+			"path": "../../../PlatformIO/Projects/WaterLevel"
+		},
+		{
+			"name": "PowerMon",
+			"path": "../../../PlatformIO/Projects/PowerMon"
 		}
 	],
 	"settings": {}
