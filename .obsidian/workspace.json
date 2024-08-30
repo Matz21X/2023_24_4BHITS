@@ -36,6 +36,36 @@
             }
           },
           {
+            "id": "be5e3b93bb94a61e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
+            "id": "a47f3d26b7816861",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
+            "id": "2d17fe83eed8cb06",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "ad9770c2d63afe9c",
             "type": "leaf",
             "state": {
@@ -49,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -225,7 +255,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e44b5ad24ef2e2ec",
+  "active": "2d17fe83eed8cb06",
   "lastOpenFiles": [
     "INSY/insy-mongodb-project (2).zip",
     "INSY/MSSQL Aufgabe.md",

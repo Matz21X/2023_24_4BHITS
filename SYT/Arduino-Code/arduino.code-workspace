@@ -74,6 +74,25 @@
 		{
 			"name": "PowerMon",
 			"path": "../../../PlatformIO/Projects/PowerMon"
+		},
+		{
+			"name": "PT100",
+			"path": "PT100"
+		},
+		{
+			"name": "TempDisplay",
+			"path": "TempDisplay"
+		},
+		{
+			"path": "PowerMon"
+		},
+		{
+			"name": "Display Power",
+			"path": "Display Power"
+		},
+		{
+			"name": "Display",
+			"path": "../../../PlatformIO/Projects/Display"
 		}
 	],
 	"settings": {}

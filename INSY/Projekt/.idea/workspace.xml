@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1bd7bee-6a60-4df9-8d76-d323cbc31afb" name="Changes" comment="" />
+    <list default="true" id="a1bd7bee-6a60-4df9-8d76-d323cbc31afb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SYT/Arduino-Code/Webserver/.vscode/extensions.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../SYT/Arduino-Code/Webserver/.vscode/extensions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SYT/Arduino-Code/arduino.code-workspace" beforeDir="false" afterPath="$PROJECT_DIR$/../../SYT/Arduino-Code/arduino.code-workspace" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SYT/Arduino-Code/flashing/.vscode/extensions.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../SYT/Arduino-Code/flashing/.vscode/extensions.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -38,6 +45,12 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "mongo"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
