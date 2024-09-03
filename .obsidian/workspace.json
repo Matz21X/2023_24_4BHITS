@@ -54,32 +54,9 @@
                 "currentVersion": "1.6.5"
               }
             }
-          },
-          {
-            "id": "2d17fe83eed8cb06",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
-            "id": "ad9770c2d63afe9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INSY/MSSQL Aufgabe.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -155,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "INSY/MSSQL Projekt.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "INSY/MSSQL Projekt.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,7 +173,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSY/MSSQL Projekt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +189,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSY/MSSQL Projekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,10 +226,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2d17fe83eed8cb06",
+  "active": "a47f3d26b7816861",
   "lastOpenFiles": [
-    "INSY/insy-mongodb-project (2).zip",
     "INSY/MSSQL Aufgabe.md",
+    "INSY/insy-mongodb-project (2).zip",
     "Backlog_0524.md",
     "INSY/MSSQL Projekt.md",
     "INSY/PDF EXPORTS/MSSQLAufgaben.pdf",
@@ -277,7 +248,6 @@
     "SYT/Arduino-Code/NodeRED/test",
     "SYT/Arduino-Code/NodeRED/lib/README",
     "SYT/Arduino-Code/NodeRED/lib",
-    "SYT/Arduino-Code/NodeRED/include/README",
     "INSY/CMS-Website and CMS-PHP-Site.md",
     "Attachments/CMS-Website and CMS-PHP-Site-20240527190311721.png",
     "Attachments/CMS-Website and CMS-PHP-Site-20240527190112993.png",
