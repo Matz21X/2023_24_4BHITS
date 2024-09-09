@@ -51,10 +51,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "DE/Muendliche Pruefung Vorb.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "DE/Muendliche Pruefung Vorb.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Backlog_0124.md"
+                "file": "DE/Muendliche Pruefung Vorb.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "DE/Muendliche Pruefung Vorb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0124.md",
+                "file": "DE/Muendliche Pruefung Vorb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,8 +235,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1cb03b33a7d44c5",
+  "active": "a47f3d26b7816861",
   "lastOpenFiles": [
+    "DE/Kommentar Q&A.md",
+    "DE/Deutungshypothese Ausländer.md",
+    "DE/DE Notizen.md",
+    "DE/DasBrot.md",
+    "DE/DeutschMuendlich/stilmittel/Seite23.jpeg",
+    "Backlog_0124.md",
     "INSY/MSSQL Aufgabe.md",
     "INSY/insy-mongodb-project (2).zip",
     "Backlog_0524.md",
@@ -262,26 +268,21 @@
     "Attachments/CMS-Website and CMS-PHP-Site-20240527190112993.png",
     "Attachments/CMS-Website and CMS-PHP-Site-20240527185745109.png",
     "Attachments/CMS-Website and CMS-PHP-Site-20240527185250715.png",
-    "Attachments/CMS-Website and CMS-PHP-Site-20240527184147490.png",
     "ITP/Theorie/Netzplan.md",
     "SEW-Theorie/O-Notation.md",
     "INSY/Wordpress install.md",
     "Backlog_0424.md",
     "INSY/Testvorbereitung 2.5.24.md",
     "REL/April.md",
-    "DE/Kommentar Q&A.md",
     "NWT/Hackathon/node_modules/http/README.md",
     "NWT/Hackathon/node_modules/fs/README.md",
     "EN/American Dream Video Questions.md",
     "INSY/Database Performance.md",
     "EN/Amelia Yap.md",
     "GGP/Untitled.md",
-    "DE/DE Notizen.md",
     "SEW-Theorie/BuilderPattern.md",
     "SEW-Theorie/Datenstrukturen.md",
     "SEW-Theorie/Singleton (Pattern).md",
-    "SEW-Theorie/Immutable Objects.md",
-    "SEW-Theorie/O-AUTH.md",
     "WIR/Wirtschaft/Kennzahlen.canvas",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
