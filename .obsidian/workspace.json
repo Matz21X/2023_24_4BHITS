@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DE/Muendliche Pruefung Vorb.md",
+                "file": "GGP/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DE/Muendliche Pruefung Vorb.md"
+                "file": "GGP/Untitled.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DE/Muendliche Pruefung Vorb.md"
+                "file": "GGP/Untitled.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DE/Muendliche Pruefung Vorb.md",
+                "file": "GGP/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DE/Muendliche Pruefung Vorb.md",
+                "file": "GGP/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,6 +237,7 @@
   },
   "active": "a47f3d26b7816861",
   "lastOpenFiles": [
+    "DE/Muendliche Pruefung Vorb.md",
     "DE/Kommentar Q&A.md",
     "DE/Deutungshypothese Ausländer.md",
     "DE/DE Notizen.md",
@@ -282,7 +283,6 @@
     "GGP/Untitled.md",
     "SEW-Theorie/BuilderPattern.md",
     "SEW-Theorie/Datenstrukturen.md",
-    "SEW-Theorie/Singleton (Pattern).md",
     "WIR/Wirtschaft/Kennzahlen.canvas",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
