@@ -21,42 +21,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "e44b5ad24ef2e2ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INSY/MSSQL Projekt.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be5e3b93bb94a61e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
-            "id": "a47f3d26b7816861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GGP/Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
           }
         ]
       }
@@ -236,18 +200,12 @@
   },
   "active": "d3e1035321389423",
   "lastOpenFiles": [
-    "GGP/Untitled.md",
-    "DE/Muendliche Pruefung Vorb.md",
-    "DE/Kommentar Q&A.md",
-    "DE/Deutungshypothese Ausländer.md",
-    "DE/DE Notizen.md",
-    "DE/DasBrot.md",
-    "DE/DeutschMuendlich/stilmittel/Seite23.jpeg",
+    "ITP/Projekte/STO/JuiceShop Setup.md",
+    "Backlog_0524.md",
+    "INSY/MSSQL Projekt.md",
     "Backlog_0124.md",
     "INSY/MSSQL Aufgabe.md",
     "INSY/insy-mongodb-project (2).zip",
-    "Backlog_0524.md",
-    "INSY/MSSQL Projekt.md",
     "INSY/PDF EXPORTS/MSSQLAufgaben.pdf",
     "INSY/PDF EXPORTS/MSSQLDokumentation.pdf",
     "Attachments/MSSQL Projekt-20240617212501925.png",
@@ -269,19 +227,25 @@
     "Attachments/CMS-Website and CMS-PHP-Site-20240527190112993.png",
     "Attachments/CMS-Website and CMS-PHP-Site-20240527185745109.png",
     "Attachments/CMS-Website and CMS-PHP-Site-20240527185250715.png",
+    "Attachments/CMS-Website and CMS-PHP-Site-20240527184147490.png",
     "ITP/Theorie/Netzplan.md",
     "SEW-Theorie/O-Notation.md",
     "INSY/Wordpress install.md",
     "Backlog_0424.md",
     "INSY/Testvorbereitung 2.5.24.md",
     "REL/April.md",
+    "DE/Kommentar Q&A.md",
     "NWT/Hackathon/node_modules/http/README.md",
     "NWT/Hackathon/node_modules/fs/README.md",
     "EN/American Dream Video Questions.md",
     "INSY/Database Performance.md",
     "EN/Amelia Yap.md",
+    "GGP/Untitled.md",
+    "DE/DE Notizen.md",
     "SEW-Theorie/BuilderPattern.md",
     "SEW-Theorie/Datenstrukturen.md",
+    "SEW-Theorie/Singleton (Pattern).md",
+    "SEW-Theorie/Immutable Objects.md",
     "WIR/Wirtschaft/Kennzahlen.canvas",
     "NWT/MitM.canvas",
     "Untitled-xmg-maz.canvas",
